@@ -1,0 +1,225 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <!DOCTYPE html>
+<html lang="ko">
+	<head>
+		
+		<title>Fly, better fly_ Jin Air</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+		
+		<link rel="stylesheet" href="//images.jinair.com/css/default.css"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/common.css"/>
+
+		
+			
+				
+				
+					<link rel="stylesheet" href="//images.jinair.com/css/font.css"/>
+				
+			
+		
+
+		<link rel="stylesheet" href="//images.jinair.com/css/popup.css"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/tablet.css" media="all and (max-width:1024px)">
+		<link rel="stylesheet" href="//images.jinair.com/css/mobile.css" media="all and (max-width:640px)">
+
+		
+
+		
+		
+		<script type="text/javascript">
+			document.domain			= 'localhost';
+
+			
+			var	globalImageServer	= 'images.jinair.com';
+			var	globalLoginYn		= ('Y' == 'Y') ? 'Y' : 'N';
+			
+
+			var __global__ = __global__ || {};
+			__global__ = {
+				
+				imageServer: 'images.jinair.com',
+				loginYn: 'Y',
+				accessChannel: '',
+				csrfHeader: 'X-CSRF-TOKEN',
+				csrfToken: 'a2cee406-10fa-4986-8822-a79adc57cdce',
+				isMobile: false,
+				isApp: false,
+				isLoggedIn: true,
+				login: {
+					isLoggedIn: true,
+					type: 'normal'
+				},
+				user: {
+					number: 'GPR1987133',
+					gender: 'M',
+					age: '29',
+					nationality: 'KOR',
+					level: ''
+				}
+			};
+
+			
+			check_isiFrame = true;
+		</script>
+
+		
+
+
+<script>
+(function(w,d,s,uri,fn){
+	w[fn] = w[fn] || function(){ var c = {}; c.uri = arguments[0]; c.trackId = arguments[1]; c.opt = arguments[2]; (w[fn].l=w[fn].l||[]).push(c); }; var o = d.createElement(s); var p = d.getElementsByTagName(s)[0]; o.async = 1; o.src = uri; p.parentNode.insertBefore(o,p);
+})(window,document,'script','../js/apm/appinsightor.min.js','ne');
+ne('https://eum.jinair.com/ne.nfl','prd01',{
+	xhr: {use: true},
+	onerror:true,
+	E2E: {
+		use: true,
+		n$apm: '15474568520024|SS!12751@221:1641823884062'
+	},
+	session:{type:'cookie',value:'JSESSIONID'}
+});
+</script>
+
+
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.cycle.all.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.mousewheel.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ui.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/swiper.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/iscroll.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-efuSlider.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ieSlide.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.plugin.js"></script>
+
+		<script type="text/javascript" src="../js/hom/lib/front/xml2json.min.js"></script>
+		<script type="text/javascript" src="../js/hom/lib/front/jquery.i18n.xml.js"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/mobileApp.js?key=X-CSRF-TOKEN&val=a2cee406-10fa-4986-8822-a79adc57cdce"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/common/common.js"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/common/common.pages.js"></script>
+		<script type="text/javascript" src="https://assets.adobedtm.com/9f7767d312ae/4a1737c07e51/launch-19b1f4fcc423.min.js" async></script>
+
+		<!--[if IE 9]>
+		<link rel="stylesheet" href="/css/content.ie9.css">
+		<![endif]-->
+		<!--[if lte IE 8]>
+		<link rel="stylesheet" href="/css/content.ie8.css">
+		<script src="../js/respond.min.js"></script>
+		<script src="../js/jquery-ui.ie8.js"></script>
+		<![endif]-->
+
+		
+		
+<script type="text/javascript" src="../js/hom/lj/front/booking/promotionCode.js"></script>
+
+	</head>
+
+	<body class="popup">
+		<script type="text/javascript">
+		//_dl = AAnalytics.dl();
+		_dl = parent._dl;
+		</script>
+
+		
+<div id="popWrap">
+	<h1>프로모션 코드</h1>
+
+	
+	<div id="popCont">
+		<fieldset class="promotionCode">
+			<input type="text" name="promotionCode" maxlength="15" style="text-transform:uppercase;" placeholder="프로모션 코드를 입력 해 주세요.">
+			<div class="btnArea">
+				<span><a href="javascript:void(0);" class="btnTypeA">확인</a></span>
+				<span><a href="javascript:void(0);" class="btnTypeB">취소</a></span>
+			</div>
+		</fieldset>
+	</div>
+
+	
+	<div id="popCont1" style="display:none;">
+		<fieldset class="promotionInfo">
+			<div id="promotionEx" class="noteArea"></div>
+			<div class="btnArea">
+				<span><a href="javascript:void(0);" class="btnTypeA">확인</a></span>
+			</div>
+		</fieldset>
+	</div>
+
+	
+	<div id="popCont2" style="display:none;">
+		<fieldset class="promotionInfo">
+			<div class="noteArea">
+				<p>BLACK FRLYDAY<br>
+				프로모션 코드로 10% 할인 적용되었습니다.</p>
+				<p>할인 코드를 입력하였으나 할인이 적용되지 않은 경우<br>
+				사용 가능 노선 및 기간을 확인해주시기 바랍니다.</p>
+				<p>사용 가능 노선 : 국내선 내륙 노선 (제주 제외 노선)<br>
+				적용 대상 기간 : 페이지 통해 확인 <a href="https://www.jinair.com/promotion/eventList" target="_blank" title="새창열림">[진행중 이벤트 바로 가기]</a></p>
+			</div>
+			<div class="btnArea">
+				<span><a href="javascript:void(0);" class="btnTypeA">확인</a></span>
+			</div>
+		</fieldset>
+	</div>
+
+	
+	<div id="popCont3" style="display:none;">
+		<fieldset class="promotionInfo">
+			<div class="noteArea">
+				<p>BLACK FRLYDAY<br>
+				프로모션 코드로 10% 할인 적용되었습니다.</p>
+				<p>할인 코드를 입력하였으나 할인이 적용되지 않은 경우<br>
+				사용 가능 노선 및 기간을 확인해주시기 바랍니다.</p>
+				<p>사용 가능 노선 : 국내선 제주 노선 (제주 포함 노선)<br>
+				적용 대상 기간 : 페이지 통해 확인 <a href="https://www.jinair.com/promotion/eventList" target="_blank" title="새창열림">[진행중 이벤트 바로 가기]</a></p>
+			</div>
+			<div class="btnArea">
+				<span><a href="javascript:void(0);" class="btnTypeA">확인</a></span>
+			</div>
+		</fieldset>
+	</div>
+</div>
+
+<script>
+$(document).ready(function() {
+	$.i18n.properties({
+		name: ['messages', 'user','ibeBooking', 'ibeContentsPopup'],
+		path: '../i18n/messages/',
+		mode: 'map',
+		language: 'ko_KR',
+		langCd: 'KOR',
+		callback: function() {
+			__page__.initialize();
+		}
+	});
+	setPopup('113');
+});
+
+function promotionInfoPopup(popupId) {
+	$('#popCont').css('display', 'none');
+	$('#popCont' + popupId).show();
+	$('#popCont' + popupId).prop('id', 'popCont');
+	//팝업높이조절
+	setPopup('113');
+}
+</script>
+
+	<script type="text/javascript"  src="WMyOvNoqyw163nTlvdsw-ykbXPU/wOpYtSkD1kua/ZHE1PQ/UV/YqCUUFVzg"></script></body>
+</html>

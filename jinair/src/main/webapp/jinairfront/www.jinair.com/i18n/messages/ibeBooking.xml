@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="hom.ibe.rsv.lbl.041"><![CDATA[A/C 타입]]></entry>
+<entry key="hom.ibe.rsv.lbl.040"><![CDATA[비행시간]]></entry>
+<entry key="hom.ibe.rsv.lbl.1049"><![CDATA[기존 결제금액]]></entry>
+<entry key="hom.ibe.rsv.lbl.1048"><![CDATA[멤버십쿠폰]]></entry>
+<entry key="hom.ibe.rsv.lbl.1047"><![CDATA[나비포인트]]></entry>
+<entry key="hom.ibe.rsv.lbl.1046"><![CDATA[멤버십쿠폰]]></entry>
+<entry key="hom.ibe.rsv.lbl.1045"><![CDATA[나비포인트]]></entry>
+<entry key="hom.ibe.rsv.lbl.1044"><![CDATA[사용가능한 쿠폰이 없습니다. 다시 확인해주세요.]]></entry>
+<entry key="hom.ibe.rsv.lbl.1043"><![CDATA[복합결제 시, 포인트는 구간별 운임의 최대 {0}%까지 사용 가능합니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.1041"><![CDATA[사용할 포인트를 입력해주세요.]]></entry>
+<entry key="hom.ibe.rsv.lbl.1040"><![CDATA[{0}NP 단위로 사용 가능합니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.039"><![CDATA[도착시간]]></entry>
+<entry key="hom.ibe.rsv.lbl.038"><![CDATA[출발시간]]></entry>
+<entry key="hom.ibe.rsv.lbl.037"><![CDATA[편명]]></entry>
+<entry key="hom.ibe.rsv.lbl.036"><![CDATA[도착]]></entry>
+<entry key="hom.ibe.rsv.lbl.035"><![CDATA[출발]]></entry>
+<entry key="hom.ibe.rsv.lbl.034"><![CDATA[구간]]></entry>
+<entry key="hom.ibe.rsv.lbl.033"><![CDATA[결제]]></entry>
+<entry key="hom.ibe.rsv.lbl.032"><![CDATA[부가서비스]]></entry>
+<entry key="hom.ibe.rsv.lbl.031"><![CDATA[탑승객 정보]]></entry>
+<entry key="hom.ibe.rsv.lbl.030"><![CDATA[탑승객 정보]]></entry>
+<entry key="hom.ibe.rsv.lbl.1037"><![CDATA[포인트의 최소 사용 조건은 국내선 {0}NP, 국제선 {1}NP입니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.1036"><![CDATA[포인트 추가 구매하시면 무료항공권 구매가 가능합니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.1035"><![CDATA[할인 쿠폰 선택]]></entry>
+<entry key="hom.ibe.rsv.lbl.1034"><![CDATA[운임]]></entry>
+<entry key="hom.ibe.rsv.lbl.1033"><![CDATA[<li>예약자 본인의 부가서비스에만 포인트 사용이 가능합니다.</li>
+			<li>부가서비스에는 포인트 전체결제만이 가능합니다.</li>
+			<li>부가서비스의 환불 가능 기간이 지난 뒤, 환불을 신청하는 경우에는 사용하신 나비포인트 및 멤버십 쿠폰이 환급되지 않습니다.</li>
+			<li>각 부가서비스마다 환불 가능 기간이 상이하오니, 홈페이지 내 부가서비스 별 안내 페이지를 확인해주시기 바랍니다.</li>]]></entry>
+<entry key="hom.ibe.rsv.lbl.gds"><![CDATA[• ‘부가서비스 구매/취소‘ 메뉴에서 동일 예약번호의 일행을 추가하여 함께 구매하실 수 있습니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.1032"><![CDATA[부가서비스 포인트 사용]]></entry>
+<entry key="hom.ibe.rsv.lbl.1031"><![CDATA[취소]]></entry>
+<entry key="hom.ibe.rsv.lbl.1030"><![CDATA[카드제휴할인]]></entry>
+<entry key="hom.ibe.rsv.lbl.029"><![CDATA[항공편 선택]]></entry>
+<entry key="hom.ibe.rsv.lbl.028"><![CDATA[여정]]></entry>
+<entry key="hom.ibe.rsv.lbl.027"><![CDATA[항공편 선택]]></entry>
+<entry key="hom.ibe.rsv.lbl.026"><![CDATA[이전 3개월]]></entry>
+<entry key="hom.ibe.rsv.lbl.025"><![CDATA[다음 3개월]]></entry>
+<entry key="hom.ibe.rsv.loyt.cpn.SM10KIF"><![CDATA[1만원 할인(S요금제)]]></entry>
+<entry key="hom.ibe.rsv.lbl.024"><![CDATA[통화]]></entry>
+<entry key="hom.ibe.rsv.lbl.023"><![CDATA[기존 선택일]]></entry>
+<entry key="hom.ibe.rsv.lbl.022"><![CDATA[오는날]]></entry>
+<entry key="hom.ibe.rsv.lbl.021"><![CDATA[가는날]]></entry>
+<entry key="hom.ibe.rsv.lbl.020"><![CDATA[도착지]]></entry>
+<entry key="hom.ibe.rsv.lbl.1029"><![CDATA[적용]]></entry>
+<entry key="hom.ibe.rsv.lbl.1028"><![CDATA[보유 쿠폰 선택]]></entry>
+<entry key="hom.ibe.rsv.lbl.1027"><![CDATA[지니쿠폰]]></entry>
+<entry key="hom.ibe.rsv.lbl.1026"><![CDATA[자세히보기]]></entry>
+<entry key="hom.ibe.rsv.lbl.1025"><![CDATA[멤버십쿠폰]]></entry>
+<entry key="hom.ibe.rsv.lbl.1024"><![CDATA[포인트 구매]]></entry>
+<entry key="hom.ibe.rsv.lbl.1023"><![CDATA[항공운임 포인트 사용은 예약자 본인의 항공 운임에 대해서만 적용 가능합니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.1022"><![CDATA[[포인트 전체결제]]]></entry>
+<entry key="hom.ibe.rsv.lbl.1021"><![CDATA[[복합결제]]]></entry>
+<entry key="hom.ibe.rsv.lbl.tue"><![CDATA[화]]></entry>
+<entry key="hom.ibe.rsv.lbl.1020"><![CDATA[항공운임 포인트 사용]]></entry>
+<entry key="hom.ibe.rsv.lbl.mon"><![CDATA[월]]></entry>
+<entry key="hom.ibe.rsv.lbl.019"><![CDATA[출발지]]></entry>
+<entry key="hom.ibe.rsv.lbl.018"><![CDATA[생년월일]]></entry>
+<entry key="hom.ibe.rsv.lbl.017"><![CDATA[국내선]]></entry>
+<entry key="hom.ibe.rsv.loyt.cpn.FR30KFA"><![CDATA[3만원 할인(프리미엄)]]></entry>
+<entry key="hom.ibe.rsv.lbl.016"><![CDATA[국제선]]></entry>
+<entry key="hom.ibe.rsv.lbl.015"><![CDATA[유/소아 나이계산기]]></entry>
+<entry key="hom.ibe.rsv.lbl.014"><![CDATA[유아]]></entry>
+<entry key="hom.ibe.rsv.lbl.013"><![CDATA[소아]]></entry>
+<entry key="hom.ibe.rsv.lbl.012"><![CDATA[성인]]></entry>
+<entry key="hom.ibe.rsv.lbl.011"><![CDATA[탑승객수]]></entry>
+<entry key="hom.ibe.rsv.lbl.010"><![CDATA[탑승노선]]></entry>
+<entry key="hom.ibe.rsv.lbl.gdsSsrTerms"><![CDATA[<h2>&lt;개인정보 수집 안내&gt;</h2>
+		<p>수집하는 개인정보는 다음과 같습니다.</p>
+		<br>
+		<ul>
+			<li>1. 개인정보 수집 주체 : 진에어</li>
+			<li>
+				2. 개인정보 수집 항목(필수) : 연락처, 이메일 주소, 결제정보<br>
+				- 카드결제의 경우 : 카드번호, 유효기간, 카드비밀번호 등<br>
+				- 계좌이체의 경우 : 입금자명, 환불시 입금 계좌번호<br>
+				- 간편결제의 경우 : 승인번호
+			</li>
+			<li>
+				3. 개인정보의 수집 이용목적<br>
+				가. 서비스 제공에 관한 계약 이행 및 서비스 제공에 따른 요금정산<br>
+				콘텐츠 제공, 부가서비스 구매, 금융거래 본인 인증 및 금융 서비스, 요금추심<br>
+				나. 마케팅 및 광고에 활용<br>
+				신규 서비스 개발 및 특화, 인구통계학적 특성에 따른 서비스 제공 및 광고 게재, 당사 및 제휴사 상품 안내, 이벤트 등 광고성 정보 전달 및 이벤트 참여 기회 제공, 서비스 이용에 대한 통계, 회원 대상 각종 마케팅 활동<br>
+				신청하신 이메일 주소로 진에어 뉴스레터 발송
+			</li>
+			<li>4. 개인정보의 보유, 이용기간 : 뉴스레터 해지시까지 보유</li>
+			<li>5. 개인정보의 수집 및 이용에 대한 동의 거부 관련</li>
+		</ul>
+		<br>
+		<p>이용자는 개인정보의 수집 및 이용 동의에 거부하실 수 있으며, 필수항목의 수집 및 이용에 동의하지 않으시는 경우 부가서비스 이용이 제한됩니다.</p>]]></entry>
+<entry key="hom.ibe.rsv.loyt.cpn.PM5KSE"><![CDATA[5천원 할인(P요금제)]]></entry>
+<entry key="hom.ibe.rsv.lbl.1019"><![CDATA[자세히보기]]></entry>
+<entry key="hom.ibe.rsv.lbl.1018"><![CDATA[나비포인트]]></entry>
+<entry key="hom.ibe.rsv.lbl.1017"><![CDATA[<li>항공편 선택 단계에서 프로모션 코드를 적용한 경우 나비포인트/멤버십쿠폰/지니쿠폰은 사용 불가할 수 있습니다.</li>
+			<li>나비포인트/멤버십 쿠폰/지니쿠폰/카드제휴할인은 중복 적용 불가합니다.</li>]]></entry>
+<entry key="hom.ibe.rsv.lbl.1016"><![CDATA[할인]]></entry>
+<entry key="hom.ibe.rsv.lbl.1015"><![CDATA[유효기간 만료]]></entry>
+<entry key="hom.ibe.rsv.btn.047"><![CDATA[여행자보험 가입/조회]]></entry>
+<entry key="hom.ibe.rsv.lbl.1014"><![CDATA[포인트]]></entry>
+<entry key="hom.ibe.rsv.btn.046"><![CDATA[신용카드 지불 확인서 인쇄]]></entry>
+<entry key="hom.ibe.rsv.lbl.1013"><![CDATA[현금/카드]]></entry>
+<entry key="hom.ibe.rsv.btn.045"><![CDATA[라운지]]></entry>
+<entry key="hom.ibe.rsv.lbl.1012"><![CDATA[자세히보기]]></entry>
+<entry key="hom.ibe.rsv.btn.044"><![CDATA[부가서비스 신청 내역]]></entry>
+<entry key="hom.ibe.rsv.lbl.1011"><![CDATA[부가서비스]]></entry>
+<entry key="hom.ibe.rsv.btn.043"><![CDATA[예약취소(환불) 신청]]></entry>
+<entry key="hom.ibe.rsv.lbl.1010"><![CDATA[자세히보기]]></entry>
+<entry key="hom.ibe.rsv.lbl.sat"><![CDATA[토]]></entry>
+<entry key="hom.ibe.rsv.btn.042"><![CDATA[상세조회]]></entry>
+<entry key="hom.ibe.rsv.btn.041"><![CDATA[자동 체크인 신청 내역]]></entry>
+<entry key="hom.ibe.rsv.btn.040"><![CDATA[자동 체크인 신청/취소]]></entry>
+<entry key="hom.ibe.rsv.lbl.int"><![CDATA[국제선]]></entry>
+<entry key="hom.ibe.rsv.lbl.009"><![CDATA[탑승유효기간]]></entry>
+<entry key="hom.ibe.rsv.lbl.008"><![CDATA[발권유효기간]]></entry>
+<entry key="hom.ibe.rsv.lbl.007"><![CDATA[출발가능요일]]></entry>
+<entry key="hom.ibe.rsv.lbl.006"><![CDATA[쿠폰 No.]]></entry>
+<entry key="hom.ibe.rsv.lbl.005"><![CDATA[보너스 항공권 쿠폰]]></entry>
+<entry key="hom.ibe.rsv.lbl.004"><![CDATA[보너스 항공권 예매]]></entry>
+<entry key="hom.ibe.rsv.lbl.003"><![CDATA[다구간]]></entry>
+<entry key="hom.ibe.rsv.lbl.002"><![CDATA[편도]]></entry>
+<entry key="hom.ibe.rsv.lbl.001"><![CDATA[왕복]]></entry>
+<entry key="hom.ibe.rsv.allPoint.use.info"><![CDATA[<li>포인트 전체결제는 전체 여정 기준으로 항공운임의 100%에 대해 포인트를 사용하는 방식 입니다.</li>
+			<li>최소 사용 조건은 전체 여정 기준으로 국내선 1,000NP/ 국제선 2,000NP 입니다.</li>
+			<li class="fontTypeF">포인트를 사용한 예약은 여정 변경이 불가합니다. 여정 변경을 희망하시는 경우 취소 후 재구매 부탁드립니다.</li>
+			<li class="fontTypeF">포인트 전체결제의 경우 환불위약금과 예약부도위약금이 포인트로 부과되며, 이는 포인트로 결제한 부분에서 차감됩니다.</li>
+			<li>예약자 본인의 항공운임에만 포인트 사용이 가능합니다.</li>
+			<li>유류할증료와 공항세는 포인트 사용이 불가합니다.</li>]]></entry>
+<entry key="hom.ibe.rsv.lbl.1009"><![CDATA[항공운임]]></entry>
+<entry key="hom.ibe.rsv.lbl.1008"><![CDATA[총 할인]]></entry>
+<entry key="hom.ibe.rsv.lbl.1007"><![CDATA[나비포인트 사용]]></entry>
+<entry key="hom.ibe.rsv.btn.039"><![CDATA[자동 체크인 신청 가능]]></entry>
+<entry key="hom.ibe.rsv.lbl.1006"><![CDATA[자세히보기]]></entry>
+<entry key="hom.ibe.rsv.btn.038"><![CDATA[기타 서비스]]></entry>
+<entry key="hom.ibe.rsv.lbl.1005"><![CDATA[부가서비스]]></entry>
+<entry key="hom.ibe.rsv.btn.037"><![CDATA[입력]]></entry>
+<entry key="hom.ibe.rsv.lbl.1004"><![CDATA[자세히보기]]></entry>
+<entry key="hom.ibe.rsv.btn.036"><![CDATA[신청]]></entry>
+<entry key="hom.ibe.rsv.lbl.1003"><![CDATA[항공운임]]></entry>
+<entry key="hom.ibe.rsv.btn.035"><![CDATA[등록]]></entry>
+<entry key="hom.ibe.rsv.lbl.1002"><![CDATA[총 할인]]></entry>
+<entry key="hom.ibe.rsv.btn.034"><![CDATA[처음으로]]></entry>
+<entry key="hom.ibe.rsv.lbl.1001"><![CDATA[멤버십쿠폰 사용]]></entry>
+<entry key="hom.ibe.rsv.btn.033"><![CDATA[선택완료]]></entry>
+<entry key="hom.ibe.rsv.btn.032"><![CDATA[닫기]]></entry>
+<entry key="hom.ibe.rsv.btn.031"><![CDATA[부가서비스 구매/취소]]></entry>
+<entry key="hom.ibe.rsv.btn.030"><![CDATA[예약취소/환불]]></entry>
+<entry key="hom.ibe.rsv.loyt.cpn.SM10KFA"><![CDATA[1만원 할인(S요금제)]]></entry>
+<entry key="hom.ibe.rsv.loyt.cpn.FR5KSE"><![CDATA[5천원 할인(프리미엄)]]></entry>
+<entry key="hom.ibe.rsv.btn.029"><![CDATA[예약변경]]></entry>
+<entry key="hom.ibe.rsv.btn.028"><![CDATA[E-티켓 확인증 인쇄]]></entry>
+<entry key="hom.ibe.rsv.btn.027"><![CDATA[Special Assistance]]></entry>
+<entry key="hom.ibe.rsv.btn.026"><![CDATA[휠체어 대여 신청/취소]]></entry>
+<entry key="hom.ibe.rsv.btn.025"><![CDATA[반려동물 신청/취소]]></entry>
+<entry key="hom.ibe.rsv.btn.024"><![CDATA[생년월일/여권정보 입력]]></entry>
+<entry key="hom.ibe.rsv.btn.023"><![CDATA[탑승현황보기]]></entry>
+<entry key="hom.ibe.rsv.btn.022"><![CDATA[지난예약]]></entry>
+<entry key="hom.ibe.rsv.btn.021"><![CDATA[예약조회]]></entry>
+<entry key="hom.ibe.rsv.btn.020"><![CDATA[환불영수증 인쇄]]></entry>
+<entry key="hom.ibe.rsv.loyt.cpn.FR10KFA"><![CDATA[1만원 할인(프리미엄)]]></entry>
+<entry key="hom.ibe.ocb.after.subTit"><![CDATA[이미 OK캐쉬백 포인트 적립 신청을 하셨습니다.]]></entry>
+<entry key="hom.ibe.rsv.btn.019"><![CDATA[영수증 인쇄]]></entry>
+<entry key="hom.ibe.rsv.btn.018"><![CDATA[CVC Number]]></entry>
+<entry key="hom.ibe.rsv.btn.017"><![CDATA[Verified by VISA/Master card Secure Code 알아보기]]></entry>
+<entry key="hom.ibe.rsv.btn.016"><![CDATA[결제]]></entry>
+<entry key="hom.ibe.rsv.btn.015"><![CDATA[상세보기]]></entry>
+<entry key="hom.ibe.rsv.lbl.all"><![CDATA[전체]]></entry>
+<entry key="hom.ibe.rsv.btn.014"><![CDATA[바로 결제]]></entry>
+<entry key="hom.ibe.rsv.btn.013"><![CDATA[주문]]></entry>
+<entry key="hom.ibe.rsv.btn.012"><![CDATA[지니<br>엔터테인먼트]]></entry>
+<entry key="hom.ibe.rsv.btn.011"><![CDATA[유상판매]]></entry>
+<entry key="hom.ibe.rsv.btn.010"><![CDATA[기내식]]></entry>
+<entry key="hom.ibe.rsv.lyt.info.lbl.004"><![CDATA[총 할인]]></entry>
+<entry key="hom.ibe.rsv.lyt.info.lbl.003"><![CDATA[나비포인트 사용]]></entry>
+<entry key="hom.ibe.rsv.lyt.info.lbl.002"><![CDATA[총 할인]]></entry>
+<entry key="hom.ibe.rsv.lbl.295"><![CDATA[항공편 수속 상태의 고객이 포함되어 있으니 고객서비스센터(1600-6200)으로 문의하여 주시기 바랍니다.]]></entry>
+<entry key="hom.ibe.rsv.lyt.info.lbl.001"><![CDATA[멤버십쿠폰 사용]]></entry>
+<entry key="hom.ibe.rsv.lbl.294"><![CDATA[일부 고객이 예약부도(No-show)인 상태이오니,<br>자세한 사항은 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.293"><![CDATA[온라인에서 환불이 불가한 항공권입니다. 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.292"><![CDATA[비운항(NOOP)]]></entry>
+<entry key="hom.ibe.rsv.lbl.291"><![CDATA[기존과 동일]]></entry>
+<entry key="hom.ibe.rsv.partPoint.use.info"><![CDATA[<li>복합결제는 구간 별 기준으로 항공운임의 최대 20%까지 포인트를 사용하는 방식이며, 10NP단위로 사용 가능합니다.</li>
+			<li>최소 사용 조건은 구간 별 기준으로 국내선 1,000NP/ 국제선 2,000NP입니다.</li>
+			<li class="fontTypeF">포인트를 사용한 예약은 여정 변경이 불가합니다. 여정 변경을 희망하시는 경우 취소 후 재구매 부탁드립니다.</li>
+			<li class="fontTypeF">복합결제의 경우 환불위약금과 예약부도위약금이 현금으로 부과되며, 이는 현금으로 결제한 부분에서 차감됩니다.</li>
+			<li>예약자 본인의 항공운임에만 포인트 사용이 가능합니다.</li>
+			<li>유류할증료와 공항세는 포인트 사용이 불가합니다.</li>]]></entry>
+<entry key="hom.ibe.rsv.lbl.290"><![CDATA[출발-도착]]></entry>
+<entry key="hom.ibe.rsv.btn.009"><![CDATA[초과수하물]]></entry>
+<entry key="hom.ibe.rsv.btn.008"><![CDATA[사전좌석지정]]></entry>
+<entry key="hom.ibe.rsv.btn.007"><![CDATA[프로모션 코드]]></entry>
+<entry key="hom.ibe.rsv.btn.006"><![CDATA[수정]]></entry>
+<entry key="hom.ibe.rsv.btn.005"><![CDATA[최저운임확인]]></entry>
+<entry key="hom.ibe.rsv.btn.004"><![CDATA[다음]]></entry>
+<entry key="hom.ibe.rsv.btn.003"><![CDATA[취소]]></entry>
+<entry key="hom.ibe.rsv.btn.002"><![CDATA[계산하기]]></entry>
+<entry key="hom.ibe.rsv.btn.001"><![CDATA[확인]]></entry>
+<entry key="hom.ibe.rsv.lbl.289"><![CDATA[편명]]></entry>
+<entry key="hom.ibe.rsv.lbl.288"><![CDATA[변경 스케줄]]></entry>
+<entry key="hom.ibe.rsv.lbl.287"><![CDATA[기존 스케줄]]></entry>
+<entry key="hom.ibe.rsv.lbl.286"><![CDATA[일부 고객에 대한 분리 환불은 불가합니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.285"><![CDATA[항공편 수속 상태의 고객이 포함되어 있으니,<br>자세한 사항은 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다]]></entry>
+<entry key="hom.ibe.rsv.lbl.284"><![CDATA[일부 고객이 수속 중(Checked-in)인 상태이오니,<br>자세한 사항은 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.283"><![CDATA[예약부도(No-show) 상태의 구간이 존재하여 환불만 가능합니다.<br>문의사항은 고객서비스센터(1600-6200)로 연락하여 주시기 바랍니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.282"><![CDATA[변경된 스케줄로 항공권이 재발행 되었습니다.]]></entry>
+<entry key="hom.ibe.ocb.try.info1"><![CDATA[<li>국내/국제선 노선 대상, 진에어 홈페이지 및 모바일의 ‘한국지역 페이지’에서 '로그인' 후, ‘예약 및 한국원화(KRW) 결제’를 모두 완료한 e-티켓 항공권인 경우에만  포인트 적립이 가능하며, 일부 공동운항편 (e-티켓 미발행 노선)의 경우 적립이 불가합니다.</li>
+			<li>지불하신 순수 항공운임(할인금액, 부가서비스, 유류할증료, 세금 제외)의 0.1%에 해당하는 금액에서 OK캐쉬백이 공제하는 수수료10%를 제외한 나머지 금액이 OK캐쉬백 포인트로 적립됩니다.</li>
+			<li>동시에 2명 이상의 항공권을 구매하시더라도, 로그인하신 회원 1인의 OK캐쉬백 회원 번호만 입력하실 수 있으며, 항공편 탑승 전까지 홈페이지 또는 모바일에서 적립 신청을 완료하여 주시기 바랍니다. 탑승 후에는 구매 기록이 삭제되어, 사후 적립 신청이 제한됩니다.</li>
+			<li>OK캐쉬백 포인트는 해당 항공편을 탑승하신 날로부터 일주일 이내에 적립되며, 적립 여부 및 포인트는 OK캐쉬백 홈페이지 또는 OK캐쉬백 고객센터를 통해 확인하시기 바랍니다.</li>
+			<li class="col_type">포인트 적립 신청 후에는 OK캐쉬백 회원 번호 정정이 불가하므로 확인 후 정확하게 입력하여 주시기 바랍니다.</li>]]></entry>
+<entry key="hom.ibe.rsv.lbl.281"><![CDATA[* 스케줄 변경]]></entry>
+<entry key="hom.ibe.rsv.lbl.280"><![CDATA[* 비운항]]></entry>
+<entry key="hom.ibe.rsv.lbl.2006"><![CDATA[나의 예약]]></entry>
+<entry key="hom.ibe.rsv.lbl.2005"><![CDATA[* 비회원/고객센터/여행사/외부채널 예약고객]]></entry>
+<entry key="hom.ibe.rsv.lbl.2004"><![CDATA[더보기]]></entry>
+<entry key="hom.ibe.rsv.lbl.2003"><![CDATA[공지사항]]></entry>
+<entry key="hom.ibe.rsv.lbl.2002"><![CDATA[다양한 서비스와 혜택]]></entry>
+<entry key="hom.ibe.rsv.lbl.2001"><![CDATA[체크인]]></entry>
+<entry key="hom.ibe.rsv.lbl.2000"><![CDATA[예약조회]]></entry>
+<entry key="hom.ibe.rsv.lbl.sun"><![CDATA[일]]></entry>
+<entry key="hom.ibe.rsv.lbl.279"><![CDATA[고객님의 항공편 스케줄이 변경되었습니다. [<em style="color: red;">상세조회</em>] 버튼을 클릭하여 수락여부를 선택하여 주시기 바랍니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.278"><![CDATA[총액]]></entry>
+<entry key="hom.ibe.rsv.lbl.277"><![CDATA[다른 일자로 변경을 원하실 경우 고객서비스센터(1600-6200)로<br>문의하여 주시기 바랍니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.276"><![CDATA[고객님의 미사용 항공권에 대한 환불이 진행됩니다.<br>이후 환불 절차 진행을 중단해도 기존 예약으로 복원되지 않습니다.<br>환불을 계속 진행하시겠습니까?]]></entry>
+<entry key="hom.ibe.rsv.lbl.275"><![CDATA[변경된 스케줄로 이용하시겠습니까?]]></entry>
+<entry key="hom.ibe.rsv.lbl.274"><![CDATA[변경]]></entry>
+<entry key="hom.ibe.rsv.lbl.273"><![CDATA[수락]]></entry>
+<entry key="hom.ibe.rsv.lbl.272"><![CDATA[무료 수하물 / 기내식 자세히 보기]]></entry>
+<entry key="hom.ibe.rsv.lbl.271"><![CDATA[* 국내선의 경우 각 구간별 탑승일 기준으로 나이 계산,<br>국제선의 경우 첫구간 탑승일 기준으로 나이 계산<br>
+	* 탑승 수속 시 생년월일 확인 가능한 서류 지참 필수]]></entry>
+<entry key="hom.ibe.rsv.lbl.270"><![CDATA[[국제선] 생후 7일 이상 – 만 2세 미만]]></entry>
+<entry key="hom.ibe.rsv.extras.cancel.info"><![CDATA[<li>지니쿠폰을 적용한 예약을 취소(환불)할 경우 적용한 쿠폰은 환급되지 않습니다.</li>
+			<li>나비포인트 및 멤버십 쿠폰을 사용한 예약을 취소(환불)할 경우 유효기간 이내의 포인트 및 쿠폰이 환급됩니다.</li>
+			<li>부가서비스의 환불 가능 기간이 지난 뒤, 환불을 신청하는 경우에는 사용하신 나비포인트 및 멤버십 쿠폰이 환급되지 않습니다.</li>
+			<li>각 부가서비스마다 환불 가능 기간이 상이하오니, 홈페이지 내 부가서비스 별 안내 페이지를 확인해주시기 바랍니다.</li>]]></entry>
+<entry key="hom.ibe.rsv.lbl.dom"><![CDATA[국내선]]></entry>
+<entry key="hom.ibe.rsv.lbl.308"><![CDATA[부가서비스 환불은 고객서비스센터(1600-6200)로 문의 하여 주시기 바랍니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.307"><![CDATA[회원번호를 다시 확인해주세요.]]></entry>
+<entry key="hom.ibe.rsv.lbl.306"><![CDATA[출발 72시간 이내 항공편은 사전주문기내식 신청이 불가합니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.305"><![CDATA[회원번호]]></entry>
+<entry key="hom.ibe.rsv.lbl.304"><![CDATA[예) 123123123123 (숫자 12자리)]]></entry>
+<entry key="hom.ibe.rsv.lbl.303"><![CDATA[<strong>[선택]</strong> 입력하신 이메일로 이벤트 등 정보를 받는 것에 동의합니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.302"><![CDATA[상기 <span class="uline fontTypeF">개인정보의 수집, 이용사항</span>에 동의합니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.301"><![CDATA[연락처]]></entry>
+<entry key="hom.ibe.rsv.lbl.269"><![CDATA[[국내선] 생후 7일 이상 – 만 2세 미만]]></entry>
+<entry key="hom.ibe.rsv.lbl.300"><![CDATA[탑승객 정보 입력]]></entry>
+<entry key="hom.ibe.rsv.lbl.268"><![CDATA[유아<em>(탑승일 기준)</em>]]></entry>
+<entry key="hom.ibe.rsv.lbl.267"><![CDATA[[국제선] 만 2세 – 만 12세 미만]]></entry>
+<entry key="hom.ibe.ocb.success.info1"><![CDATA[<li>회원님께서 입력하신 OK캐쉬백 카드번호로 해당 항공권에 대한 OK캐쉬백 포인트 적립이 신청되었습니다.</li>
+			<li>예약하신 항공편 탑승 후, 약 일주일 이내 자동으로 OK캐쉬백포인트가 적립되며, OK캐쉬백 홈페이지 또는 OK캐쉬백 고객센터를 통해 확인하실 수 있습니다.</li>]]></entry>
+<entry key="hom.ibe.rsv.lbl.266"><![CDATA[[국내선] 만 2세 – 만 13세 미만]]></entry>
+<entry key="hom.ibe.rsv.lbl.265"><![CDATA[소아<em>(탑승일 기준)</em>]]></entry>
+<entry key="hom.ibe.rsv.lbl.264"><![CDATA[Amex SafeKey]]></entry>
+<entry key="hom.ibe.rsv.lbl.263"><![CDATA[환불대상금액]]></entry>
+<entry key="hom.ibe.rsv.lbl.262"><![CDATA[시스템 정기 점검 안내]]></entry>
+<entry key="hom.ibe.rsv.lbl.261"><![CDATA[출/도착 선택]]></entry>
+<entry key="hom.ibe.rsv.lbl.260"><![CDATA[초과 수하물 추가 선택 (20% 할인 중)]]></entry>
+<entry key="hom.ibe.rsv.lbl.259"><![CDATA[이벤트 할인 기간 : 4.15 ~ 4.30 / 탑승 기간 : 4.17 ~ 7.14]]></entry>
+<entry key="hom.ibe.rsv.lbl.258"><![CDATA[‘부가서비스 구매/취소‘ 메뉴에서 동일 예약번호의 일행을 추가하여 함께 구매하실 수 있습니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.257"><![CDATA[일행을 포함한 전체 예약을 조회, 변경하시거나 부가서비스를 구매하시려면 여기를 눌러주세요.]]></entry>
+<entry key="hom.ibe.rsv.lbl.256"><![CDATA[다른 일자로 변경 또는 환불을 원하실 경우<br>고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.255"><![CDATA[내용을 확인 후 동의하셔야 예약취소 및 환불신청이 완료됩니다.]]></entry>
+<entry key="hom.ibe.rsv.loyt.cpn.FR5KME"><![CDATA[5천원 할인(프리미엄)]]></entry>
+<entry key="hom.ibe.rsv.lbl.254"><![CDATA[*동의 시 환불이 완료됩니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.253"><![CDATA[변경/결제]]></entry>
+<entry key="hom.ibe.rsv.lbl.252"><![CDATA[기내 엔터테인먼트 서비스 이용을 위해 휴대폰/태블릿 PC 이용자(안드로이드, iOS)는 탑승 전 휴대기기에 지니플레이(JINI PLAY) 앱을 반드시 설치(최신 업데이트) 하시기 바랍니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.251"><![CDATA[신청 현황]]></entry>
+<entry key="hom.ibe.rsv.lbl.250"><![CDATA[변경 후 여정 및 운임 정보]]></entry>
+<entry key="hom.ibe.rsv.lbl.249"><![CDATA[변경 전 여정]]></entry>
+<entry key="hom.ibe.rsv.lbl.248"><![CDATA[변경 스케쥴]]></entry>
+<entry key="hom.ibe.rsv.lbl.247"><![CDATA[기존 스케쥴]]></entry>
+<entry key="hom.ibe.rsv.lbl.246"><![CDATA[스케쥴 변경안내]]></entry>
+<entry key="hom.ibe.rsv.lbl.245"><![CDATA[호텔 예약]]></entry>
+<entry key="hom.ibe.rsv.lbl.244"><![CDATA[취소구간 기존 총 운임]]></entry>
+<entry key="hom.ibe.rsv.lbl.243"><![CDATA[운항없음]]></entry>
+<entry key="hom.ibe.rsv.lbl.242"><![CDATA[예약상태]]></entry>
+<entry key="hom.ibe.rsv.lbl.241"><![CDATA[신청]]></entry>
+<entry key="hom.ibe.rsv.lbl.240"><![CDATA[기내 반려동물 동반 신청]]></entry>
+<entry key="hom.ibe.rsv.lbl.239"><![CDATA[계]]></entry>
+<entry key="hom.ibe.rsv.lbl.238"><![CDATA[변경운임]]></entry>
+<entry key="hom.ibe.rsv.lbl.237"><![CDATA[기존운임]]></entry>
+<entry key="hom.ibe.rsv.lbl.236"><![CDATA[최종결제정보]]></entry>
+<entry key="hom.ibe.ocb.after.info1"><![CDATA[<li>예약하신 항공편 탑승 후, 약 일주일 이내 자동으로 OK캐쉬백포인트가 적립되며,<br/>OK캐쉬백 홈페이지 또는 OK캐쉬백 고객센터를 통해 확인하실 수 있습니다.</li>]]></entry>
+<entry key="hom.ibe.rsv.lbl.235"><![CDATA[발급지]]></entry>
+<entry key="hom.ibe.rsv.lbl.234"><![CDATA[만료일]]></entry>
+<entry key="hom.ibe.rsv.lbl.233"><![CDATA[여권번호]]></entry>
+<entry key="hom.ibe.rsv.lbl.232"><![CDATA[국적]]></entry>
+<entry key="hom.ibe.rsv.lbl.199"><![CDATA[카드상 이름과 동일하게 입력]]></entry>
+<entry key="hom.ibe.rsv.lbl.231"><![CDATA[운임 규정 안내]]></entry>
+<entry key="hom.ibe.rsv.lbl.198"><![CDATA[카드 종류]]></entry>
+<entry key="hom.ibe.rsv.lbl.230"><![CDATA[부가 서비스 신청내역]]></entry>
+<entry key="hom.ibe.rsv.lbl.197"><![CDATA[총 합계]]></entry>
+<entry key="hom.ibe.rsv.lbl.196"><![CDATA[계]]></entry>
+<entry key="hom.ibe.rsv.lbl.195"><![CDATA[항공운임 등]]></entry>
+<entry key="hom.ibe.rsv.lbl.194"><![CDATA[승객명]]></entry>
+<entry key="hom.ibe.rsv.lbl.193"><![CDATA[위약금 (환불불가 포함)]]></entry>
+<entry key="hom.ibe.rsv.lbl.192"><![CDATA[선택]]></entry>
+<entry key="hom.ibe.rsv.lbl.191"><![CDATA[국제선 한국 출발 세금(BP)에는 국제여객공항이용료, 출국납부금, 국제빈곤퇴치기여금이 포함되어 있습니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.190"><![CDATA[더보기]]></entry>
+<entry key="hom.ibe.ocb.alert.registerFail"><![CDATA[OK캐쉬백 등록에 실패 하였습니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.229"><![CDATA[총 소요 시간]]></entry>
+<entry key="hom.ibe.rsv.lbl.228"><![CDATA[대기시간]]></entry>
+<entry key="hom.ibe.rsv.lbl.notGds"><![CDATA[• 상세 예약내역을 조회, 변경하거나 부가서비스를 구매하려면 <em style="color: #008ae0;"><strong>여기</strong></em>를 눌러주십시오.]]></entry>
+<entry key="hom.ibe.rsv.lbl.227"><![CDATA[경유]]></entry>
+<entry key="hom.ibe.rsv.lbl.226"><![CDATA[{0}열{1}]]></entry>
+<entry key="hom.ibe.rsv.lbl.225"><![CDATA[열]]></entry>
+<entry key="hom.ibe.rsv.lbl.224"><![CDATA[총 소요]]></entry>
+<entry key="hom.ibe.rsv.lbl.223"><![CDATA[대기]]></entry>
+<entry key="hom.ibe.rsv.lbl.222"><![CDATA[탑승불가]]></entry>
+<entry key="hom.ibe.rsv.lbl.189"><![CDATA[항공운임 등 총액]]></entry>
+<entry key="hom.ibe.rsv.lbl.221"><![CDATA[명]]></entry>
+<entry key="hom.ibe.rsv.lbl.188"><![CDATA[오는편]]></entry>
+<entry key="hom.ibe.rsv.lbl.220"><![CDATA[일]]></entry>
+<entry key="hom.ibe.rsv.lbl.187"><![CDATA[가는편]]></entry>
+<entry key="hom.ibe.rsv.lbl.186"><![CDATA[비상구]]></entry>
+<entry key="hom.ibe.rsv.lbl.185"><![CDATA[출입구]]></entry>
+<entry key="hom.ibe.rsv.lbl.184"><![CDATA[선택불가]]></entry>
+<entry key="hom.ibe.rsv.lbl.183"><![CDATA[부가서비스 신청]]></entry>
+<entry key="hom.ibe.rsv.lbl.182"><![CDATA[총 금액]]></entry>
+<entry key="hom.ibe.rsv.lbl.181"><![CDATA[번들]]></entry>
+<entry key="hom.ibe.rsv.lbl.180"><![CDATA[운임 확인]]></entry>
+<entry key="hom.ibe.rsv.lbl.219"><![CDATA[월]]></entry>
+<entry key="hom.ibe.rsv.lbl.218"><![CDATA[년]]></entry>
+<entry key="hom.ibe.rsv.lbl.217"><![CDATA[유아]]></entry>
+<entry key="hom.ibe.rsv.lbl.216"><![CDATA[소아]]></entry>
+<entry key="hom.ibe.rsv.lbl.thu"><![CDATA[목]]></entry>
+<entry key="hom.ibe.rsv.lbl.215"><![CDATA[성인]]></entry>
+<entry key="hom.ibe.rsv.lbl.214"><![CDATA[여정]]></entry>
+<entry key="hom.ibe.rsv.lbl.213"><![CDATA[단위]]></entry>
+<entry key="hom.ibe.rsv.lbl.212"><![CDATA[무이자 할부 및 혜택 안내]]></entry>
+<entry key="hom.ibe.rsv.lbl.179"><![CDATA[항공편 안내]]></entry>
+<entry key="hom.ibe.rsv.lbl.211"><![CDATA[적용]]></entry>
+<entry key="hom.ibe.rsv.lbl.178"><![CDATA[운항없음]]></entry>
+<entry key="hom.ibe.rsv.lbl.210"><![CDATA[편의점결제 안내]]></entry>
+<entry key="hom.ibe.rsv.lbl.177"><![CDATA[오는편]]></entry>
+<entry key="hom.ibe.rsv.lbl.176"><![CDATA[가는편]]></entry>
+<entry key="hom.ibe.rsv.lbl.175"><![CDATA[출발 재선택]]></entry>
+<entry key="hom.ibe.rsv.lbl.174"><![CDATA[출도착 날짜 동일]]></entry>
+<entry key="hom.ibe.rsv.lbl.173"><![CDATA[오늘]]></entry>
+<entry key="hom.ibe.rsv.lbl.172"><![CDATA[마이페이지]]></entry>
+<entry key="hom.ibe.rsv.lbl.171"><![CDATA[체크인]]></entry>
+<entry key="hom.ibe.rsv.lbl.170"><![CDATA[프로모션]]></entry>
+<entry key="hom.ibe.rsv.lbl.209"><![CDATA[현장결제필요]]></entry>
+<entry key="hom.ibe.rsv.lbl.208"><![CDATA[환불불가]]></entry>
+<entry key="hom.ibe.rsv.lbl.207"><![CDATA[선택 부가서비스]]></entry>
+<entry key="hom.ibe.rsv.lbl.206"><![CDATA[취소할 부가서비스 선택]]></entry>
+<entry key="hom.ibe.rsv.lbl.205"><![CDATA[부가서비스 취소]]></entry>
+<entry key="hom.ibe.rsv.lbl.204"><![CDATA[결제금액]]></entry>
+<entry key="hom.ibe.ocb.fail.info1"><![CDATA[진에어 홈페이지, 모바일웹/앱에서 로그인하여 구매한 항공권이 아니므로 OK캐쉬백 포인트를 적립하실 수 없습니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.203"><![CDATA[오는편]]></entry>
+<entry key="hom.ibe.rsv.lbl.202"><![CDATA[가는편]]></entry>
+<entry key="hom.ibe.rsv.lbl.169"><![CDATA[로그아웃]]></entry>
+<entry key="hom.ibe.rsv.lbl.201"><![CDATA[국가번호 입력 불요]]></entry>
+<entry key="hom.ibe.rsv.lbl.168"><![CDATA[로그인]]></entry>
+<entry key="hom.ibe.rsv.lbl.200"><![CDATA['-' 제외 입력]]></entry>
+<entry key="hom.ibe.rsv.lbl.167"><![CDATA[보너스 항공권 취소]]></entry>
+<entry key="hom.ibe.rsv.lbl.166"><![CDATA[비인증결제]]></entry>
+<entry key="hom.ibe.rsv.lbl.165"><![CDATA[J/Secure]]></entry>
+<entry key="hom.ibe.rsv.lbl.164"><![CDATA[MasterCard SecureCode]]></entry>
+<entry key="hom.ibe.rsv.lbl.163"><![CDATA[Verified by Visa]]></entry>
+<entry key="hom.ibe.rsv.lbl.162"><![CDATA[JINAIR 국제선 항공권]]></entry>
+<entry key="hom.ibe.ocb.tit"><![CDATA[OK캐쉬백 적립하기]]></entry>
+<entry key="hom.ibe.rsv.lbl.161"><![CDATA[JINAIR 국내선 항공권]]></entry>
+<entry key="hom.ibe.rsv.lbl.160"><![CDATA[결제통화 변경]]></entry>
+<entry key="hom.ibe.rsv.loyt.cpn.SM10KSE"><![CDATA[1만원 할인(S요금제)]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.017"><![CDATA[해당 항공권 환불은 진에어 고객센터(02-1600-6200)로 연락하시기 바랍니다.]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.016"><![CDATA[로열티 혜택 사용에 실패하였습니다.]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.015"><![CDATA[결제금액이 상이합니다. 다시 확인해주세요.]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.014"><![CDATA[수수료 계산에 실패하였습니다.]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.013"><![CDATA[환율 정보를 찾을 수 없습니다.]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.012"><![CDATA[할인 정보를 찾을 수 없습니다.]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.011"><![CDATA[취소 대상이 없습니다. 다시 확인해주세요.]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.010"><![CDATA[적용 가능한 쿠폰 개수를 초과하였습니다.]]></entry>
+<entry key="hom.ibe.rsv.lyt.mbs.lbl.002"><![CDATA[12자리 숫자]]></entry>
+<entry key="hom.ibe.rsv.lyt.mbs.lbl.001"><![CDATA[회원번호]]></entry>
+<entry key="hom.ibe.rsv.lbl.159"><![CDATA[이름(영문)]]></entry>
+<entry key="hom.ibe.rsv.lbl.158"><![CDATA[성(영문)]]></entry>
+<entry key="hom.ibe.rsv.lbl.157"><![CDATA[부가서비스 신청/변경/취소 안내]]></entry>
+<entry key="hom.ibe.rsv.lbl.156"><![CDATA[운임정보]]></entry>
+<entry key="hom.ibe.rsv.lbl.155"><![CDATA[예약조회/변경/취소]]></entry>
+<entry key="hom.ibe.rsv.lbl.154"><![CDATA[탑승수속 안내]]></entry>
+<entry key="hom.ibe.rsv.lbl.153"><![CDATA[공항카운터 안내]]></entry>
+<entry key="hom.ibe.rsv.lbl.152"><![CDATA[환불접수일]]></entry>
+<entry key="hom.ibe.rsv.lbl.151"><![CDATA[구매일]]></entry>
+<entry key="hom.ibe.rsv.lbl.150"><![CDATA[승인번호]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.009"><![CDATA[쿠폰이 부족합니다.]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.008"><![CDATA[이미 쿠폰 할인이 적용 되어있습니다.]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.007"><![CDATA[사용할 수 없는 쿠폰입니다.]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.006"><![CDATA[사용 가능한 쿠폰이 없습니다.]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.005"><![CDATA[쿠폰 적용 대상이 없습니다.]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.004"><![CDATA[이미 포인트 할인이 적용되어 있습니다.]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.003"><![CDATA[포인트가 부족합니다.]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.002"><![CDATA[로열티 회원정보를 찾을 수 없습니다.]]></entry>
+<entry key="hom.ibe.rsv.loyt.alert.001"><![CDATA[포인트 적용 대상이 없습니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.149"><![CDATA[할부개월]]></entry>
+<entry key="hom.ibe.rsv.lbl.148"><![CDATA[상세정보]]></entry>
+<entry key="hom.ibe.rsv.lbl.147"><![CDATA[승객명]]></entry>
+<entry key="hom.ibe.rsv.lbl.146"><![CDATA[탑승객수]]></entry>
+<entry key="hom.ibe.rsv.lbl.145"><![CDATA[상태]]></entry>
+<entry key="hom.ibe.rsv.lbl.144"><![CDATA[예약번호]]></entry>
+<entry key="hom.ibe.rsv.lbl.143"><![CDATA[예약일]]></entry>
+<entry key="hom.ibe.rsv.lbl.142"><![CDATA[예약정보]]></entry>
+<entry key="hom.ibe.rsv.lbl.141"><![CDATA[운임규정]]></entry>
+<entry key="hom.ibe.rsv.lbl.140"><![CDATA[환불신청인]]></entry>
+<entry key="hom.ibe.rsv.lbl.fri"><![CDATA[금]]></entry>
+<entry key="hom.ibe.rsv.lbl.139"><![CDATA[환불신청인 정보]]></entry>
+<entry key="hom.ibe.rsv.lbl.138"><![CDATA[전자결제서비스 이용약관]]></entry>
+<entry key="hom.ibe.rsv.lbl.137"><![CDATA[이용 가능 기기]]></entry>
+<entry key="hom.ibe.rsv.lbl.136"><![CDATA[이용 가능 편의정]]></entry>
+<entry key="hom.ibe.rsv.lbl.135"><![CDATA[국가번호]]></entry>
+<entry key="hom.ibe.rsv.lbl.134"><![CDATA[국가]]></entry>
+<entry key="hom.ibe.rsv.lbl.133"><![CDATA[우편번호]]></entry>
+<entry key="hom.ibe.rsv.lbl.132"><![CDATA[주/도]]></entry>
+<entry key="hom.ibe.rsv.lbl.099"><![CDATA[결제정보]]></entry>
+<entry key="hom.ibe.rsv.lbl.131"><![CDATA[도시]]></entry>
+<entry key="hom.ibe.rsv.lbl.098"><![CDATA[쿠폰/카드 제휴 할인]]></entry>
+<entry key="hom.ibe.rsv.lbl.130"><![CDATA[상세주소]]></entry>
+<entry key="hom.ibe.rsv.lbl.097"><![CDATA[여정 및 운임정보]]></entry>
+<entry key="hom.ibe.rsv.lbl.096"><![CDATA[태블릿 PC 대여 선택]]></entry>
+<entry key="hom.ibe.rsv.lbl.095"><![CDATA[지니 엔터테인먼트 선택]]></entry>
+<entry key="hom.ibe.rsv.lbl.094"><![CDATA[스포트 장비 추가 선택]]></entry>
+<entry key="hom.ibe.rsv.lbl.093"><![CDATA[초과수하물 추가 선택]]></entry>
+<entry key="hom.ibe.rsv.lbl.092"><![CDATA[무료 수하물 / 기내식 자세히 보기]]></entry>
+<entry key="hom.ibe.rsv.lbl.091"><![CDATA[탑승객]]></entry>
+<entry key="hom.ibe.rsv.lbl.090"><![CDATA[엔터테인먼트]]></entry>
+<entry key="hom.ibe.rsv.lbl.129"><![CDATA[청구지 수령 주소]]></entry>
+<entry key="hom.ibe.rsv.lbl.128"><![CDATA[CVC번호/Security Code]]></entry>
+<entry key="hom.ibe.rsv.buy.point.info"><![CDATA[<li>1NP당 {0}원으로 구매 가능합니다.</li>
+			<li>나비포인트는 연간(*) 최소 {1}NP부터 최대 {2}NP까지, {3}NP 단위로 구매하실 수 있습니다.<br>* 연간: 매년 1월 1일부터 12월 31일까지를 의미합니다.</li>
+			<li>포인트 구매는 신용카드(일시불)로만 결제 가능합니다.</li>
+			<li>포인트 구매 및 환불은 진에어 홈페이지 및 모바일웹/앱에서만 가능합니다.</li>
+			<li>구매한 포인트를 이용하여 항공권을 구매 후 탑승하실 경우 탑승 포인트는 적립되지 않습니다.</li>
+			<li>구매한 포인트는 회원등급 판정대상에서 제외되며, 제3자에게 양도 불가능합니다.</li>
+			<li>구매 포인트의 유효기간은 적립 처리일로부터 5년 입니다.</li>
+			<li>구매 포인트는 유효기간 5년 이내에 사용내역이 전혀 없는 경우에 한해 환불 가능합니다.<br>단, 환불 신청 시점에 따라 수수료를 차등적으로 공제됩니다. (수수료 공제 후 승인 취소 처리)<br>
+				' 구매일로부터 7일 이내 환불시, 수수료 없이 100% 전액 환불<br>
+				' 7일 경과부터 포인트 소멸일 이전 환불시, 결제금액의 10%를 수수료로 공제하고, 90% 환불
+			</li>]]></entry>
+<entry key="hom.ibe.rsv.lbl.127"><![CDATA[유효기간]]></entry>
+<entry key="hom.ibe.rsv.lbl.126"><![CDATA[카드번호]]></entry>
+<entry key="hom.ibe.rsv.lbl.125"><![CDATA[카드소유주]]></entry>
+<entry key="hom.ibe.rsv.loyt.cpn.PM5KBA"><![CDATA[5천원 할인(P요금제)]]></entry>
+<entry key="hom.ibe.rsv.lbl.124"><![CDATA[카드발행지]]></entry>
+<entry key="hom.ibe.rsv.lbl.123"><![CDATA[선택사항]]></entry>
+<entry key="hom.ibe.rsv.lbl.122"><![CDATA[인증방식]]></entry>
+<entry key="hom.ibe.rsv.lbl.089"><![CDATA[유상판매]]></entry>
+<entry key="hom.ibe.rsv.lbl.121"><![CDATA[편의점 결제]]></entry>
+<entry key="hom.ibe.rsv.lbl.088"><![CDATA[기내식]]></entry>
+<entry key="hom.ibe.rsv.lbl.120"><![CDATA[JCB]]></entry>
+<entry key="hom.ibe.rsv.lbl.087"><![CDATA[초과수하물]]></entry>
+<entry key="hom.ibe.rsv.lbl.086"><![CDATA[사전좌석지정]]></entry>
+<entry key="hom.ibe.rsv.lbl.085"><![CDATA[휴대폰번호]]></entry>
+<entry key="hom.ibe.rsv.lbl.084"><![CDATA[이메일]]></entry>
+<entry key="hom.ibe.rsv.lbl.083"><![CDATA[예매자 정보]]></entry>
+<entry key="hom.ibe.rsv.lbl.082"><![CDATA[보호자]]></entry>
+<entry key="hom.ibe.rsv.lbl.081"><![CDATA[선택]]></entry>
+<entry key="hom.ibe.rsv.lbl.080"><![CDATA[추가할인]]></entry>
+<entry key="hom.ibe.ocb.success.subTit"><![CDATA[OK캐시백 포인트 적립 신청이 완료되었습니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.1085"><![CDATA[쿠폰/제휴 할인이 포함되어 전체 부가서비스 취소/환불만 가능합니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.119"><![CDATA[WECHAT PAY]]></entry>
+<entry key="hom.ibe.rsv.lbl.1084"><![CDATA[김포공항 신분확인 절차 강화에 따른 보안검색장 혼잡으로 인해,<br>
+			김포공항 출발편의 탑승수속이 출발 시간 30분 전에 조기 마감됨을 알려드립니다.<br>
+			원활한 탑승 및 출발을 위해 출발 1시간 전까지는 공항에 나와 주실 것을 당부 드립니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.118"><![CDATA[ALIPAY]]></entry>
+<entry key="hom.ibe.rsv.lbl.1083"><![CDATA[항공기 지연]]></entry>
+<entry key="hom.ibe.rsv.lbl.117"><![CDATA[MasterCard]]></entry>
+<entry key="hom.ibe.rsv.lbl.1082"><![CDATA[운항편이 없습니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.116"><![CDATA[VISA]]></entry>
+<entry key="hom.ibe.rsv.lbl.1081"><![CDATA[카드를 선택해 주십시오.]]></entry>
+<entry key="hom.ibe.rsv.lbl.115"><![CDATA[네이버페이]]></entry>
+<entry key="hom.ibe.rsv.lbl.1080"><![CDATA[카드를 선택해 주십시오.]]></entry>
+<entry key="hom.ibe.rsv.lbl.114"><![CDATA[카카오페이]]></entry>
+<entry key="hom.ibe.rsv.lbl.113"><![CDATA[계좌이체]]></entry>
+<entry key="hom.ibe.rsv.lbl.112"><![CDATA[신용카드]]></entry>
+<entry key="hom.ibe.rsv.lbl.079"><![CDATA[회원아이디]]></entry>
+<entry key="hom.ibe.rsv.lbl.111"><![CDATA[결제방식]]></entry>
+<entry key="hom.ibe.rsv.lbl.078"><![CDATA[YYYYMMDD (예. 19820626)]]></entry>
+<entry key="hom.ibe.rsv.lbl.110"><![CDATA[환불 불가 금액]]></entry>
+<entry key="hom.ibe.rsv.lbl.077"><![CDATA[여자]]></entry>
+<entry key="hom.ibe.rsv.lbl.076"><![CDATA[남자]]></entry>
+<entry key="hom.ibe.rsv.lbl.075"><![CDATA[성별]]></entry>
+<entry key="hom.ibe.rsv.lbl.074"><![CDATA[이름]]></entry>
+<entry key="hom.ibe.rsv.lbl.073"><![CDATA[성]]></entry>
+<entry key="hom.ibe.rsv.lbl.072"><![CDATA[성명]]></entry>
+<entry key="hom.ibe.rsv.lbl.071"><![CDATA[*필수입력]]></entry>
+<entry key="hom.ibe.rsv.lbl.070"><![CDATA[상세내역]]></entry>
+<entry key="hom.ibe.rsv.lbl.1079"><![CDATA[온라인 선불항공권]]></entry>
+<entry key="hom.ibe.rsv.lbl.1078"><![CDATA[<li></li>]]></entry>
+<entry key="hom.ibe.rsv.lbl.1077"><![CDATA[최종 환불 금액/포인트]]></entry>
+<entry key="hom.ibe.rsv.lbl.1076"><![CDATA[기존 결제금액]]></entry>
+<entry key="hom.ibe.rsv.lbl.1075"><![CDATA[선택]]></entry>
+<entry key="hom.ibe.rsv.lbl.109"><![CDATA[기존 부가서비스 금액]]></entry>
+<entry key="hom.ibe.rsv.loyt.cpn.FR5KBA"><![CDATA[5천원 할인(프리미엄)]]></entry>
+<entry key="hom.ibe.rsv.lbl.1074"><![CDATA[구간]]></entry>
+<entry key="hom.ibe.rsv.lbl.108"><![CDATA[환불 불가 부가서비스]]></entry>
+<entry key="hom.ibe.rsv.lbl.1073"><![CDATA[포인트 구매는 {0} 포인트 단위로 구매 하실 수 있습니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.107"><![CDATA[환불 위약금]]></entry>
+<entry key="hom.ibe.rsv.lbl.1072"><![CDATA[포인트 구매 한도 초과 입니다. 구매 가능 포인트를 확인해주세요.]]></entry>
+<entry key="hom.ibe.rsv.kb.card.info"><![CDATA[<li>[KB국민 Easy fly 티타늄카드 부가서비스 즉시 할인 관련 안내]</li>
+			<li>할인 전 부가서비스 구매금액 기준 총 1만원 초과시에 한하여, 결제 건당 1만원 즉시 할인 적용됩니다.</li>
+			<li>KB국민 Easy fly 티타늄카드로 결제 시에만 적용됩니다.</li>
+			<li>서비스 제공 가능 여부는 최종 결제 시 KB국민카드에서 검증하며, 제공 불가시 예약/구매 절차가 초기화될 수 있으므로 유의하시기 바랍니다.</li>
+			<li>KB국민 Easy fly 티타늄카드의 항공권 청구할인 서비스는 본 즉시할인과 중복으로 KB국민카드에서 제공합니다.</li>
+			<li>기타 자세한 사항은 KB국민카드 홈페이지 또는 고객센터(1588-1688)로 확인해주시기 바랍니다.</li>
+			<li>[KB국민 Easy fly 티타늄카드 자세히 보기]</li>
+			<li>준법감시인 심의필 제190610-01849-HPP</li>]]></entry>
+<entry key="hom.ibe.rsv.lbl.106"><![CDATA[최종 환불금액]]></entry>
+<entry key="hom.ibe.rsv.lbl.1071"><![CDATA[최소 구매 가능 포인트는 {0} 포인트 입니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.105"><![CDATA[환불정보]]></entry>
+<entry key="hom.ibe.rsv.lbl.1070"><![CDATA[구매 포인트를 입력해주세요.]]></entry>
+<entry key="hom.ibe.rsv.lbl.104"><![CDATA[변경 수수료]]></entry>
+<entry key="hom.ibe.rsv.lbl.103"><![CDATA[변경 총 운임]]></entry>
+<entry key="hom.ibe.rsv.lbl.102"><![CDATA[기존 총 운임]]></entry>
+<entry key="hom.ibe.rsv.lbl.069"><![CDATA[총 운임]]></entry>
+<entry key="hom.ibe.rsv.lbl.101"><![CDATA[최종 결제금액]]></entry>
+<entry key="hom.ibe.rsv.lbl.068"><![CDATA[세금]]></entry>
+<entry key="hom.ibe.rsv.lbl.100"><![CDATA[할인금액]]></entry>
+<entry key="hom.ibe.rsv.lbl.067"><![CDATA[유류할증료]]></entry>
+<entry key="hom.ibe.rsv.lbl.066"><![CDATA[항공운임]]></entry>
+<entry key="hom.ibe.rsv.lbl.065"><![CDATA[편도운임]]></entry>
+<entry key="hom.ibe.rsv.lbl.064"><![CDATA[잔여 {0} 석!]]></entry>
+<entry key="hom.ibe.rsv.loyt.cpn.SM10KME"><![CDATA[1만원 할인(S요금제)]]></entry>
+<entry key="hom.ibe.rsv.lbl.063"><![CDATA[예약마감]]></entry>
+<entry key="hom.ibe.rsv.lbl.062"><![CDATA[기타안내]]></entry>
+<entry key="hom.ibe.rsv.lbl.061"><![CDATA[유효기간 연장]]></entry>
+<entry key="hom.ibe.rsv.lbl.060"><![CDATA[예약부도(NO-SHOW) 위약금]]></entry>
+<entry key="hom.ibe.rsv.loyt.miles"><![CDATA[마일]]></entry>
+<entry key="hom.ibe.rsv.lbl.1069"><![CDATA[1 포인트 이상 입력하세요.]]></entry>
+<entry key="hom.ibe.ocb.fail.subTit"><![CDATA[회원님의 OK캐쉬백 포인트 적립 요청 건은 다음 사항 중 하나에 해당되어 처리되지 않았습니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.1068"><![CDATA[결제]]></entry>
+<entry key="hom.ibe.rsv.lbl.1067"><![CDATA[위 내용을 확인하였고, 이에 동의합니다.]]></entry>
+<entry key="hom.ibe.rsv.lbl.1065"><![CDATA[일시불]]></entry>
+<entry key="hom.ibe.rsv.lbl.1064"><![CDATA[할부개월]]></entry>
+<entry key="hom.ibe.rsv.lbl.1063"><![CDATA[카드 종류]]></entry>
+<entry key="hom.ibe.rsv.lbl.1062"><![CDATA[신용카드]]></entry>
+<entry key="hom.ibe.rsv.lbl.1061"><![CDATA[※ 포인트 구매 및 환불 안내]]></entry>
+<entry key="hom.ibe.rsv.lbl.1060"><![CDATA[결제금액]]></entry>
+<entry key="hom.ibe.rsv.lbl.059"><![CDATA[환불/취소]]></entry>
+<entry key="hom.ibe.rsv.lbl.058"><![CDATA[나비포인트]]></entry>
+<entry key="hom.ibe.rsv.lbl.057"><![CDATA[할인]]></entry>
+<entry key="hom.ibe.rsv.lbl.main"><![CDATA[메인]]></entry>
+<entry key="hom.ibe.rsv.lbl.056"><![CDATA[출발 후 환불]]></entry>
+<entry key="hom.ibe.rsv.lbl.055"><![CDATA[출발 전 환불]]></entry>
+<entry key="hom.ibe.rsv.lbl.054"><![CDATA[예약변경]]></entry>
+<entry key="hom.ibe.rsv.lbl.053"><![CDATA[최대 체류기간]]></entry>
+<entry key="hom.ibe.rsv.lbl.052"><![CDATA[구분]]></entry>
+<entry key="hom.ibe.rsv.lbl.051"><![CDATA[보너스 항공권]]></entry>
+<entry key="hom.ibe.rsv.lbl.050"><![CDATA[이코노]]></entry>
+<entry key="hom.ibe.rsv.loyt.cancel.info"><![CDATA[<li>지니쿠폰을 사용한 <span style="text-decoration:underline;">항공권을 환불</span>하는 경우, 사용한 지니쿠폰은 환급되지 않습니다.</li>
+			<li>지니마일/멤버십쿠폰을 사용한 <span style="text-decoration:underline;">항공권을 환불</span>하는 경우, 유효기간 이내의 지니마일/멤버십쿠폰은 환급됩니다.</li>
+			<li>‘복합결제’로 구매한 <span style="text-decoration:underline;">항공권을 환불</span>하는 경우, 환불위약금 및 예약부도위약금은 현금으로 결제한 부분에서 차감됩니다.</li>
+			<li>마일결제’로 구매한 <span style="text-decoration:underline;">항공권을 환불</span>하는 경우, 환불위약금 및 예약부도위약금은 마일로 결제한 부분에서 차감됩니다.</li>
+			<li>부가서비스의 환불 가능 기간이 지난 뒤, 환불하는 경우에는 사용하신 지니마일/멤버십쿠폰이 환급되지 않습니다.<br>각 부가서비스마다 환불 가능 기간이 상이하오니, 홈페이지 내 부가서비스 별 안내 페이지를 확인해주시기 바랍니다.</li>]]></entry>
+<entry key="hom.ibe.rsv.lbl.1059"><![CDATA[금액확인]]></entry>
+<entry key="hom.ibe.rsv.lbl.1058"><![CDATA[구매포인트]]></entry>
+<entry key="hom.ibe.ocb.alert.length"><![CDATA[OK캐쉬백 회원 번호를 확인해 주세요.(16자리 숫자 조합)]]></entry>
+<entry key="hom.ibe.rsv.lbl.1057"><![CDATA[구매 가능 잔여 한도(연간)]]></entry>
+<entry key="hom.ibe.rsv.lbl.1056"><![CDATA[포인트 구매]]></entry>
+<entry key="hom.ibe.rsv.loytCoupon.use.info"><![CDATA[<li>멤버십 쿠폰은 프리미엄 회원에게 제공되는 할인쿠폰 입니다.</li>
+			<li>운임 할인쿠폰, 부가서비스 할인쿠폰 모두 구간별로 적용됩니다.</li>
+			<li>편도 예약의 경우 운임 할인쿠폰 1개, 부가서비스 할인쿠폰 1개 사용 가능하며, 왕복 예약의 경우 운임 할인쿠폰 1개, 부가서비스 할인쿠폰 2개까지 사용 가능합니다.</li>
+			<li>멤버십 쿠폰의 유효기간은 멤버십 가입기간과 동일하며, 가입기간 종료시에는 쿠폰도 만료되어 사용 불가합니다.</li>
+			<li>멤버십 쿠폰의 금액이 항공운임 혹은 부가서비스 결제금액보다 큰 경우, 쿠폰 할인 적용 후 쿠폰의 미적용 잔액은 자동 소멸됩니다.</li>
+			<li>멤버십 쿠폰을 사용한 예약은 여정 변경이 불가합니다. 여정 변경을 희망하시는 경우 취소 후 재구매 부탁 드립니다.</li>
+			<li>멤버십 쿠폰을 적용한 예약을 취소하는 경우, 유효기간이 남아있는 쿠폰은 환급 및 재 사용 가능합니다.</li>
+			<li>부가서비스의 환불 가능 기간이 지난 뒤, 환불을 신청하는 경우에는 사용하신 나비포인트 및 멤버십 쿠폰이 환급되지 않습니다.</li>
+			<li>각 부가서비스마다 환불 가능 기간이 상이하오니, 홈페이지 내 부가서비스 별 안내 페이지를 확인해주시기 바랍니다.</li>]]></entry>
+<entry key="hom.ibe.rsv.lbl.1055"><![CDATA[승객별 선택된 부가서비스 목록]]></entry>
+<entry key="hom.ibe.rsv.lbl.1054"><![CDATA[최종 환불 금액/포인트]]></entry>
+<entry key="hom.ibe.rsv.lbl.1053"><![CDATA[유효기간 만료]]></entry>
+<entry key="hom.ibe.rsv.lbl.1052"><![CDATA[환불 위약금(환불 불가)]]></entry>
+<entry key="hom.ibe.rsv.lbl.1051"><![CDATA[포인트]]></entry>
+<entry key="hom.ibe.rsv.lbl.1050"><![CDATA[현금/카드]]></entry>
+<entry key="hom.ibe.rsv.lbl.049"><![CDATA[세이브]]></entry>
+<entry key="hom.ibe.ocb.try.subTit"><![CDATA[OK캐쉬백 회원 번호를 입력해 주십시오.]]></entry>
+<entry key="hom.ibe.rsv.lbl.048"><![CDATA[슈퍼세이브]]></entry>
+<entry key="hom.ibe.rsv.lbl.047"><![CDATA[온라인특가]]></entry>
+<entry key="hom.ibe.rsv.lbl.046"><![CDATA[지금이순간]]></entry>
+<entry key="hom.ibe.rsv.lbl.wed"><![CDATA[수]]></entry>
+<entry key="hom.ibe.rsv.lbl.045"><![CDATA[슬림한진]]></entry>
+<entry key="hom.ibe.rsv.lyt.mbs.alert.001"><![CDATA[회원번호를 다시 확인해주세요.]]></entry>
+<entry key="hom.ibe.rsv.lbl.044"><![CDATA[진마켓]]></entry>
+<entry key="hom.ibe.rsv.lbl.043"><![CDATA[운임종류]]></entry>
+<entry key="hom.ibe.rsv.lbl.042"><![CDATA[운임규정]]></entry>
+</properties>

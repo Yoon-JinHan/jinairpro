@@ -1,0 +1,379 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+	
+
+	
+	<head>
+		
+		
+		
+		<title>JIN AIR   진에어</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+		
+		<link rel="stylesheet" href="//images.jinair.com/css/default.css"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/common.css"/>
+		
+			
+				
+				
+					<link rel="stylesheet" href="//images.jinair.com/css/font.css"/>
+				
+			
+		
+		<link rel="stylesheet" href="//images.jinair.com/css/layout.css"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/content.css"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/tablet.css" media="all and (max-width:1024px)"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/mobile.css" media="all and (max-width:640px)"/>
+		
+
+		
+		
+
+
+
+
+
+
+<script type="text/javascript">
+ document.domain = 'localhost';
+
+
+var	globalImageServer = 'images.jinair.com';
+var	globalLoginYn = ('Y' == '') ? 'Y' : 'N';
+
+
+var __global__ = __global__ || {};
+__global__ = {
+	
+	imageServer: 'images.jinair.com',
+	loginYn: 'N',
+	accessChannel: '',
+	csrfHeader: 'X-CSRF-TOKEN',
+	csrfToken: '1e433a46-c580-4428-80dd-e8ef3c4f0d4e',
+	isMobile: false,
+	isApp: false,
+	isLoggedIn: false,
+	login: {
+		isLoggedIn: false,
+		type: ''
+	},
+	user: {
+		number: '',
+		gender: '',
+		age: '',
+		nationality: '',
+		level: ''
+	}
+};
+</script>
+
+		
+
+
+<script>
+(function(w,d,s,uri,fn){
+	w[fn] = w[fn] || function(){ var c = {}; c.uri = arguments[0]; c.trackId = arguments[1]; c.opt = arguments[2]; 
+	(w[fn].l=w[fn].l||[]).push(c); }; var o = d.createElement(s); var p = d.getElementsByTagName(s)[0]; o.async = 1; o.src = uri; p.parentNode.insertBefore(o,p);
+})
+(window,document,'script','../js/apm/appinsightor.min.js','ne');
+ne('https://eum.jinair.com/ne.nfl','prd01',{
+	xhr: {use: true},
+	onerror:true,
+	E2E: {
+		use: true,
+		n$apm: '15474568180014|SS!36463@284:1641717263864'
+	},
+	session:{type:'cookie',value:'JSESSIONID'}
+});
+</script>
+
+		<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/pub/front/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/pub/front/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/pub/front/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/pub/front/jquery.cycle.all.min.js"></script>
+		<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/pub/front/jquery.mousewheel.min.js"></script>
+		<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/pub/front/jquery-ui.js"></script>
+		<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/pub/front/swiper.min.js"></script>
+		<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/pub/front/iscroll.js"></script>
+		<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/pub/front/jquery-efuSlider.js"></script>
+		<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/pub/front/jquery-ieSlide.js"></script>
+		<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/pub/front/jquery.plugin.js"></script>
+
+		
+		<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/lj/front/mobileApp.js?key=X-CSRF-TOKEN&val=1e433a46-c580-4428-80dd-e8ef3c4f0d4e"></script>
+
+		
+		<!--[if IE 9]>
+		<link rel="stylesheet" href="//images.jinair.com/css/content.ie9.css"/>
+		<![endif]-->
+		<!--[if lte IE 8]>
+		<link rel="stylesheet" href="//images.jinair.com/css/content.ie8.css?v="/>
+		<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/pub/front/respond.min.js"></script>
+		<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/pub/front/jquery-ui.ie8.js"></script>
+		<![endif]-->
+
+		
+		
+
+<meta http-equiv="content-language" content="ko-kr" />
+<meta name="keywords" content="진에어, JINAIR, 항공사, 진에어항공, 저비용항공사, 해외여행, 항공권, 항공권예매, 항공권예약, 진에어예약, 국내항공권예약, 국내선, 얼리버드, 특가항공권, 항공권특가, 제주도항공권, 국제선항공권, 부산항공권, 지니스토어, 온라인쇼핑몰, 대구항공권, 광주항공권, 포항항공권, 울산항공권, 여수항공권" />
+<meta name="description" content="국내선 최다 운항 대한민국 대표 LCC 진에어, 집에서 즐기는 기내식 등 종합쇼핑몰 지니스토어" />
+<meta property="og:type" content="website">
+<meta property="og:title" content="JIN AIR   진에어">
+<meta property="og:description" content="국내선 최다 운항 대한민국 대표 LCC 진에어, 집에서 즐기는 기내식 등 종합쇼핑몰 지니스토어">
+<meta property="og:image" content="https://www.jinair.com/images/layout/logo.png">
+<meta property="og:url" content="https://www.jinair.com">
+
+<link rel="alternate" href="https://www.jinair.com/ko_KR/" hreflang="ko-kr" />
+<link rel="alternate" href="https://www.jinair.com/en_US/" hreflang="en-us" />
+<link rel="alternate" href="https://www.jinair.com/ja_JP/" hreflang="ja-jp" />
+<link rel="alternate" href="https://www.jinair.com/zh_CN/" hreflang="zh-cn" />
+<link rel="alternate" href="https://www.jinair.com/zh_TW/" hreflang="zh-tw" />
+<link rel="alternate" href="https://www.jinair.com/" hreflang="x-default" />
+
+<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/lib/front/js.cookie.js"></script>
+<!-- Global site tag (gtag.js) - AdWords: 800742375 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-800742375"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+	dataLayer.push(arguments);
+}
+gtag('js', new Date());
+gtag('config', 'AW-800742375');
+</script>
+
+	</head>
+
+	
+	<body>
+		
+		
+<div id="wrapper" class="gateWrap">
+	<div id="container">
+		<p class="logo">JINAIR</p>
+		<h1>
+			거주하시는 <strong>지역</strong> 및 <strong>언어</strong>를 선택하여 주세요.<br/>
+			<span class="eng">Select your Region and Language</span>
+		</h1>
+		<fieldset>
+			<p>
+				<label for="region">거주 지역 (Region)</label>
+				<select name="region" id="region"></select>
+			</p>
+			<p>
+				<label for="lang">언어 (Language)</label>
+				<select name="lang" id="lang"></select>
+			</p>
+			<button id="btnConfirm" class="btnTypeA sizeL">확인</button>
+		</fieldset>
+	</div>
+</div>
+
+<script type="text/javascript">
+var country	= '';
+
+$(window).ready(function() {
+	country	= JSON.parse('[{"ctrNmKor":"한국","ctrNmEng":"REPUBLIC OF KOREA","ctrPop":"KR","ctrCd":"KOR","langList":[{"stSeq":10,"langNm":"한국어","langCd":"KOR|ko|ko_KR"}]},{"ctrNmKor":"일본","ctrNmEng":"JAPAN","ctrPop":"JP","ctrCd":"JPN","langList":[{"stSeq":30,"langNm":"日本語","langCd":"JPN|ja|ja_JP"}]},{"ctrNmKor":"대만","ctrNmEng":"TAIWAN","ctrPop":"TW","ctrCd":"TWN","langList":[{"stSeq":50,"langNm":"中文繁體","langCd":"CHT|zh-Hant|zh_TW"}]},{"ctrNmKor":"라오스","ctrNmEng":"LAOS","ctrPop":"LA","ctrCd":"LAO","langList":[{"stSeq":20,"langNm":"ENGLISH","langCd":"ENG|en|en_US"}]},{"ctrNmKor":"마카오","ctrNmEng":"MACAO","ctrPop":"HK","ctrCd":"MAC","langList":[{"stSeq":50,"langNm":"中文繁體","langCd":"CHT|zh-Hant|zh_TW"}]},{"ctrNmKor":"말레이시아","ctrNmEng":"MALAYSIA","ctrPop":"MY","ctrCd":"MYS","langList":[{"stSeq":20,"langNm":"ENGLISH","langCd":"ENG|en|en_US"}]},{"ctrNmKor":"미국","ctrNmEng":"U S A","ctrPop":"US","ctrCd":"USA","langList":[{"stSeq":20,"langNm":"ENGLISH","langCd":"ENG|en|en_US"}]},{"ctrNmKor":"베트남","ctrNmEng":"VIET NAM","ctrPop":"VN","ctrCd":"VNM","langList":[{"stSeq":20,"langNm":"ENGLISH","langCd":"ENG|en|en_US"}]},{"ctrNmKor":"중국","ctrNmEng":"MAINLAND CHINA","ctrPop":"CN","ctrCd":"CHN","langList":[{"stSeq":40,"langNm":"简体","langCd":"CHN|zh-Hans|zh_CN"}]},{"ctrNmKor":"태국","ctrNmEng":"THAILAND","ctrPop":"TH","ctrCd":"THA","langList":[{"stSeq":20,"langNm":"ENGLISH","langCd":"ENG|en|en_US"}]},{"ctrNmKor":"필리핀","ctrNmEng":"PHILIPPINES","ctrPop":"US","ctrCd":"PHL","langList":[{"stSeq":20,"langNm":"ENGLISH","langCd":"ENG|en|en_US"}]},{"ctrNmKor":"호주","ctrNmEng":"AUSTRALIA","ctrPop":"US","ctrCd":"AUS","langList":[{"stSeq":20,"langNm":"ENGLISH","langCd":"ENG|en|en_US"}]},{"ctrNmKor":"홍콩","ctrNmEng":"HONG KONG","ctrPop":"HK","ctrCd":"HKG","langList":[{"stSeq":50,"langNm":"中文繁體","langCd":"CHT|zh-Hant|zh_TW"}]}]');
+
+	if ('KOR' == 'KOR') {
+		// 한국을 최상단으로, 나머지는 한글 국가명 ASC
+		var	korJson	= {};
+		var	etcJson	= [];
+		for (var i = 0; i < country.length; i++) {
+			if ('KOR' == country[i].ctrCd) {
+				korJson	= country[i];
+			} else {
+				etcJson.push(country[i]);
+			}
+		}
+
+		etcJson.sort(customSortKor);
+
+		country	= [];
+		country[0]	= korJson;
+
+		for (var i = 0; i < etcJson.length; i++) {
+			country[i + 1]	= etcJson[i];
+		}
+	} else {
+		// 영문 국가명 ASC
+		country.sort(customSortEng);
+	}
+
+	$('#region').change(function() {
+		var	ctrCd	= $('#region option:selected').val();
+		var	langCd	= Cookies.get('foLangCd') + '|' + Cookies.get('foLang') + '|' + Cookies.get('foLangCountry');
+
+		for (var i = 0; i < country.length; i++) {
+			if (ctrCd == country[i].ctrCd + '|' + country[i].ctrPop) {
+				$('#lang').empty();
+
+				var	orderedLangList	= country[i].langList;
+				orderedLangList.sort(customSortSeq);
+
+				for (var j = 0; j < orderedLangList.length; j++) {
+					var	selected	= "";
+
+					if (langCd == orderedLangList[j].langCd) {
+						selected	= ' selected="selected"';
+					}
+
+					$('#lang').append('<option value="' + orderedLangList[j].langCd + '"' + selected + '>' + orderedLangList[j].langNm + '</option>');
+				}
+			}
+		}
+	});
+
+	$('#lang').change(function() {
+		$('#btnConfirm').focus();
+	});
+
+	$('#btnConfirm').click(function() {
+		var	ctrCd	= $('#region option:selected').val();
+		var	langCd	= $('#lang option:selected').val();
+		var	ctr		= ctrCd.split('|');
+		var	lang	= langCd.split('|');
+		var	cookies	= ('function' == typeof Cookies.noConflict) ? Cookies.noConflict() : Cookies;
+
+		// remove cookie
+		if(cookies) {
+			cookies.set('foCountry', '', {domain : 'loaclhost', path : '/', expires: 0 });
+			cookies.set('foPop', '', {domain : 'loaclhost', path : '/', expires: 0});
+			cookies.set('foLangCd', '', {domain : 'loaclhost', path : '/', expires: 0});
+			cookies.set('foLang', '', {domain : 'loaclhost', path : '/', expires: 0});
+			cookies.set('foLangCountry', '', {domain : 'loaclhost', path : '/', expires: 0});
+		}
+		
+		var bssl = document.location.protocol.indexOf("https") >-1;
+		if(bssl) {
+			cookies.set('foCountry', ctr[0], {path : '/', expires: 365,secure :  true, samesite : 'none'});
+			cookies.set('foPop', ctr[1], {path : '/', expires: 365,secure : true, samesite : 'none'});
+			cookies.set('foLangCd', lang[0], {path : '/', expires: 365,secure :  true, samesite : 'none'});
+			cookies.set('foLang', lang[1], {path : '/', expires: 365,secure :  true, samesite : 'none'});
+			cookies.set('foLangCountry', lang[2], {path : '/', expires: 365,secure :  true, samesite : 'none'});
+		} else {
+			cookies.set('foCountry', ctr[0], {path : '/', expires: 365});
+			cookies.set('foPop', ctr[1], {path : '/', expires: 365});
+			cookies.set('foLangCd', lang[0], {path : '/', expires: 365});
+			cookies.set('foLang', lang[1], {path : '/', expires: 365});
+			cookies.set('foLangCountry', lang[2], {path : '/', expires: 365});
+		}
+		doGateSetting(ctr[0], lang[1]);	// mobileApp 연계
+
+		var returnUrl = '/Jinair/jinairfront/www.jinair.com/booking/index.jsp';
+		location.href = returnUrl.replace(/&amp;/g, '&');
+	});
+
+	// fill region select box
+	$('#region').empty();
+
+	for (var i = 0; i < country.length; i++) {
+		var	selected	= "";
+
+		if('KOR' == country[i].ctrCd) {
+			selected	= ' selected="selected"';
+		}
+
+		$('#region').append('<option value="' + country[i].ctrCd + '|' + country[i].ctrPop + '"' + selected + '>' + country[i].ctrNmKor + ' (' + country[i].ctrNmEng + ')' + '</option>');
+	}
+
+	$('#region').trigger('change');
+});
+
+function customSortKor(a, b) {
+	if (a.ctrNmKor == b.ctrNmKor) {
+		return 0;
+	}
+
+	return (a.ctrNmKor > b.ctrNmKor) ? 1 : -1;
+}
+
+function customSortEng(a, b) {
+	if (a.ctrNmEng == b.ctrNmEng) {
+		return 0;
+	}
+
+	return (a.ctrNmEng > b.ctrNmEng) ? 1 : -1;
+}
+
+function customSortSeq(a, b) {
+	if (a.stSeq == b.stSeq) {
+		return 0;
+	}
+
+	return (a.stSeq > b.stSeq) ? 1 : -1;
+}
+</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119908502-1"></script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)
+[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-XXXXXXXX-X', 'auto') ;
+ga('send', 'pageview');
+</script>
+
+
+
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-119908502-1');
+</script>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121107129-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-121107129-1');
+</script>
+
+
+
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '590576527970824');
+fbq('init', '403399370135869');
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=590576527970824&amp;ev=PageView&amp;noscript=1">
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=403399370135869&amp;ev=PageView&amp;noscript=1">
+</noscript>
+
+
+
+	<script type="text/javascript"  src="/Jinair/jinairfront/www.jinair.com/DozU28/o/z/9c7tQechBnFw/uJEbfwQN9mL9/HgAzLVlZ/DAVXQV/IqOxs.html"></script></body>
+</html>

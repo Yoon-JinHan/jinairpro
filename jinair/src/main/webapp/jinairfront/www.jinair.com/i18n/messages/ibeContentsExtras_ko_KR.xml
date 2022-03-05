@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="hom.ibe.ctn.ssr.094"><![CDATA[무료]]></entry>
+<entry key="hom.ibe.ctn.ssr.093"><![CDATA[스페셜밀]]></entry>
+<entry key="hom.ibe.ctn.ssr.092"><![CDATA[키즈밀]]></entry>
+<entry key="hom.ibe.ctn.ssr.091"><![CDATA[밀]]></entry>
+<entry key="hom.ibe.ctn.ssr.090"><![CDATA[- 신청을 취소할 구간을 체크 해제 후 확인 버튼을 누르면 취소가 가능합니다.]]></entry>
+<entry key="hom.ibe.ctn.ssr.lounge.009"><![CDATA[위 이용 안내를 확인하였습니다.]]></entry>
+<entry key="hom.ibe.ctn.ssr.lounge.008"><![CDATA[<li>출발 당일 진에어 탑승권과 사용자명이 일치하여야 이용 가능하며, 본인 확인을 위해 유효한 여권을 소지하여 주시기 바랍니다.<br>또한, 탑승권 및 여권정보가 라운지에 제공 될 수 있습니다.</li>
+		<li>성인/소아/유아 연령 기준은 진에어 항공권 예매 시 기준에 준합니다.</li>
+		<li>구매하신 번들은 출발 24시간 전까지 진에어 고객서비스센터(<a href="tel:1600-6200">1600-6200</a>)를 통해 환불 가능합니다.</li>
+		<li>라운지가 만석인 경우 대기시간이 발생할 수 있사오니, 이점 미리 양해 부탁드립니다.</li>
+		<li>라운지 서비스 실제 운용은 스카이허브에서 제공하며, 운영상의 책임은 스카이허브 (<a href="tel:032-743-4811">032-743-4811</a>)에 있습니다.</li>
+		<li>라운지 사정으로 인하여 이용시간 변경 및 제한이 있을 수 있으니, 사전에 확인하여 주시기 바랍니다.</li>]]></entry>
+<entry key="hom.ibe.ctn.ssr.lounge.007"><![CDATA[라운지 이용 유의사항]]></entry>
+<entry key="hom.ibe.ctn.ssr.lounge.006"><![CDATA[<li>제 1 여객터미널 서편 4F : 07:00 ~ 22:00 <span class="fontTypeF">(07:00 ~ 19:30 운영시간 변경)</span></li>
+<li>제 1 여객터미널 동편 4F : 24시간 운영 (06:00 ~ 07:00, 21:30 ~ 22:00 브레이크 타임) <span class="fontTypeF">(한시적 운영중단)</span></li>
+<li>
+	탑승동 4F: 07:00 ~ 22:00 <span class="fontTypeF">(한시적 운영중단)</span>
+	<ul class="caution typeB">
+		<li>라운지 사정으로 인하여 이용시간 변경 및 제한이 있을 수 있으니, 사전에 확인하여 주시기 바랍니다. (<a href="tel:032-743-4811">032-743-4811</a>)</li>
+	</ul>
+</li>]]></entry>
+<entry key="hom.ibe.ctn.ssr.129"><![CDATA[<strong class="plus">JINI BIZ</strong>좌석 간 간격이 일반석 보다 24cm 더 넓은 비즈니스 좌석]]></entry>
+<entry key="hom.ibe.ctn.ssr.lounge.005"><![CDATA[운영 시간]]></entry>
+<entry key="hom.ibe.ctn.ssr.128"><![CDATA[43열F 오른쪽]]></entry>
+<entry key="hom.ibe.ctn.ssr.lounge.004"><![CDATA[<li>제 1 여객터미널 서편 4F: 42번 GATE 맞은 편</li>
+		<li>제 1 여객터미널 동편 4F: 11번 GATE 맞은 편</li>
+		<li>탑승동 중앙 4F : 115번 GATE</li>]]></entry>
+<entry key="hom.ibe.ctn.ssr.127"><![CDATA[43열A 왼쪽]]></entry>
+<entry key="hom.ibe.ctn.ssr.lounge.003"><![CDATA[위치]]></entry>
+<entry key="hom.ibe.ctn.ssr.126"><![CDATA[<strong class="standardB">앞좌석</strong>일반 좌석 중 앞쪽에 위치하여 빠른 하기가 가능한 좌석]]></entry>
+<entry key="hom.ibe.ctn.ssr.lounge.002"><![CDATA[서울/인천공항 출발 시 스카이 허브 라운지를 이용 가능합니다.]]></entry>
+<entry key="hom.ibe.ctn.ssr.125"><![CDATA[<strong class="standardB">복도석</strong>일반 좌석 중 C,D열의 복도에 위치한 좌석]]></entry>
+<entry key="hom.ibe.ctn.ssr.lounge.001"><![CDATA[라운지 이용 안내]]></entry>
+<entry key="hom.ibe.ctn.ssr.124"><![CDATA[<strong class="standardB">가운데석</strong>일반 좌석 중 B,E열의 가운데에 위치한 좌석]]></entry>
+<entry key="hom.ibe.ctn.ssr.123"><![CDATA[<strong class="standardA">창가석</strong>일반 좌석 중 A,F열의 창가에 위치한 좌석]]></entry>
+<entry key="hom.ibe.ctn.ssr.029"><![CDATA[성인 및 소아 (만 2세 이상)]]></entry>
+<entry key="hom.ibe.ctn.ssr.122"><![CDATA[*소아는 위 요금(성인)에서 20% 할인 됩니다.]]></entry>
+<entry key="hom.ibe.ctn.ssr.028"><![CDATA[무료 위탁 수하물 허용량]]></entry>
+<entry key="hom.ibe.ctn.ssr.121"><![CDATA[전용 체크인 카운터]]></entry>
+<entry key="hom.ibe.ctn.ssr.027"><![CDATA[무료 수하물 / 무료 기내식 안내]]></entry>
+<entry key="hom.ibe.ctn.ssr.120"><![CDATA[스카이허브라운지 이용권]]></entry>
+<entry key="hom.ibe.ctn.ssr.026"><![CDATA[전좌석]]></entry>
+<entry key="hom.ibe.ctn.ssr.025"><![CDATA[베이직 번들 외]]></entry>
+<entry key="hom.ibe.ctn.ssr.089"><![CDATA[- 신청할 여정 체크 후 확인 버튼을 누르면 신청이 가능합니다.]]></entry>
+<entry key="hom.ibe.ctn.ssr.024"><![CDATA[자세히 보기]]></entry>
+<entry key="hom.ibe.ctn.ssr.088"><![CDATA[전좌석<br>(지니플러스시트 제외)]]></entry>
+<entry key="hom.ibe.ctn.ssr.023"><![CDATA[무료 수하물 / 무료 기내식]]></entry>
+<entry key="hom.ibe.ctn.ssr.087"><![CDATA[2차]]></entry>
+<entry key="hom.ibe.ctn.ssr.022"><![CDATA[간편 기내식 안내]]></entry>
+<entry key="hom.ibe.ctn.ssr.086"><![CDATA[1차]]></entry>
+<entry key="hom.ibe.ctn.ssr.021"><![CDATA['무료 기내식'이 기본 제공되며, 유료 기내식은 추가로 제공 됩니다.]]></entry>
+<entry key="hom.ibe.ctn.ssr.085"><![CDATA[무료 기내식]]></entry>
+<entry key="hom.ibe.ctn.ssr.020"><![CDATA[<li class="import"><strong>카테고리별 부가서비스 선택 후 ‘선택완료’ 한 내용만 신청됩니다.</strong></li>
+		<li>만 19세 미만의 승객이 포함된 경우 자동체크인 서비스 이용이 불가합니다.</li>
+		<li>결제 페이지로 이동 후에는 뒤로 이동이 불가합니다.</li>
+		<li>결제 완료 후 마이페이지를 통해 부가서비스를 추가로 구매하실 수 있습니다.<br>(단, 스마트플러스번들 및 초과수하물 기 구매 고객께서는 고객서비스센터를 통해서만 초과수하물 추가 구매가 가능합니다.)</li>
+		<li>항공기 기종과 스케줄은 사전예고 없이 변경될 수 있으며, 이 경우 사전구매하신 좌석이 변경될 수 있습니다.</li>
+		<li>좌석 전면 격벽 유무는 환불 사유로 인정되지 않으니 구매 시 유의하시기 바랍니다.</li>]]></entry>
+<entry key="hom.ibe.ctn.ssr.084"><![CDATA[무료 수하물]]></entry>
+<entry key="hom.ibe.ctn.ssr.083"><![CDATA[지니프론트]]></entry>
+<entry key="hom.ibe.ctn.ssr.082"><![CDATA[일부 노선 제외]]></entry>
+<entry key="hom.ibe.ctn.ssr.081"><![CDATA[선택하신 부가서비스가 없습니다.]]></entry>
+<entry key="hom.ibe.ctn.ssr.080"><![CDATA[51열K 앞 오른쪽]]></entry>
+<entry key="hom.ibe.ctn.ssr.119"><![CDATA[지니스탠다드 A/B]]></entry>
+<entry key="hom.ibe.ctn.ssr.118"><![CDATA[<strong class="fast">지니패스트</strong>항공기 앞쪽에 위치하여 빠른 하기가 가능한 좌석]]></entry>
+<entry key="hom.ibe.ctn.ssr.117"><![CDATA[<strong class="standardB">지니스탠다드 B</strong>일반 좌석 중 뒤쪽에 위치한 좌석]]></entry>
+<entry key="hom.ibe.ctn.ssr.116"><![CDATA[<strong class="standardA">지니스탠다드 A</strong>일반 좌석 중 앞쪽에 위치한 좌석]]></entry>
+<entry key="hom.ibe.ctn.ssr.115"><![CDATA[2개, 23KG 이하 (최대 세변의 합이 각 158cm 이내, 2개의 합이 273cm 이하)]]></entry>
+<entry key="hom.ibe.ctn.ssr.114"><![CDATA[하와이]]></entry>
+<entry key="hom.ibe.ctn.ssr.113"><![CDATA[수하물 안내]]></entry>
+<entry key="hom.ibe.ctn.ssr.019"><![CDATA[비상구에 위치한 좌석]]></entry>
+<entry key="hom.ibe.ctn.ssr.112"><![CDATA[<strong>미주 노선(괌, 호놀룰루 등)의 경우, '개수' 합산만 가능</strong>하며 각 수하물의 무게와 크기는  무료 수하물 허용량을 초과할 수 없습니다.]]></entry>
+<entry key="hom.ibe.ctn.ssr.018"><![CDATA[첫 번째 열에 위치한 좌석]]></entry>
+<entry key="hom.ibe.ctn.ssr.111"><![CDATA[한 가방의 무게는 32kg 이하로 제한됩니다.]]></entry>
+<entry key="hom.ibe.ctn.ssr.017"><![CDATA[좌석 간 간격 +15cm 빠른 수하물 찾기 가능]]></entry>
+<entry key="hom.ibe.ctn.ssr.110"><![CDATA[함께 탑승하는 동승자간 수하물 허용량 합산이 가능합니다.]]></entry>
+<entry key="hom.ibe.ctn.ssr.016"><![CDATA[운송불가]]></entry>
+<entry key="hom.ibe.ctn.ssr.015"><![CDATA[요금안내]]></entry>
+<entry key="hom.ibe.ctn.ssr.079"><![CDATA[51열A 앞 왼쪽]]></entry>
+<entry key="hom.ibe.ctn.ssr.014"><![CDATA[허용 마리수]]></entry>
+<entry key="hom.ibe.ctn.ssr.078"><![CDATA[31열K 앞 오른쪽]]></entry>
+<entry key="hom.ibe.ctn.ssr.013"><![CDATA[반입기준]]></entry>
+<entry key="hom.ibe.ctn.ssr.077"><![CDATA[31열A 앞 왼쪽]]></entry>
+<entry key="hom.ibe.ctn.ssr.012"><![CDATA[허용동물]]></entry>
+<entry key="hom.ibe.ctn.ssr.076"><![CDATA[비행기 가장 뒤의 오른쪽]]></entry>
+<entry key="hom.ibe.ctn.ssr.011"><![CDATA[기내 반려동물 동반 서비스 신청/취소</strong>하시겠습니까?]]></entry>
+<entry key="hom.ibe.ctn.ssr.075"><![CDATA[비행기 가장 뒤의 왼쪽]]></entry>
+<entry key="hom.ibe.ctn.ssr.010"><![CDATA[농림수산식품부령 동물보호법 시행규칙에 명시된 맹견류 및 공격성향을 보이는 애완동물은 수하물로 운송이 불가<br>- 도사견과 그 잡종의 개 / 아메리칸 핏불 테리어와 그 잡종의 개 / 아메리칸 스태퍼드셔 테리어와 그 잡종의 개<br>- 스태퍼드셔 불 테리어와 그 잡종의 개 / 로트와일러와 그 잡종의 개 등]]></entry>
+<entry key="hom.ibe.ctn.ssr.074"><![CDATA[42열F 오른쪽]]></entry>
+<entry key="hom.ibe.ctn.ssr.073"><![CDATA[42열A 왼쪽]]></entry>
+<entry key="hom.ibe.ctn.ssr.072"><![CDATA[베이직]]></entry>
+<entry key="hom.ibe.ctn.ssr.071"><![CDATA[<li>오사카/후쿠오카/기타큐슈/상하이/시안/우시 노선은 무료 기내식이 제공되지 않습니다.</li>
+		<li>장거리 노선의 1차 제공 기내식은 Hot-Meal 이며, 상기 품목 외 케익 등이 추가로 제공됩니다.</li>
+		<li>일부 노선은 계절에 따라 일부 품목이 변경되어 제공됩니다.</li>
+		<li>항공사 사정에 의해 사전 고지 없이 메뉴가 변경될 수 있습니다.</li>]]></entry>
+<entry key="hom.ibe.ctn.ssr.070"><![CDATA[햄치즈 샌드위치]]></entry>
+<entry key="hom.ibe.ctn.ssr.109"><![CDATA[무료 수하물 허용량 합산]]></entry>
+<entry key="hom.ibe.ctn.ssr.108"><![CDATA[신청 내역 및 유의사항을 확인하였습니다.]]></entry>
+<entry key="hom.ibe.ctn.ssr.107"><![CDATA[* 항공기 기종에 따라 좌석 종류가 상이할 수 있습니다.]]></entry>
+<entry key="hom.ibe.ctn.ssr.106"><![CDATA[<strong class="seat">지니스탠다드</strong>일반 좌석 중 항공기 뒤쪽 ZONE]]></entry>
+<entry key="hom.ibe.ctn.ssr.105"><![CDATA[<strong class="noRecNew">비상구열 (등받이 고정)</strong>	비상구 부근에 위치하여 넓은 공간을 이용할 수 있는 좌석<br>(비상상황 발생 시 통로 확보를 위해 등받이가 고정된 좌석)]]></entry>
+<entry key="hom.ibe.ctn.ssr.104"><![CDATA[<strong class="exit">비상구열</strong>비상구 부근에 위치하여 넓은 공간을 이용할 수 있는 좌석 <br>(비상 시 승무원을 도와 승객 대피 지원 가능 시에만 착석 가능)]]></entry>
+<entry key="hom.ibe.ctn.ssr.103"><![CDATA[<strong class="stretch">지니스트레치</strong>첫번째 열에 위치해 넓은 공간을 이용할 수 있어 보다 편안한 비행을 즐길 수 있는 좌석]]></entry>
+<entry key="hom.ibe.ctn.ssr.009"><![CDATA[- 국내선 : 10,000원<br>- 국제선 : 노선별 초과수하물 요금/중량 기준에 따라 차등 지불 (공항 결제)]]></entry>
+<entry key="hom.ibe.ctn.ssr.102"><![CDATA[<strong class="front">지니프론트</strong>일반 좌석 중 항공기 앞쪽 ZONE]]></entry>
+<entry key="hom.ibe.ctn.ssr.008"><![CDATA[1인 1마리<br>(항공기 당 최대 4마리)]]></entry>
+<entry key="hom.ibe.ctn.ssr.101"><![CDATA[<strong class="plus">지니플러스</strong>좌석 간격이 일반석 보다 15cm 더 넓어 편안한 비행을 즐길 수 있고, 빠른 수하물 수취 서비스가 제공되는 좌석]]></entry>
+<entry key="hom.ibe.ctn.ssr.007"><![CDATA[1인 1마리<br>(항공기 당 최대 3마리)]]></entry>
+<entry key="hom.ibe.ctn.ssr.100"><![CDATA[좌석안내]]></entry>
+<entry key="hom.ibe.ctn.ssr.006"><![CDATA[1) 반려동물과 운송 용기 무게의 합이 5kg 이하<br>2) 운송 용기의 가로, 세로, 높이의 총 합이 115cm 이하]]></entry>
+<entry key="hom.ibe.ctn.ssr.005"><![CDATA[개 / 새 / 고양이 (생후 8주 이상)]]></entry>
+<entry key="hom.ibe.ctn.ssr.004"><![CDATA[<li>기내 반려동물 동반 서비스를 신청한 경우라도 아래의 반입 기준에 따라 공항에서 운송이 거절될 수 있으니 신청 전 반입기준을 반드시 확인하여 주시기 바랍니다. (자세히 보기 : <a href="/ready/help?directID=help2" target="_blank" title="새창열림" class="fontTypeB line">반려동물 동반 고객 안내사항</a>)</li>
+		<li>사전좌석지정 서비스를 구매한 승객일지라도 반려동물을 동반할 경우 좌석이 변경될 수 있습니다.</li>
+		<li>반려동물 위탁수하물 운송 서비스는 B777 운항 노선에 한정하여 고객서비스센터를 통해서 신청 가능합니다.</li>
+		<li>자세한 사항은 홈페이지 내 <a href="/ready/help?directID=help2" target="_blank" title="새창열림" class="fontTypeB line">반려동물 동반 고객 안내사항</a> 내용을 참고 하시거나 고객서비스센터(1600-6200) 로 문의하여 주시기 바랍니다.</li>
+		<li>신청 취소를 원하시는 경우 신청 팝업 내에서 선택을 해제 해주시기 바랍니다.</li>]]></entry>
+<entry key="hom.ibe.ctn.ssr.069"><![CDATA[데리야끼덮밥]]></entry>
+<entry key="hom.ibe.ctn.ssr.003"><![CDATA[지니 엔터테인먼트와 함께 즐거운 비행시간]]></entry>
+<entry key="hom.ibe.ctn.ssr.068"><![CDATA[헝가리안비프<br>또는<br>갈비찜]]></entry>
+<entry key="hom.ibe.ctn.ssr.002"><![CDATA[유상판매 제품은 한 승객이 다중 선택 가능합니다.]]></entry>
+<entry key="hom.ibe.ctn.ssr.067"><![CDATA[케언스]]></entry>
+<entry key="hom.ibe.ctn.ssr.001"><![CDATA[기내식은 한 승객이 다중 선택 가능합니다.]]></entry>
+<entry key="hom.ibe.ctn.ssr.066"><![CDATA[스팸무수비<br>DOLE 과일컵]]></entry>
+<entry key="hom.ibe.ctn.ssr.065"><![CDATA[자주 묻는 질문(FAQ)]]></entry>
+<entry key="hom.ibe.ctn.ssr.064"><![CDATA[지니키친 (사전주문기내식)]]></entry>
+<entry key="hom.ibe.ctn.ssr.063"><![CDATA[* 참고]]></entry>
+<entry key="hom.ibe.ctn.ssr.062"><![CDATA[<li>상기 메뉴는 2019년 7월 1일 기준이며, 상기 외 노선은 무료기내식이 제공되지 않습니다.</li>
+		<li>노선, 계절, 운항 상황에 따라 사전 고지 없이 메뉴가 변경될 수 있는 점 양지 바랍니다.</li>
+		<li>특정 식품에 대한 알레르기 또는 유사 증상이 있으신 경우 고객서비스센터 또는 객실승무원에게 문의 및 의사와 상담 후 취식 여부를 결정하여 주시기 바랍니다. [고객서비스센터 대표번호 : 1600-6200, 02-6099-1200]</li>
+		<li>진에어에서 제공하는 기내식은 실제 땅콩을 사용하지 않았더라도 조리 과정에서 땅콩 성분이 함유된 식용유, 식재료 등이 포함될 수 있으며, 다른 승객의 소지 및 취식을 제한할 수 없습니다. 이에 땅콩 알레르기 혹은 유사 증상이 있으신 승객께서는 여행 가능 여부를 의사와 상의하여 주시기 바랍니다.</li>]]></entry>
+<entry key="hom.ibe.ctn.ssr.061"><![CDATA[* 유의사항]]></entry>
+<entry key="hom.ibe.ctn.ssr.060"><![CDATA[쉬림프 굴라쉬<br>과일<br>스팸 무스비]]></entry>
+<entry key="hom.ibe.ctn.ssr.059"><![CDATA[라조 치킨<br>코코넛 케이크<br>머핀<br>요거트]]></entry>
+<entry key="hom.ibe.ctn.ssr.058"><![CDATA[하와이/호놀룰루(HNL)]]></entry>
+<entry key="hom.ibe.ctn.ssr.057"><![CDATA[장거리<br>(7시간 이상)]]></entry>
+<entry key="hom.ibe.ctn.ssr.056"><![CDATA[샌드위치<br>요거트]]></entry>
+<entry key="hom.ibe.ctn.ssr.055"><![CDATA[참치롤<br>동그랑땡<br>불갈비차슈<br>파스타 샐러드]]></entry>
+<entry key="hom.ibe.ctn.ssr.054"><![CDATA[다낭(DAD)<br>방콕(BKK)<br>비엔티안(VTE)<br>세부(CEB)<br>조호르바루(JHB)<br>코타키나발루(BKI)<br>푸껫(HKT)<br>하노이(HAN)<br>홍콩(HKG)]]></entry>
+<entry key="hom.ibe.ctn.ssr.053"><![CDATA[중거리<br>(4시간 ~ 7시간)]]></entry>
+<entry key="hom.ibe.ctn.ssr.052"><![CDATA[요거트<br>대니쉬<br>쿠키]]></entry>
+<entry key="hom.ibe.ctn.ssr.051"><![CDATA[삼각김밥<br>머핀<br>염지란]]></entry>
+<entry key="hom.ibe.ctn.ssr.050"><![CDATA[괌(GUM)<br>도쿄/나리타(NRT)<br>마카오(MFM)<br>보라카이/칼리보(KLO)<br>삿포로(CTS)<br>오키나와(OKA)<br>클락(CRK)<br>타이베이/타오위안(TPE)]]></entry>
+<entry key="hom.ibe.ctn.ssr.049"><![CDATA[단거리<br>(4시간 미만)]]></entry>
+<entry key="hom.ibe.ctn.ssr.048"><![CDATA[한국 도착편]]></entry>
+<entry key="hom.ibe.ctn.ssr.047"><![CDATA[한국 출발편]]></entry>
+<entry key="hom.ibe.ctn.ssr.046"><![CDATA[노선]]></entry>
+<entry key="hom.ibe.ctn.ssr.045"><![CDATA[구분]]></entry>
+<entry key="hom.ibe.ctn.ssr.044"><![CDATA[구분, 노선, 한국 출발편, 한국 도착편 순으로 나타낸 무료 기내식 표입니다.]]></entry>
+<entry key="hom.ibe.ctn.ssr.043"><![CDATA[무료 기내식]]></entry>
+<entry key="hom.ibe.ctn.ssr.042"><![CDATA[세변의 합이 115cm, 10Kg 이하의 수하물 1개 및 접는 유모차 1개 또는 유아용 카시트 1개(총2개)]]></entry>
+<entry key="hom.ibe.ctn.ssr.041"><![CDATA[국제선]]></entry>
+<entry key="hom.ibe.ctn.ssr.040"><![CDATA[접는 유모차, 유아용 카시트 중 1개]]></entry>
+<entry key="hom.ibe.ctn.ssr.039"><![CDATA[국내선]]></entry>
+<entry key="hom.ibe.ctn.ssr.038"><![CDATA[유아 (만 2세 미만)]]></entry>
+<entry key="hom.ibe.ctn.ssr.037"><![CDATA[유아의 무료 위탁 수하물 노선별 제한 용량 안내]]></entry>
+<entry key="hom.ibe.ctn.ssr.036"><![CDATA[1개, 23kg 이하 (최대 세변의 합이 158cm 이내)]]></entry>
+<entry key="hom.ibe.ctn.ssr.035"><![CDATA[케언스]]></entry>
+<entry key="hom.ibe.ctn.ssr.099"><![CDATA[※ 2019년 7월 26일(탑승일)부터 괌노선의 무료 위탁 수하물 허용량이 아래와 같이 변경되오니,참고하여주시기 바랍니다. (2019년 7월1일 발권분부터 적용)]]></entry>
+<entry key="hom.ibe.ctn.ssr.034"><![CDATA[1개, 23KG 이하 (최대 세변의 합이 각 158cm 이내)]]></entry>
+<entry key="hom.ibe.ctn.ssr.098"><![CDATA[추가제공]]></entry>
+<entry key="hom.ibe.ctn.ssr.033"><![CDATA[괌]]></entry>
+<entry key="hom.ibe.ctn.ssr.097"><![CDATA[기본제공]]></entry>
+<entry key="hom.ibe.ctn.ssr.032"><![CDATA[중국]]></entry>
+<entry key="hom.ibe.ctn.ssr.096"><![CDATA[추가<br>제공]]></entry>
+<entry key="hom.ibe.ctn.ssr.031"><![CDATA[동남아/일본/홍콩/마카오/대만]]></entry>
+<entry key="hom.ibe.ctn.ssr.095"><![CDATA[기본<br>제공]]></entry>
+<entry key="hom.ibe.ctn.ssr.030"><![CDATA[국내선]]></entry>
+</properties>

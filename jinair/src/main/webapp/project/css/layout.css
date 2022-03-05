@@ -1,0 +1,161 @@
+@charset "UTF-8";
+
+html,body{width:100%;height:100%;}
+body{-webkit-text-size-adjust:none;}
+#wrapper{position:relative;width:100%;margin:0 auto;}
+#skipNav{position:absolute;z-index:160;top:0;left:0;width:100%;}
+#skipNav a{font-size:1.3em;line-height:1.5em;position:absolute;z-index:200;top:-9999em;left:-9999em;display:block;width:100%;padding:10px 0;text-align:center;color:#fff;background:#817366;}
+#skipNav a:active,#skipNav a:focus{top:0;left:0;}
+
+/* header */
+#header{position:relative;width:100%;height:90px;border-bottom:1px solid #e5e5e5;}
+#header:before{position:absolute;z-index:-1;top:0;right:0;bottom:0;left:0;content:'';background:#fff;}
+#header .topArea{max-width:1160px;height:100%;margin:0 auto;}
+#header.over{z-index:113 !important;}
+#header .logo{position:absolute;overflow:hidden;width:150px;}
+#header .logo a{display:block;width:150px;height:90px;text-indent:-9999px;background:url(https://images.jinair.com/images/layout/logo_02.png) no-repeat center center;}
+#gnb{display:block;margin-left:185px;}
+#gnb:after{display:block;clear:both;content:'';}
+#gnb>li{font-family:'notob';font-size:20px;line-height:90px;float:left;height:90px;margin-left:40px;text-align:center;vertical-align:top;word-wrap:break-word;word-break:break-all;}
+#gnb>li>a{display:inline-block;box-sizing:border-box;height:100%;padding:0 10px;color:#000;}
+#gnb>li.on>a,#gnb>li.over>a{color:#661e43;border-bottom:3px solid #661e43;}
+#gnb>li.off>a{color:#000;border-bottom-width:0;}
+#gnb>li .sub{position:absolute;z-index:10;top:91px;right:0;left:0;display:none;background:#fff;}
+#gnb>li .sub>ul{display:table;width:100%;max-width:1160px;margin:0 auto;table-layout:fixed;background:#fff;}
+#gnb>li .sub>ul>li{font-size:17px;line-height:20px;position:relative;display:table-cell;padding:40px 0 50px;text-align:center;vertical-align:top;}
+#gnb>li .sub>ul>li+li:before{position:absolute;top:20px;left:0;clear:both;height:calc(100% - 40px);content:'';content:'';border-left:1px solid #e8e8e8;}
+#gnb>li .sub>ul>li>a{color:#000;}
+#gnb>li .sub>ul>li>a.icoFold:before,#gnb>li .sub>ul>li>a.icoFold:after{display:none;}
+#gnb>li .sub>ul>li ul{margin-top:15px;}
+#gnb>li .sub>ul>li ul li{font-size:14px;line-height:20px;margin-top:8px;}
+#gnb>li .sub>ul>li.mobile_menu{display:none;}
+#header .global{display:table;float:right;height:90px;}
+#header .util{display:table-cell;vertical-align:middle;}
+#header .util:after{display:block;clear:both;content:'';}
+#header .util>li{line-height:1em;float:left;}
+#header .util li a{color:#555;}
+#header .util>li+li:before{display:inline-block;width:1px;height:9px;margin:-2px 15px 0;content:'';vertical-align:middle;background:#e5e5e5;}
+#header .util li.lang{position:relative;}
+#header .util li.lang>a:after{display:inline-block;width:7px;height:4px;margin:-2px 0 0 12px;content:'';vertical-align:middle;background:url('https://images.jinair.comhttps://images.jinair.com/images/common/ico_blt.png') no-repeat 0 0;}
+
+#header .quick{display:none;}
+.m_gnb_wrap{display:none;}
+
+/* fixed gnb */
+.menuPageFix #header.menuPage{position:fixed;z-index:10;top:0;right:0;left:0;width:100%;margin:0 auto;}
+
+/* container */
+#container{position:relative;max-width:1160px;margin:0 auto;padding:0 20px 190px;}
+.mainIndex #container{max-width:inherit;padding-right:0;padding-left:0;}
+
+/* footer */
+#footer{width:100%;background:#e9e9e9;}
+#footer .head{position:relative;min-height:50px;}
+#footer .head:before{position:absolute;top:0;right:0;bottom:0;left:0;content:'';background:#f8f8f8;}
+#footer .head .wrap{max-width:1120px;margin:0 auto;padding:18px 20px;}
+#footer .head:after,#footer .head .wrap:after{display:block;clear:both;content:'';}
+#footer .head ul{position:relative;}
+#footer .head ul:after{display:block;clear:both;content:'';}
+#footer .head li{font-size:12px;line-height:1em;position:relative;float:left;min-height:16px;}
+#footer .head li strong{font-size:14px;font-weight:bold;}
+#footer .head li:after{display:inline-block;width:1px;height:12px;margin:-2px 11px 0;content:'';vertical-align:middle;background:#dbdbdb;}
+#footer .head li:last-child:after{display:none;}
+#footer .head li ul{position:absolute;z-index:1;top:20px;left:0;display:none;padding:10px 16px;border:1px solid #e9e9e9;background:#fff;box-shadow:5px 5px 5px rgba(150,150,150,.3);}
+#footer .head li li{font-size:13px;float:none;margin-left:0 !important;padding:6px 0;white-space:nowrap;}
+#footer .head li li:after{display:none;}
+#footer .head a{color:#000;}
+#footer .head .quickMenu{position:relative;padding-left:125px;}
+#footer .head .quickMenu h2{font-family:'notob';font-size:16px;line-height:1em;position:absolute;top:0;left:0;margin-top:-3px;color:#000;}
+#footer .head .quickMenu li{margin-left:30px;}
+#footer .head .quickMenu li:after{display:none;}
+#footer .head .quickMenu a{color:#555;}
+#footer .head .quickMenu a strong{color:#000;}
+#footer .head .quickMenu+.quickMenu{margin-top:18px;}
+#footer .content .wrap{position:relative;max-width:740px;margin:0 auto;padding:35px 400px 35px 20px;}
+#footer.sub .content .wrap{padding:35px 400px 102px 20px;}
+#footer .btn{overflow:hidden;height:32px;}
+#footer .btn .sns{float:left;}
+#footer .btn .sns li{float:left;overflow:hidden;width:33px;height:32px;margin-right:7px;background:url(https://images.jinair.com/images/layout/btn_footer.png) no-repeat 0 0;}
+#footer .btn .sns li a{display:block;height:0;padding-top:32px;}
+#footer .btn .sns li.twitter{background-position-x:0;}
+#footer .btn .sns li.facebook{background-position-x:-33px;}
+#footer .btn .sns li.youtube{background-position-x:-66px;}
+#footer .btn .sns li.insta{background-position-x:-99px;}
+#footer .btn .sns li.blog{background-position-x:-132px;}
+#footer .btn .app{float:left;margin-left:30px;}
+#footer .btn .app h2{font-size:12px;float:left;margin:7px 10px 0 0;color:#000;}
+#footer .btn .app ul{float:left;}
+#footer .btn .app li{float:left;overflow:hidden;}
+#footer .btn .app li a{display:block;height:0;background:url(https://images.jinair.com/images/layout/btn_footer.png) no-repeat 0 -33px;}
+#footer .btn .app li.ios a{width:61px;padding-top:32px;background-position-y:-33px;}
+#footer .btn .app li.android{margin-top:7px;margin-left:27px;}
+#footer .btn .app li.android a{width:106px;padding-top:21px;background-position-y:-65px;}
+#footer .btn .app .agent{line-height:32px;margin-left:27px;}
+#footer .btn .app .agent a{font-family:'notob';height:auto;padding-left:38px;color:#000;background-position:-165px 0;}
+#footer .customer{overflow:hidden;margin-top:30px;}
+#footer .customer:first-child{margin-top:-8px;}
+#footer .customer p{font-size:12px;line-height:1em;float:left;margin-top:8px;}
+#footer .customer p a{white-space:nowrap;color:#000;}
+#footer .customer p:after{display:inline-block;width:1px;height:13px;margin:-2px 11px 0;content:'';vertical-align:middle;background:#b8b8b8;}
+#footer .customer p:last-child:after{display:none;}
+#footer .info{overflow:hidden;margin-top:15px;}
+#footer .info p{font-size:11px;font-style:normal;line-height:1em;float:left;margin-top:8px;white-space:nowrap;}
+#footer .info address{font-size:11px;font-style:normal;line-height:1em;float:left;clear:left;margin-top:8px;white-space:nowrap;}
+#footer .info p:after,#footer .info address:after{display:inline-block;width:1px;height:10px;margin:-2px 4px 0 6px;content:'';vertical-align:middle;background:#c6c6c6;}
+#footer .info p:nth-child(4):after,#footer .info p:last-child:after{display:none;}
+#footer .copy{font-size:11px;line-height:1em;margin-top:8px;}
+#footer .newsletter{position:absolute;top:35px;right:20px;width:370px;}
+#footer .newsletter h2{font-size:16px;line-height:1em;height:28px;}
+#footer .newsletter input[type=text]{line-height:18px;width:100%;height:46px;padding:19px 20px;color:#aab3bc;border:0;}
+#footer .newsletter input[type=text]:focus{color:#555;}
+#footer .newsletter a{position:absolute;right:0;bottom:0;overflow:hidden;width:53px;height:0;padding-top:46px;background:url(https://images.jinair.com/images/layout/btn_srch.gif) no-repeat 0 0;}
+#footer .marks{position:absolute;right:20px;bottom:30px;}
+
+/* quick navi */
+.quickNav{min-height:54px;border-bottom:1px solid #e9e9e9;background:#f0f0f0;}
+.quickNav .wrap{position:relative;max-width:1160px;margin:0 auto;padding:0 20px;}
+.quickNav .wrap:after{display:block;clear:both;content:'';}
+.quickNav .setArea{position:relative;float:left;margin-right:40px;padding:0 38px;}
+.quickNav .setArea .prev{position:absolute;top:50%;left:0;overflow:hidden;width:28px;height:0;margin-top:-14px;padding-top:28px;background:url(https://images.jinair.com/images/layout/btn_prev.png) no-repeat 0 0;}
+.quickNav .setArea .next{position:absolute;top:50%;right:0;overflow:hidden;width:28px;height:0;margin-top:-14px;padding-top:28px;background:url(https://images.jinair.com/images/layout/btn_next.png) no-repeat 0 0;}
+.quickNav .slideCont{overflow:hidden;width:340px;padding:0 10px;}
+.quickNav ul{float:left;width:20000px;}
+.quickNav li{float:left;width:auto;height:36px;margin-left:14px;padding:9px 0;}
+.quickNav li:first-child{margin-left:0;}
+.quickNav li a{line-height:36px;color:#000;}
+.quickNav li a:before{display:inline-block;width:36px;height:36px;margin:-2px 12px 0 0;content:'';vertical-align:middle;background:url(https://images.jinair.com/images/layout/btn_footer.png) no-repeat 0 -87px;}
+.quickNav li.set a:before{background-position-x:0;}
+.quickNav li.point a:before{background-position-x:-36px;}
+.quickNav li.coupon a:before{background-position-x:-72px;}
+.quickNav li.reser a:before{background-position-x:-108px;}
+.quickNav .text{line-height:20px;float:left;padding:17px 0;}
+.quickNav .text a{color:#000;}
+.quickSet{display:none;}
+.quickNavFix .quickNav{position:fixed;z-index:10;right:0;bottom:0;left:0;margin-bottom:0;}
+.quickNavFix #container{padding-bottom:257px;}
+
+/* chatbot */
+.chatbot_wrap{position:relative;z-index:1;max-width:1160px;height:60px;margin:0 auto;text-align:right;}
+.chatbot_wrap .chatbot{position:absolute;right:-124px;width:62px;}
+.chatbot_wrap .chatbot .box{margin-top:-74px;}
+.chatbot_wrap .chatbot .box.fixed{position:fixed;bottom:85px;}
+.chatbot_wrap .chatbot .btn{position:relative;padding-top:44px;}
+.chatbot_wrap .chatbot .btn .balloon{position:absolute;top:-4px;left:50%;display:block;margin-left:-84px;}
+@media only screen and (max-width:1530px){
+  .chatbot_wrap .chatbot{right:-80px;}
+}
+@media only screen and (max-width:1430px){
+  .chatbot_wrap .chatbot{right:-40px;}
+}
+@media only screen and (max-width:1350px){
+  .chatbot_wrap .chatbot{right:10px;}
+}
+@media only screen and (max-width:1250px){
+  .chatbot_wrap .chatbot{right:40px;}
+}
+@media only screen and (max-width:1185px){
+  .chatbot_wrap .chatbot{right:50px;}
+}
+@media only screen and (max-width:1160px){
+  .chatbot_wrap .chatbot{right:52px;}
+}

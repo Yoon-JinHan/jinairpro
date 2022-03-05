@@ -1,0 +1,1206 @@
+@CHARSET "utf-8";
+
+/* common */
+ul.caution, p.caution {margin:25px 0 25px 20px;}
+p.cau_type {margin:0; padding:25px 0 25px 20px; border-top:1px solid #e8e8e8;} /* 200312 콘텐츠 취합3차 */
+h2.typeA {margin-top:90px;}
+h2.typeA .btnTypeA {min-width:1px; margin:-2px 0 0 20px;}
+h2.typeA .fontTypeA {position:relative; top:-3px; font-size:14px;}
+.caution_mnone{margin:0 !important; }/* 200312 콘텐츠 취합3차 */
+
+#quickModify {position:relative; z-index:100; box-sizing:border-box; min-height:85px; padding-right:95px; background:#fff;}
+#quickModify .srmy {display:table; width:100%; table-layout:fixed;}
+#quickModify .srmy >li {position:relative; display:table-cell; box-sizing:border-box; width:30%; height:85px; border-right:3px solid #fff; vertical-align:top; background:#f8f8f8;}
+#quickModify .srmy >li.trip {width:70%;}
+#quickModify .srmy >li .wrap {padding:20px 10px 15px 24px;}
+#quickModify .srmy >li .tit {font-size:13px; line-height:1em; color:#000;}
+#quickModify .srmy >li .tit .tripType {display:inline-block; margin-bottom:0;}
+#quickModify .srmy >li .cont {margin-top:10px; font-family:'notol'; line-height:19px;}
+#quickModify .srmy >li .cont >span {display:inline-block;}
+#quickModify .srmy >li .cont em {font-size:18px; color:#000;}
+#quickModify .srmy >li .cont .round {display:inline-block; overflow:hidden; width:21px; height:0; padding-top:22px; margin:-2px 14px 0; vertical-align:middle; background:url(https://images.jinair.com/images/common/ico_common.png) no-repeat -20px 0;}
+#quickModify .srmy >li .cont .single {display:inline-block; overflow:hidden; width:21px; height:0; padding-top:9px; margin:-6px 14px 0; vertical-align:middle; background:url(https://images.jinair.com/images/common/ico_common.png) no-repeat -20px 0;}
+#quickModify .multiArea .more {position:absolute; right:20px; top:20px; width:16px; height:9px; background:url(https://images.jinair.com/images/common/ico_blt.png) no-repeat -10px 0;}
+#quickModify .multiArea .more a {display:block; height:9px; text-indent:-10000px;}
+#quickModify.multiOpen .multiArea {position:absolute; left:0; right:0; top:0; z-index:1; padding:20px 10px 15px 24px; background:#f8f8f8; box-shadow:0 5px 8px rgba(150,150,150,.3);}
+#quickModify.multiOpen .multiArea li +li {margin-top:15px;}
+#quickModify.multiOpen .more {background-position-y:-10px;}
+#quickModify >.btn {position:absolute; right:0; top:0; width:95px; height:100%;}
+#quickModify >.btn a {position:relative; display:block; box-sizing:border-box; height:100%; text-align:center; font-family:'notol'; font-size:18px; line-height:1em; color:#000; background:#bdd600;}
+#quickModify >.btn a span {position:absolute; left:0; right:0; top:50%; margin-top:-10px;}
+.quickFix #container {padding-top:85px;}
+.quickFix #quickModify {position:fixed; left:20px; top:0; right:20px;}
+/* .quickFix #quickModify:after {content:""; position:absolute; left:0; bottom:0; right:0; height:8px; box-shadow:0 5px 8px rgba(150,150,150,.3);} */ /* gnb renewal 관련 주석 */
+.modifyLayer {position:absolute; left:0; top:0; z-index:1; width:100%; box-sizing:border-box; padding:75px 0 45px; border:8px solid #661e43; background:#fff;}
+.modifyLayer .close {position:absolute; right:25px; top:25px; width:25px; height:25px;}
+.modifyLayer .close a {overflow:hidden; display:block; height:25px; text-indent:-1000px; background:url(https://images.jinair.com/images/btn/btn_close2.png) no-repeat 0 0;}
+.modifyLayer .itinerary {margin-bottom:55px;}
+
+#totalSrmy {position:absolute; left:20px; right:20px; bottom:50px; z-index:10; box-sizing:border-box; height:90px; padding:17px 30px; text-align:right;}
+#totalSrmy:before {content:""; position:absolute; left:0; top:0; width:100%; height:100%; background:#f9f9f9; opacity:.8; filter:alpha(opacity=80);}
+#totalSrmy .price {position:relative; display:inline-block; width:402px; height:56px; vertical-align:top; background:#fff;}
+#totalSrmy .price .btn {float:left; overflow:hidden; width:46px; height:0; padding-top:56px; background:url(https://images.jinair.com/images/btn/btn_detail.gif) no-repeat 0 0;}
+#totalSrmy.on {z-index:110;}
+#totalSrmy.on .price .btn {background-position-y:100%;}
+#totalSrmy .price p {float:left; box-sizing:border-box; width:356px; height:56px; padding:0 20px 0 15px; border:1px solid #bdd600; border-left:0; text-align:right;}
+#totalSrmy .price p .tit {float:left; padding-top:5px; font-size:11px; text-align:left;}
+#totalSrmy .price p .tit em {font-size:16px; color:#000;}
+#totalSrmy .price p strong {float:right; font-family:'notob'; font-size:30px; color:#000; line-height:54px;}
+#totalSrmy .btnNext {position:relative; display:inline-block; margin-left:6px; vertical-align:top;}
+#totalSrmy .btnNext a {min-width:1px; height:56px; line-height:56px; font-size:16px;}
+.totalFix #totalSrmy {position:fixed; bottom:0;}
+#totalSrmy .extras:after {clear:both; display:block; clear:both;}
+#totalSrmy .extras li {position:relative; float:left; width:56px; height:56px; text-indent:-20000em; margin:0 37px 0 0; text-align:left; border-radius:56px; background:#fff;}
+#totalSrmy .extras li em {position:absolute; left:43px; top:-3px; width:26px; height:22px; padding-top:4px; border-radius:26px; text-align:center; font-family:'notob'; color:#fff; font-size:16px; line-height:1em; text-indent:0; background:#661e43;}
+#totalSrmy .extras li:before {content:""; position:absolute; left:3px; top:3px; width:50px; height:50px; background:url(https://images.jinair.com/images/booking/ico_booking.png) no-repeat 0 -50px;}
+#totalSrmy .extras li.seat:before {background-position-x:0;}
+#totalSrmy .extras li.baggage:before {background-position-x:-50px;}
+#totalSrmy .extras li.meal:before {background-position-x:-100px;}
+#totalSrmy .extras li.sale:before {background-position-x:-150px;}
+#totalSrmy .extras li.enter:before {background-position-x:-200px;}
+#totalSrmy .extras li.lounge:before {background-position-x:-250px;}/* 라운지 추가 */
+.mySrmy {display:none; position:absolute; left:0; bottom:90px; width:100%; padding:25px 0; border-top:3px solid #bdd600; box-shadow:0 -3px 5px rgba(150,150,150,.3); text-align:left; background:#fff;}
+.mySrmy:after {content:""; display:block; clear:both;}
+.mySrmy .close {position:absolute; right:15px; top:15px; z-index:1; width:25px; height:25px;}
+.mySrmy .close a {overflow:hidden; display:block; height:25px; text-indent:-1000px; background:url(https://images.jinair.com/images/btn/btn_close2.png) no-repeat 0 0;}
+.mySrmy >.oh {padding-bottom:15px; border-bottom:1px solid #e0e0e0;}
+.mySrmy .trip {position:relative; float:left; width:50%; box-sizing:border-box; padding:0 30px 0 50px;}
+.mySrmy .trip:nth-child(2n) {padding:0 50px 0 30px;}
+.mySrmy .trip h2 {position:relative; display:inline-block; margin-left:18px; margin-bottom:5px; font-size:16px; color:#000;}
+.mySrmy .trip h2 strong {margin-right:11px; font-family:'notob'; font-size:24px; line-height:1em; color:#661e43;}
+.mySrmy .trip p {position:relative; padding-left:50%; margin:0 18px; line-height:30px; color:#000; text-align:right;}
+.mySrmy .trip p strong {position:absolute; left:0; top:0; font-size:16px; font-family:'noto'; text-align:left;}
+.mySrmy .trip .flightDetail {display:inline-block; margin-top:5px; margin-left:10px; vertical-align:top;}
+.mySrmy .trip .flightDetail .popFlight {left:-57px; top:-29px;}
+
+.mySrmy .content {position:relative; float:left; width:50%; box-sizing:border-box; padding:0 30px 0 50px; margin-top:20px; border-top:1px solid #e0e0e0;}
+.mySrmy .content +.content {padding:0 50px 0 30px;}
+.mySrmy .content h2 {position:relative; padding:20px 18px 12px; font-family:'notob'; font-size:24px; line-height:1em; color:#661e43;}
+.mySrmy .content .unit {position:absolute; right:18px; bottom:10px; font-family:'noto'; font-size:14px; color:#555;}
+.mySrmy .content .scr {position:relative; overflow-y:auto; height:235px; background:#f8f8f8;} /* height 쌍반점 수정 */
+.mySrmy .content dl {overflow:hidden; height:150px; padding:4px 20px 10px 18px}
+.mySrmy .content dt {position:relative; float:left; box-sizing:border-box; width:50%; padding-left:14px; margin-top:6px; font-size:16px; line-height:24px; color:#000; word-break:break-all;} /* 181022 tax 관련 수정 */
+.mySrmy .content dt:before {content:""; position:absolute; left:0; top:10px; width:2px; height:2px; background:#6d294c;}
+.mySrmy .content dd {float:left; width:50%; margin-top:6px; font-size:16px; line-height:24px; color:#000; text-align:right; word-break:keep-all;}
+.mySrmy .content .typeB dt {clear:both; width:40%; padding-right:5px;}
+.mySrmy .content .typeB dd {width:40%; text-align:left;}
+.mySrmy .content .typeB dd +dd {width:20%; text-align:right;}
+.mySrmy .content .typeB.num2 dt {width:70%;}
+.mySrmy .content .typeB.num2 dd {width:30%; text-align:right;}
+.mySrmy .content .btn {height:25px; padding:20px 0; text-align:center; color:#6d294c; line-height:25px;}
+.mySrmy .content .btn a {color:#6d294c;}
+.mySrmy .content .btn a:after {content:""; display:inline-block; width:25px; height:25px; margin:-3px 0 0 20px; vertical-align:middle; background:url(https://images.jinair.com/images/common/ico_more.png) no-repeat 0 0;}
+.mySrmy .content .btn.minus a:after {background:url(https://images.jinair.com/images/common/ico_minus2.png) no-repeat 0 0;}
+.mySrmy .detail {display:none; background:#f8f8f8;}
+.mySrmy .detail h3 {height:44px; line-height:44px; padding-left:28px; font-family:'notob'; font-size:20px; color:#fff; background:#661e43;}
+.mySrmy .detail h3 .cost {float:right; height:44px; padding-right:20px;}
+.mySrmy .detail h4 {height:40px; line-height:40px; padding-left:28px; border-top:1px solid #e6e6e6; border-bottom:1px solid #e6e6e6; font-family:'notob'; font-size:16px; color:#000;}
+.mySrmy .detail h3 +h4 {border-top:0;}
+.mySrmy .detail dl {height:auto;}
+.mySrmy .detail dt {padding-left:10px;}
+.mySrmy .detail .text {padding:18px 28px 18px 38px; border-top:1px solid #e6e6e6; line-height:20px; text-indent:-10px; word-break:keep-all;}
+/* 181022 tax 관련 추가 */
+.mySrmy .content .typeB.tax dt {width:50%;}
+.mySrmy .content .typeB.tax dd.btn_detail {width:25%;text-align:left;line-height:22px;}
+.mySrmy .content .typeB.tax dd.btn_detail a {font-size:14px;text-decoration:underline;color:#555;}
+.mySrmy .content .typeB.tax dd.btn_detail.on a {color:#661e43;}
+.mySrmy .content .typeB.tax dd.btn_detail a:after {content:'';clear:both;display:inline-block;margin:-2px 0 0 9px;background:url('https://images.jinair.com/images/common/ico_bk_arrow.png') no-repeat right bottom;width:7px;height:4px;vertical-align:middle;}
+.mySrmy .content .typeB.tax dd.btn_detail.on a:after {background:url('https://images.jinair.com/images/common/ico_bk_arrow.png') no-repeat right top;}
+.mySrmy .content .typeB.tax dd {float:left;width:25%;padding:0;text-align:right;}
+.mySrmy .content .typeB.tax dd.detail_info {display:none;float:none;clear:both;width:auto;margin:0 -20px 0 -18px;padding:10px 0 2px;text-align:left;}
+.mySrmy .detail .detail_info .tax_list {width:100%;background:#fff;}
+.mySrmy .detail .detail_info .tax_list table {width:100%;border-top:1px solid #e6e6e6;}
+.mySrmy .detail .detail_info .tax_list table td {padding:5px 0;border-bottom:1px solid #e6e6e6;font-size:13px;color:#666;text-align:center;line-height:20px;word-wrap:break-word;word-break:keep-all;}
+.mySrmy .detail .detail_info .tax_list table .txt {border-left:1px solid #e6e6e6;border-right:1px solid #e6e6e6;text-align:left;padding-left:15px;}
+/* //181022 tax 관련 추가 */
+
+/* 여정선택 */
+.bookBann {margin:50px 0 70px; text-align:center;}
+.bookHead .type {position:relative; max-width:910px; height:48px; margin:0 auto; text-align:center;}
+.bookHead .type li {display:inline-block; height:17px; margin:5px 11px 0; font-size:16px; line-height:17px; color:#000;}
+/* .bookHead .type li input[type=radio] {display:none;} */
+.bookHead .type li label {display:inline-block; line-height:17px; cursor:pointer; vertical-align:middle;}
+/* .bookHead .type li input[type=radio]:checked +label {background-position-y:100%;} */
+.bookHead .type .bonus {position:absolute; right:10px; top:0; height:26px;}
+.bookHead .type .bonus a {display:block; line-height:26px; padding-left:32px; font-size:15px; background:url(https://images.jinair.com/images/common/ico_jinair.png) no-repeat 0 0;}
+.itinerary {position:relative; max-width:910px; margin:0 auto 160px;}
+.itinerary:after {content:""; display:block; clear:both;}
+.itinerary .sec {float:left; box-sizing:border-box; width:33.3%; padding:0 10px;}
+.itinerary .sec.memberNum {position:relative;}
+.itinerary .srmy {box-sizing:border-box; width:100%; height:65px; margin-top:13px; border:2px solid #e9e9e9; box-shadow:2px 2px 3px rgba(150,150,150,.3); background:#fff;}
+.itinerary .srmy a {padding-left:18px;}
+.itinerary .srmy a, .itinerary .srmy >span {display:block; height:41px; padding-top:20px; font-size:20px; line-height:1em; color:#000;}
+.itinerary .srmy a strong, .itinerary .srmy >span strong {display:none;}
+.itinerary .srmy a.icoFold:before {right:14px;}
+.itinerary .srmy a.icoFold:after {right:21px;}
+.itinerary .srmy.setting a, .itinerary .srmy.setting >span {height:52px; padding-top:9px; font-size:14px; color:#555;}
+.itinerary .srmy.setting a strong, .itinerary .srmy.setting >span strong {display:block; margin-top:8px; font-family:'noto'; font-size:20px; line-height:1em; color:#661e43;}
+.itinerary .sec.active .srmy, .itinerary .sec.focus.srmy, .itinerary .srmy:hover, .itinerary .srmy:focus {border-color:#661e43;}
+.itinerary .srmy:first-child {margin-top:0;}
+.itinerary .sec .content {display:none; position:absolute; left:10px; right:10px; z-index:10; top:70px; border:1px solid #dcdcdc; box-shadow:4px 4px 3px rgba(150,150,150,.2); background:#fff;}
+.itinerary .sec .content h2, .itinerary .sec .content .close {display:none;}
+.itinerary .sec .member li {/*overflow:hidden;*/position:relative;height:50px; padding:15px 25px 0; border-bottom:1px solid #efefef; text-align:right;} /* 1906 소아/유아 설명문 관련 수정 */
+.itinerary .sec .member li a {display:inline-block; overflow:hidden; height:36px;}
+.itinerary .sec .member li a img {margin-top:-36px;}
+.itinerary .sec .member li a.on img, .itinerary .sec .member li a:hover img, .itinerary .sec .member li a:focus img {margin-top:-72px;}
+.itinerary .sec .member li a.disable {cursor:default;}
+.itinerary .sec .member li a.disable img {margin-top:0 !important;}
+.itinerary .sec .member li img {margin-left:6px;}
+.itinerary .sec .member li span {float:left;padding-top:9px;color:#661e43;font-size:18px;line-height:1em;}
+.itinerary .sec .member li span strong {position:relative; top:-3px; font-size:30px; margin-right:15px; vertical-align:middle;}
+/* 1906 소아/유아 설명문 관련 추가 */
+.itinerary .sec .member li span .btn_age{height:auto;vertical-align:top;}
+.itinerary .sec .member li span .btn_age img{margin:0 0 0 4px !important;vertical-align:top;}
+.popAgeLayer{line-height:24px;position:absolute;z-index:1;top:57px; left:-52px;display:none;width:284px;padding:20px;text-align:left; border:2px solid #7e0049; background:#fff;box-shadow:5px 5px 10px rgba(150,150,150,.4);}
+.popAgeLayer:after,.popAgeLayer:before{position:absolute;bottom:100%;left:50%;width:0;height:0;content:'';border:solid transparent;}
+.popAgeLayer:after{margin-left:-14px;border:11px solid transparent;border-bottom:11px solid #fff;}
+.popAgeLayer:before{margin-left:-17px;border:14px solid transparent;border-bottom:14px solid #7e0049;}
+.popAgeLayer p{font-size:20px;text-align:center;color:#7e0049;}
+.popAgeLayer p em{font-size:15px;display:block;}
+.popAgeLayer ul{margin:10px 0 0;text-align:center;}
+.popAgeLayer ul li{position:static !important;height:auto !important;padding:0 !important;text-align:center !important;color:#000;border-bottom:none !important;line-height:normal !important;font-size:14px;}
+.popAgeLayer .des{font-family:'notol';font-size:13px !important;line-height:18px !important;display:block;float:none !important;margin:15px 0 0;padding:0 !important;text-align:center !important;color:#666 !important;}
+.popAgeLayer .layer_close{position:absolute;top:0;right:0;}
+.popAgeLayer .layer_close a{display:block;width:30px !important;height:30px !important;text-indent:-9999px;background:url('https://images.jinair.com/images/btn/btn_close7.png') no-repeat center center;}
+/* //1906 소아/유아 설명문 관련 추가 */
+.itinerary .sec .member .btn {padding:10px 20px; text-align:center;}
+.itinerary .sec .member .btn a {min-width:100%; height:32px; line-height:32px;}
+.itinerary .sec .member .caution {padding:15px 19px; background:#f8f8f8;}
+.itinerary .sec .member .caution p {position:relative; padding-left:46px; text-indent:-39px; line-height:20px;}
+.itinerary .sec .member .caution p +p {margin-top:6px;}
+.itinerary .sec .member .caution p:before {content:""; position:absolute; left:0; top:11px; width:2px; height:2px; background:#661e43;}
+.itinerary .sec .member .caution p.cal {margin:10px 0;padding:0;text-indent:0;text-align:center;} /* 1906 유/소아 나이 계산기 수정 */
+.itinerary .sec .member .caution p.cal a {display:inline-block; padding:0 4px 5px; border-bottom:1px solid #661e43; color:#661e43; line-height:1em;}
+.itinerary .sec .member .caution p.cal:before {display:none;}
+.itinerary .sec .member .caution p.cal a:after {content:""; display:inline-block; width:7px; height:7px; margin:-3px 0 0 10px; vertical-align:middle; background:url(https://images.jinair.com/images/common/ico_blt.png) no-repeat -49px 0;}
+.itinerary .sec .member .ageCal {display:none;}
+.itinerary .sec .cityList {overflow:hidden; padding-bottom:40px;}
+.itinerary .sec .cityList >li {float:left; box-sizing:border-box; width:20%; padding:40px 0 0 30px;}
+.itinerary .sec .cityList >li p {margin-bottom:10px; font-family:'notob'; font-size:20px; line-height:1em; color:#661e43;}
+.itinerary .sec .cityList >li p.icoFold:before, .itinerary .sec .cityList >li p.icoFold:after {display:none; right:17px;}
+.itinerary .sec .cityList >li p.icoFold:after {right:24px;}
+.itinerary .sec .cityList >li li {line-height:26px;}
+.cityList .disable, .cityList .disable a {color:#d5d5d5; cursor:default;}
+.itinerary .date {float:left; width:66.6%; margin:13px 0 0 33.3%; padding:0;}
+.itinerary .date >div {float:left; box-sizing:border-box; width:50%; padding:0 10px;}
+.itinerary .date .srmy {position:relative;}
+.itinerary .date .srmy:hover, .itinerary .date .srmy:focus {border-color:#e9e9e9;}
+.itinerary .date .cal {position:absolute; right:5%; top:50%; margin-top:-10px;}
+
+/* 181023 특별가 알림 관련 추가 */
+.makeWishLayer {position:fixed; left:0; top:50%; z-index:100; width:100%; /*height:470px;*/ box-sizing:border-box; padding:75px 0 45px; /*margin-top:-235px;*/margin-top:-310px; border:8px solid #661e43; background:#fff;}
+.makeWishLayer .close {position:absolute; right:25px; top:25px; width:25px; height:25px;}
+.makeWishLayer .close a {overflow:hidden; display:block; height:25px; text-indent:-1000px; background:url(https://images.jinair.com/images/btn/btn_close2.png) no-repeat 0 0;}
+.makeWishLayer .itinerary {box-sizing:border-box; padding:0 151px; margin-bottom:30px;}
+.makeWishLayer .itinerary .sec {width:50%;}
+.makeWishLayer .itinerary .date {width:100%; margin:20px 0 0;}
+.makeWishLayer .itinerary .date .cal a {background:url(https://images.jinair.com/images/common/ico_calendar.png) no-repeat 95% 50%;}
+.makeWishLayer .itinerary .date .cal.active .srmy {border-color:#661e43;}
+.makeWishLayer .itinerary .date .ui-datepicker-trigger	{ position:absolute;right:10px;top:50%;margin-top:-10px; }
+.makeWishLayer .itinerary .selBox.amount {margin-top:20px;}
+.makeWishLayer .itinerary .selBox.amount .srmy {padding-left:0;}
+.makeWishLayer .itinerary .selBox.amount .layer {max-height:200px;overflow-y:auto;}
+.makeWishLayer .caution {width:630px; margin:0 auto;}
+.makeWishLayer .btnArea {margin-top:30px;}
+.wishBookingLayer {position:fixed; left:0; top:50%; z-index:100; width:100%; height:470px; box-sizing:border-box; padding:75px 0 45px; margin-top:-235px; border:8px solid #661e43; background:#fff;}
+.wishBookingLayer .close {position:absolute; right:25px; top:25px; width:25px; height:25px;}
+.wishBookingLayer .close a {overflow:hidden; display:block; height:25px; text-indent:-1000px; background:url(https://images.jinair.com/images/btn/btn_close2.png) no-repeat 0 0;}
+.wishBookingLayer .itinerary {margin-bottom:0;}
+@media only screen and (min-width:1200px){
+.changeLayer, .makeWishLayer, .wishBookingLayer {width:1160px; left:50%; margin-left:-580px;}
+}
+/* //181023 특별가 알림 관련 추가 */
+
+/* 다구간 */
+.multiCourse .course {position:relative; clear:both;}
+.multiCourse .course >li {padding-top:13px;}
+.multiCourse .course >li:after {content:""; display:block; clear:both;}
+.multiCourse .course .sec .content {top:83px;}
+.multiCourse .more {margin:20px 10px 0 0; text-align:right;}
+.multiCourse .more a {display:inline-block; padding-right:32px; line-height:25px; color:#000; font-size:16px; background:url(https://images.jinair.com/images/common/ico_more.png) no-repeat 100% 50%;}
+
+
+/********** 메인 renewal **********/
+/* 배너 */
+.mainIndex .visual{overflow:hidden;max-width:1160px;margin:20px auto 0;text-align:center;}
+.mainIndex .visual img{max-width:100%;}
+
+/* 구간, 승객수, 보너스 항공권 예매 영역 [ 기존 마크업 활용(구간 영역 제외) - 상위 속성 무효화 충돌 방지차(승객수 레이어 제외) ] */
+.mainIndex .itinerary_wrap{position:relative;max-width:1080px;margin:0 auto;}
+.mainIndex .flight_box{position:relative;z-index:11;width:100%;height:70px;}
+.mainIndex .flight_box .sel_opt{position:relative;display:inline-block;height:40px;margin:15px 0 0 0;text-align:left;vertical-align:top;}
+.mainIndex .flight_box .sel_opt .p_sel{display:block;}
+.mainIndex .flight_box .sel_opt .m_sel{display:none;}
+.mainIndex .flight_box .sel_opt .init{font-size:20px;line-height:40px;padding-right:30px;color:#000;}
+.mainIndex .flight_box .sel_opt .init.on{color:#661e43;}
+.mainIndex .flight_box .sel_opt .icoFold:before{right:0;}
+.mainIndex .flight_box .sel_opt .icoFold:after{right:7px;}
+.mainIndex .flight_box .sel_opt .icoFold.on:before,
+.mainIndex .flight_box .sel_opt .icoFold.on:after{background:#661e43;}
+.mainIndex .flight_box .layer_menu{position:absolute;top:40px;left:0;display:none;min-width:175px;border:1px solid #d1d1d1;}
+.mainIndex .flight_box .layer_menu li{font-size:18px;position:relative;text-align:left;white-space:nowrap;}
+.mainIndex .flight_box .layer_menu li a{display:block;padding:3px 20px 2px;color:#000;background:#fff;}
+.mainIndex .flight_box .layer_menu li a:hover,
+.mainIndex .flight_box .layer_menu li a:focus{color:#fff;background:#1e90ff;}
+.mainIndex .flight_box .itinerary{position:static;display:inline-block;max-width:inherit;height:40px;margin:15px 0 0 15px;padding:0;vertical-align:top;}
+.mainIndex .flight_box .itinerary .sec{float:none;box-sizing:border-box;width:auto;padding:0;}
+.mainIndex .flight_box .itinerary .sec.memberNum{position:relative;display:block;}
+.mainIndex .flight_box .itinerary .sec .content{position:absolute;z-index:10;top:40px;right:0;left:0;width:285px;border:1px solid #d1d1d1;background:#fff;box-shadow:none;}
+.mainIndex .flight_box .itinerary .sec.active .srmy,
+.mainIndex .flight_box .itinerary .sec.focus.srmy,
+.mainIndex .flight_box .itinerary .srmy:hover,
+.mainIndex .flight_box .itinerary .srmy:focus{border-color:transparent;}
+.mainIndex .flight_box .itinerary .srmy{box-sizing:border-box;width:100%;height:40px;margin:0;border:none;background:transparent;box-shadow:none;}
+.mainIndex .flight_box .itinerary .srmy.setting a,
+.mainIndex .flight_box .itinerary .srmy.setting>span{font-size:20px;line-height:40px;display:block;height:40px;padding:0 30px 0 0;color:#000;}
+.mainIndex .flight_box .itinerary .srmy.setting a strong,
+.mainIndex .flight_box .itinerary .srmy.setting>span strong{font-family:'noto';font-size:20px;font-weight:normal;line-height:40px;display:block;margin:0;color:#000;}
+.mainIndex .flight_box .itinerary .srmy.setting .icoFold.on strong{color:#661e43;}
+.mainIndex .flight_box .itinerary .srmy a.icoFold:before{right:0;}
+.mainIndex .flight_box .itinerary .srmy a.icoFold:after{right:7px;}
+.mainIndex .flight_box .itinerary .srmy .icoFold.on:before,
+.mainIndex .flight_box .itinerary .srmy .icoFold.on:after{background:#661e43;}
+.mainIndex .popAgeLayer{left:-57px;}
+.mainIndex .flight_box .bonus{display:inline-block;margin:23px 0 0 26px;vertical-align:top;}
+.mainIndex .flight_box .bonus a{font-size:15px; line-height:26px; display:block; padding-left:32px; background:url('https://images.jinair.com/images/common/ico_jinair.png') no-repeat 0 0;}
+
+/* 왕복, 편도 itinerary 영역 [기존 마크업 활용 - 레이아웃 구성 외 기존 속성 활용] */
+.mainIndex .itinerary{max-width:inherit;margin:0 0 0 -5px;padding:0 125px 0 0;}
+.mainIndex .itinerary .sec{width:25%;padding:0 5px;}
+.mainIndex .itinerary .sec.memberNum{display:none;}
+.mainIndex .itinerary .sec .content{right:130px;left:5px;}
+.mainIndex .itinerary .date{width:50%;margin:0;padding:0;}
+.mainIndex .itinerary .date>div{padding:0 5px;}
+.mainIndex .itinerary_wrap>.btnArea{position:absolute;top:70px;right:0;margin:0;}
+.mainIndex .itinerary_wrap>.btnArea.btnArea2{right:22%;}
+.mainIndex .itinerary_wrap>.btnArea .btnTypeA{font-size:18px;line-height:65px;min-width:120px;height:65px;}
+
+/* 다구간 itinerary 영역 [기존 마크업 활용 - 레이아웃 구성 외 기존 속성 활용] */
+.mainIndex .itinerary.multiCourse{margin:0 0 0 -5px;}
+.mainIndex .itinerary.multiCourse .sec .content{right:5px;left:5px;}
+.mainIndex .multiCourse .sec.memberNum{display:none;}
+.mainIndex .multiCourse .course{position:relative;clear:both;}
+.mainIndex .multiCourse .course>li{padding:0 0 10px 0;}
+.mainIndex .multiCourse .course>li:after{display:block; clear:both;content:'';}
+
+/* 예약조회, 체크인 */
+.menu_wrap{max-width:1160px;height:135px;margin:0 auto;text-align:center;}
+.menu_wrap>div{line-height:131px;display:inline-block;vertical-align:middle;}
+.menu_wrap>div a{font-family:'notob';font-size:22px;color:#000;}
+.menu_wrap>div:last-child{margin-left:95px;}
+.menu_wrap .reserve a{width:50px;height:50px;padding:8px 0 9px 55px;background:url('https://images.jinair.com/images/booking/ico_sprite_menu_50x50.png') no-repeat 0 -50px;}
+.menu_wrap .checkin a{width:50px;height:50px;padding:8px 0 9px 55px;background:url('https://images.jinair.com/images/booking/ico_sprite_menu_50x50.png') no-repeat 0 0;}
+
+/* 메인 배너 swiper */
+.banner_wrap{max-width:1160px;margin:0 auto;}
+.banner_wrap .swiper-container{position:relative;overflow:hidden;width:100%;}
+.banner_wrap .swiper-wrapper{position:relative;display:flex;}
+.banner_wrap .swiper-wrapper .swiper-slide{position:relative;flex-shrink:0;width:100%;}
+.banner_wrap .swiper-wrapper .swiper-slide img{max-width:100%;}
+.banner_wrap .brn_navi{position:absolute;bottom:15%;left:269px;}
+.banner_wrap .brn_navi .fraction{font-size:16px;display:inline-block;margin:-2px 0 0 31px;vertical-align:middle;letter-spacing:-1px;color:#000;}
+.banner_wrap .brn_navi .fraction .current{font-family:'notob';}
+.banner_wrap .brn_navi .fraction>span{display:inline-block;min-width:25px;text-align:center;}
+.banner_wrap .brn_navi .swiper-pagination-progress{position:relative;display:inline-block;width:175px;height:2px;margin:1px 12px 0 15px;vertical-align:middle;opacity:.5 !important;background:#adc2b9;}
+.banner_wrap .brn_navi .swiper-pagination-progress .swiper-pagination-progressbar{position:absolute;top:0;left:0;width:100%;height:100%;-ms-transition-duration:0ms !important;transform:scale(0);transform-origin:left top;background:#000;}
+.banner_wrap .brn_navi .control{display:inline-block;width:30px;height:30px;margin:0 30px 0 0;vertical-align:middle;text-indent:-9999px;letter-spacing:0;background:url('https://images.jinair.com/images/booking/btn_pause_play_02.png') no-repeat center bottom;}
+.banner_wrap .brn_navi .control.pause{background-position:center top;}
+.banner_wrap .brn_navi .navi .swiper-button-prev{position:absolute;top:0;left:0;width:30px;height:30px;text-indent:-9999px;background:url('https://images.jinair.com/images/booking/btn_paginate_prev.png') no-repeat center center;}
+.banner_wrap .brn_navi .navi .swiper-button-next{position:absolute;top:0;right:0;width:30px;height:30px;text-indent:-9999px;background:url('https://images.jinair.com/images/booking/btn_paginate_next.png') no-repeat center center;}
+.banner_wrap .brn_navi .navi .swiper-button-next{position:absolute;}
+.banner_wrap .btn_more{position:absolute;right:40px;bottom:40px;}
+.banner_wrap .btnArea{display:none;}
+
+/* 다양한 서비스와 혜택 */
+.service_wrap{margin:100px 0 0;padding:65px 0;background:#f6f7f9;}
+.service_wrap .inner{max-width:1160px;margin:0 auto;text-align:center;}
+.service_wrap h2{font-family:'notob';font-size:50px;color:#000;}
+.service_wrap .sub{font-size:24px;color:#666;font-family:'notol';}
+.service_wrap ul{overflow:hidden;width:100%;margin:18px 0 0;text-align:center;letter-spacing:-1em;}
+.service_wrap ul li{display:inline-block;width:250px;vertical-align:top;padding:0 12px;letter-spacing:0;}
+.service_wrap ul li a{display:block;color:#000;}
+.service_wrap ul li .thumb img{max-width:100%;}
+.service_wrap ul li strong{font-family:'notob';font-size:20px;display:block;margin-top:15px;color:#000;}
+
+/* 공지사항 */
+.notice_wrap{max-width:1160px;margin:80px auto 0;text-align:center;}
+.notice_wrap h2{font-family:'notob';font-size:50px;color:#000;}
+.notice_wrap .sub{font-family:'notol';font-size:24px;color:#666;}
+.notice_wrap ul{width:100%;margin:18px 0 0;border-top:1px solid #333;}
+.notice_wrap ul li{display:table;width:100%;height:56px;table-layout:fixed;text-align:center;border-bottom:1px solid #eaeaea;}
+.notice_wrap ul li .num{font-size:26px;display:table-cell;width:8%;vertical-align:middle;color:#c1d82e;}
+.notice_wrap ul li p{font-size:16px;display:table-cell;width:78%;text-align:left;vertical-align:middle;color:#000;}
+.notice_wrap ul li p a{display:block;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;color:#000;}
+.notice_wrap ul li p a:hover,
+.notice_wrap ul li p a:focus{text-decoration:underline;}
+.notice_wrap ul li .date{font-size:14px;display:table-cell;width:14%;vertical-align:middle;color:#999;}
+.notice_wrap .btn_more{margin-top:50px;text-align:center;}
+.notice_wrap .btn_more a{font-size:14px;display:inline-block;padding:10px 45px;color:#fff;background:#7e0049;}
+/********** //메인 renewal **********/
+
+
+/* 항공편선택 */
+.typeSel {height:63px; padding:17px 0 0 20px; margin-top:-40px; background:#f8f8f8;}
+.typeSel a, .typeSel button {min-width:1px; vertical-align:middle; font-size:14px;}
+.typeSel select {height:42px; margin:0 6px; vertical-align:middle; font-size:14px; color:#000; background-color:#fff; background-image:url(https://images.jinair.com/images/btn/btn_arrow3.png);}
+.schedule {margin:80px 0 40px;}
+.typeSel +.schedule {margin-top:30px;}
+.schedule h2 {height:45px; margin-left:20px; font-size:22px; line-height:1em; color:#661e43;}
+.schedule h2:before {content:""; display:inline-block; width:20px; height:17px; margin:-5px 8px 0 0; vertical-align:middle; background:url(https://images.jinair.com/images/common/ico_common.png) no-repeat 0 -30px;}
+.schedule h2 strong {color:#000;}
+.schedule h2 .ico {display:inline-block; overflow:hidden; width:35px; height:0; padding-top:14px; margin:-8px 19px 0; vertical-align:middle; background:url(https://images.jinair.com/images/common/ico_common.png) no-repeat -50px 0;}
+.schedule .cal {position:relative; height:80px; padding:0 15px;}
+.schedule .cal ul:after {content:""; display:block; clear:both;}
+.schedule .cal li {float:left; width:14.28%;}
+.schedule .cal li >a {position:relative; display:block; min-height:50px; padding:15px 0; margin:0 6px; border:1px solid #e6e6e6; text-align:center;}
+.schedule .cal li .date {font-family:'notol'; line-height:1em; color:#000;}
+.schedule .cal li .price {display:block; margin-top:5px; font-size:20px; line-height:1em; color:#000;}
+.schedule .cal li .price .fs {font-size:12px; margin-right:7px; color:#555;}
+.schedule .cal li.disable {}
+.schedule .cal li.disable a {background:#e6e6e6; cursor:no-drop;}
+.schedule .cal li.disable .price {color:#666;}
+.schedule .cal li.choice a {border-color:#661e43; color:#fff; box-shadow:2px 2px 2px rgba(150,150,150,.5); background:#661e43;}
+.schedule .cal li.choice * {color:#fff !important;}
+.schedule .cal .prev, .schedule .cal .next {position:absolute; left:5px; top:50%; overflow:hidden; width:13px; height:0; padding-top:17px; margin-top:-9px; background:url(https://images.jinair.com/images/btn/btn_prev2.png) no-repeat 0 0;}
+.schedule .cal .next {left:auto; right:5px; background-image:url(https://images.jinair.com/images/btn/btn_next2.png);}
+.flightList {width:100%; table-layout:fixed; border-top:1px solid #000; border-bottom:1px solid #000;}
+.flightList thead tr {height:51px; font-size:16px; line-height:1em; background:#f7f7f6;}
+.flightList thead .jiniPlus a{color: #661e43;} /* 180306 추가 */ /* 180321 재수정 */
+.flightList tbody th {padding:20px 0; border-top:1px solid #8c8c8c; font-size:18px;}
+.flightList tbody th img {vertical-align:middle;}
+.flightList tbody td {padding:20px 5px; border-top:1px solid #8c8c8c; text-align:center;}
+.flightList tbody .noResult {color: #000;font-size:18px;} /* 180306 추가 */
+.flightList tbody .delay {display:block;color:#008ae0;font-size:14px;} /* 210310 항공기 지연 관련 추가 */
+
+.flightList .viaList th,
+.flightList .viaList td {border-top:3px solid #8c8c8c;} /* 180305 추가 */
+
+.flightList tbody .diviLine th,
+.flightList tbody .diviLine td {border-color:#d8d8d8;}
+
+.flightList tbody tr:first-child th, .flightList tbody tr:first-child td {border-top:0;}
+.flightList .time strong {font-family:'notob'; font-size:26px; color:#000;}
+.flightList .time.delay strong:first-child {text-decoration:line-through;} /* 210310 항공기 지연 관련 추가 */
+.flightList .time.delay strong:nth-child(2) {display:block;color:#008ae0;} /* 210310 항공기 지연 관련 추가 */
+.flightList .time.delay {color:rgb(85, 85, 85);} /* 210310 항공기 지연 관련 추가 */
+.flightList .time strong span {font-size:12px; font-family:'notol'; letter-spacing:-1px;}
+.flightList .time span {font-family:'notol';}
+.flightList .charge {width:100%; max-width:157px; /*height:100px;*/ height:110px; margin:0 auto; box-sizing:border-box; border:1px solid #e6e6e6; text-align:center; font-size:18px; /*line-height:98px;*/ line-height:108px; color:#666; background:#e6e6e6;} /* 180504 수정 */
+.flightList .charge a {position:relative; display:block; /*height:98px;*/ height:108px; background:#fff;} /* 180504 수정 */
+.flightList .charge .unit {position:absolute; left:0; /*top:16px;*/ top:26px; width:100%; font-size:12px; line-height:1em;} /* 180504 수정 */
+.flightList .charge .sticker {position:absolute;top:-1px;left:-1px;width:calc(100% + 2px);height:20px;line-height:20px;background:#631841;color:#fff;font-size:12px;text-align:center;} /* 180504 추가 */
+.flightList .charge em {position:absolute; left:0; top:50%; width:100%; margin-top:-14px; font-size:26px; line-height:1em; color:#000;}
+.flightList .charge .text {position:absolute; left:0; bottom:12px; width:100%; font-size:14px; line-height:1em; color:#661e43;}
+.flightList .charge.choice {border-color:#661e43; color:#fff; box-shadow:2px 2px 2px rgba(150,150,150,.5); background:#661e43;}
+.flightList .charge.choice a {background:#661e43;}
+.flightList .charge.choice * {color:#fff !important;}
+.flightList .alt_txt{position: absolute; color: #f00; padding: 7px 0 0 0;} /* 200717 항공편선택 수정 */
+.flightDetail {position:relative; display:inline-block; margin-top:10px; font-family:'notol';}
+.flightDetail >a {margin-left:3px;}
+.flightDetail .popFlight {display:none; position:absolute; left:45px; top:-100px; z-index:1; width:350px; height:230px; padding:25px 30px; border:1px solid #661e43; text-align:left; font-size:12px; line-height:24px; box-shadow:5px 5px 10px rgba(150,150,150,.4); background:#fff; overflow:auto;}
+.flightDetail .popFlight .close {position:absolute; right:13px; top:13px; padding:0; margin:0; width:21px; height:21px; overflow:hidden;}
+.flightDetail .popFlight .close a {display:block; overflow:hidden; width:21px; height:21px; background:url(https://images.jinair.com/images/btn/btn_close4.png) no-repeat 0 0;}
+.flightDetail .popFlight .close a span {display:block; height:0; padding-top:21px;}
+.flightDetail .popFlight h3 {margin-bottom:20px; font-size:18px; line-height:1em; color:#000;}
+
+/* 180321 지니플러스 레이어 추가 */
+.popLayerWrap {position:relative;}
+.popLayerWrap .popArea {display:none;position:absolute; right:-80px; top:15px; z-index:1; width:280px;padding:25px 30px; border:1px solid #661e43; text-align:left; font-size:12px; line-height:24px; box-shadow:5px 5px 10px rgba(150,150,150,.4); background:#fff; overflow:auto;}
+.popLayerWrap .popArea .txt {font-size:14px;}
+.popLayerWrap .popArea .txt strong {font-size:16px;}
+.popLayerWrap .popArea .txt span {display:block;}
+.popLayerWrap .popArea ol {margin-top:15px;}
+.popLayerWrap .popArea .des {margin-top:20px;}
+.popLayerWrap .popArea .close {position:absolute; right:13px; top:13px; padding:0; margin:0; width:21px; height:21px; overflow:hidden;}
+.popLayerWrap .popArea .close a {display:block; overflow:hidden; width:21px; height:21px; background:url(https://images.jinair.com/images/btn/btn_close4.png) no-repeat 0 0;}
+.popLayerWrap .popArea .close a span {display:block; height:0; padding-top:21px;}
+/* //180321 지니플러스 레이어 추가 */
+
+/* 항공편 선택_번들 */
+.bundleArea td {border-top-color:#661e43; letter-spacing:-1em;}
+.bundleList >li {position:relative; display:inline-block; box-sizing:border-box;margin:0 13px;letter-spacing:0; vertical-align:top;}
+.bundleList >li .sale_info {font-size:21px;font-family:'notob';color:#661e43;line-height:20px;}
+.bundleList >li .sale_info .sale {display:inline-block;vertical-align:middle;}
+.bundleList >li .sale_info .detail_info {display:inline-block;width:18px;height:18px;margin-left:3px;background:url('https://images.jinair.com/images/booking/ico_info.png') no-repeat left top;vertical-align:middle;text-indent:-9999px;}
+.bundleList >li .sale_info + .cont_area {margin-top:13px;}
+.bundleList >li .cont_area {width:260px; height:481px;border:1px solid #e6e6e6;box-shadow:5px 5px 5px rgba(150,150,150,.4);box-sizing:border-box;}
+.bundleList >li.basic .cont_area .detail_view {height:352px;}
+.bundleList >li .cont_area .detail_view {display:table;width:100%;height:145px;border-top:1px solid #e6e6e6;}
+.bundleList >li .cont_area .detail_view .area {position:relative;display:table-cell;width:55px;color:#000;line-height:18px;vertical-align:middle;}
+.bundleList >li .cont_area .detail_view .area + .area {width:auto;padding-left:19px;border-left:1px solid #e6e6e6;}
+.bundleList >li .cont_area .detail_view .detail {margin-top:3px;}
+.bundleList >li .cont_area .detail_view .detail a {font-size:12px;text-decoration:underline;}
+.bundleList >li .cont_area .detail_view + .detail_view {height:207px;border-top:1px solid #e6e6e6;}
+.bundleList >li .cont_area .detail_view + .detail_view .area:before {position:absolute;top:-11px;left:50%;display:block;width:20px;height:20px;margin-left:-10px;background:#bdd600;border-radius:100%;font-size:18px;font-family:'notol';color:#000;content:'+';}
+.bundleList >li .cont_area .detail_view + .detail_view .area + .area:before {display:none;}
+.bundleList >li .tit {position:relative;height:92px;padding-top:20px; text-align:center; font-size:24px; color:#000; line-height:1em;box-sizing:border-box;}
+.bundleList >li .tit .limit {display:block;margin:10px 0 -10px;color:#f01818;font-size:16px;}
+.bundleList >li .tit .limit em {color:#555;text-decoration:line-through;font-size:18px;}
+.bundleList >li .tit .price {display:block; margin-top:10px; font-size:16px; color:#661e43;}
+.bundleList >li .tit .price em {font-family:'noto'; font-size:26px;}
+.bundleList >li .tit .price .type {font-size:20px;}
+.bundleList >li .tit .sale {display:block;}
+.bundleList >li .tit .sale em {display:inline-block;height:21px;padding:0 12px;border:1px solid #bed600;color:#000;font-size:12px;line-height:21px;}
+.bundleList >li .txt {margin-top: 7px;color: #000;}
+.bundleList >li .txt span {display:inline-block;vertical-align:top;}
+.bundleList >li .txt .des {display:block;font-size:12px;}
+.bundleList >li .txt a {display:block;margin-top:5px;text-decoration:underline;font-size:12px;}
+.bundleList >li .add {margin-bottom: -20px;color: #000;}
+.bundleList >li ul {text-align:left;}
+.bundleList >li li {position:relative;min-height:32px;padding:5px 0 0 45px;color:#000;line-height:19px;box-sizing:border-box;}
+.bundleList >li li + li {margin-top:5px;}
+.bundleList >li li .type {display:block;font-size:12px;}
+.bundleList >li li:before {content:""; position:absolute; left:0; top:0; width:32px; height:32px; background:url(https://images.jinair.com/images/booking/ico_booking_sm.png) no-repeat 0 0;}
+.bundleList >li li p {display:table-cell; width:100%; padding-left:42px; font-size:14px; line-height:19px; color:#000; vertical-align:middle; letter-spacing:-1px}
+.bundleList >li li.seat:before {background-position-x:0;}
+.bundleList >li li.excess:before {background-position-x:-36px;}
+.bundleList >li li.meal:before {background-position-x:-72px;}
+.bundleList >li li.sale:before {background-position-x:-108px;}
+.bundleList >li li.enter:before {background-position-x:-144px;}
+.bundleList >li li.event:before {background-position-x:-216px;}
+.bundleList >li li.snack:before {background-position-x:-252px;}
+.bundleList >li li.above:before {background-position-x:-288px;}
+.bundleList >li li.lounge {word-wrap:break-word;word-break:keep-all;}
+.bundleList >li li.lounge:before {background-position-x:-324px;}
+.bundleList >li li.counter:before {background-position-x:-360px;}
+.bundleList >li .btn {position:absolute; left:0; bottom:-1px; width:100%; height:37px;}
+.bundleList >li .btn a {display:block; line-height:37px; font-size:16px; color:#000; background:#e6e6e6;}
+.bundleList >li.choice .cont_area {border-color:#661e43;}
+.bundleList >li.choice .btn a {color:#fff; background:#661e43;}
+.bundleList >li.event_bundle {position:relative;padding:1px 1px 0;}
+.bundleList >li.event_bundle.choice {padding:0;border:2px solid #661e43;border-bottom:1px solid #bed600;}
+.bundleList >li.event_bundle.choice .btn a {background:#661e43;color:#fff;}
+.bundleList >li.event_bundle .tit {height:auto;}
+.bundleList >li.event_bundle .limit {display:inline-block;margin:7px auto 0;padding:0 15px;border-radius:100px;background:#661e43;font-size:14px;color:#fff;line-height:24px;}
+.bundleList >li.event_bundle .event {display:block;height:auto;padding:6px 0 0 42px;color:#000;line-height:22px;box-sizing:border-box;}
+.bundleList >li.event_bundle .event p {display:block;padding-left:0;color:#f01818;}
+.bundleList >li.event_bundle .txt a {color:#f01818;}
+.bundleList>li .etc{display:table-cell;height:174px;vertical-align:middle;}
+.bundleList>li .guide_txt{font-size:12px;margin-left:-75px;padding:6px 0 8px 20px;text-align:left;border-top:1px solid #e6e6e6;background:#fff;}
+
+.bundleList.bundleList2 > li .cont_area {height:329px;}
+.bundleList.bundleList2 >li .tit{height:109px;color:#661e43;padding-top:23px;}
+.bundleList.bundleList2 >li.biz .tit{font-size:26px;}
+.bundleList.bundleList2 >li .tit .stxt{display:block;font-size:24px;margin-top:10px;color:#000;}
+.bundleList.bundleList2 >li.biz .tit .stxt{font-size:26px;}
+.bundleList.bundleList2 >li .cont_area .detail_view{height:217px;}
+.bundleList.bundleList2 >li.biz .cont_area .detail_view{height:182px;}
+.bundleList.bundleList2 >li .cont_area .detail_view .area{width:auto;padding-left:29px;}
+/* //항공편 선택_번들 */
+
+.totalCharge {position:relative; border-top:1px solid #000; border-bottom:1px solid #000;}
+.totalCharge dt {position:absolute; left:20px; height:60px; line-height:60px; font-size:18px;}
+.totalCharge dd {height:60px; padding-right:30px; border-top:1px solid #e8e8e8; text-align:right; line-height:60px; font-size:22px; color:#000;}
+.totalCharge dd .unit {position:relative; top:-4px; margin-right:10px; font-size:11px; color:#555;}
+.totalCharge dt.total {color:#000;}
+.totalCharge dd.total {font-family:'notob'; font-size:30px; background:#f7f7f6;}
+.totalCharge dd.total .unit {top:-6px; font-family:'noto';}
+.totalCharge dd:first-child {border-top:0;}
+
+.schedule .m_noti {display:none;} /* 190905 jhb 관련 추가 */
+.schedule .pc_noti {display:inline-block;margin:-10px 0 0 15px;vertical-align:middle;} /* 190923 jhb 관련 수정 */
+.schedule .pc_noti img {max-width:100%;} /* 190905 jhb 관련 추가 */
+
+/* 부가서비스 */
+/* 공통 */
+.extraArea {position:relative; min-height:830px; padding:0 0 0 107px;}
+.extraArea .head {position:absolute; left:0; top:0; z-index:10; width:107px; min-height:100%; background:#ebebeb;}
+.extraArea .head:after {content:""; position:absolute; left:107px; top:0; width:11px; height:100%; background:url(https://images.jinair.com/images/common/gradient.png) repeat-y 0 0;}
+.extraArea .head .open, .extraArea .head .close {display:none;}
+.extraArea .head .tab li {position:relative; border-top:1px solid #fff; text-align:center;}
+.extraArea .head .tab li a {display:block; height:85px; padding-top:15px; color:#000; line-height:1em;}
+.extraArea .head .tab li a:before {content:""; display:block; width:50px; height:45px; margin:0 auto 4px; background:url(https://images.jinair.com/images/booking/ico_booking.png) no-repeat 0 -50px;} /* 190423 아이콘 영역 수정 */
+.extraArea .head .tab li.disabled a{cursor:default;color:#a9a9a9;} /* 비활성화 추가 */
+.extraArea .head .tab li.seat a:before {background-position-x:0;}
+.extraArea .head .tab li.baggage a:before {background-position-x:-50px;}
+.extraArea .head .tab li.meal a:before {background-position-x:-100px;}
+.extraArea .head .tab li.meal.disabled a:before {background-position:-100px -260px;}/* 기내식 비활성화 */
+.extraArea .head .tab li.sale a:before {background-position-x:-150px;}
+.extraArea .head .tab li.sale.disabled a:before {background-position:-100px -260px;}/* 유상판매 비활성화 */
+.extraArea .head .tab li.enter a:before {background-position-x:-200px;}
+.extraArea .head .tab li.enter.disabled a:before {background-position:-100px -260px;}/* 지니 엔터테인먼트 비활성화 */
+.extraArea .head .tab li.lounge a:before {background-position-x:-250px;}/* 라운지 추가 */
+.extraArea .head .tab li.lounge.disabled a:before {background-position:-250px -260px;}/* 라운지 비활성화 */
+.extraArea .head .tab li.choice a {color:#fff; background:#661e43;}
+.extraArea .head .tab li.choice a:before {background-position-y:-100px;}
+.extraArea .head .tab li:first-child {border-top:0;}
+.extraArea .head .btn a {min-width:1px; width:100%; height:100px; padding:0; line-height:100px; font-family:'notob'; font-size:18px;}
+.tripTab {position:relative;}
+.tripTab .slideCont {overflow:hidden; width:100%; background:#ebebeb;}
+.tripTab ul {width:20000px;}
+.tripTab li {float:left; height:74px; text-align:center; font-size:18px; background:#ebebeb;}
+.tripTab li a {position:relative; display:block; height:74px; line-height:74px; color:#000;}
+.tripTab li a:before {content:""; display:inline-block; width:18px; height:18px; margin:-4px 12px 0 0; vertical-align:middle; background:url(https://images.jinair.com/images/common/ico_check2.png) no-repeat 0 0;}
+.tripTab li a:after {content:""; position:absolute; right:0; top:50%; width:1px; height:30px; margin-top:-15px; background:#fff;}
+.tripTab li.choice {background:#661e43;}
+.tripTab li.choice a {color:#fff;}
+.tripTab li.choice a:before {background-position-y:100%;}
+.tripTab li.choice a:after, .tripTab li:last-child a:after {display:none;}
+.tripTab .prev {position:absolute; left:24px; top:50%; overflow:hidden; width:28px; height:0; padding-top:28px; margin-top:-14px; background:url(https://images.jinair.com/images/btn/btn_prev3.png) no-repeat 0 0;}
+.tripTab .next {position:absolute; right:24px; top:50%; overflow:hidden; width:28px; height:0; padding-top:28px; margin-top:-14px; background:url(https://images.jinair.com/images/btn/btn_next3.png) no-repeat 0 0;}
+.extraArea .seatArea, .extraArea .mealArea, .extraArea .saleArea, .extraArea .loungeArea {position:relative; padding-left:316px; min-height:100%;}/* 라운지 추가 */
+.memberList {position:absolute; left:0; top:0; z-index:9; width:316px; min-height:100%; background:#a2a2a2;}
+.memberList .member {box-sizing:border-box; height:100%; padding:30px 20px 40px 25px; border-top:1px solid #fff; background:#ebebeb;}
+.memberList .member a {}
+.memberList .member h2 {font-family:'notob'; font-size:20px; line-height:1em; color:#661e43;}
+.memberList .member .name {position:relative; box-sizing:border-box; height:44px; padding:22px 0 0 71px; margin:30px 0 20px;}
+.memberList .member .name p {color:#000; font-size:20px; line-height:1em;}
+.memberList .member .name p.child {margin-top:5px; font-size:16px; line-height:1em;}
+.memberList .member .name:before {content:""; position:absolute; left:23px; top:0; width:24px; height:44px; background:url(https://images.jinair.com/images/booking/ico_booking.png) no-repeat 0 -150px;}
+.memberList .member .name.multi {padding-top:3px;}
+.memberList .member .name.multi:before {left:11px; width:44px;}
+.memberList .member h3 {display:none; position:relative; padding-left:30px; margin-top:40px; color:#000; font-family:'notob'; font-size:18px; line-height:18px;}
+.memberList .member h3:before {content:""; position:absolute; left:5px; top:0; width:20px; height:18px; background:url(https://images.jinair.com/images/booking/ico_booking.png) no-repeat -100px -150px;}
+.memberList .member .srmy {display:none; position:relative; height:35px; padding-right:40px; margin-top:10px; border:3px solid #fff; background:#fff;}
+.memberList .member .srmy .text {overflow:hidden; height:35px; line-height:35px; padding-left:10px; font-size:16px; color:#000; text-overflow:ellipsis; white-space:nowrap;}
+.memberList .member .srmy .text em {font-size:22px;}
+.memberList .member .srmy .del {overflow:hidden; position:absolute; right:0; top:0; margin:0 1px 0 0; width:35px; height:0; padding-top:35px; background:url(https://images.jinair.com/images/btn/btn_delete.gif) no-repeat 0 0;}
+.memberList .member .srmy.typeB {padding-right:84px;}
+.memberList .member .srmy.typeB .del {right:-1px;}
+.saleArea .memberList .member .srmy.typeB .del {right:35px;}
+.memberList .member .srmy.typeB .add {overflow:hidden; position:absolute; right:0; top:0; width:35px; height:0; padding-top:35px; background:url(https://images.jinair.com/images/btn/btn_add.gif) no-repeat 0 0;}
+.memberList .member .srmy.typeB.choice .add {background-position-y:100%;}
+.memberList .member .srmy.choice {border-color:#661e43;}
+.memberList .member .srmyArea.disable .srmy {padding-right:40px; background:#f2f2f2;}
+.memberList .member .srmyArea.disable .srmy .text {color:#666; text-shadow:1px 1px #fff;}
+.memberList .member .srmyArea.disable .srmy .del {display:none;}
+.memberList .member .price {display:none; margin:10px 0 0 12px;}
+.memberList .member .price .unit {position:relative; top:-4px; margin-right:6px; font-size:11px; line-height:1em;}
+.memberList .member .price strong {font-size:22px; color:#000; line-height:1em;}
+.memberList .member .chk {display:none; margin:20px 0 0 5px; color:#000;}
+.memberList .member .chk input[type=checkbox] {width:16px; height:16px; margin-top:-4px; background-image:url(https://images.jinair.com/images/common/ico_check3.png);}
+.memberList .member .chk input[type=checkbox]:checked {background-position-y:100%;}
+.memberList .member.choice h3, .memberList .member.choice .srmy, .memberList .member.choice .price, .memberList .member.choice .chk,
+.memberList .member.entry h3, .memberList .member.entry .srmy, .memberList .member.entry .price, .memberList .member.entry .chk {display:block;}
+.memberList .member.disable .srmy {padding-right:0; border-color:#fff; background:#f2f2f2;}
+.memberList .member.disable .srmy .text {color:#666; text-shadow:1px 1px #fff;}
+.memberList .member.disable .srmy .del {display:none;}
+.memberList .member:first-child {border-top:0;}
+.extrasSec >.text {position:relative; height:46px; padding-top:28px; text-align:center; font-size:18px; line-height:1em; color:#000; background:#e0e0e0;}
+.extrasSec .content {padding-bottom:116px;}
+.extrasSec .content .loading {padding:100px 0 50px;}
+#enterSec .memberList .member {padding-bottom:80px;} /* 190423 초과 수하물 padding값 조절 */
+.extraArea .bunch .content {padding-bottom:0;}
+.extraArea .bunch {position:relative; padding-left:316px;}
+.extraArea .bunch .memberList {background-color:#ebebeb;}
+.extraArea .bunch .memberList .member {border-top:1px solid #fff;}
+.extraArea .bunch .memberList .member a {cursor:default;}
+.extraArea .bunch .memberList .member .srmy.choice {/*border-color:#fff;*/}
+.extraArea .bunch:first-child .memberList .member {border-top:0;}
+.extraArea .bunch.last {padding-bottom:60px;}
+.extraArea .btnArea {position:absolute; left:0; bottom:0; z-index:10; box-sizing:border-box; width:100%; height:60px; padding-left:316px;}
+.extraArea .btnArea.fix {position:fixed; bottom:-60px; padding-left:423px;}
+.extraArea .btnArea.fix a {box-shadow:5px 8px 5px rgba(150,150,150,.4);}
+
+.extraArea .btnArea.btnArea2 {position:absolute; left:0; bottom:0; z-index:10; box-sizing:border-box; width:100%; height:60px; padding-left:316px;text-align:center;} /* 180321 플로팅 추가 */
+.extraArea .btnArea.btnArea2 a {box-shadow:5px 8px 5px rgba(150,150,150,.4);} /* 180321 플로팅 추가 */
+.extraArea #baggageSec .btnArea.btnArea2 {padding-left:423px;} /* 180321 플로팅 추가 */
+.extraArea #enterSec .btnArea.btnArea2 {padding-left:423px;} /* 180321 플로팅 추가 */
+.totalFix .extraArea .btnArea.btnArea2 {position:static;left:0;right:0;bottom:110px;padding-left:0;} /* 180321 플로팅 추가 *//* 2018-08-17 수정 */
+.totalFix .extraArea .btnArea.btnArea2 .btnTypeA {position:fixed;left:50%;bottom:110px;margin-left:101px;}/* 2018-08-17 추가 */
+
+/* 사전좌석선택 */
+.seatMap {position:relative; padding-top:0; padding-bottom:80px; overflow:hidden;}
+.seatMap .info {position:absolute; left:0; top:0; box-sizing:border-box; width:192px; padding:65px 30px 0; z-index:1;} /* 1906 좌석선택 관련 z-index 추가 */
+.seatMap .info p {line-height:30px; font-size:13px; color:#000; margin-top:25px;} /* 1906 좌석 종류 margin 추가 */
+.seatMap .info p:before {content:""; display:inline-block; width:24px; height:24px; border:3px solid #636363; margin:-2px 10px 0 0; vertical-align:middle; background:url(https://images.jinair.com/images/booking/ico_disable.gif) no-repeat 50% 50%;}
+.seatMap .info ul {margin-top:0;} /* 1906 좌석 종류 margin 수정 */
+.seatMap .info li {position:relative; padding:0 0 0 40px; margin-top:25px; font-size:14px; line-height:14px; color:#000; word-break:keep-all;} /* 180320 수정 */
+.seatMap .info li:before {content:""; position:absolute; left:0; top:0; box-sizing:border-box; width:30px; height:30px; border:2px solid #747474;}
+.seatMap .info li em {/*display:inline-block;*/display:block; margin-bottom:3px; font-size:10px;} /* 180320 수정 */ /* 180323 줄바꿈 처리 */
+.seatMap .info li span {margin-left:4px;font-size:16px;} /* 180320 수정 */
+.seatMap .info li div {font-size:12px;} /* 180320 추가 */
+.seatMap .mapBox {position:relative;}
+.seatMap .map {position:absolute; right:146px; top:0; box-sizing:border-box; width:404px;height:100%;}
+.seatMap .map p {position:absolute; color:#000; line-height:1em;}
+.seatMap .map .toilet {overflow:hidden; width:68px; height:0; padding-top:47px; background:url(https://images.jinair.com/images/booking/ico_toilet.gif) no-repeat 0 0;}
+
+/* 좌석안내, 좌석안내 레이어, 좌석 배치도 */
+.seatMap .info li.plus div {color:#b28913;}
+.seatMap .info li.plus:before {border:3px solid #b28913;}
+.seatMap .info li.stretch div {color:#518bbb;}
+.seatMap .info li.stretch:before {border:3px solid #518bbb;}
+.seatMap .info li.exit div {color:#a82628;}
+.seatMap .info li.exit:before {border:3px solid #a82628;}
+.seatMap .info li.noRecline div {color:#780093;}
+.seatMap .info li.noRecline:before {border:3px solid #780093;}
+.seatMap .info li.noRecNew div {color:#00103f;}
+.seatMap .info li.noRecNew:before {border:3px solid #00103f;}
+.seatMap .info li.front div {color:#007074;}
+.seatMap .info li.front:before {border:3px solid #007074;}
+.seatMap .info li.fast div {color:#72008e;}
+.seatMap .info li.fast:before {border:3px solid #72008e;}
+.seatMap .info li.standardA div {color:#007074;}
+.seatMap .info li.standardA:before {border:3px solid #007074;}
+.seatMap .info li.standardB div {color:#737373;}
+.seatMap .info li.standardB:before {border:3px solid #737373;}
+.seatMap .info .seat_guide{position:relative;margin:20px 0 0;}
+.seatMap .info .seat_guide button{font-size:14px;padding:7px 20px 8px 45px;color:#000;background:#bdd600 url('https://images.jinair.com/images/booking/ico_seat.png') no-repeat 18px center;box-shadow:5px 5px 5px rgba(150,150,150,.4);}
+.seatMap .layer_seatInfo{position:absolute;z-index:10;top:0;left:0;display:none;width:350px;padding:10px 20px 40px;border:1px solid #4e2d40;background:#fff;}
+.seatMap .layer_seatInfo ul li:before{display:none;}
+.seatMap .layer_seatInfo ul li{font-family:'noto';font-size:14px;line-height:normal;position:static;margin:15px 0 0;padding:0;word-wrap:break-word;word-break:keep-all;color:#555;}
+.seatMap .layer_seatInfo ul li strong{font-family:'notob';font-size:16px;display:block;}
+.seatMap .layer_seatInfo ul li .plus{color:#b28913;}
+.seatMap .layer_seatInfo ul li .front{color:#007074;}
+.seatMap .layer_seatInfo ul li .stretch{color:#518bbb;}
+.seatMap .layer_seatInfo ul li .exit{color:#a82628;}
+.seatMap .layer_seatInfo ul li .noRecline{color:#780093;}
+.seatMap .layer_seatInfo ul li .noRecNew{color:#00103f;}
+.seatMap .layer_seatInfo ul li .seat{color:#555;}
+.seatMap .layer_seatInfo ul li .fast{color:#72008e;}
+.seatMap .layer_seatInfo ul li .standardA{color:#007074;}
+.seatMap .layer_seatInfo ul li .standardB{color:#737373;}
+.seatMap .layer_seatInfo ul li span{font-size:14px;margin-left:0;}
+.seatMap .layer_seatInfo .etc{font-family:'notol';font-size:13px;display:block;margin-top:17px;letter-spacing:-1px;color:#666;}
+.seatMap .layer_seatInfo .layer_close{position:absolute;top:10px;right:10px;}
+.seatMap .layer_seatInfo .layer_close a{display:block;width:30px;height:30px;text-indent:-9999px;background:url('https://images.jinair.com/images/btn/btn_close4.png') no-repeat center center;}
+.seatMap .map li a, .map li >span {border:2px solid #747474;}
+.seatMap .map li.plus a, .map li.plus >span {border:3px solid #b28913;}
+.seatMap .map li.front a, .map li.front >span {border:3px solid #007074;}
+.seatMap .map li.noRecline a, .map li.noRecline >span {border:3px solid #780093;}
+.seatMap .map li.noRecNew a, .map li.noRecNew >span {border:3px solid #00103f;}
+.seatMap .map li.exit a, .map li.exit >span {border:3px solid #a82628;}
+.seatMap .map li.stretch a, .map li.stretch >span {border:3px solid #518bbb;}
+.seatMap .map li.fast a, .map li.fast >span {border:3px solid #72008e;}
+.seatMap .map li.standardA a, .map li.standardA >span {border:3px solid #007074;}
+.seatMap .map li.standardB a, .map li.standardB >span {border:3px solid #737373;}
+
+.seatMap .map li.disable a {border:3px solid #747474; cursor:default; background:url(https://images.jinair.com/images/booking/ico_disable.gif) no-repeat 50% 50%; background-size:100% 100%;}
+.seatMap .map li.choice a {background:#636363;background:#636363 url(https://images.jinair.com/images/booking/ico_check.png) no-repeat 50% 50%;}
+.seatMap .map li.choice.plus a {background-color:#b28913;}
+.seatMap .map li.choice.front a {background-color:#007074;}
+.seatMap .map li.choice.exit a {background-color:#a82628;}
+.seatMap .map li.choice.noRecline a {background-color:#780093;}
+.seatMap .map li.choice.noRecNew a {background-color:#00103f;}
+.seatMap .map li.choice.stretch a {background-color:#518bbb;}
+.seatMap .map li.choice.fast a {background-color:#72008e;}
+.seatMap .map li.choice.standardA a {background-color:#007074;}
+.seatMap .map li.choice.standardB a {background-color:#737373;}
+/* //좌석안내, 좌석안내 레이어, 좌석 배치도 */
+
+.seatMap .zoomArea {position:absolute; right:0; top:0; width:146px; padding-top:94px;}
+.seatMap .zoomArea span {position:absolute; left:50%; top:0; box-sizing:border-box; width:96px; height:140px; margin-left:-48px; border:1px solid #000; cursor:pointer;}
+
+.seatMap.b737 .mapBox {height:2000px;}
+/* 180320 삭제 (200724 exit 부분 포함 주석 처리) */
+/*.seatMap.b737 .info li.front em {color:#760093;}
+.seatMap.b737 .info li.front:before {border:3px solid #760093;}
+.seatMap.b737 .info li.noRecline em {color:#006f70;}
+.seatMap.b737 .info li.noRecline:before {border:3px solid #006f70;}
+.seatMap.b737 .info li.exit em {color:#a92626;}
+.seatMap.b737 .info li.exit:before {border:3px solid #a92626;}*/
+/* //180320 삭제 (200724 exit 부분 포함 주석 처리) */
+.seatMap.b737 .map {padding:214px 0 0 27px; background:url(https://images.jinair.com/images/booking/bg_b737.gif) no-repeat 0 0;}
+.seatMap.b737 .map .entrance {left:33px; top:113px;}
+.seatMap.b737 .map .entrance2 {right:33px; top:113px;} /* 211201 b737 비상구 추가 */
+.seatMap.b737 .map .toilet1 {left:27px; top:31px;}
+.seatMap.b737 .map .toilet2 {left:27px; bottom:88px;}
+.seatMap.b737 .map .toilet3 {right:27px; bottom:88px;}
+/* 211201 b737 기존 비상구 수정 및 추가 */
+.seatMap.b737 .map .emergency1 {left:17px; top:910px;}
+.seatMap.b737 .map .emergency2 {right:17px; top:910px;}
+.seatMap.b737 .map .emergency3 {left:17px; top:980px;}
+.seatMap.b737 .map .emergency4 {right:17px; top:980px;}
+.seatMap.b737 .map .emergency5 {left:17px; bottom:42px;}
+.seatMap.b737 .map .emergency6 {right:17px; bottom:42px;}
+/* //211201 b737 기존 비상구 수정 및 추가 */
+.seatMap.b737 .map li {position:relative; display:inline-block; width:50px; height:50px; margin-right:-4px; vertical-align:top;}
+.seatMap.b737 .map li a, .seatMap.b737 .map li >span {display:block; box-sizing:border-box; width:40px; height:40px; text-indent:-2000px; }/* border:2px solid #747474; */
+/* .seatMap.b737 .map li.front a, .seatMap.b737 .map li.front >span {border:3px solid #760093;}
+.seatMap.b737 .map li.noRecline a, .seatMap.b737 .map li.noRecline >span {border:3px solid #006f70;}
+.seatMap.b737 .map li.exit a, .seatMap.b737 .map li.exit >span {border:3px solid #a92626;}
+.seatMap.b737 .map li.choice.front a {background-color:#760093;}
+.seatMap.b737 .map li.choice.noRecline a {background-color:#006f70;}
+.seatMap.b737 .map li.choice.exit a {background-color:#a92626;} */
+/*.seatMap.b737 .map li:nth-child(3) {margin-right:210px;}
+.seatMap.b737 .map li:nth-child(6n+6) {margin-right:60px;}
+.seatMap.b737 .map li:nth-child(82), .seatMap.b737 .map li:nth-child(83), .seatMap.b737 .map li:nth-child(84), .seatMap.b737 .map li:nth-child(85), .seatMap.b737 .map li:nth-child(86), .seatMap.b737 .map li:nth-child(87) {margin-top:20px; margin-bottom:20px;}*/
+.seatMap.b737 .zoomArea p {position:relative; width:64px; height:380px; margin:0 auto;}
+.seatMap.b737 .zoomArea p img {margin-top:-17px;}
+.seatMap.b737 .zoomArea span {position:absolute; left:50%; top:0; box-sizing:border-box; width:96px; height:140px; margin-left:-48px; border:1px solid #000; cursor:pointer;}
+.seatMap.b777 .mapBox {height:2100px;}
+/* .seatMap.b777 .info li.plus em {color:#661e43;}
+.seatMap.b777 .info li.plus:before {border:3px solid #661e43;}
+.seatMap.b777 .info li.front em {color:#760093;}
+.seatMap.b777 .info li.front:before {border:3px solid #760093;}
+.seatMap.b777 .info li.exit em {color:#a92626;}
+.seatMap.b777 .info li.exit:before {border:3px solid #a92626;} */
+.seatMap.b777 .map {height:2100px; padding:209px 0 0 29px; background:url(https://images.jinair.com/images/booking/bg_b777.gif) no-repeat 0 0;}
+.seatMap.b777 .map .entrance {left:33px; top:105px;}
+.seatMap.b777 .map .entrance2 {right:33px; top:105px;} /* 211201 b777 비상구 추가 */
+.seatMap.b777 .map .toilet1 {left:168px; top:31px;}
+.seatMap.b777 .map .toilet2 {left:29px; top:531px;}
+.seatMap.b777 .map .toilet3 {right:29px; top:531px;}
+.seatMap.b777 .map .toilet4 {left:29px; top:1360px;}
+.seatMap.b777 .map .toilet5 {left:170px; top:1360px;}
+.seatMap.b777 .map .toilet6 {right:29px; top:1323px;width:83px;padding-top:84px;background:url(https://images.jinair.com/images/booking/ico_toilet_02.gif) no-repeat 0 0;} /* 190716 장애인용 화장실 */
+.seatMap.b777 .map .toilet7 {left:29px; bottom:138px;}
+.seatMap.b777 .map .toilet8 {left:133px; bottom:138px;}
+.seatMap.b777 .map .toilet9 {right:132px; bottom:138px;}
+.seatMap.b777 .map .toilet10 {right:29px; bottom:138px;}
+.seatMap.b777 .map .emergency1 {left:19px; top:618px;}
+.seatMap.b777 .map .emergency2 {right:19px; top:618px;}
+.seatMap.b777 .map .emergency3 {left:19px; top:1424px;}
+.seatMap.b777 .map .emergency4 {right:19px; top:1424px;}
+.seatMap.b777 .map .emergency5 {left:19px; bottom:95px;}
+.seatMap.b777 .map .emergency6 {right:19px; bottom:95px;}
+.seatMap.b777 .map ol {overflow:hidden; width:350px;}
+.seatMap.b777 .map li {position:relative; float:left; width:29px; height:35px; vertical-align:top;}
+.seatMap.b777 .map li a, .seatMap.b777 .map li >span {display:block; box-sizing:border-box; width:25px; height:25px; text-indent:-2000px;}  /* border:2px solid #747474; */
+/* .seatMap.b777 .map li.plus a, .seatMap.b777 .map li.plus >span {border:3px solid #661e43;}
+.seatMap.b777 .map li.front a, .seatMap.b777 .map li.front >span {border:3px solid #760093;}
+.seatMap.b777 .map li.exit a, .seatMap.b777 .map li.exit >span {border:3px solid #a92626;}
+.seatMap.b777 .map li.choice.plus a {background-color:#661e43;}
+.seatMap.b777 .map li.choice.front a {background-color:#760093;}
+.seatMap.b777 .map li.choice.exit a {background-color:#a92626;} */
+.seatMap.b777 .map li.plus {height:43px;}
+.seatMap.b777 .map li.plus a, .seatMap.b777 .map li.plus >span {height:35px;}
+/*
+.seatMap.b777 .map li:nth-child(2), .seatMap.b777 .map li:nth-child(6) {margin-right:58px;}
+.seatMap.b777 .map li.seatA:nth-child(38) ~li.seatA {height:46px;}
+.seatMap.b777 .map li:nth-child(10n+11), .seatMap.b777 .map li:nth-child(10n+15) {margin-right:30px;}
+.seatMap.b777 .map li:nth-child(78) ~li {margin-top:129px;}
+.seatMap.b777 .map li:nth-child(88) ~li {margin-top:0;}
+.seatMap.b777 .map li:nth-child(278) ~li {margin-top:100px;}
+.seatMap.b777 .map li:nth-child(284) ~li {margin-top:0;}
+.seatMap.b777 .map li:nth-child(281) {margin-right:176px;}
+.seatMap.b777 .map li:nth-child(10n+285), .seatMap.b777 .map li:nth-child(10n+289) {margin-right:-4px;}
+.seatMap.b777 .map li:nth-child(10n+287), .seatMap.b777 .map li:nth-child(10n+291) {margin-right:30px;}
+.seatMap.b777 .map li:nth-child(10n+367), .seatMap.b777 .map li:nth-child(10n+371) {margin-right:-4px;}
+.seatMap.b777 .map li:nth-child(8n+366), .seatMap.b777 .map li:nth-child(8n+370) {margin-right:58px;}*/
+/*
+.seatMap.b777 .map li.no2, .seatMap.b777 .map li.no6 {margin-right:58px;}
+.seatMap.b777 .map li.no39, .seatMap.b777 .map li.no40, .seatMap.b777 .map li.no41, .seatMap.b777 .map li.no42, .seatMap.b777 .map li.no43, .seatMap.b777 .map li.no44, .seatMap.b777 .map li.no45, .seatMap.b777 .map li.no46, .seatMap.b777 .map li.no47, .seatMap.b777 .map li.no48 {height:46px;}
+.seatMap.b777 .map li.no11, .seatMap.b777 .map li.no15,
+.seatMap.b777 .map li.no21, .seatMap.b777 .map li.no25,
+.seatMap.b777 .map li.no31, .seatMap.b777 .map li.no35,
+.seatMap.b777 .map li.no41, .seatMap.b777 .map li.no45,
+.seatMap.b777 .map li.no51, .seatMap.b777 .map li.no55,
+.seatMap.b777 .map li.no61, .seatMap.b777 .map li.no65,
+.seatMap.b777 .map li.no71, .seatMap.b777 .map li.no75,
+.seatMap.b777 .map li.no81, .seatMap.b777 .map li.no85,
+.seatMap.b777 .map li.no91, .seatMap.b777 .map li.no95,
+.seatMap.b777 .map li.no101, .seatMap.b777 .map li.no105,
+.seatMap.b777 .map li.no111, .seatMap.b777 .map li.no115,
+.seatMap.b777 .map li.no121, .seatMap.b777 .map li.no125,
+.seatMap.b777 .map li.no131, .seatMap.b777 .map li.no135,
+.seatMap.b777 .map li.no141, .seatMap.b777 .map li.no145,
+.seatMap.b777 .map li.no151, .seatMap.b777 .map li.no155,
+.seatMap.b777 .map li.no161, .seatMap.b777 .map li.no165,
+.seatMap.b777 .map li.no171, .seatMap.b777 .map li.no175,
+.seatMap.b777 .map li.no181, .seatMap.b777 .map li.no185,
+.seatMap.b777 .map li.no191, .seatMap.b777 .map li.no195,
+.seatMap.b777 .map li.no201, .seatMap.b777 .map li.no205,
+.seatMap.b777 .map li.no211, .seatMap.b777 .map li.no215,
+.seatMap.b777 .map li.no221, .seatMap.b777 .map li.no225,
+.seatMap.b777 .map li.no231, .seatMap.b777 .map li.no235,
+.seatMap.b777 .map li.no241, .seatMap.b777 .map li.no245,
+.seatMap.b777 .map li.no251, .seatMap.b777 .map li.no255,
+.seatMap.b777 .map li.no261, .seatMap.b777 .map li.no265,
+.seatMap.b777 .map li.no271, .seatMap.b777 .map li.no275,
+.seatMap.b777 .map li.no287, .seatMap.b777 .map li.no291,
+.seatMap.b777 .map li.no297, .seatMap.b777 .map li.no301,
+.seatMap.b777 .map li.no307, .seatMap.b777 .map li.no311,
+.seatMap.b777 .map li.no317, .seatMap.b777 .map li.no321,
+.seatMap.b777 .map li.no327, .seatMap.b777 .map li.no331,
+.seatMap.b777 .map li.no337, .seatMap.b777 .map li.no341,
+.seatMap.b777 .map li.no347, .seatMap.b777 .map li.no351,
+.seatMap.b777 .map li.no357, .seatMap.b777 .map li.no361{margin-right:30px;}
+.seatMap.b777 .map li.no79, .seatMap.b777 .map li.no80, .seatMap.b777 .map li.no81, .seatMap.b777 .map li.no82, .seatMap.b777 .map li.no83, .seatMap.b777 .map li.no84, .seatMap.b777 .map li.no85, .seatMap.b777 .map li.no86, .seatMap.b777 .map li.no87, .seatMap.b777 .map li.no88 {margin-top:129px;}
+.seatMap.b777 .map li.no279, .seatMap.b777 .map li.no280, .seatMap.b777 .map li.no281, .seatMap.b777 .map li.no282, .seatMap.b777 .map li.no283, .seatMap.b777 .map li.no284 {margin-top:100px;}
+.seatMap.b777 .map li.no281 {margin-right:176px;}
+.seatMap.b777 .map li.no366, .seatMap.b777 .map li.no370,
+.seatMap.b777 .map li.no374, .seatMap.b777 .map li.no378,
+.seatMap.b777 .map li.no382, .seatMap.b777 .map li.no386,
+.seatMap.b777 .map li.no390, .seatMap.b777 .map li.no394
+{margin-right:58px;}*/
+.seatMap.b777 .zoomArea p {position:relative; width:72px; height:450px; margin:0 auto;}
+.seatMap.b777 .zoomArea p img {margin-top:-9px;}
+
+/* b737-900 좌석 추가 */
+.seatMap.b739 .mapBox{height:2080px;}
+.seatMap.b739 .map{padding:214px 0 0 27px;background:url(https://images.jinair.com/images/booking/bg_b737_900.gif) no-repeat 0 0;}
+.seatMap.b739 .map .entrance{top:113px;left:33px;}
+.seatMap.b739 .map .entrance2{top:113px;right:33px;}
+.seatMap.b739 .map .toilet1{top:31px;left:27px;}
+.seatMap.b739 .map .toilet2{bottom:88px;left:27px;}
+.seatMap.b739 .map .toilet3{right:27px;bottom:88px;}
+.seatMap.b739 .map .emergency1{top:940px;left:17px;}
+.seatMap.b739 .map .emergency2{top:940px;right:17px;}
+.seatMap.b739 .map .emergency3{top:1010px;left:17px;}
+.seatMap.b739 .map .emergency4{top:1010px;right:17px;}
+.seatMap.b739 .map .emergency5{bottom:42px;left:17px;}
+.seatMap.b739 .map .emergency6{right:17px;bottom:42px;}
+.seatMap.b739 .map li{position:relative;display:inline-block;width:50px;height:50px;margin-right:-4px;vertical-align:top;}
+.seatMap.b739 .map li a,.seatMap.b739 .map li>span{display:block;box-sizing:border-box;width:40px;height:40px;text-indent:-2000px;}
+.seatMap.b739 .map li.plus{height:60px;}
+.seatMap.b739 .map li.plus a,.seatMap.b739 .map li.plus>span{height:50px;}
+.seatMap.b739 .zoomArea p{position:relative;width:64px;height:380px;margin:0 auto;}
+.seatMap.b739 .zoomArea p img{margin-top:-17px;}
+.seatMap.b739 .zoomArea span{position:absolute;top:0;left:50%;box-sizing:border-box;width:96px;height:140px;margin-left:-48px;cursor:pointer;border:1px solid #000;}
+/* //b737-900 좌석 추가 */
+
+/* 초과수화물, 엔터테인먼트 */
+.baggageArea, .enterArea {position:relative; padding:1px 43px 80px; min-height:100%; border-top:1px solid #ececec;}
+.baggageArea .text,
+.enterArea .text {margin:30px 0 0;padding-left:37px;text-indent:-37px;line-height:22px;font-size:16px; color:#000;word-wrap:break-word;word-break:keep-all;letter-spacing:-1px;} /* 190423 지니플레이 관련 수정 */
+.baggageArea .text:before,
+.enterArea .text:before {content:""; display:inline-block; width:23px; height:22px; margin:-2px 12px 0 0; vertical-align:middle; background:url(https://images.jinair.com/images/common/ico_blt.png) no-repeat -26px 0;} /* 190107 수정 및 추가 */
+.bunch:first-child .baggageArea, .bunch:first-child .enterArea {border-top:0;}
+.baggageArea h3, .enterArea h3 {position:relative; padding-left:34px; margin:39px 0 5px; color:#000; font-family:'notob'; font-size:22px; line-height:1em;}
+.baggageArea h3:before, .enterArea h3:before {content:""; position:absolute; left:0; top:2px; width:20px; height:18px; background:url(https://images.jinair.com/images/booking/ico_booking.png) no-repeat -100px -150px;}
+.baggageArea .sel, .enterArea .sel {margin:0 -12px;}
+.baggageArea .sel:after, .enterArea .sel:after {content:""; display:block; clear:both;}
+.baggageArea .sel span, .enterArea .sel span {float:left; box-sizing:border-box; width:50%; padding:0 12px; margin-top:15px;}
+.baggageArea select, .enterArea select {width:100%; border:2px solid #e9e9e9; box-shadow:3px 3px 4px rgba(150,150,150,.4); color:#000; background-color:#fff; background-image:url(https://images.jinair.com/images/btn/btn_arrow2.png);}
+.baggageArea select:focus, .enterArea select:focus {border-color:#661e43;}/* 접근성 보완 */
+.baggageArea select:disabled, .enterArea select:disabled {background:#f2f2f2; color:#666;  text-shadow:1px 1px #fff;}
+{margin:40px 0 0;padding-left:37px;text-indent:-37px;line-height:22px; font-size:18px; color:#000;} /* 180328 추가 */
+.enterArea .jiniPlay {position:absolute;top:50%;right:0;background:url('https://images.jinair.com/images/booking/bg_jiniplay.jpg') no-repeat center top;padding-top:110px;margin-top:-120px;} /* 190423 지니플레이 수정 */
+
+/* 라운지 */
+.extraArea .lounge_content {padding:33px 0 0 44px;}
+.extraArea .lounge_content .mobile_view {display:none;}
+.extraArea .lounge_content .text {position:relative;padding-left:31px;font-size:18px;line-height:24px;color:#000;}
+.extraArea .lounge_content .text:before {position:absolute;top:0;left:0;display:block;width:23px;height:22px;background:url('https://images.jinair.com/images/common/ico_blt.png') no-repeat -26px 0;content:'';}
+.extraArea .lounge_content .text span {display:block;font-size:16px;color:#661e43;line-height:30px;}
+.extraArea .lounge_content .select_box {display:inline-block;margin-top:22px;}
+.extraArea .lounge_content .select_box a {display:block;background:#f0f0f0;font-size:20px;color:#000;line-height:48px;text-align:center;}
+.extraArea .lounge_content .select_box .active {background:#661e43;color:#fff;}
+.extraArea .lounge_content .info_list {margin-top:17px;}
+.extraArea .lounge_content .info_list li {font-size:16px;font-family:'notol';color:#000;line-height:24px;}
+.extraArea .lounge_content .info_list + .btn_area {margin-top:18px;}
+.extraArea .lounge_content .use_date {margin-top:24px;padding-top:14px;border-top:1px solid #ddd;}
+.extraArea .lounge_content .use_date .title {position:relative;padding-left:35px;font-size:22px;font-family:'notob';color:#000;}
+.extraArea .lounge_content .use_date .title:before {position:absolute;top:9px;left:4px;width:20px;height:18px;display:block;background:url('https://images.jinair.com/images/booking/ico_booking.png') no-repeat -100px -150px;content:'';}
+.extraArea .lounge_content .view_date {margin-top:18px;}
+.extraArea .lounge_content .view_date input[type="text"] {width:285px;height:60px;border:2px solid #e9e9e9;background:#fff;box-shadow:3px 3px 4px rgba(150, 150, 150,.4);font-size:20px;color:#000;line-height:56px;text-align:center;}
+/* // 라운지 */
+
+/* 기내식, 유상판매 */
+.mealArea .content, .saleArea .content {padding-top:40px; padding-left:43px;}
+.mealArea .content .text, .saleArea .content .text {float:left; height:22px; margin-bottom:30px; line-height:22px; font-size:18px; color:#000;}
+/*.mealArea .content .text {height:48px;padding-left:37px;text-indent:-37px;letter-spacing:-1px;}*/ /* 1906 기내식 text 부분 삭제 */
+.mealArea .content .text .guide {display:block;margin:5px 0 0 38px;text-decoration:underline;} /* 180307 추가 */
+.mealArea .content .text:before, .saleArea .content .text:before {content:""; display:inline-block; width:23px; height:22px; margin:-2px 12px 0 0; vertical-align:middle; background:url(https://images.jinair.com/images/common/ico_blt.png) no-repeat -26px 0;}
+.mealArea .text_box{font-size:18px;line-height:1em;position:relative;height:46px;margin:-40px 0 37px -43px;padding-top:28px;text-align:center;color:#000;background:#e0e0e0;} /* 1906 기내식 text bar 추가 */
+.mealArea .content .chk, .saleArea .content .chk {float:right; height:22px; margin:0 43px 30px; line-height:22px; text-align:right; color:#661e43; font-size:16px;}
+.mealArea .content .tabArea {clear:both;}/* 2018-08-03 추가 */
+.mealArea .mealList, .saleArea .saleList {clear:both; margin:0 0 0 -13px; letter-spacing:-1em;}
+.mealArea .mealList li, .saleArea .saleList li {position:relative; display:inline-block; box-sizing:border-box; width:208px; min-height:318px; padding-bottom:33px; margin:0 0 50px 13px; border:1px solid #d0d0d0; vertical-align:top; letter-spacing:0;}
+.mealArea .mealList li .tit, .saleArea .saleList li .tit {min-height:48px; margin:15px; font-size:18px; line-height:24px;word-break:break-all;word-wrap:break-word;color:#000;} /* 180828 word-break, word-wrap 추가 */
+.mealArea .mealList li .cont, .saleArea .saleList li .cont {margin:0 15px;word-break:break-all;word-wrap:break-word;} /* 180828 word-break, word-wrap 추가 */
+.mealArea .mealList li .price, .saleArea .saleList li .price {margin:5px 15px 15px; font-family:'notob'; font-size:18px; line-height:1em; color:#000;}
+.mealArea .mealList li .price .unit, .saleArea .saleList li .price .unit {font-size:14px;}
+.mealArea .mealList li .btn, .saleArea .saleList li .btn {position:absolute; left:0; bottom:0; width:100%; text-align:center;}
+.mealArea .mealList li .btn a, .saleArea .saleList li .btn a {display:block; height:33px; line-height:33px; font-size:16px; color:#000; background:#f0f0f0;}
+.mealArea .mealList li.choice, .saleArea .saleList li.choice {border-color:#661e43;}
+.mealArea .mealList li.choice .btn a, .saleArea .saleList li.choice .btn a {color:#fff; background-color:#661e43;}
+.mealArea .mealList li .thumb img {max-width:100%;}/* 2018-08-03 추가 */
+.mealArea .mealList li.active {border-color:#661e43;}/* 2018-08-20 추가 */
+.mealArea .mealList li.active .btn a {background:#661e43;color:#fff;}/* 2018-08-20 추가 */
+.mealArea .mealList li {width:calc( (100% - 40px) / 3 );}/* 2018-08-22 수정 */
+
+/* 결제 */
+.passengerInfo {position:relative; border-top:1px solid #000; border-bottom:1px solid #000;}
+.passengerInfo dt {position:absolute; left:20px; height:60px; line-height:60px; font-size:18px;}
+.passengerInfo dd {height:60px; line-height:60px; padding-left:130px; border-top:1px solid #e8e8e8; font-size:18px; color:#000;}
+.passengerInfo dt:first-chlid +dd {border-top:0;}
+.flightInfo {position:relative; padding:30px 330px 30px 20px; border-top:1px solid #000; background:#f7f7f6;}
+.flightInfo +.detailInfo {border-top:0;}
+.flightInfo .tripSrmy ~.tripSrmy {margin-top:10px;}
+.flightInfo .tit {display:inline-block; margin:4px 20px 0 0; min-width:45px; vertical-align:top; line-height:1em; color:#000;}
+.flightInfo .tit strong {display:block; margin-top:8px;}
+.flightInfo .trip {display:inline-block; padding-bottom:7px; line-height:1em; vertical-align:top;}
+.flightInfo .trip strong {display:block; margin-bottom:8px; font-size:22px; line-height:1em; color:#000;}
+.flightInfo .ico.round, .flightInfo .ico.single {margin-left:16px; margin-right:16px;}
+.flightInfo .ico.round +.trip, .flightInfo .ico.single +.trip {margin-right:40px;}
+.flightInfo .flightDetail {margin:0; vertical-align:top;}
+.flightInfo .flightDetail .view {display:inline-block; margin:0; border-bottom:1px solid #c4c4c4; font-family:'noto'; color:#000; font-size:12px; vertical-align:middle;}
+.flightInfo .price {position:absolute; right:60px; top:52px; font-family:'notob'; font-size:22px; line-height:1em; color:#000;}
+.flightInfo .price .unit {position:relative; top:-4px; margin:0 8px 0 36px; font-family:'notol'; font-size:12px;}
+.flightInfo .price strong {position:relative; bottom:-2px; font-size:30px; line-height:1em;}
+
+.discountInfo {border-top:1px solid #000; border-bottom:1px solid #000;}
+.discountInfo select {max-width:400px;}
+.discountInfo button {min-width:1px; height:62px; margin-left:3px; vertical-align:middle;}
+.discountInfo label {margin: 3px 20px 3px 0;display: inline-block;}
+.discountInfo .fieldForm {border-top: 0;border-bottom: 0;}
+.discountInfo .fieldForm .caution {margin: 10px 0}
+.discountInfo .fieldForm .caution li {position: relative;padding-left: 9px;font-size: 16px;line-height: 26px;word-wrap: break-word;word-break: keep-all;}
+
+.totalPrice {display:table; table-layout:fixed; width:100%; border-top:1px solid #000; border-bottom:1px solid #000; background:#f7f7f6;}
+.totalPrice .sec {display:table-cell; height:160px; padding:26px 0 0 30px;}
+.totalPrice .sec em {font-family:'noto'; color:#000; line-height:1em; font-size:18px;}
+.totalPrice .sec p {margin-top:40px;}
+.totalPrice .sec p .unit {position:relative; top:-6px; margin-right:10px; font-family:'notol'; font-size:11px;}
+.totalPrice .sec p strong {margin-right:10px; font-size:30px; font-family:'noto'; color:#000; line-height:1em;}
+.totalPrice .sec .point {color:#e01d1d !important;} /* 190215 포인트 추가 */
+.totalPrice .sec.refund em,
+.totalPrice .sec.refund p,
+.totalPrice .sec.refund p strong {color:#e01d1d;}/* 환불 color 추가 */
+.totalPrice .mark {position:relative; display:table-cell; width:46px; height:186px; vertical-align:middle; text-indent:-5000em; overflow:hidden;}
+.totalPrice .mark:before {content:""; position:absolute; left:50%; top:0; bottom:0; width:1px; height:186px; background:#dededd;}
+.totalPrice .mark img {position:relative;}
+.totalPrice .sec:first-child {padding-left:50px;}
+.totalPrice .sec.total p {margin-top:35px;}
+.totalPrice .sec.total p .unit {top:-10px;}
+.totalPrice .sec.total p strong {font-family:'notob'; font-size:40px;}
+.totalPrice .sec .hidden {display:none;}/* 2019-10-25 payment 추가 */
+.refund_checkWrap {text-align:center;font-size:16px;margin:30px 0 0;} /* 190215 환불 관련 추가 */
+.refund_checkWrap input {vertical-align: top;margin:3px 0 0;} /* 190215 환불 관련 추가 */
+.refund_checkWrap label {display:inline-block;} /* 190215 환불 관련 추가 */
+.refund_checkWrap + .btnArea {margin-top: 30px;} /* 190215 환불 관련 추가 */
+.payWith {border-top:1px solid #000; border-bottom:1px solid #000;}
+.payWith .fieldForm {border-top:0; border-bottom:0;}
+.payWith .fieldForm td img {margin:-2px 6px 0; vertical-align:middle;}
+.payWith .fieldForm label {margin:3px 20px 3px 0; display:inline-block;}
+.payWith .fieldForm label .balloon{font-size:13px;position:relative;display:inline-block;margin-left:7px;padding:3px 2px 4px 7px;color:#7e0049;border:1px solid #be7fa4;} /* 190130 말풍선 관련 추가 */
+.payWith .fieldForm label .balloon:before{position:absolute;top:50%;left:-6px;width:6px;height:8px;margin-top:-4px;content:'';background:#fff url('https://images.jinair.com/images/booking/arrow_8px_left.gif') no-repeat left center;} /* 190130 말풍선 관련 추가 */
+.payWith .fieldForm input[type=text], .payWith .fieldForm select, .payWith .fieldForm .nameField, .payWith .fieldForm .zipcodeField, .payWith .fieldForm .mobileField {max-width:490px;} /* 191016 max-width값 변경1 */
+.payWith .fieldForm .btnTypeA {height:62px; margin-left:6px; line-height:62px; font-size:14px; font-family:'noto'; vertical-align:middle;}
+.payWith .fieldForm .caution {margin:10px 0;}
+.payWith .fieldForm .caution .btnTypeA {height:42px; margin-left:0; line-height:42px;}
+.payWith .fieldForm .chk {margin-top:10px; font-size:16px;}
+.payWith .fieldForm .nameField {display:inline-block; vertical-align:middle;}
+.payWith .fieldForm span.text {font-size:14px; color:#555;}
+.payWith .fieldForm img +img {margin-left:30px;}
+.payWith h3 {border-top:1px solid #e8e8e8; padding:30px 0 10px 20px; font-size:18px; line-height:1em;}
+.payWith .addrForm tr {border:0;}
+.payWith .addrForm th {padding:5px 0 5px 60px; font-size:14px;}
+.payWith .addrForm td {padding-top:5px; padding-bottom:5px;}
+.payWith .int_wrap {display:inline-block;max-width:500px;margin-left:-10px;table-layout:fixed;vertical-align:middle;} /* 191016 max-width값 변경2 */
+.payWith .int_each {display:table-cell;width:25%;padding-left:10px;} /* 190823 결제 관련 추가 */
+.paymentAgree {padding:0 20px;}
+.paymentAgree:after {content:""; display:block; clear:both;}
+.paymentAgree .agreeCont {padding:20px; margin:0 -20px; border-top:1px solid #000; border-bottom:1px solid #000;}
+.paymentAgree .agreeCont .agreeText {overflow-y:auto; height:140px; padding:30px;}
+.paymentAgree .agreeCont .agreeText h3, .paymentAgree .agreeCont .agreeText p, .paymentAgree .agreeCont .agreeText li {font-size:14px; line-height:26px;}
+.paymentAgree .agreeCont .agreeText h4 {color:#000;}
+.paymentAgree .agreeCont .agreeText h4, .paymentAgree .agreeCont .agreeText h5 {margin-top:20px; font-family:notob;}
+.paymentAgree .agreeCont .agreeText ul li {padding-left:8px; text-indent:-8px;}
+.paymentAgree .agreeCont .agreeText ul.bgn li {padding-left:0; text-indent:0;}
+.paymentAgree .chk {float:left; margin-top:20px;}
+.paymentAgree .chk p {font-size:16px; line-height:26px;}
+.paymentAgree .fr {margin-top:20px;}
+.fareRule {height:80px; padding-left:20px; border-top:1px solid #000; border-bottom:1px solid #000; line-height:80px; font-size:16px;}
+
+/* 결제방식 renewal */
+.payWith .fieldForm input[type=text].cardExpireDate{width:25.8%;}
+.payWith .fieldForm input[type=text].cardCvcNumber{width:73%;}
+.payWith .fieldForm td .fieldset{position:relative;display:inline-block;float:left;width:220px;height:136px;margin:5px 0 5px 10px;text-align:center;}
+.payWith .fieldForm td .fieldset input[type=radio]{position:absolute;top:0;left:0;opacity:0;}
+.payWith .fieldForm td .fieldset input[type=radio]+label{box-sizing:border-box;width:220px;height:136px;margin:0;padding-top:90px;color:#555;border:2px solid #7e0049;border-radius:7px;background-color:#fff;}
+.payWith .fieldForm td .fieldset input:checked+label{color:#fff;background-color:#7e0049;}
+.payWith .fieldForm td .fieldset label{cursor:pointer;background-repeat:no-repeat;}
+.payWith .fieldForm td .fieldset label.card{background-image:url('https://images.jinair.com/images/booking/ico_credit_card_off.gif');background-position:center 28px;}
+.payWith .fieldForm td .fieldset input:checked+label.card{background-image:url('https://images.jinair.com/images/booking/ico_credit_card_on.gif');}
+.payWith .fieldForm td .fieldset label.accountTransfer{background-image:url('https://images.jinair.com/images/booking/ico_account_off.gif');background-position:center 28px;}
+.payWith .fieldForm td .fieldset input:checked+label.accountTransfer{background-image:url('https://images.jinair.com/images/booking/ico_account_on.gif');}
+.payWith .fieldForm td .fieldset label.toss{text-indent:-9999px;background-image:url('https://images.jinair.com/images/booking/ico_toss_off.gif');background-position:center 43px;}
+.payWith .fieldForm td .fieldset input:checked+label.toss{border:2px solid #273447;background-color:#273447;background-image:url('https://images.jinair.com/images/booking/ico_toss_on.gif');}
+.payWith .fieldForm td .fieldset label.naverPay{text-indent:-9999px;background-image:url('https://images.jinair.com/images/booking/ico_npay_off.gif');background-position:center 43px;}
+.payWith .fieldForm td .fieldset input:checked+label.naverPay{border:2px solid #00c73c;background-color:#00c73c;background-image:url('https://images.jinair.com/images/booking/ico_npay_on.gif');}
+.payWith .fieldForm td .fieldset label.payco{text-indent:-9999px;background-image:url('https://images.jinair.com/images/booking/ico_payco_off.gif');background-position:center 43px;}
+.payWith .fieldForm td .fieldset input:checked+label.payco{border:2px solid #e7181e;background-color:#e7181e;background-image:url('https://images.jinair.com/images/booking/ico_payco_on.gif');}
+.payWith .fieldForm td .fieldset label.nkakaoPay{text-indent:-9999px;background-image:url('https://images.jinair.com/images/booking/ico_kakaopay_off.gif');background-position:center 43px;}
+.payWith .fieldForm .fieldset input:checked+label.nkakaoPay{border:2px solid #ffeb00;background-color:#ffeb00;background-image:url('https://images.jinair.com/images/booking/ico_kakaopay_on.gif');}
+.payWith .fieldForm td .fieldset label.paybooc{text-indent:-9999px;background-image:url('https://images.jinair.com/images/booking/ico_paybooc_off.gif');background-position:center 43px;} /* 페이북 */
+.payWith .fieldForm .fieldset input:checked+label.paybooc{border:2px solid #ea394b;background-color:#ff1744;background-image:url('https://images.jinair.com/images/booking/ico_paybooc_on.gif');} /* 페이북 선택 */
+.payWith .fieldForm td .fieldset label.smilePay{text-indent:-9999px;background-image:url('https://images.jinair.com/images/booking/ico_smilepay_off.gif');background-position:center 43px;} /* smilepay */
+.payWith .fieldForm .fieldset input:checked+label.smilePay{border:2px solid #282864;background-color:#282864;background-image:url('https://images.jinair.com/images/booking/ico_smilepay_on.gif');} /* smilepay 선택 */
+.payWith .fieldForm td .fieldset label.tmoneyPay{text-indent:-9999px;background-image:url('https://images.jinair.com/images/booking/ico_tmoneypay_off.gif');background-position:center 43px;} /* Tmoney Pay */
+.payWith .fieldForm .fieldset input:checked+label.tmoneyPay{border:2px solid #92278f;background-color:#92278f;background-image:url('https://images.jinair.com/images/booking/ico_tmoneypay_on.gif');} /* Tmoney Pay 선택 */
+.payWith .fieldForm td .fieldset label.hanacard{text-indent:-9999px;background-image:url('https://images.jinair.com/images/booking/ico_hanacard_off.gif');background-position:center 46px;} /* 하나카드 */
+.payWith .fieldForm .fieldset input:checked+label.hanacard{border:2px solid #00907f; background-color:#00907f;background-image:url('https://images.jinair.com/images/booking/ico_hanacard_on.gif');} /* 하나카드 선택 */
+.payWith .fieldForm td .fieldset label.paypal{text-indent:-9999px;background-image:url('https://images.jinair.com/images/booking/ico_paypal_off.png');background-position:center 50px;}
+.payWith .fieldForm .fieldset input:checked+label.paypal{border:none;background:url('https://images.jinair.com/images/booking/ico_paypal_on.png') no-repeat center 52px, linear-gradient(-120deg, rgb(0,67,150) 0%, rgb(0,138,208) 100%);}
+.payWith .fieldForm td .fieldset label.linePay{text-indent:-9999px;background-image:url('https://images.jinair.com/images/booking/ico_linepay_off.gif');background-position:center 49px;}
+.payWith .fieldForm .fieldset input:checked+label.linePay{border:2px solid #08bf5b;background-color:#08bf5b;background-image:url('https://images.jinair.com/images/booking/ico_linepay_on.gif');}
+.payWith .fieldForm td .fieldset label.conv{background-image:url('https://images.jinair.com/images/booking/ico_conv_off.gif');background-position:center 28px;}
+.payWith .fieldForm td .fieldset input:checked+label.conv{background-image:url('https://images.jinair.com/images/booking/ico_conv_on.gif');}
+.payWith .fieldForm td .fieldset label.aliPay{text-indent:-9999px;background-image:url('https://images.jinair.com/images/booking/ico_alipay_off.gif');background-position:center 46px;}
+.payWith .fieldForm .fieldset input:checked+label.aliPay{border:2px solid #00a1e9;background-color:#00a1e9;background-image:url('https://images.jinair.com/images/booking/ico_alipay_on.gif');}
+.payWith .fieldForm td .fieldset label.wechatPay{text-indent:-9999px;background-image:url('https://images.jinair.com/images/booking/ico_wechatpay_off.gif');background-position:center 46px;}
+.payWith .fieldForm .fieldset input:checked+label.wechatPay{border:2px solid #2ba245;background-color:#2ba245;background-image:url('https://images.jinair.com/images/booking/ico_wechatpay_on.gif');}
+.payWith .fieldForm .fieldset .balloon{font-size:12px;position:absolute;z-index:2;top:-30px;right:0;left:0;display:inline-block;margin:0 12px;padding:1px 4px 3px;color:#7e0049;border:1px solid #7e0049;background:#fff;}/* 결제방식 balloon */
+.payWith .fieldForm .fieldset .balloon.on{color:#fff;background:#7e0049;}
+.payWith .fieldForm .fieldset .balloon:before{position:absolute;right:0;bottom:-6px;left:0;width:9px;height:6px;margin:0 auto;content:'';background:url('https://images.jinair.com/images/booking/arrow_6px_bottom_off.gif') no-repeat center bottom;}
+.payWith .fieldForm .fieldset .balloon.on:before{background:url('https://images.jinair.com/images/booking/arrow_6px_bottom_on.gif') no-repeat center bottom;}
+.payWith .fieldForm .cardImg{font:0/0 a;display:inline-block;vertical-align:middle;}
+.payWith .fieldForm .cardImg img{margin:0 0 0 10px;}
+
+@media only screen and (max-width:767px){
+	.payWith .fieldForm .fieldset .balloon{font-size:.6rem;top:auto;bottom:-23px;margin:0 -20px;padding:1px 5px;border-radius:3px;}
+  .payWith .fieldForm .fieldset .balloon:before{top:-6px;bottom:auto;background:url('https://images.jinair.com/images/booking/m_arrow_6px_bottom_off.gif') no-repeat center top;}
+  .payWith .fieldForm .fieldset .balloon.on:before{background:url('https://images.jinair.com/images/booking/m_arrow_6px_bottom_on.gif') no-repeat center top;}
+}
+/* //결제방식 renewal */
+
+/* 결제 정보 멤버십 서비스 */
+.membership_total .sec {position:relative;padding:26px 15px 35px;}
+.membership_total .sec ~ .sec {border-left:1px solid #dededd;}
+.membership_total .sec:first-child {padding-left:15px;}
+.membership_total .sec .service strong {margin:0;}
+.membership_total .service {display:table;width:100%;margin-top:15px;}
+.membership_total .service:first-child {margin-top:0;}
+.membership_total .service ~ .service {margin-top:26px;}
+.membership_total .service .cell {display:table-cell;padding-top:5px;font-size:16px;text-align:left;vertical-align:top;}
+.membership_total .service .cell + .cell {padding-top:0;text-align:right;}
+.membership_total .service .navi_point {display:block;margin-right:10px;font-size:22px;color:#000;}
+.membership_total .total p .service strong {font-size:30px;font-family:'noto';}
+.membership_total .saving {position:absolute;bottom:30px;left:0;right:0;padding:0 30px;box-sizing:border-box;}
+.membership_total .total .saving strong {font-size:30px;font-family:'noto';color:#000;line-height:1em;}
+.membership_total p .point strong {color:#e01d1d;}
+
+/* 결제 멤버십 서비스 */
+.payment_navipoint {}
+.payment_navipoint .typeA {margin-bottom:0;}
+.payment_navipoint .typeA + .text {margin:10px 0 0 20px;font-size:16px;}
+.payment_navipoint .typeA + .detailInfo,
+.payment_navipoint .typeA + .text + .detailInfo {margin-top:20px;border-top:1px solid #000;}
+.payment_navipoint .typeA + .caution + .detailInfo {margin-top:20px;border-top:1px solid #000;}/* 나비포인트 추가 */
+.payment_navipoint .detailInfo {border-top:none;}
+.payment_navipoint .detailInfo .head .use_point {margin-right:20px;font-size:22px;color:#000;}
+.payment_navipoint .detailInfo .head.disabled .possession {color:#d2d2d2;}
+.payment_navipoint .detailInfo .head.disabled .icoFold {pointer-events:none;}
+.payment_navipoint .detailInfo .head.disabled .icoFold:before,
+.payment_navipoint .detailInfo .head.disabled .icoFold:after {background:#d2d2d2;}
+.payment_navipoint .detailInfo .sel_box {position:absolute;top:0;left:20px;font-size:18px;color:#000;}
+.payment_navipoint .detailInfo .sel_box input[type="radio"]:disabled + label {color:#d2d2d2;}
+.payment_navipoint .detailInfo .txt {position:relative;top:-3px;font-size:14px;}
+.payment_navipoint .detailInfo .detail {padding:0;/*border-top:1px solid #000;*/border-top:none;background:#fff;}
+.payment_navipoint .detailInfo .detail p {padding:0;}
+.payment_navipoint .detailInfo .detail p:before {display:none;}
+.payment_navipoint .detailInfo .detail .menu_title {display:block;padding:16px 0 17px 20px;border-top:1px solid #e8e8e8;font-size:18px;font-family:'notob';}
+.payment_navipoint .detailInfo .detail .menu_title ~ .menu_title {/*border-top:1px solid #e8e8e8;*/}
+.payment_navipoint .detailInfo .detail .menu_title + h3 {margin-top:20px;border-top:1px solid #e8e8e8;}
+.payment_navipoint .detailInfo .detail .menu_title ~ .section_info {margin-top:15px;}
+.payment_navipoint .detailInfo .detail .cont_area {border-top:1px solid #e8e8e8;background:#f7f7f6;}
+.payment_navipoint .detailInfo .detail .cont_area.type {padding-bottom:20px;}
+.payment_navipoint .detailInfo .detail .section_info {display:block;margin:0;padding:15px 20px;border-top:1px solid #e8e8e8;font-size:18px;line-height:1em;}
+.payment_navipoint .detailInfo .detail .section_info:first-child {border-top:none;border-bottom:1px solid #e8e8e8;}
+.payment_navipoint .detailInfo .detail .coupon_cont {padding:24px 0;border-top:1px solid #e8e8e8;}
+.payment_navipoint .detailInfo .detail .coupon_cont .select_box {padding-left:22px;}
+.payment_navipoint .detailInfo .detail .coupon_cont .select_box select {width:100%;max-width:270px;}
+.payment_navipoint .detailInfo .detail .coupon_cont .caution {margin:28px 0 0 0;padding:20px 0 0 21px;border-top:1px solid #e8e8e8;}
+.payment_navipoint .detailInfo .detail .select_box,
+.payment_navipoint .detailInfo .detail .select_box span {float:none;width:100%;}
+.payment_navipoint .detailInfo .detail .oh select {width:100%;max-width:270px;background:#fff url('https://images.jinair.com/images/btn/btn_arrow4.png') no-repeat 100% 50%;vertical-align:top;}
+.payment_navipoint .detailInfo .detail .oh select:disabled {background:#f2f2f2;}
+.payment_navipoint .detailInfo .detail .oh {padding:26px 40px 28px 20px;}
+.payment_navipoint .detailInfo .detail .oh .str {position:relative;float:left;width:40%;padding-left:10px;box-sizing:border-box;}
+.payment_navipoint .detailInfo .detail .oh .str:before {position:absolute;top:11px;left:0;display:block;width:2px;height:2px;background:#661e43;content:'';}
+.payment_navipoint .detailInfo .detail .oh ~ .oh {border-top:1px solid #e8e8e8;}
+.payment_navipoint .detailInfo .detail .oh > span:last-child {float:right;}
+.payment_navipoint .detailInfo .detail .oh .use_point {float:none;margin-right:20px;}
+.payment_navipoint .detailInfo .detail .oh .block {display:block;float:none;width:auto;}
+.payment_navipoint .detailInfo .detail [class*="btnType"] {min-width:auto;height:60px;line-height:58px;vertical-align:top;}
+.payment_navipoint .detailInfo .detail .caution li {border:none;}
+.payment_navipoint .detailInfo .detail .caution li.str {font-family:'notob';}/* 나비포인트 추가 */
+.payment_navipoint .detailInfo .detail .input_box {padding:20px 0 20px 22px;}
+.payment_navipoint .detailInfo .detail .input_box .set + .set {margin-left:50px;}
+.payment_navipoint .detailInfo .section_group {display:table;width:100%;padding:10px 22px;border-top:1px solid #e8e8e8;border-bottom:1px solid #e8e8e8;box-sizing:border-box;}
+.payment_navipoint .detailInfo .section_group .section_view {display:table;width:100%;table-layout:fixed;}
+.payment_navipoint .detailInfo .section_group .section_view .cell,
+.payment_navipoint .detailInfo .section_group .section_view .area {display:table-cell;font-size:18px;vertical-align:middle;}
+.payment_navipoint .detailInfo .section_group .section_view .area {text-align:right;}
+.payment_navipoint .detailInfo .section_group .section_view .area .cell + .cell {width:155px;padding-left:20px;box-sizing:border-box;}
+.payment_navipoint .detailInfo .section_group .section_view .area .cell {}
+.payment_navipoint .detailInfo .section_group .section_view .area .align_box {display:table;width:100%;table-layout:fixed;}
+.payment_navipoint .detailInfo .section_group .section_view .area .align_box input[type="text"] {width:100%;}
+.payment_navipoint .detailInfo .section_group .section_view .area .align_box .align_left {text-align:left;}
+.payment_navipoint .detailInfo .section_group .section_view .area .align_box .btn {width:86px;}
+.payment_navipoint .detailInfo .section_group .section_view .block {display:block;}
+.payment_navipoint .detailInfo .section_group .payment {width:15%;text-align:center;}
+.payment_navipoint .detailInfo .section_group .section_view + .section_view {margin-top:10px;padding-top:10px;border-top:1px solid #e8e8e8;}
+.payment_navipoint .detailInfo .section_group input[type="text"] {height:60px;background:#fff;text-align:right;line-height:58px;}
+.payment_navipoint .detailInfo .section_group + .text {margin:10px 0 0 22px;font-size:16px;}
+.payment_navipoint .detailInfo .detail .add_point {position:relative;padding:18px 22px 0;border-top:1px solid #e8e8e8;text-align:right;}/* 나비포인트 수정 */
+.payment_navipoint .detailInfo .detail .add_point p {position:absolute;top:50%;left:22px;margin-top:-3px;font-size:16px;}
+.payment_navipoint .detailInfo .detail .add_point [class*="btnType"] {height:42px;line-height:42px;}
+.payment_navipoint .detailInfo .detail .add_point ~ .caution {margin:18px 0 0 22px;}
+.payment_navipoint .detailInfo .detail .checkbox_set {padding:21px 0 22px 22px;font-size:18px;}
+.payment_navipoint .detailInfo .detail .checkbox_set ~ .checkbox_set {border-top:1px solid #e8e8e8;}
+.payment_navipoint .detailInfo .detail .info_text {border-top:1px solid #e8e8e8;padding:10px 0 10px 22px;}
+.payment_navipoint .detailInfo .detail .info_text li {border-top:none;font-size:18px;line-height:24px;}/* 나비포인트 추가 */
+
+/* 결제완료 */
+.bookComplete {text-align:center;}
+.bookComplete h1.typeA {height:auto; border-bottom:0; line-height:1em;}
+.bookComplete .text {margin:40px 0; font-size:16px; line-height:24px; word-break:keep-all;}
+.bookComplete li {display:inline-block; margin:0 17px; font-size:15px; font-family:'notob';}
+.bookComplete li p {padding:27px; margin-bottom:10px; border:3px solid #bdd600;}
+.bookComplete +h2.typeA {margin-top:60px;}
+.counterInfo {overflow:hidden; padding:20px 10px; border-top:1px solid #000; border-bottom:1px solid #000;}
+.counterInfo li {float:left; box-sizing:border-box; width:50%; padding:0 10px;}
+.counterInfo li .wrap {height:320px; padding:20px; border:1px solid #e6e6e6;}
+.counterInfo li .tit {font-size:16px; line-height:24px;}
+.counterInfo li .thumb {margin-top:65px; text-align:center;}
+.counterInfo li .thumb img {max-width:100%;}
+.boardingInfo {border-top:1px solid #000; border-bottom:1px solid #000;}
+.privacy_update {margin-top:20px;}/* 2018-07-25 번들 추가 */
+.privacy_update .text {font-size:16px;color:#661e43;}/* 2018-07-25 번들 추가 */
+.privacy_update .btnArea {margin-top:20px;}/* 2018-07-25 번들 추가 */
+.ad_banner {margin-top:90px;text-align:center;} /* 180913 면세 배너 추가 */
+
+/* 예약 취소 */
+.cautionBox {margin-top:100px;padding:50px;border: 1px solid #e6e6e6;}
+.cautionBox .caution {margin:0;}
+.cautionBox .caution li {margin-top:5px;padding-left:15px;} /* 190315 환불절차 관련 padding 추가 */
+.cautionBox .caution li:before {content:'ㆍ'} /* 190315 환불절차 관련 추가 */
+/* //예약 취소 */
+
+/* 캐쉬백 포인트 */
+.cashbag_point {border-top:1px solid #000;}
+.cashbag_point .agree_box {padding:10px 0 10px 20px;border-bottom:1px solid #000;}
+.cashbag_point .cont_area {display:none;padding:20px 0;border-bottom:1px solid #000;}
+.cashbag_point .cont_area .text {font-size:20px;color:#661e43;text-align:center;}
+.cashbag_point .cont_area .input_box {margin-top:20px;text-align:center;}
+.cashbag_point .cont_area .input_box input[type="text"] {width:130px;margin:0 5px;text-align:center;}
+.cashbag_point .cont_area .caution {margin-bottom:0;}
+.cashbag_point .cont_area .caution .col_type {color:#de1616;}
+.cashbag_point .cont_area .complete_area {padding-left:20px;}
+.cashbag_point .cont_area .complete_area .text {text-align:left;}
+.cashbag_point .cont_area .complete_area .text + .info_text {margin-top:10px;}
+.cashbag_point.complete .cont_area {display:block;}
+.cashbag_point.open .cont_area {display:block;}
+
+/* 프리미엄 등급 혜택 */
+.booking_premium_benefit {margin-top:20px;padding-bottom:20px;border-bottom:1px solid #000;}
+.booking_premium_benefit .title {font-size:16px;font-family:'notob';color:#000;}
+.booking_premium_benefit .in_cont {display:inline-block;margin-left:10px;}
+.booking_premium_benefit [class*="btnType"] {min-width:auto;height:60px;line-height:58px;vertical-align:middle;}
+
+/* 유의사항 추가 */
+.booking_caution_area {margin-top:20px;}
+.booking_caution_area .title {margin-left:20px;font-size:16px;font-family:'notob';}
+.booking_caution_area .caution {margin-top:0;}
+
+/* 부가서비스 구매 결제 */
+.totalPrice.extra {}
+.totalPrice.extra .sec {height:auto;padding:26px 10px;}
+.totalPrice.extra .sec:first-child {}
+.totalPrice.extra .sec ~ .sec {border-left:1px solid #dededd;}
+.totalPrice.extra .sec .txt,
+.totalPrice.extra .sec .pay {display:block;font-size:16px;}
+.totalPrice.extra .sec .pay {color:#000;}
+
+/* 200717 항공편선택 수정 */
+.alt_txt{position: absolute; color: #f00; padding: 7px 0 0 0;}
+
+
+@media only screen and (min-width:1200px){
+.quickFix #quickModify, .totalFix #totalSrmy {width:1160px; left:50%; margin-left:-580px;}
+}
+
+
+@media only screen and (max-width:1200px){
+.seatMap .mapBox {margin-top:235px;}
+.seatMap .info {z-index:1; width:100%; padding:20px 0 20px 20px; margin-top:-235px; border-bottom:1px solid #ececec; background:#fff;}
+.seatMap .info ul {width:100%; margin-top:5px;}
+.seatMap .info li {margin-top:5px;}
+.seatMap .info li:before {top:5px;}
+.seatMap .info li em {margin-bottom:0;}
+.seatMap .info p {margin-top:10px;} /* 1906 선택불가 간격 */
+}

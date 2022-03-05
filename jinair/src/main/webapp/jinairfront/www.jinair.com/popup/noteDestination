@@ -1,0 +1,309 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		
+		<title>안내 | Fly, better fly_ Jin Air</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+		
+		<link rel="stylesheet" href="//images.jinair.com/css/default.css"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/common.css"/>
+
+		
+			
+				
+				
+					<link rel="stylesheet" href="//images.jinair.com/css/font.css"/>
+				
+			
+		
+
+		<link rel="stylesheet" href="//images.jinair.com/css/popup.css"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/tablet.css" media="all and (max-width:1024px)">
+		<link rel="stylesheet" href="//images.jinair.com/css/mobile.css" media="all and (max-width:640px)">
+
+		
+
+		
+		
+		<script type="text/javascript">
+			document.domain			= 'localhost';
+
+			
+			var	globalImageServer	= 'images.jinair.com';
+			var	globalLoginYn		= ('Y' == '') ? 'Y' : 'N';
+			
+
+			var __global__ = __global__ || {};
+			__global__ = {
+				
+				imageServer: 'images.jinair.com',
+				loginYn: 'N',
+				accessChannel: '',
+				csrfHeader: 'X-CSRF-TOKEN',
+				csrfToken: '5e7b11c1-a349-4ffa-93d0-977dfd03b234',
+				isMobile: false,
+				isApp: false,
+				isLoggedIn: false,
+				login: {
+					isLoggedIn: false,
+					type: ''
+				},
+				user: {
+					number: '',
+					gender: '',
+					age: '',
+					nationality: '',
+					level: ''
+				}
+			};
+
+			
+			check_isiFrame = true;
+		</script>
+
+		
+
+
+<script>
+(function(w,d,s,uri,fn){
+	w[fn] = w[fn] || function(){ var c = {}; c.uri = arguments[0]; c.trackId = arguments[1]; c.opt = arguments[2]; (w[fn].l=w[fn].l||[]).push(c); }; var o = d.createElement(s); var p = d.getElementsByTagName(s)[0]; o.async = 1; o.src = uri; p.parentNode.insertBefore(o,p);
+})(window,document,'script','../js/apm/appinsightor.min.js','ne');
+ne('https://eum.jinair.com/ne.nfl','prd01',{
+	xhr: {use: true},
+	onerror:true,
+	E2E: {
+		use: true,
+		n$apm: '15474568520024|SS!1648@262:1641869609878'
+	},
+	session:{type:'cookie',value:'JSESSIONID'}
+});
+</script>
+
+
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.cycle.all.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.mousewheel.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ui.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/swiper.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/iscroll.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-efuSlider.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ieSlide.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.plugin.js"></script>
+
+		<script type="text/javascript" src="../js/hom/lib/front/xml2json.min.js"></script>
+		<script type="text/javascript" src="../js/hom/lib/front/jquery.i18n.xml.js"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/mobileApp.js?key=X-CSRF-TOKEN&val=5e7b11c1-a349-4ffa-93d0-977dfd03b234"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/common/common.js"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/common/common.pages.js"></script>
+		<script type="text/javascript" src="https://assets.adobedtm.com/9f7767d312ae/4a1737c07e51/launch-19b1f4fcc423.min.js" async></script>
+
+		<!--[if IE 9]>
+		<link rel="stylesheet" href="/css/content.ie9.css">
+		<![endif]-->
+		<!--[if lte IE 8]>
+		<link rel="stylesheet" href="/css/content.ie8.css">
+		<script src="../js/respond.min.js"></script>
+		<script src="../js/jquery-ui.ie8.js"></script>
+		<![endif]-->
+
+		
+		
+
+<script type="text/javascript" src="../js/hom/lib/front/xml2json.min.js"></script>
+<script type="text/javascript" src="../js/hom/lib/front/jquery.i18n.xml.js"></script>
+<script type="text/javascript" src="../js/hom/lib/front/netfunnel.js"></script>
+<script type="text/javascript" src="../js/hom/lib/front/NetFunnel_Skin.js"></script>
+
+	</head>
+
+	<body class="popup">
+		<script type="text/javascript">
+		//_dl = AAnalytics.dl();
+		_dl = parent._dl;
+		</script>
+
+		
+<div id="popWrap" class="noteWrap">
+	<h1>안내</h1>
+	<div id="popCont">
+		<div class="noteArea">
+			
+				
+				
+				
+				
+					일본정부의 입국제한 발표에 따라,  2021년 11월 30일 0시부터 1개월간 외국인의 신규입국이 중지되었으니, 탑승 조건을 반드시 확인 바랍니다. <br>
+<br>
+ o 입국가능대상 : 일본 국적 귀국자, 일본 재류자격을 보유한 재입국자 (※신규입국은 불가)<br>
+이 외 비즈니스 단기체재, 유학생, 기능 실습생 등의 신규입국은 불가 (기발행 사증 효력 중지)<br>
+※ 한국에 입국하는 모든 내/외국인 대상 출발일 기준 72시간 이내 발급된 PCR 음성확인서 제출 필수 (한국 입국 시간 기준 2021년 2월 24일부)<br>
+<br>
+- 일본인 승객 중 '중요한 사업상 목적의 격리면제서' 소지, 외교(A-1) 또는 공무(A-2) 비자 소지자는 주일본한국대사관으로 문의하여 주시기 바랍니다.<br>
+
+<p>※ (일본 출발 시) 배터리 일체형 헤어 고데기(Hair Curlers) 운송의 경우, 배터리 분리가 불가할 시 위탁 수하물 접수 또는 기내 휴대 반입이 불가하오니 이점 유의하시기 바랍니다.</p>
+<ul class='caution'>
+	<li>국가별 위험물 규정 상이 (한국 출발 시 운송 가능)</li>
+	<li>배터리 분리 가능 시 위탁 접수 또는 휴대 반입 가능</li>
+	<li>운송 불가 시 폐기 처리</li>
+</ul>
+				
+				
+				
+				
+				
+				
+				
+			
+		</div>
+
+		
+		
+			<input type="checkbox" name="" id="agree"><label for="agree">위 규정을 확인하였습니다.</label>
+		
+
+		
+		<div class="btnArea">
+			<a href="javascript://" id="btnAgree" class="btnTypeA sizeXL">확인</a>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+var sid = ('prd' == 'prd') ? 'service_1' : 'service_2';
+var aid = ('prd' == 'prd') ? 'avail' : 'stg_avail';
+var skinId = ('KOR' == 'KOR') ? "nf_skin_eretail" : "nf_skin_eretail_eng";
+
+$(document).ready(function() {
+	$.i18n.properties({
+		name: ['messages', 'code', 'ibeBooking'],
+		path: '/Jinair/jinairfront/www.jinair.com/i18n/messages/',
+		mode: 'map',
+		language: 'ko_KR',
+		langCd: 'KOR',
+		callback: initialize
+	});
+});
+
+initialize = function() {
+	$("#btnAgree").click(function() {
+		var destinationVal = 'JP';
+		var agreeCheck = destinationVal == 'CN' || destinationVal == 'ICNGMPXIY'? true : $("#agree").is(":checked");
+
+		if(!agreeCheck) {
+			alertLayer($.i18n.prop('lj.ibe.b2c.rsv.009'));//위 내용을 확인 후 동의하셔야 다음 단계 진행이 가능합니다.
+			return;
+		}
+
+		if(destinationVal === 'CEBCRKGUM') {
+			return window.top.fnSubmit();
+		}
+
+		// 인천,김포 <-> 시안 노선 목적지 제주로 변경처리
+		if(destinationVal === 'ICNGMPXIY') {
+			var cju;
+			$.each(window.top.cityAirport.arrivalAirportList, function(i, v) {
+				$.each(v.airportList, function(j, o) {
+					if(o.iataCityAirportCode == 'CJU'){
+						cju = o;
+					}
+				});
+			});
+
+			$(".destination", parent.document).find(".srmy").addClass("setting");
+			$(".destination", parent.document).find(".srmy strong").text(cju.cityAirportName);
+			$(".destination", parent.document).find(".srmy strong").attr("city", cju.iataCityAirportCode);
+			$(".destination", parent.document).find(".srmy strong").attr("country", cju.countryCode);
+
+			// 1여정 출발일 가까운 목,토요일로 변경처리
+			var day = toDayOfWeek($('#travelDate1', parent.document).val());
+			var dayOfweek = day.getDay();
+			var owDate;
+
+			if(dayOfweek < 4){ // 목요일 이전일때
+				owDate = day.setDate(day.getDate()+4-dayOfweek);
+			}else if(dayOfweek == 7){ // 일요일일때
+				owDate = day.setDate(day.getDate()+4);
+			}else{
+				owDate = day.setDate(day.getDate()+6-dayOfweek);
+			}
+			$(".date div:eq(0)", parent.document).find(".srmy strong").text(fnGetInputDayLabel(getDateStr(new Date(owDate))));
+			$(".date div:eq(0)", parent.document).find(".srmy").removeClass("choice");
+			$(".date div:eq(0)", parent.document).find(".srmy").addClass("setting");
+
+			// 왕복여정일 경우
+			if($('#origin2', parent.document).val()) {
+				// 2여정 기존 출발일 +3일
+				$(".date div:eq(1)", parent.document).find(".srmy strong").text(fnGetInputDayLabel(getDateStr(new Date(day.setDate(day.getDate()+3)))));
+				$(".date div:eq(1)", parent.document).find(".srmy").removeClass("choice");
+				$(".date div:eq(1)", parent.document).find(".srmy").addClass("setting");
+			}
+			hidePopupLayer();
+		}
+
+		var initialBooking = $('#registerform #pnrNumber', parent.document).val() == "";
+		if(parent.netfunnelVisible && initialBooking) {
+			NetFunnel_Action({ service_id: sid, action_id: aid, skin_id: skinId }, function (ev, ret) {
+				$('#registerform', parent.document).submit();
+			});
+		} else {
+			$('#registerform', parent.document).submit();
+		}
+	});
+
+	//팝업높이조절
+	setPopup('113');
+};
+
+function toDayOfWeek(date_str) {
+	var yyyyMMdd = String(date_str);
+	var sYear = yyyyMMdd.substring(0, 4);
+	var sMonth = yyyyMMdd.substring(4, 6);
+	var sDate = yyyyMMdd.substring(6, 8);
+	return new Date(Number(sYear), Number(sMonth) - 1, Number(sDate));
+};
+
+function getDateStr(date) {
+	var sYear = date.getFullYear();
+	var sMonth = date.getMonth() + 1;
+	var sDate = date.getDate();
+
+	sMonth = sMonth > 9 ? sMonth : "0" + sMonth;
+	sDate  = sDate > 9 ? sDate : "0" + sDate;
+	return String(sYear) + String(sMonth) + String(sDate);
+}
+
+function fnGetInputDayLabel(convertDate) {
+	var week = new Array('('+$.i18n.prop('hom.ibe.rsv.lbl.sun')+')', '('+$.i18n.prop('hom.ibe.rsv.lbl.mon')+')', '('+$.i18n.prop('hom.ibe.rsv.lbl.tue')+')', '('+$.i18n.prop('hom.ibe.rsv.lbl.wed')+')', '('+$.i18n.prop('hom.ibe.rsv.lbl.thu')+')', '('+$.i18n.prop('hom.ibe.rsv.lbl.fri')+')', '('+$.i18n.prop('hom.ibe.rsv.lbl.sat')+')');
+	var year  = convertDate.substring(0, 4);
+	var month  = convertDate.substring(4, 6);
+	var day  = convertDate.substring(6, 8);
+
+	var today = new Date();
+	today.setFullYear(year, Number(month) - 1, day);
+	var todayLabel = week[today.getDay()];
+
+	return year + "-" + month + "-" + day + todayLabel;
+}
+</script>
+
+	<script type="text/javascript"  src="/Jinair/jinairfront/www.jinair.com/Qa_yIr/o/1/SkNdv-IndA/iLOkVXwh3V/bjl5/CQVROBp5/fT8"></script></body>
+</html>

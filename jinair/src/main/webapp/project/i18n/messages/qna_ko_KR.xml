@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="hom.qna.lbl.depArrSel"><![CDATA[출발지를 선택하세요.]]></entry>
+<entry key="hom.qna.lbl.qnaForm"><![CDATA[고객의 말씀(Q&A) 문의 폼]]></entry>
+<entry key="hom.qna.agreeText.agreeText"><![CDATA[개인정보 수집동의]]></entry>
+<entry key="hom.qna.btn.faq"><![CDATA[FAQ 바로가기]]></entry>
+<entry key="hom.qna.lbl.noQnaList"><![CDATA[+++ 문의 내역이 없습니다. +++]]></entry>
+<entry key="hom.qna.lbl.atchFile"><![CDATA[파일첨부]]></entry>
+<entry key="hom.qna.btn.downloadFile"><![CDATA[파일 다운로드]]></entry>
+<entry key="hom.qna.lbl.comNm"><![CDATA[회사명]]></entry>
+<entry key="hom.qna.bnt.myQna"><![CDATA[나의 Q&A 조회하기]]></entry>
+<entry key="hom.qna.lbl.quCate"><![CDATA[질문유형]]></entry>
+<entry key="hom.qna.lbl.replyWait"><![CDATA[대기중]]></entry>
+<entry key="hom.qna.lbl.arvlArrSel"><![CDATA[도착지를 선택하세요.]]></entry>
+<entry key="hom.qna.lbl.ctcPrsnNm"><![CDATA[담당자 이름]]></entry>
+<entry key="hom.qna.ttl.myQna"><![CDATA[나의 Q&A]]></entry>
+<entry key="hom.qna.placeholder.001"><![CDATA[예) abcd@gmail.com]]></entry>
+<entry key="hom.qna.alt.saveok"><![CDATA[고객님의 소중한 의견이 정상적으로 접수되었습니다. <br>항상 진에어를 이용해 주셔서 감사합니다.]]></entry>
+<entry key="hom.qna.lbl.quCateSel"><![CDATA[질문 유형을 선택하세요.]]></entry>
+<entry key="hom.qna.lbl.gotoqna"><![CDATA[고객의 말씀(Q&A)]]></entry>
+<entry key="hom.qna.lbl.name"><![CDATA[이름]]></entry>
+<entry key="LJ.SystemType"><![CDATA[DEVELOPMENT]]></entry>
+<entry key="hom.qna.ttl.proposalReg"><![CDATA[마케팅 제휴 문의]]></entry>
+<entry key="hom.qna.lbl.inquiry"><![CDATA[문의하기]]></entry>
+<entry key="hom.qna.alt.agree"><![CDATA[개인정보 수집동의에 동의해주세요.]]></entry>
+<entry key="hom.qna.lbl.cate"><![CDATA[유형]]></entry>
+<entry key="hom.qna.lbl.replySuc"><![CDATA[답변완료]]></entry>
+<entry key="hom.qna.lbl.quDiviSel"><![CDATA[질문 구분을 선택하세요.]]></entry>
+<entry key="hom.qna.lbl.atchFile_1"><![CDATA[- 파일은 최대 3MB 이하까지 첨부 가능합니다.<br>
+		- 첨부 가능한 파일 형식은 txt, pdf, jpg, jpeg, gif, png 입니다.<br>
+		- 개인정보가 포함된 신분증/서류(여권, 주민등록증 등) 제출 시, 주민번호 뒷자리는 반드시 마스킹 처리 후 첨부 부탁 드립니다.]]></entry>
+<entry key="hom.qna.lbl.replyDt"><![CDATA[답변일]]></entry>
+<entry key="hom.qna.lbl.reply"><![CDATA[답변]]></entry>
+<entry key="hom.qna.lbl.cont09"><![CDATA[현재 코로나19(COVID-19) 관련 문의사항의 급격한 증가로 고객서비스센터 연결이 지연되고 있습니다.<br>
+또한 고객의 말씀(Q&A)에 대한 회신도 다소 지연될 수 있는 점에 대해 양해를 구하며, 조속히 안내 드릴 수 있도록 노력하겠습니다.<br>
+스케줄이 변경 또는 취소된 항공편 관련 문의는 홈페이지 공지사항을 참조해주시기 바랍니다.]]></entry>
+<entry key="hom.qna.lbl.gotofaq"><![CDATA[FAQ 바로가기]]></entry>
+<entry key="hom.qna.lbl.cont08"><![CDATA[안내]]></entry>
+<entry key="hom.qna.lbl.cont07"><![CDATA[진에어에서 답변 드립니다.]]></entry>
+<entry key="hom.qna.lbl.cont06"><![CDATA[- 진에어에 궁금한 점이 있으신가요?]]></entry>
+<entry key="hom.qna.lbl.cont05"><![CDATA[- 마케팅 제휴 문의에 한해 담당자 확인 후 연락 드리겠습니다.]]></entry>
+<entry key="hom.qna.chk.replyYn"><![CDATA[회신 불요 여부 문의]]></entry>
+<entry key="hom.qna.lbl.cont04"><![CDATA[- 진에어의 국내외 각 취항지별 지점을 안내해 드립니다.]]></entry>
+<entry key="hom.qna.lbl.cont03"><![CDATA[<table class="bbsList">
+			<caption>지점 안내</caption>
+			<colgroup>
+				<col width="15%"><col>
+			</colgroup>
+			<thead>
+				<tr>
+					<th scope="col">지점</th>
+					<th scope="col">주소</th>
+				</tr>
+			</thead>
+			<tr>
+				<th scope="row">본사</th>
+				<td class="al">서울특별시 강서구 공항대로 453 대한항공 교육훈련센터 3층 ㈜진에어</td>
+			</tr>
+			<tr>
+				<th scope="row">인천</th>
+				<td class="al">인천광역시 중구 공항로 272 인천국제공항 여객터미널 2층 2100A호 ㈜진에어 인천국제공항지점 여객운송사무실<br><a href="tel:82-32-743-1504">+82-32-743-1504</a></td>
+			</tr>
+			<tr>
+				<th scope="row">김포</th>
+				<td class="al">서울특별시 강서구 하늘길 112 김포국제공항 국내선청사 2층 사무동 ㈜진에어 김포공항지점<br><a href="tel:82-2-2665-1572">+82-2-2665-1572</a></td>
+			</tr>
+			<tr>
+				<th scope="row">제주</th>
+				<td class="al">제주특별자치도 제주시 공항로 2 제주국제공항 여객청사 3층 ㈜진에어 제주국제공항지점 여객운송사무실<br><a href="tel:82-64-713-9422">+82-64-713-9422</a></td>
+			</tr>
+			<tr>
+				<th scope="row" rowspan="2">부산</th>
+				<td class="al">부산광역시 중구 중앙대로 146 대한항공 빌딩 3층</td>
+			</tr>
+			<tr>
+				<td class="al">부산광역시 강서구 공항진입로 108 김해국제공항 국제선청사 3층 ㈜진에어 부산공항지점<br><a href="tel:82-51-905-9301">+82-51-905-9301</a></td>
+			</tr>
+			<tr>
+				<th scope="row">청주</th>
+				<td class="al">충청북도 청주시 청원구 내수읍 오창대로 980 청주국제공항 2층<br><a href="tel:82-43-241-3557">+82-43-241-3557</a></td>
+			</tr>
+			<tr>
+				<th scope="row">광주</th>
+				<td class="al">광주광역시 광산구 상무대로 420-25, 광주공항 화물청사 1층 진에어 광주공항지점<br><a href="tel:82-62-435-9092">+82-62-435-9092</a></td>
+			</tr>
+			<tr>
+				<th scope="row">대구</th>
+				<td class="al">대구광역시 동구 공항로 221 대구국제공항 2층 진에어 사무실<br><a href="tel:82-53-293-0452">+82-53-293-0452</a></td>
+			</tr>
+			<tr>
+				<th scope="row">울산</th>
+				<td class="al">울산광역시 북구 산업로 1103 울산공항 여객청사 2층 진에어<br><a href="tel:82-52-900-0217">+82-52-900-0217</a></td>
+			</tr>
+			<tr>
+				<th scope="row">포항</th>
+				<td class="al">경북 포항시 남구 동해면 일월로 18 포항공항 1층 진에어<br><a href="tel:82-54-611-0031">+82-54-611-0031</a></td>
+			</tr>
+			<tr>
+				<th scope="row">군산</th>
+				<td class="al">전라북도 군산시 옥서면 산동길 2 군산공항 여객청사 진에어 사무실<br><a href="tel:82-63-913-1042">+82-63-913-1042</a></td>
+			</tr>
+			<tr>
+				<th scope="row">원주</th>
+				<td class="al">강원도 횡성군 횡성읍 횡성로 38 원주공항 1층 진에어 사무실</td>
+			</tr>
+			<tr>
+				<th scope="row">방콕</th>
+				<td class="al">Room No. G1-060A, Passenger Terminal 1st Floor, Concourse G, Suvarnabhumi Airport, 999 Moo 1, Nong prue, Bangphli, Samut prakarn 10540, Thailand<br><a href="tel:66-2-134-0761">+66-2-134-0761</a></td>
+			</tr>
+			<tr>
+				<th scope="row">세부</th>
+				<td class="al">International Arrival Level, Terminal 2, Mactan-Cebu International Airport, Lapu-Lapu City 6015, Cebu, Philippines<br><a href="tel:63-32-494-7666">+63-32-494-7666</a></td>
+			</tr>
+			<tr>
+				<th scope="row">클락</th>
+				<td class="al">JIN AIR AO17, Mezzanine Level, Clark International Airport, Passenger Terminal Building, Clark Free Zone, Philipines<br><a href="tel:63-45-499-1625">+63-45-499-1625</a></td>
+			</tr>
+			<tr>
+				<th scope="row">비엔티안</th>
+				<td class="al">Wattay-Vientiane International Airport P.O. BOX :">+ 9429. Vientiane, Lao P.D.R. Room 102<br><a href="tel:856-21-520-840">+856-21-520-840</a></td>
+			</tr>
+			<tr>
+				<th scope="row">코타키나발루</th>
+				<td class="al">Lot L2L 05(B), Level 2 (landside), Terminal Building, Kota Kinabalu International Airport, 88740, Sabah<br><a href="tel:60-88-413-470">+60-(0)88-413-470</a></td>
+			</tr>
+			<tr>
+				<th scope="row">다낭</th>
+				<td class="al">Room O.1.17, 1 floor, Da Nang international airport, Danang<br><a href="tel:84-236-3664-565">+84-236-3664-565</a></td>
+			</tr>
+			<tr>
+				<th scope="row">하노이</th>
+				<td class="al">2-E06D3, Terminal 2, Noibai International Airport, Hanoi<br><a href="tel:84-4-3587-6648">+84-4-3587-6648</a></td>
+			</tr>
+			<tr>
+				<th scope="row">조호르바루</th>
+				<td class="al">JIN AIR Lot GL19-2, Public Concourse, Passenger Terminal Building, Senai International Airport 81250<br><a href="tel:+60-14-201-4889">+60 (0)14 201 4889</a></td>
+			</tr>
+			<tr>
+				<th scope="row">타이베이</th>
+				<td class="al">Room B-O-277, Terminal 1, No.15, Hangzhan S. Rd., Dayuan Township Taoyuan County 33758, Taiwan (R.O.C.)<br><a href="tel:886-3-398-2003">+886-3-398-2003 (Airport Office)</a><br><a href="tel:886-2-2571-1139">+886-2-2571-1139 (Ticketing Office)</a></td>
+			</tr>
+			<tr>
+				<th scope="row">홍콩</th>
+				<td class="al">FLAT/RM 10-12, 2/F AIRPORT WORLD TRADE CENTRE, 1 SKY PLAZA ROAD, HONG KONG INTERNATIONAL AIRPORT, LANTAU, HONG KONG<br><a href="tel:852-3756-3512">+852-3756-3512</a></td>
+			</tr>
+			<tr>
+				<th scope="row">마카오</th>
+				<td class="al">Macau International Airport Passenger Terminal Mezzanine Level Room 12045<br><a href="tel:853-8898-2032">+853-8898-2032</a></td>
+			</tr>
+			<tr>
+				<th scope="row">상하이</th>
+				<td class="al">#18-201，2nd Floor, Terminal 1, Pudong International Airport, Shanghai 201207<br><a href="tel:86-21-6835-5033">+86-21-6835-5033</a></td>
+			</tr>
+			<tr>
+				<th scope="row">시안</th>
+				<td class="al">B1-030 JIN AIR office, T3 international terminal, Xian xianyang Airport, Shanxi Province<br><a href="tel:86-29-8879-9820">+86-29-8879-9820</a></td>
+			</tr>
+			<tr>
+				<th scope="row">우시</th>
+				<td class="al">I-D-19, T1, WUXI SUNAN SHUOFANG INTERNATIONAL AIRPORT NO1 AIRPORT STREET, BINHU DISTRICT, WUXI , JIANGSU<br><a href="tel:0510-8532-0185">0510-8532-0185</a></td>
+			</tr>
+			<tr>
+				<th scope="row">도쿄</th>
+				<td class="al">N3042, Terminal 1, Narita International Airport, Narita City, Chiba, 282-0011<br><a href="tel:81-0476-32-5612">+81-0476-32-5612</a></td>
+			</tr>
+			<tr>
+				<th scope="row">오사카</th>
+				<td class="al">0122, 3rd FL, South Airline BLDG, Kansai International Airport, 1 Senshu kukonaka, Tajiri-cho, Sennan-gun, Osaka-fu, Japan 549-0011<br><a href="tel:81-72-456-8081">+81-72-456-8081</a></td>
+			</tr>
+			<tr>
+				<th scope="row">후쿠오카</th>
+				<td class="al">#42031, Fukuoka Airport International Terminal Building, 739, Oaza-Aoki, Hakata-ku, Fukuoka-city, Fukuoka<br><a href="tel:81-92-260-8073">+81-92-260-8073</a></td>
+			</tr>
+			<tr>
+				<th scope="row">기타큐슈</th>
+				<td class="al">6 KUKOKITAMACHI, MINAMIKU, KOKURA, KITAKYUSHU CITY, JAPAN<br><a href="tel:81-93-473-3800">+81-93-473-3800</a></td>
+			</tr>
+			<tr>
+				<th scope="row">삿포로</th>
+				<td class="al">International Terminal Bldg.3F, New Chitose Airport, Bibi Chitose, Hokkaido, JAPAN<br><a href="tel:81-123-25-8871">+81-123-25-8871</a></td>
+			</tr>
+			<tr>
+				<th scope="row">오키나와</th>
+				<td class="al">Okinawa Naha Airport Passenger Terminal Bldg., 150 Kagamizu, Naha-city, Okinawa Pref., Japan<br><a href="tel:81-98-840-1474">+81-98-840-1474</a></td>
+			</tr>
+			<tr>
+				<th scope="row">괌</th>
+				<td class="al">Guam International Airport Suite B-226 355 Chalan Pasaheru Tamuning Guam 96913<br><a href="tel:1-671-642-2800">+1-671-642-2800</a></td>
+			</tr>
+			<tr>
+				<th scope="row">호놀룰루</th>
+				<td class="al">300 Rodgers Blvd. P.O Box #70, Honolulu, HI 96819<br><a href="tel:1-808-834-5846">+1-808-834-5846</a></td>
+			</tr>
+			<tr>
+				<th scope="row">케언스</th>
+				<td class="al">Tenancy 8 Level1, International Building, Cairns international Airport, QLD, Australia<br><a href="tel:61-7-4035-9722">+61-7-4035-9722</a></td>
+			</tr>
+		</table>]]></entry>
+<entry key="hom.qna.lbl.cont02"><![CDATA[<li class="bgn" style="margin-bottom:10px;">이용 중 궁금하거나 도움이 필요한 사항을 고객의 말씀에 남겨 주시면 친절히 안내해 드리겠습니다.</li>
+		<li>고객님께서 남겨 주신 문의는 접수 순서에 따라 최대한 신속히 안내해 드리고 있습니다. <span class="pbr">단, 주말, 공휴일에 접수된 문의 그리고 관계기관의 사실 확인이 필요한 문의는 처리 결과 회신이 다소 지체될 수 있는 점 양해 부탁 드립니다. </span></li>
+		<li>여행사, 온라인 여행 사이트 등을 통해 구매한 항공권의 조회, 취소, 변경, 환불은 해당 구매처를 통해 문의 부탁 드립니다.
+			<span class="pbr">진에어  웹사이트/App 및 고객서비스센터 예매 항공권은 홈페이지의 [마이페이지] - [예약조회/변경/취소] 에서 직접 변경 및 환불이 가능합니다.</span>
+		</li>
+		<li>정확하고 신속한 답변을 위해 예매 및 탑승 정보를 함께 전달해 주시면 보다 빠른 처리가 가능합니다. <span class="pbr">특히 항공권의 변경, 환불 또는 나비포인트 관련 문의사항은 ‘예약번호, 출발지, 도착지, 탑승자명’ 정보를 기입해 주시기 바랍니다.</span></li>]]></entry>
+<entry key="hom.qna.lbl.cont01"><![CDATA[소중한 의견을 반영해 더 발전하는 진에어가 되겠습니다.]]></entry>
+<entry key="hom.qna.agreeText.agreeText_4"><![CDATA[동의합니다.]]></entry>
+<entry key="hom.qna.lbl.regDt"><![CDATA[등록일]]></entry>
+<entry key="hom.qna.agreeText.agreeText_3"><![CDATA[(문의 종류에 따라 추가 증빙 서류 및 기타 개인 정보를 요청할 수 있습니다.)]]></entry>
+<entry key="hom.qna.agreeText.agreeText_2"><![CDATA[전자상거래 등에서의 소비자 보호에 관한 법률에 따라 ‘3년간’ 보관할 수 있습니다.]]></entry>
+<entry key="hom.qna.agreeText.agreeText_1"><![CDATA[연락처 및 이메일 정보는 문의 접수 및 불만 해결을 위해 수집 후]]></entry>
+<entry key="hom.qna.lbl.cs"><![CDATA[고객서비스센터]]></entry>
+<entry key="hom.qna.lbl.reEmAdr"><![CDATA[회신 이메일]]></entry>
+<entry key="hom.qna.lbl.csInfo"><![CDATA[- 전화번호 : 1600-6200 / 02-6099-1200<br>- 상담가능시간 : 오전 08:00 ~ 오후 19:00]]></entry>
+<entry key="hom.qna.chk.replyYn_1"><![CDATA[답변을 원치 않을 경우 체크해 주세요.]]></entry>
+<entry key="hom.qna.ttl.officeInfo"><![CDATA[지점안내]]></entry>
+<entry key="hom.qna.lbl.quDivi"><![CDATA[질문구분]]></entry>
+</properties>

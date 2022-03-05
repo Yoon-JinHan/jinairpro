@@ -1,0 +1,241 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		
+		<title>국가 / 결제통화 선택</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+		
+		<link rel="stylesheet" href="//images.jinair.com/css/default.css"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/common.css"/>
+
+		
+			
+				
+				
+					<link rel="stylesheet" href="//images.jinair.com/css/font.css"/>
+				
+			
+		
+
+		<link rel="stylesheet" href="//images.jinair.com/css/popup.css"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/tablet.css" media="all and (max-width:1024px)">
+		<link rel="stylesheet" href="//images.jinair.com/css/mobile.css" media="all and (max-width:640px)">
+
+		
+
+		
+		
+		<script type="text/javascript">
+			document.domain			= 'localhost';
+
+			
+			var	globalImageServer	= 'images.jinair.com';
+			var	globalLoginYn		= ('Y' == '') ? 'Y' : 'N';
+			
+
+			var __global__ = __global__ || {};
+			__global__ = {
+				
+				imageServer: 'images.jinair.com',
+				loginYn: 'N',
+				accessChannel: '',
+				csrfHeader: 'X-CSRF-TOKEN',
+				csrfToken: 'a2cee406-10fa-4986-8822-a79adc57cdce',
+				isMobile: false,
+				isApp: false,
+				isLoggedIn: false,
+				login: {
+					isLoggedIn: false,
+					type: ''
+				},
+				user: {
+					number: '',
+					gender: '',
+					age: '',
+					nationality: '',
+					level: ''
+				}
+			};
+
+			
+			check_isiFrame = true;
+		</script>
+
+		
+
+
+<script>
+(function(w,d,s,uri,fn){
+	w[fn] = w[fn] || function(){ var c = {}; c.uri = arguments[0]; c.trackId = arguments[1]; c.opt = arguments[2]; (w[fn].l=w[fn].l||[]).push(c); }; var o = d.createElement(s); var p = d.getElementsByTagName(s)[0]; o.async = 1; o.src = uri; p.parentNode.insertBefore(o,p);
+})(window,document,'script','../js/apm/appinsightor.min.js','ne');
+ne('https://eum.jinair.com/ne.nfl','prd01',{
+	xhr: {use: true},
+	onerror:true,
+	E2E: {
+		use: true,
+		n$apm: '15474568520024|SS!10451@280:1641814088169'
+	},
+	session:{type:'cookie',value:'JSESSIONID'}
+});
+</script>
+
+
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.cycle.all.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.mousewheel.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ui.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/swiper.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/iscroll.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-efuSlider.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ieSlide.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.plugin.js"></script>
+
+		<script type="text/javascript" src="../js/hom/lib/front/xml2json.min.js"></script>
+		<script type="text/javascript" src="../js/hom/lib/front/jquery.i18n.xml.js"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/mobileApp.js?key=X-CSRF-TOKEN&val=a2cee406-10fa-4986-8822-a79adc57cdce"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/common/common.js"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/common/common.pages.js"></script>
+		<script type="text/javascript" src="https://assets.adobedtm.com/9f7767d312ae/4a1737c07e51/launch-19b1f4fcc423.min.js" async></script>
+
+		<!--[if IE 9]>
+		<link rel="stylesheet" href="/css/content.ie9.css">
+		<![endif]-->
+		<!--[if lte IE 8]>
+		<link rel="stylesheet" href="/css/content.ie8.css">
+		<script src="../js/respond.min.js"></script>
+		<script src="../js/jquery-ui.ie8.js"></script>
+		<![endif]-->
+
+		
+		
+
+<script type="text/javascript" src="../js/hom/lib/front/js.cookie.js"></script>
+
+	<script >bazadebezolkohpepadr="507538354"</script><script type="text/javascript" src="akam/11/1e4068e6"  defer></script></head>
+
+	<body class="popup">
+		<script type="text/javascript">
+		//_dl = AAnalytics.dl();
+		_dl = parent._dl;
+		</script>
+
+		
+<div id="popWrap" class="langWrap">
+	<h1>국가 / 결제통화 선택</h1>
+	<div id="popCont">
+		<fieldset class="langSet">
+			<p style="width: 100%;">
+				<select role="locale-selector">
+					<option value="KOR" selected>한국(Korean) / KRW</option>
+					<option value="JPN" >日本(日本語) / JPY</option>
+					<option value="CHN" >中国(中文简体) / CNY</option>
+					<option value="HKG" >香港(中文繁體) / HKD</option>
+					<option value="MAC" >澳門(中文繁體) / HKD</option>
+					<option value="TWN" >台灣(中文繁體) / TWD</option>
+					<option value="THA" >THAILAND(English) / THB</option>
+					<option value="VNM" >VIET NAM(English) / USD</option>
+					<option value="MYS" >MALAYSIA(English) / MYR</option>
+					<option value="PHL" >PHILIPPINES(English) / USD</option>
+					<option value="LAO" >LAOS(English) / USD</option>
+					<option value="USA" >USA(English) / USD</option>
+					<option value="AUS" >AUSTRALIA(English) / USD</option>
+				</select>
+			</p>
+			<div class="btnArea">
+				<span><a href="javascript://" id="btnConfirm" class="btnTypeA">확인</a></span>
+				<span><a href="javascript://" onclick="hidePopupLayer(); return false;" class="btnTypeB">취소</a></span>
+			</div>
+		</fieldset>
+	</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+	setPopup(113);
+
+	var prevCountry = 'KOR';
+
+	var localeSets = {
+		'KOR': {foPop: 'KR', foLangCd: 'KOR', foLang: 'ko', foLangCountry: 'ko_KR'},
+		'JPN': {foPop: 'JP', foLangCd: 'JPN', foLang: 'ja', foLangCountry: 'ja_JP'},
+		'CHN': {foPop: 'CN', foLangCd: 'CHN', foLang: 'zh-Hans', foLangCountry: 'zh_CN'},
+		'HKG': {foPop: 'HK', foLangCd: 'CHT', foLang: 'zh-Hant', foLangCountry: 'zh_TW'},
+		'MAC': {foPop: 'HK', foLangCd: 'CHT', foLang: 'zh-Hant', foLangCountry: 'zh_TW'},
+		'TWN': {foPop: 'TW', foLangCd: 'CHT', foLang: 'zh-Hant', foLangCountry: 'zh_TW'},
+		'THA': {foPop: 'TH', foLangCd: 'ENG', foLang: 'en', foLangCountry: 'en_US'},
+		'VNM': {foPop: 'VN', foLangCd: 'ENG', foLang: 'en', foLangCountry: 'en_US'},
+		'MYS': {foPop: 'MY', foLangCd: 'ENG', foLang: 'en', foLangCountry: 'en_US'},
+		'PHL': {foPop: 'US', foLangCd: 'ENG', foLang: 'en', foLangCountry: 'en_US'},
+		'LAO': {foPop: 'US', foLangCd: 'ENG', foLang: 'en', foLangCountry: 'en_US'},
+		'USA': {foPop: 'US', foLangCd: 'ENG', foLang: 'en', foLangCountry: 'en_US'},
+		'AUS': {foPop: 'US', foLangCd: 'ENG', foLang: 'en', foLangCountry: 'en_US'}
+	};
+
+	$('#btnConfirm').click(function() {
+		var foCountry = $('[role="locale-selector"]').val();
+		var foPop = localeSets[foCountry].foPop;
+		var foLangCd = localeSets[foCountry].foLangCd;
+		var foLang = localeSets[foCountry].foLang;
+		var foLangCountry = localeSets[foCountry].foLangCountry;
+
+		// remove cookie
+		var cookies = (!!Cookies && 'function' == typeof Cookies.noConflict) ? Cookies.noConflict() : Cookies;
+		if(cookies) {
+			cookies.set('foCountry', foCountry, {domain : '.jinair.com', path : '/', expires: 0});
+			cookies.set('foPop', foPop, {domain : '.jinair.com', path : '/', expires: 0});
+			cookies.set('foLangCd', foLangCd, {domain : '.jinair.com', path : '/', expires: 0});
+			cookies.set('foLang', foLang, {domain : '.jinair.com', path : '/', expires: 0});
+			cookies.set('foLangCountry', foLangCountry, {domain : '.jinair.com', path : '/', expires: 0});
+		}
+
+		var bssl = document.location.protocol.indexOf("https") > -1;
+		if(bssl) {
+			cookies.set('foCountry', foCountry, {path : '/', expires: 365,secure :  true, samesite : 'none'});
+			cookies.set('foPop', foPop, {path : '/', expires: 365,secure : true, samesite : 'none'});
+			cookies.set('foLangCd', foLangCd, {path : '/', expires: 365,secure :  true, samesite : 'none'});
+			cookies.set('foLang', foLang, {path : '/', expires: 365,secure :  true, samesite : 'none'});
+			cookies.set('foLangCountry', foLangCountry, {path : '/', expires: 365,secure :  true, samesite : 'none'});
+		} else {
+			cookies.set('foCountry', foCountry, {path : '/', expires: 365});
+			cookies.set('foPop', foPop, {path : '/', expires: 365});
+			cookies.set('foLangCd', foLangCd, {path : '/', expires: 365});
+			cookies.set('foLang', foLang, {path : '/', expires: 365});
+			cookies.set('foLangCountry', foLangCountry, {path : '/', expires: 365});
+		}
+
+		doGateSetting(foCountry, foLang);	// mobileApp 연계
+
+		var newCountry = cookies.get('foCountry') !== prevCountry;
+		if(newCountry) {
+			if(-1 < 'https://www.jinair.com/booking/index'.indexOf('/booking/')) {
+				parent.location.href = '/';
+			} else {
+				parent.location.reload();
+			}
+		} else {
+			parent.location.reload();
+		}
+	});
+});
+</script>
+
+	<noscript><img src="akam/11/pixel_1e4068e6" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript><script type="text/javascript"  src="../WMyOvNoqyw163nTlvdsw-ykbXPU/wOpYtSkD1kua/ZHE1PQ/UV/YqCUUFVzg"></script></body>
+</html>

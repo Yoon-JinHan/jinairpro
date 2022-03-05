@@ -1,0 +1,260 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		
+		<title>보너스 항공권 쿠폰</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+		
+		<link rel="stylesheet" href="//images.jinair.com/css/default.css"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/common.css"/>
+
+		
+			
+				
+				
+					<link rel="stylesheet" href="//images.jinair.com/css/font.css"/>
+				
+			
+		
+
+		<link rel="stylesheet" href="//images.jinair.com/css/popup.css"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/tablet.css" media="all and (max-width:1024px)">
+		<link rel="stylesheet" href="//images.jinair.com/css/mobile.css" media="all and (max-width:640px)">
+
+		
+
+		
+		
+		<script type="text/javascript">
+			document.domain			= 'localhost';
+
+			
+			var	globalImageServer	= 'images.jinair.com';
+			var	globalLoginYn		= ('Y' == 'Y') ? 'Y' : 'N';
+			
+
+			var __global__ = __global__ || {};
+			__global__ = {
+				
+				imageServer: 'images.jinair.com',
+				loginYn: 'Y',
+				accessChannel: '',
+				csrfHeader: 'X-CSRF-TOKEN',
+				csrfToken: 'a2cee406-10fa-4986-8822-a79adc57cdce',
+				isMobile: false,
+				isApp: false,
+				isLoggedIn: true,
+				login: {
+					isLoggedIn: true,
+					type: 'normal'
+				},
+				user: {
+					number: 'GPR1987133',
+					gender: 'M',
+					age: '29',
+					nationality: 'KOR',
+					level: ''
+				}
+			};
+
+			
+			check_isiFrame = true;
+		</script>
+
+		
+
+
+<script>
+(function(w,d,s,uri,fn){
+	w[fn] = w[fn] || function(){ var c = {}; c.uri = arguments[0]; c.trackId = arguments[1]; c.opt = arguments[2]; (w[fn].l=w[fn].l||[]).push(c); }; var o = d.createElement(s); var p = d.getElementsByTagName(s)[0]; o.async = 1; o.src = uri; p.parentNode.insertBefore(o,p);
+})(window,document,'script','../js/apm/appinsightor.min.js','ne');
+ne('https://eum.jinair.com/ne.nfl','prd01',{
+	xhr: {use: true},
+	onerror:true,
+	E2E: {
+		use: true,
+		n$apm: '15474568520024|SS!10685@267:1641814971519'
+	},
+	session:{type:'cookie',value:'JSESSIONID'}
+});
+</script>
+
+
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.cycle.all.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.mousewheel.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ui.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/swiper.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/iscroll.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-efuSlider.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ieSlide.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.plugin.js"></script>
+
+		<script type="text/javascript" src="../js/hom/lib/front/xml2json.min.js"></script>
+		<script type="text/javascript" src="../js/hom/lib/front/jquery.i18n.xml.js"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/mobileApp.js?key=X-CSRF-TOKEN&val=a2cee406-10fa-4986-8822-a79adc57cdce"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/common/common.js"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/common/common.pages.js"></script>
+		<script type="text/javascript" src="https://assets.adobedtm.com/9f7767d312ae/4a1737c07e51/launch-19b1f4fcc423.min.js" async></script>
+
+		<!--[if IE 9]>
+		<link rel="stylesheet" href="/css/content.ie9.css">
+		<![endif]-->
+		<!--[if lte IE 8]>
+		<link rel="stylesheet" href="/css/content.ie8.css">
+		<script src="../js/respond.min.js"></script>
+		<script src="../js/jquery-ui.ie8.js"></script>
+		<![endif]-->
+
+		
+		
+	
+	
+	<script type="text/javascript" src="../js/hom/lib/front/xml2json.min.js"></script>
+	<script type="text/javascript" src="../js/hom/lib/front/jquery.i18n.xml.js"></script>
+
+	</head>
+
+	<body class="popup">
+		<script type="text/javascript">
+		//_dl = AAnalytics.dl();
+		_dl = parent._dl;
+		</script>
+
+		
+<div id="popWrap">
+	<h1>보너스 항공권 쿠폰</h1>
+	<div id="popCont">
+	<!-- 내용영역 -->
+		<div class="bonusHead">
+			<p>나비포인트 보너스 항공권 또는 이벤트 경품 보너스 항공권 쿠폰을 선택해 주세요.</p>
+			<ul class="caution">
+			
+				
+				
+		<li>각 보너스 항공권 쿠폰은 마이페이지를 통해 발급 또는 등록하신 후 사용 가능합니다.</li>
+		<li>다음의 보너스 항공권 사용 조건을 확인해 주세요.<br>(여정 구분, 사용 가능 구간, 출발 가능 요일, 사용 및 탑승 유효기간)</li>
+	
+				
+				
+			
+			</ul>
+		</div>
+		
+		
+		<!-- 
+		<table class="bbsForm">
+			<caption>보너스 항공권 쿠폰2</caption>
+			<colgroup>
+				<col width="8%"><col width="25%"><col width="">
+			</colgroup>
+			<tr>
+				<th rowspan="5" scope="rowgroup" class="sub"><input type="radio" name="" value="" title="쿠폰2"></th>
+				<th>쿠폰 No.</th>
+				<td>LJ30023</td>
+			</tr>
+			<tr>
+				<th>출발가능요일</th>
+				<td>일, 월, 화, 수, 목</td>
+			</tr>
+			<tr>
+				<th>사용유효기간</th>
+				<td>~2017/03/05 까지</td>
+			</tr>
+			<tr>
+				<th>탑승유효기간</th>
+				<td>~2017/03/05 까지</td>
+			</tr>
+			<tr>
+				<th>탑승노선</th>
+				<td>
+					<span class="tripType">편도</span>
+					<span>김포(GMP)</span>
+					<span class="ico single">편도</span>
+					<span>제주(CJU)</span>
+				</td>
+			</tr>
+		</table>
+		 -->
+		<div class="btnArea">
+			<span><a href="#" onclick="jsSelectCoupon(); return false" class="btnTypeA">확인</a></span>
+			<span><a href="#" onclick="hidePopupLayer(); return false" class="btnTypeB">취소</a></span>
+		</div>
+	<!-- //내용영역 -->
+	</div><!-- //popCont -->
+</div><!-- //popWrap -->
+<script>
+var cpnListString = '[]';
+var embrgListString = '[]';
+
+function jsSelectCoupon(){
+	var cpnListJson = ( cpnListString != null && cpnListString !='' ) ? JSON.parse(cpnListString) : '';
+	var embrgListJson = ( embrgListString != null && embrgListString !='' ) ? JSON.parse(embrgListString) : '';
+	
+	var cpnno = $(':input:radio[name=cpnno]:checked').val();
+	
+	if ( !cpnno ){
+		alertLayer($.i18n.prop('lj.ibe.b2c.rsv.065'))//쿠폰을 선택해주세요.
+		return false;
+	} else {
+		var rtnCpn ={}
+		var rtnEmbrg = [];
+		
+		$(cpnListJson).each(function(i){
+			if ( $(this)[0].cpnNo==cpnno ){
+				rtnCpn  = $(this)[0];
+			}
+		});
+		
+		$(embrgListJson).each(function(i){
+			if ( $(this)[0].cpnNo==cpnno ){
+				rtnEmbrg.push($(this)[0]);
+			}
+		});
+		
+		parent.registerform.cpnNo.value =cpnno;
+		
+		parent.bonusCoupon = rtnCpn;
+		parent.bonusCouponEmbargo = rtnEmbrg;
+		parent.setCoupon();
+		parent.hidePopupLayer();
+	}
+
+}
+$(document).ready(function() {
+	/*다국어처리*/
+	$.i18n.properties({
+		name	: ['messages', 'code','ibeBooking'],
+		path	: '../i18n/messages/',
+		mode	: 'map',
+		language: 'ko_KR',
+	    langCd	: 'KOR'
+	});
+	
+	//팝업높이조절
+	setPopup('113');
+});
+
+</script>
+
+	<script type="text/javascript"  src="WMyOvNoqyw163nTlvdsw-ykbXPU/wOpYtSkD1kua/ZHE1PQ/UV/YqCUUFVzg"></script></body>
+</html>

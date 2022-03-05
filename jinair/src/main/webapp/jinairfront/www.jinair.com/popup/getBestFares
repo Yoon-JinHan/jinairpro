@@ -1,0 +1,199 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		
+		<title>가는날 | Fly, better fly_ Jin Air</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+		
+		<link rel="stylesheet" href="//images.jinair.com/css/default.css"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/common.css"/>
+
+		
+			
+				
+				
+					<link rel="stylesheet" href="//images.jinair.com/css/font.css"/>
+				
+			
+		
+
+		<link rel="stylesheet" href="//images.jinair.com/css/popup.css"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/tablet.css" media="all and (max-width:1024px)">
+		<link rel="stylesheet" href="//images.jinair.com/css/mobile.css" media="all and (max-width:640px)">
+
+		
+
+		
+		
+		<script type="text/javascript">
+			document.domain			= 'localhost';
+
+			
+			var	globalImageServer	= 'images.jinair.com';
+			var	globalLoginYn		= ('Y' == 'Y') ? 'Y' : 'N';
+			
+
+			var __global__ = __global__ || {};
+			__global__ = {
+				
+				imageServer: 'images.jinair.com',
+				loginYn: 'Y',
+				accessChannel: '',
+				csrfHeader: 'X-CSRF-TOKEN',
+				csrfToken: '62024c52-e394-4ab2-8f36-630483b88f4b',
+				isMobile: false,
+				isApp: false,
+				isLoggedIn: true,
+				login: {
+					isLoggedIn: true,
+					type: 'normal'
+				},
+				user: {
+					number: 'GPR1987133',
+					gender: 'M',
+					age: '29',
+					nationality: 'KOR',
+					level: ''
+				}
+			};
+
+			
+			check_isiFrame = true;
+		</script>
+
+		
+
+
+<script>
+(function(w,d,s,uri,fn){
+	w[fn] = w[fn] || function(){ var c = {}; c.uri = arguments[0]; c.trackId = arguments[1]; c.opt = arguments[2]; (w[fn].l=w[fn].l||[]).push(c); }; var o = d.createElement(s); var p = d.getElementsByTagName(s)[0]; o.async = 1; o.src = uri; p.parentNode.insertBefore(o,p);
+})(window,document,'script','https://www.jinair.com/js/apm/appinsightor.min.js','ne'); //**********************************************************
+ne('https://eum.jinair.com/ne.nfl','prd01',{
+	xhr: {use: true},
+	onerror:true,
+	E2E: {
+		use: true,
+		n$apm: '15474568180014|SS!31431@200:1641699347769'
+	},
+	session:{type:'cookie',value:'JSESSIONID'}
+});
+</script>
+
+
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.cycle.all.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.mousewheel.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ui.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/swiper.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/iscroll.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-efuSlider.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ieSlide.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.plugin.js"></script>
+
+		<script type="text/javascript" src="../js/hom/lib/front/xml2json.min.js"></script>
+		<script type="text/javascript" src="../js/hom/lib/front/jquery.i18n.xml.js"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/mobileApp.js?key=X-CSRF-TOKEN&val=62024c52-e394-4ab2-8f36-630483b88f4b"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/common/common.js"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/common/common.pages.js"></script>
+		<script type="text/javascript" src="https://assets.adobedtm.com/9f7767d312ae/4a1737c07e51/launch-19b1f4fcc423.min.js" async></script>
+
+		<!--[if IE 9]>
+		<link rel="stylesheet" href="/css/content.ie9.css">
+		<![endif]-->
+		<!--[if lte IE 8]>
+		<link rel="stylesheet" href="/css/content.ie8.css">
+		<script src="../js/respond.min.js"></script>
+		<script src="../js/jquery-ui.ie8.js"></script>
+		<![endif]-->
+
+		
+		
+		<meta name="_csrf" content="62024c52-e394-4ab2-8f36-630483b88f4b"/>
+		<meta name="_csrf_header" content="X-CSRF-TOKEN"/>
+		
+		<script type="text/javascript" src="../js/hom/lib/front/xml2json.min.js"></script>
+		<script type="text/javascript" src="../js/hom/lib/front/jquery.i18n.xml.js"></script>
+	
+	<!-- <script >bazadebezolkohpepadr="507538354"</script><script type="text/javascript" src="akam/11/1e406aee"  defer></script> -->
+</head>
+	<body class="popup">
+		<script type="text/javascript">
+		//_dl = AAnalytics.dl();
+		_dl = parent._dl;
+		</script>
+
+		
+	<div id="popWrap" class="calendarWrap">
+		<div class="head">
+			<h1><span id="title"></span></h1>
+			<p class="prior">기존 선택일: <span></span></p>
+		</div>
+		<div id="popCont">
+		<!-- 내용영역 -->
+			<div class="calendar">
+				<div class="info">
+					
+					
+				</div>
+				<p class="controlBtn">
+					<!-- 달력 12개월로 변경하면서 disabled -->
+					
+					<a href="javascript:void(0);" onclick = "return showNext();" class="next">다음 3개월</a>
+				</p>
+				<ol class="week">
+					<li>일</li><li>월</li><li>화</li><li>수</li><li>목</li><li>금</li><li>토</li>
+				</ol>
+				<div class="scr" style="height:1200px" >
+				</div><!-- //scr -->
+			</div><!-- //calendar -->
+		<!-- //내용영역 -->
+		</div><!-- //popCont -->
+	</div><!-- //popWrap -->
+
+
+	<input type="hidden" id="startDate" value =""/>
+	<input type="hidden" id="endDate" value=""/>
+
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$.i18n.properties({
+		    name	: ['messages', 'user','ibeBooking'],
+		    path	: '/Jinair/jinairfront/www.jinair.com/i18n/messages/',
+		    mode	: 'map',
+		    language: 'ko_KR',
+		    langCd	: 'KOR'
+		});
+	});
+	// 국제선 관광 비행 일자
+	var icnTourDate= ["20201224","20201225","20201231","20210101","20210102","20210109","20210116","20210123","20210130","20210206","20210207","20210211","20210221","20210228","20210307","20210314","20210321","20210328","20210404","20210418","20210425","20210502","20210509","20210516","20210523","20210530","20210613","20210620","20210627","20210711","20210725"];
+	var gmpTourDate= ["20210501","20210508","20210515","20210529","20210619","20210710"];
+	var pusTourDate= ["20210501","20210515","20210529"];
+	var cjuTourDate= [];
+	</script>
+	<script type="text/javascript" src="/Jinair/jinairfront/www.jinair.com/js/hom/lj/front/booking/calendar.js"></script>
+	<script type="text/javascript">
+	//팝업높이조절
+	setPopup(113);
+	</script>
+	
+	<noscript><img src="akam/11/pixel_1e406aee" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript><script type="text/javascript"  src="/Jinair/jinairfront/www.jinair.com/DozU28/o/z/9c7tQechBnFw/uJEbfwQN9mL9/HgAzLVlZ/DAVXQV/IqOxs.html"></script></body>
+</html>

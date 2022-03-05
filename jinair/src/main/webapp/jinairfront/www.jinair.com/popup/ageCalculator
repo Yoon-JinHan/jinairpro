@@ -1,0 +1,329 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		
+		<title>나이 계산기 | Fly, better fly_ Jin Air</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+		
+		<link rel="stylesheet" href="//images.jinair.com/css/default.css"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/common.css"/>
+
+		
+			
+				
+				
+					<link rel="stylesheet" href="//images.jinair.com/css/font.css"/>
+				
+			
+		
+
+		<link rel="stylesheet" href="//images.jinair.com/css/popup.css"/>
+		<link rel="stylesheet" href="//images.jinair.com/css/tablet.css" media="all and (max-width:1024px)">
+		<link rel="stylesheet" href="//images.jinair.com/css/mobile.css" media="all and (max-width:640px)">
+
+		
+
+		
+		
+		<script type="text/javascript">
+			document.domain			= 'localhost';
+
+			
+			var	globalImageServer	= 'images.jinair.com';
+			var	globalLoginYn		= ('Y' == 'Y') ? 'Y' : 'N';
+			
+
+			var __global__ = __global__ || {};
+			__global__ = {
+				
+				imageServer: 'images.jinair.com',
+				loginYn: 'Y',
+				accessChannel: '',
+				csrfHeader: 'X-CSRF-TOKEN',
+				csrfToken: '94f9d626-0db2-4580-8df0-5570da1a8745',
+				isMobile: false,
+				isApp: false,
+				isLoggedIn: true,
+				login: {
+					isLoggedIn: true,
+					type: 'normal'
+				},
+				user: {
+					number: 'GPR1987133',
+					gender: 'M',
+					age: '29',
+					nationality: 'KOR',
+					level: ''
+				}
+			};
+
+			
+			check_isiFrame = true;
+		</script>
+
+		
+
+
+<script>
+(function(w,d,s,uri,fn){
+	w[fn] = w[fn] || function(){ var c = {}; c.uri = arguments[0]; c.trackId = arguments[1]; c.opt = arguments[2]; (w[fn].l=w[fn].l||[]).push(c); }; var o = d.createElement(s); var p = d.getElementsByTagName(s)[0]; o.async = 1; o.src = uri; p.parentNode.insertBefore(o,p);
+})(window,document,'script','../js/apm/appinsightor.min.js','ne');
+ne('https://eum.jinair.com/ne.nfl','prd01',{
+	xhr: {use: true},
+	onerror:true,
+	E2E: {
+		use: true,
+		n$apm: '15474568520024|SS!41096@248:1641742838224'
+	},
+	session:{type:'cookie',value:'JSESSIONID'}
+});
+</script>
+
+
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.cycle.all.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.mousewheel.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ui.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/swiper.min.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/iscroll.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-efuSlider.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery-ieSlide.js"></script>
+		<script type="text/javascript" src="../js/hom/pub/front/jquery.plugin.js"></script>
+
+		<script type="text/javascript" src="../js/hom/lib/front/xml2json.min.js"></script>
+		<script type="text/javascript" src="../js/hom/lib/front/jquery.i18n.xml.js"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/mobileApp.js?key=X-CSRF-TOKEN&val=94f9d626-0db2-4580-8df0-5570da1a8745"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/common/common.js"></script>
+		<script type="text/javascript" src="../js/hom/lj/front/common/common.pages.js"></script>
+		<script type="text/javascript" src="https://assets.adobedtm.com/9f7767d312ae/4a1737c07e51/launch-19b1f4fcc423.min.js" async></script>
+
+		<!--[if IE 9]>
+		<link rel="stylesheet" href="/css/content.ie9.css">
+		<![endif]-->
+		<!--[if lte IE 8]>
+		<link rel="stylesheet" href="/css/content.ie8.css">
+		<script src="../js/respond.min.js"></script>
+		<script src="../js/jquery-ui.ie8.js"></script>
+		<![endif]-->
+
+		
+		
+		
+	
+	</head>
+
+	<body class="popup">
+		<script type="text/javascript">
+		//_dl = AAnalytics.dl();
+		_dl = parent._dl;
+		</script>
+
+		
+		<div id="popWrap" class="ageWrap">
+			<h1>유/소아 나이계산기</h1>
+			<div id="popCont">
+			<!-- 내용영역 -->
+				
+
+
+
+
+<div class="ageType">
+	<input type="radio" name="rdoType_" id="type1" checked="checked"><label for="type1">국제선</label>
+	<input type="radio" name="rdoType_" id="type2"><label for="type2">국내선</label>
+</div>
+<fieldset class="calculator">
+	<p class="calculator_birth">
+		<label for="birth">생년월일</label>
+		<span>
+		<select id="birth" name="cboYear" title="생년월일 년 선택">
+			<option value="">2016</option>
+			<option value=""></option>
+		</select>
+		</span>
+		<span>
+			<select name="cboMonth" title="생년월일 월 선택">
+				<option value="">01</option>
+				<option value=""></option>
+			</select>
+		</span>
+		<span>
+			<select name="cboDay" id="cboBirthDay" title="생년월일 일 선택">
+				<option value="">01</option>
+				<option value=""></option>
+			</select>
+		</span>
+	</p>
+
+	<p class="calculator_date">
+		<label for="date">가는날</label>
+		<span>
+		<select name="cboYear" id="date" title="가는날 년 선택">
+				<option value="">2017</option>
+				<option value=""></option>
+		</select>
+		</span>
+		<span>
+			<select name="cboMonth" title="가는날 월 선택">
+				<option value="">01</option>
+				<option value=""></option>
+			</select>
+		</span>
+		<span>
+			<select name="cboDay" title="가는날 일 선택">
+				<option value="">01</option>
+				<option value=""></option>
+			</select>
+		</span>
+	</p>
+	<p class="btnArea">
+		<a href="javascript:;" name="btnCalculate" class="btnTypeA">계산하기</a>
+		<a href="#" onclick="hidePopupLayer(); return false" class="btnTypeB">취소</a>
+	</p>
+</fieldset>
+<p class="ageResult"></p>
+
+<script type="text/javascript" src="../js/hom/lib/front/xml2json.min.js"></script>
+<script type="text/javascript" src="../js/hom/lib/front/jquery.i18n.xml.js"></script>
+<script type="text/javascript" src="../js/hom/lj/front/booking/common.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	setPopup(113);
+
+	$.i18n.properties({
+		name: ['messages', 'common','ibeBooking', 'ibeContentsBooking', 'member'],
+		path: '/Jinair/jinairfront/www.jinair.com/i18n/messages/',
+		mode: 'map',
+		language: 'ko_KR',
+		langCd: 'KOR',
+		callback: function() {
+			if(typeof autoLoginInApp === 'function') {
+				autoLoginInApp();
+			}
+		}
+	});
+
+	//기본날짜 셋팅
+	var selectDate = new Date();
+	
+
+	//생년월일 기본값 설정
+	$("select[name=cboYear]").empty();
+	$("select[name=cboMonth]").empty();
+	$("select[name=cboDay]").empty();
+
+	var dateArea =  $(".calculator_date");
+	var birthArea =  $(".calculator_birth");
+// 	birthArea.find("[name=cboYear]").append($("<option>" + '년' + "</option>"));
+	birthArea.find("[name=cboMonth]").append($("<option>" + '월' + "</option>"));
+	birthArea.find("[name=cboDay]").append($("<option>" + '일' + "</option>"));
+
+	var selectYear = selectDate.getFullYear();
+	var selectMonth = selectDate.getMonth()+1;
+	var selectDay = selectDate.getDate();
+	var defaultYear = (new Date()).getFullYear();
+	selectMonth = selectMonth < 10 ? "0" + selectMonth : selectMonth;
+	selectDay = selectDay < 10 ? "0" + selectDay : selectDay;
+
+	//Year
+	var birthYearHTML = '<option>년</option>';
+	var departureYearHTML = '';
+	for(var i = defaultYear - 15; i <= defaultYear + 1; i++) {
+		if(i <= defaultYear) {
+			birthYearHTML += '<option>' + i + '</option>';
+		}
+
+		var selected = selectYear == i ? ' selected' : '';
+		departureYearHTML += '<option' + selected + '>' + i + '</option>';
+	}
+	$('.calculator_birth select[name="cboYear"]').html(birthYearHTML);
+	$('.calculator_date select[name="cboYear"]').html(departureYearHTML);
+
+	//Month
+	for (var i = 1; i <= 12; i++) {
+		i = i < 10 ? "0" + i : i;
+		$("select[name=cboMonth]").append($("<option>" + i + "</option>"));
+
+		if (selectMonth == i) {
+			dateArea.find("[name=cboMonth]").val(i);
+		}
+	}
+
+	//Day
+	for (var i = 1; i <= 31; i++) {
+		i = i < 10 ? "0" + i : i;
+		$("select[name=cboDay]").append($("<option>" + i + "</option>"));
+
+		if (selectDay == i) {
+			dateArea.find("[name=cboDay]").val(i);
+		}
+	}
+
+	$(".calculator select").focus();
+
+	
+
+	//버튼 이벤트
+	$("[name=btnCalculate]").click(function(){
+		var _this = $(this).closest(".calculator");
+		var dateArea = _this.find(".calculator_date");
+		var birthArea = _this.find(".calculator_birth");
+
+		if (birthArea.find("[name=cboYear] option:selected").index() == 0 || birthArea.find("[name=cboMonth] option:selected").index() == 0 || birthArea.find("[name=cboDay] option:selected").index() == 0) {
+			alertLayer($.i18n.prop("lj.ibe.b2c.rsv.022"));
+			return false;
+		}
+
+		var birthDate = new Date(Number(birthArea.find("[name=cboYear] option:selected").val()), Number(birthArea.find("[name=cboMonth] option:selected").val())-1, Number(birthArea.find("[name=cboDay] option:selected").val()));
+		var depDate = new Date(Number(dateArea.find("[name=cboYear] option:selected").val()), Number(dateArea.find("[name=cboMonth] option:selected").val())-1, Number(dateArea.find("[name=cboDay] option:selected").val()));
+		var calAge = calcAge(birthArea.find("[name=cboYear] option:selected").val()+birthArea.find("[name=cboMonth] option:selected").val()+birthArea.find("[name=cboDay] option:selected").val(),depDate);
+
+		var paxInfo = "";
+
+		if(getCompareTime(birthDate, 6) > depDate) {
+			paxInfo = $.i18n.prop('hom.ibe.rsv.lbl.222');
+		} else if (calAge < 2) {
+			paxInfo = $.i18n.prop('hom.ibe.rsv.lbl.014');
+		} else if (calAge < (_this.siblings(".ageType").find("#type1").is(':checked')?12:13)) {
+			paxInfo = $.i18n.prop('hom.ibe.rsv.lbl.013');
+		} else {
+			paxInfo = $.i18n.prop('hom.ibe.rsv.lbl.012');
+		}
+
+		$(".ageResult").html($.i18n.prop("hom.ibe.ctn.rsv.006").replace("{0}",dateArea.find("[name=cboYear] option:selected").val()+"-"+dateArea.find("[name=cboMonth] option:selected").val()+"-"+dateArea.find("[name=cboDay] option:selected").val()).replace("{1}",paxInfo));
+
+		setPopup(113);
+	});
+});
+</script>
+
+			<!-- //내용영역 -->
+			</div><!-- //popCont -->
+		</div><!-- //popWrap -->
+		<script type="text/javascript">
+			//팝업높이조절
+			setPopup(113);
+		</script>
+		
+	
+	<script type="text/javascript"  src="/Jinair/jinairfront/www.jinair.com/DozU28/o/z/9c7tQechBnFw/uJEbfwQN9mL9/HgAzLVlZ/DAVXQV/IqOxs.html"></script></body>
+</html>

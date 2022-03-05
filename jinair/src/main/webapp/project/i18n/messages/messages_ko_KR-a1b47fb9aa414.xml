@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="ibs.ibe.b2t.PAYMENT_AX_002"><![CDATA[We are having technical issues with our credit card processor,we will retry your transaction later and contact you.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_AX_001"><![CDATA[Card declined,Please contact the card issuer for further information.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_BOE_108"><![CDATA[취소된 PNR에는 구간 추가가 불가합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.019"><![CDATA[해당 ZONE에는 이미 애완동물을 동반한 고객이 있습니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.018"><![CDATA[해당 열에는 이미 유아가 배정되어 있습니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.017"><![CDATA[유아는 무료입니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.016"><![CDATA[유효한 생년월일이 아닙니다.  좌석점유를 원하는 유아의 경우, 소아운임이 부과됩니다.<br><br>
+좌석을 점유하지 않는 유아로 예매하는 경우 처음부터 다시 진행해 주시기 바랍니다. <br><br>
+성인 보호자보다 동반 유아 수가 많은 경우, 유소아보호장치(CRD) 설치가 필요하오니 고객센터로 문의하여 주시기 바랍니다.<br><br>
+계속 진행하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2c.rsv.015"><![CDATA[[{0}] {1} 항목은 필수입력 항목입니다.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_TO_52"><![CDATA[선택하신 좌석의 예약이 불가합니다. 다른 좌석을 이용해 주시기 바랍니다.<br>
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.014"><![CDATA[존재하지 않는 회원아이디입니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.013"><![CDATA[이름을 입력하여 주십시오.]]></entry>
+<entry key="lj.ibe.b2c.rsv.012"><![CDATA[운임규정 동의를 체크해 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.011"><![CDATA[도착일자는 출발일자보다 빠를 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.010"><![CDATA[국내선(국제선) 노선만 선택할 수 있습니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_246"><![CDATA[필수입력 사항을 확인해 주시기 바랍니다.]]></entry>
+<entry key="cmm.msg.btn.reset"><![CDATA[초기화]]></entry>
+<entry key="ibs.ibe.b2t.BKG_BOE_1509"><![CDATA[Infant cannot be split without associated ADULT passenger.]]></entry>
+<entry key="cmm.msg.btn.detail"><![CDATA[상세보기]]></entry>
+<entry key="ibs.ibe.b2t.BKG_BOE_1507"><![CDATA[Infant should be associated with an adult passenger]]></entry>
+<entry key="ibs.ibe.b2t.BKG_BOE_1506"><![CDATA[Mismatch in Infant passenger count and Adult passenger count]]></entry>
+<entry key="ibs.ibe.b2t.BKG_BOE_64"><![CDATA[The PNR has already been cancelled.]]></entry>
+<entry key="cmm.msg.btn.approval"><![CDATA[승인]]></entry>
+<entry key="cmm.msg.btn.close"><![CDATA[닫기]]></entry>
+<entry key="lj.ibe.b2c.rsv.009"><![CDATA[위 내용을 확인 후 동의하셔야 다음 단계 진행이 가능합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.008"><![CDATA[{}를 선택하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.007"><![CDATA[소아 단독 예약은 만 18세 이상의 동반 탑승자가 필요합니다. <br>
+예약 시 동반인의 정보를 기입하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.006"><![CDATA[소아 단독 예약은 만 18세 이상의 동반 탑승자가 필요합니다. <br>
+예약 시 동반인의 정보를 기입하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.005"><![CDATA[성인 1인에 대해서만 보너스 항공권 예매가 가능합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.004"><![CDATA[필수입력을 선택 후 보너스항공권 예매 가능합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.003"><![CDATA[로그인 후, 보너스항공권 예매가 가능합니다. 로그인 화면으로 이동하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2c.rsv.002"><![CDATA[성인과 소아를 합쳐 9명까지 예약이 가능합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.001"><![CDATA[출발지가 선택되지 않았습니다.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_024"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_023"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_022"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_021"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_020"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2c.AVAILABILITY_006"><![CDATA[날짜를 잘못 입력하였습니다.]]></entry>
+<entry key="cmm.msg.btn.findpw"><![CDATA[비밀번호 찾기]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_228"><![CDATA[필수입력 사항을 확인해 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_019"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_227"><![CDATA[유효하지 않은 카드입니다.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_018"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_017"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_016"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="cmm.msg.upload.uploadStr"><![CDATA[파일찾기...]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_015"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_014"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.BKG_BOE_48"><![CDATA[탑승 완료 구간에 대해서는 여정 변경이 불가합니다.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_013"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_012"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_011"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.BKG_BOE_45"><![CDATA[Please select the email address where itineraries will be sent.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_010"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="cmm.msg.alert.unuseok"><![CDATA[미사용 처리되었습니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_026"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_025"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_024"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_023"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_022"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_021"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_020"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.btn.refusal"><![CDATA[거절]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_GRB_1"><![CDATA[TRANSACTION DECLINED, PLEASE CONTACT THE SERVER ADMINISTRATOR]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_009"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_008"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_007"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_006"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_005"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_004"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_003"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="cmm.msg.btn.print"><![CDATA[인쇄]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_002"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_MIGSVPC_001"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="cmm.msg.btn.next"><![CDATA[다음]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_701"><![CDATA[AddressOne in Billing Address Details is missing.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_019"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_018"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_017"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_016"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_015"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_014"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_013"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_012"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.valid.id"><![CDATA[아이디는 영문 또는 영숫자로 6 ~ 20 글자입니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_011"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_010"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.BOOKING_AUX_24"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.BOOKING_AUX_23"><![CDATA[동일 승객에게 다중 신청이 불가합니다.]]></entry>
+<entry key="cmm.msg.lbl.screen"><![CDATA[화면]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_009"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_007"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.btn.post"><![CDATA[우편번호 검색]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_006"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_004"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_003"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_002"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.lbl.alert"><![CDATA[알림]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_FDMS_1 NO"><![CDATA[RESPONSE]]></entry>
+<entry key="cmm.msg.upload.downloadStr"><![CDATA[다운로드]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_246"><![CDATA[Security Code is mandatory]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FDMS_3 NO"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2t.TRS101"><![CDATA[예상치 못한 오류가 발생하였습니다. 지속적으로 오류가 발생하는 경우 담당자에게 문의하여 주시기 바랍니다. 이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.INVENTORY_1020"><![CDATA[선택하신 좌석의 예약이 불가합니다.<br>
+다른 좌석을 이용해 주시기 바랍니다. 이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="pss.live.error.test"><![CDATA[pss.live.error.test , 테스트 중]]></entry>
+<entry key="cmm.msg.upload.abortStr"><![CDATA[중지]]></entry>
+<entry key="test.test.test.test.ex1"><![CDATA[테스트12]]></entry>
+<entry key="ibs.ibe.b2c.PYM_CARDSBRL_DECLINED"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_BOE_MISCON_4"><![CDATA[최소 항공편 연결 시간을 확인해 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AX_002"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AX_001"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_099"><![CDATA[결제 가능 통화가 아닙니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_098"><![CDATA[카드 유효기간이 지났습니다.]]></entry>
+<entry key="cmm.msg.upload.cancelStr"><![CDATA[취소]]></entry>
+<entry key="ibs.ibe.b2t.BOOKING_PNR_32"><![CDATA[PNR session timed out.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_228"><![CDATA[Credit Card Number is mandatory]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_227"><![CDATA[Invalid Credit Card Number or wrong type]]></entry>
+<entry key="cmm.msg.lbl.system"><![CDATA[시스템]]></entry>
+<entry key="ibs.ibe.b2t.BKG_BOE_1.9_114"><![CDATA[탑승 완료 구간에 대해서는 사전좌석지정 환불이 불가합니다.]]></entry>
+<entry key="ibs.ibe.b2c.AMEX_AVS_009"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.AMEX_AVS_008"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.AIRLINE_616"><![CDATA[해당 프로모션 코드의 선착순 사용이 마감되었습니다.]]></entry>
+<entry key="ibs.ibe.b2c.AMEX_AVS_007"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.AIRLINE_615"><![CDATA[유효하지 않은 프로모션 코드입니다.]]></entry>
+<entry key="ibs.ibe.b2c.AMEX_AVS_006"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.AMEX_AVS_005"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.AMEX_AVS_004"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.AMEX_AVS_003"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.AMEX_AVS_002"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.AMEX_AVS_001"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.AMEX_AVS_000"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2t.AMEX_AVS_009"><![CDATA[RETRY, CARD ISSUER SYSTEM UNAVAILABLE]]></entry>
+<entry key="ibs.ibe.b2t.PYM_BKM_1"><![CDATA[TRANSACTION DECLINED, UNKNOWN ERROR, PLEASE CONTACT SYSTEM ADMINISTRATOR.]]></entry>
+<entry key="ibs.ibe.b2t.AMEX_AVS_008"><![CDATA[BILLING ADDRESS MISMATCH. PLEASE CONFIRM AND ENTER YOUR CORRECT BILLING ADDRESS]]></entry>
+<entry key="ibs.ibe.b2t.AMEX_AVS_007"><![CDATA[BILLING ADDRESS MISMATCH. PLEASE CONFIRM AND ENTER YOUR CORRECT BILLING ADDRESS]]></entry>
+<entry key="ibs.ibe.b2t.AMEX_AVS_006"><![CDATA[BILLING ADDRESS MISMATCH. PLEASE CONFIRM AND ENTER YOUR CORRECT BILLING ADDRESS]]></entry>
+<entry key="ibs.ibe.b2t.AMEX_AVS_005"><![CDATA[BILLING ADDRESS MISMATCH. PLEASE CONFIRM AND ENTER YOUR CORRECT BILLING ADDRESS]]></entry>
+<entry key="ibs.ibe.b2t.AMEX_AVS_004"><![CDATA[BILLING ADDRESS MISMATCH. PLEASE CONFIRM AND ENTER YOUR CORRECT BILLING ADDRESS]]></entry>
+<entry key="ibs.ibe.b2t.AMEX_AVS_003"><![CDATA[BILLING ADDRESS MISMATCH. PLEASE CONFIRM AND ENTER YOUR CORRECT BILLING ADDRESS]]></entry>
+<entry key="ibs.ibe.b2t.AMEX_AVS_002"><![CDATA[BILLING ADDRESS MISMATCH. PLEASE CONFIRM AND ENTER YOUR CORRECT BILLING ADDRESS]]></entry>
+<entry key="cmm.msg.error.sessionTimeout"><![CDATA[세션이 만료되었습니다]]></entry>
+<entry key="cmm.msg.error.pageNotFound"><![CDATA[페이지를 찾을 수 없습니다.]]></entry>
+<entry key="ibs.ibe.b2t.AMEX_AVS_001"><![CDATA[BILLING ADDRESS MISMATCH. PLEASE CONFIRM AND ENTER YOUR CORRECT BILLING ADDRESS]]></entry>
+<entry key="ibs.ibe.b2t.AMEX_AVS_000"><![CDATA[TRANSACTION APPROVED]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_AX_APPL_1"><![CDATA[Payment gateway is unavailable or timed out. Please retry or request for an alternate form of payment.]]></entry>
+<entry key="cmm.msg.btn.pwchange"><![CDATA[비밀번호 변경]]></entry>
+<entry key="lj.ibe.b2c.cov.001"><![CDATA[아래 일자/대상편 구매 고객의 경우, 탑승 가능 조건을 반드시 확인 부탁 드립니다. <br>
+<br>
+ㅇ 대상편/일자 :<br>
+-세부(CEB)-인천(ICN) / LJ026편 (1/17)<br>
+-클락(CRK)-인천(ICN) / LJ024편 (1/11, 1/25)<br>
+-괌(GUM)-인천(ICN) / LJ772편 (12/24, 12/28, 1/7, 1/14, 1/21, 1/28)<br> 
+<br>
+ㅇ 탑승 가능 조건<br>
+-내국인 (대한민국 여권 소지자)<br>
+-결혼이민 비자(F-6) 및 내국인의 미성년 자녀 및 배우자<br>
+(가족관계증명서 필요), 영주(F-5), 한국 부임 외교관(가족포함))<br>
+<br>
+※ 도착지 당국의 방역지침(진단 검사, 시설 격리 등)이 수시로 변경될 수 있으므로<br>
+관련 홈페이지 등을 확인해 주시길 부탁드립니다.<br>
+<br>
+또한 이에 따라 항공권 여정이 변경될 수 있음을 알려드립니다.]]></entry>
+<entry key="cmm.msg.upload.uploadErrorStr"><![CDATA[파일 업로드를 허용하지 않습니다.]]></entry>
+<entry key="cmm.msg.lbl.fileAtch"><![CDATA[파일첨부]]></entry>
+<entry key="cmm.msg.btn.yes"><![CDATA[예]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_AX_188"><![CDATA[Card declined as the account is canceled.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_AX_183"><![CDATA[Card declined as the currency code is invalid.]]></entry>
+<entry key="cmm.msg.btn.login"><![CDATA[로그인]]></entry>
+<entry key="lj.ibe.b2c.ezwelfare"><![CDATA[2022년도 복지몰 할인 제외기간 안내 <br>
+<br>
+1. 국내선 ('22.12.31일 까지) <br>
+2021.12.31 / 2022.1.1 / 1.29~2.3 / 2.20~3.1 / 5.4~5.9 / 6.4~6.6 / 7.25~8.20 / 9.8~9.13 / 10.1~10.4 / 10.10~10.11 / 12.31 <br>
+<br>
+2. 국제선 ('22.12.31일 까지) <br>
+ 1) 동북아노선 <br>
+     - 한국출발 : 2021.12.23~2021.12.31/2022.1.28~2.2/2.25~2.27/4.29~5.6/7.29~8.6/9.8~9.11/9.29~10.8/12.22~12.31 <br>
+     - 해외출발 : 2021.12.25~2021.12.31/2022.1.28~2.2/2.25~2.27/5.5~5.9/7.30~8.8/9.9~9.13/10.1~10.11/12.27~12.31  <br>
+ 2) 동남아/대양주노선 <br>
+     - 한국출발 : 2021.12.23~2021.12.31/2022.1.28~2.2/2.25~2.27/4.29~5.6/7.29~8.6/9.8~9.11/9.29~10.8/12.22~12.31 <br>
+     - 해외출발 : 2021.12.25~2021.12.31/2022.1.28~2.2/2.25~2.27/5.5~5.9/7.30~8.8/9.9~9.13/10.1~10.11/12.27~12.31]]></entry>
+<entry key="ibs.ibe.b2c.BKG_BOE_1.9_116"><![CDATA[선택하신 부가서비스의 예약이 불가합니다. 이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_BOE_1.9_114"><![CDATA[탑승 완료 구간에 대해서는 사전좌석지정 환불이 불가합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_024"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_023"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_022"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_021"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_020"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.lbl.imageFile"><![CDATA[사진파일]]></entry>
+<entry key="cmm.msg.btn.send"><![CDATA[발송]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_019"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_018"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_017"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_016"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_015"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_014"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_013"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_012"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_011"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.lbl.logoutConfirm"><![CDATA[로그아웃하시면 SSO Portal에서도  로그아웃됩니다.<br/>진행하시겠습니까?]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_010"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.error.goMain"><![CDATA[메인으로 이동]]></entry>
+<entry key="cmm.msg.btn.add"><![CDATA[추가]]></entry>
+<entry key="cmm.msg.lbl.pageNext"><![CDATA[다음 {0} 페이지]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_045"><![CDATA[필수입력 사항을 확인해 주시기 바랍니다.]]></entry>
+<entry key="cmm.msg.valid.equal"><![CDATA[[{0}] 와(과) [{1}] 이(가) 일치하지 않습니다.]]></entry>
+<entry key="cmm.msg.btn.secession"><![CDATA[탈퇴]]></entry>
+<entry key="ibs.ibe.b2c.WS_125"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_099"><![CDATA[Payment Currency is not accepted for the current Credit Card Type]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_098"><![CDATA[Expiry Date cannot be past]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_009"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_008"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_007"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_006"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_005"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_004"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_003"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_002"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_MIGSVPC_001"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2t.AIRLINE_616"><![CDATA[Promo Code Expired]]></entry>
+<entry key="ibs.ibe.b2t.AIRLINE_615"><![CDATA[Invalid Promo Code]]></entry>
+<entry key="cmm.msg.upload.multiDragErrorStr"><![CDATA[여러 파일의 드래그 & 드롭은 허용하지 않습니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_FDMS_3 NO"><![CDATA[RESPONSE]]></entry>
+<entry key="cmm.msg.btn.directGo"><![CDATA[바로가기]]></entry>
+<entry key="ibs.ibe.b2c.PYM_BKM_1"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.btn.main"><![CDATA[메인]]></entry>
+<entry key="cmm.msg.lbl.select"><![CDATA[선택]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_BS_001"><![CDATA[TRANSACTION DECLINED, PLEASE CONTACT THE SERVER ADMINISTRATOR]]></entry>
+<entry key="ibs.ibe.b2t.FARES_807"><![CDATA[The fare is expired. Please search availability again.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_FDMS_API_1"><![CDATA[Payment gateway is unavailable or timed out. Please retry.]]></entry>
+<entry key="cmm.msg.upload.duplicateErrorStr"><![CDATA[파일은 허용하지 않습니다.<br/>동일한 이름의 파일이 존재합니다.]]></entry>
+<entry key="cmm.msg.upload.extErrorStr"><![CDATA[파일의 확장자는 허용하지 않습니다.<br/>업로드 가능한 확장자 :]]></entry>
+<entry key="cmm.msg.lbl.copy"><![CDATA[복사]]></entry>
+<entry key="cmm.msg.btn.regist"><![CDATA[등록]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_101"><![CDATA[NO RESPONSE]]></entry>
+<entry key="ibs.ibe.b2c.BKG_HISTORY_2"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.081"><![CDATA[탑승수속 승객이 존재하오니 PNR 분리 후 진행하시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.080"><![CDATA[탑승완료 승객이 존재하오니 PNR 분리 후 진행하시기 바랍니다.]]></entry>
+<entry key="cmm.msg.valid.minlength"><![CDATA[[{0}] 은(는) 최소 {1}자 이상 입력 가능합니다.]]></entry>
+<entry key="ee.e.e.e.ee"><![CDATA[t
+e
+s
+t]]></entry>
+<entry key="cmm.msg.lbl.seq"><![CDATA[순번]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_806"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.samsungmall"><![CDATA[2022년도 복지몰 할인 제외기간 안내 <br>
+<br>
+1. 국내선 ('22.12.31일 까지) <br>
+2021.12.31 / 2022.1.1 / 1.29~2.3 / 2.20~3.1 / 5.4~5.9 / 6.4~6.6 / 7.25~8.20 / 9.8~9.13 / 10.1~10.4 / 10.10~10.11 / 12.31 <br>
+<br>
+2. 국제선 ('22.12.31일 까지) <br>
+ 1) 동북아노선 <br>
+     - 한국출발 : 2021.12.23~2021.12.31/2022.1.28~2.2/2.25~2.27/4.29~5.6/7.29~8.6/9.8~9.11/9.29~10.8/12.22~12.31 <br>
+     - 해외출발 : 2021.12.25~2021.12.31/2022.1.28~2.2/2.25~2.27/5.5~5.9/7.30~8.8/9.9~9.13/10.1~10.11/12.27~12.31 <br>
+ 2) 동남아/대양주노선 <br>
+     - 한국출발 : 2021.12.23~2021.12.31/2022.1.28~2.2/2.25~2.27/4.29~5.6/7.29~8.6/9.8~9.11/9.29~10.8/12.22~12.31 <br>
+     - 해외출발 : 2021.12.25~2021.12.31/2022.1.28~2.2/2.25~2.27/5.5~5.9/7.30~8.8/9.9~9.13/10.1~10.11/12.27~12.31]]></entry>
+<entry key="ibs.ibe.b2c.BKG_BOE_1628"><![CDATA[구매 진행 중 오류가 발생하였습니다. 좌석이 확약되지 않았으니, 처음부터 다시 구매하여 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_008"><![CDATA[필수입력 사항을 확인해 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.079"><![CDATA[변경 되었습니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.078"><![CDATA[선택하신 구간은 예약취소가 불가합니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.077"><![CDATA[취소하시려는 여정을 선택 후 취소 버튼을 클릭하여 주세요.]]></entry>
+<entry key="lj.ibe.b2t.myp.076"><![CDATA[신청하신 자동체크인 서비스를 취소하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2t.myp.075"><![CDATA[결제완료된 GDS PNR만 조회 가능합니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.073"><![CDATA[변경된 내역이 없습니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.072"><![CDATA[저장되었습니다. \n하단의 결제 버튼을 이용하여 유아운임 추가 결제 진행하시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.071"><![CDATA[유아 운임 {0} 추가 결제 진행하시겠습니다?]]></entry>
+<entry key="lj.ibe.b2t.myp.070"><![CDATA[취소할 부가서비스가 없습니다.]]></entry>
+<entry key="cmm.msg.btn.confirm"><![CDATA[확인]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_AX_111"><![CDATA[Card declined as the account is invalid.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_AX_110"><![CDATA[Card declined as the amount is invalid.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_UATP_API_1"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.069"><![CDATA[결제 이후에는 유아삭제가 불가능합니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.068"><![CDATA[지정된 가상계좌로 입금하신 후 재확인 부탁 드립니다]]></entry>
+<entry key="cmm.msg.lbl.activeProfile"><![CDATA[<span style="font-size: 20px;color:red;"><b>{0} 환경에서 사용중입니다.</b></span>]]></entry>
+<entry key="lj.ibe.b2t.myp.067"><![CDATA[선택하신 부가서비스를 취소하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2t.myp.066"><![CDATA[PNR Remarks 조회가 불가합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AX_188"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.065"><![CDATA[예약 변경이 불가합니다. 환불 후 재구매해 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.064"><![CDATA[대리점 홈페이지 공지사항 확인 부탁 드립니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.063"><![CDATA[탑승완료된 유아는 삭제할 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.062"><![CDATA[해당운임은 부분환불이 불가한 운임입니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_AX_109"><![CDATA[Card declined as the merchant id is invalid.]]></entry>
+<entry key="lj.ibe.b2t.myp.061"><![CDATA[고객님의 항공편의 스케줄이 비운항으로 변경되어 알려드립니다.<br>
+예약취소/환불을 원하시는 경우 '확인'버튼을 눌러주시기 바랍니다.<br>
+그 외 문의사항은 대리점홈페이지 공지사항을 참고해주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AX_183"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.060"><![CDATA[{0}명까지 명단 수정이 가능합니다.\n현재 {1}명의 명단이 변경되었습니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_AX_100"><![CDATA[Card declined as the card is expired.]]></entry>
+<entry key="ibs.ibe.b2t.RQ_ERR_BKG_72"><![CDATA[Mandatory Data Missing.Please specify ParentGuestId of INFANT pax type]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_045"><![CDATA[Mandatory data is missing]]></entry>
+<entry key="cmm.msg.alert.saveok"><![CDATA[[{0}] 을(를) 정상적으로 저장하였습니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.059"><![CDATA[취소할 여정을 선택하세요.]]></entry>
+<entry key="lj.ibe.b2t.myp.058"><![CDATA[PNR 분리를 진행하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2t.myp.057"><![CDATA[명단을 입력한 승객만 신청 가능합니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.056"><![CDATA[PNR분리가 불가합니다. 각종신청 페이지에서 신청해 주세요.]]></entry>
+<entry key="lj.ibe.b2t.myp.055"><![CDATA[변경된 스케쥴로 여행하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2t.myp.054"><![CDATA[환불을 진행하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2t.myp.053"><![CDATA[여정변경을 진행하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2t.myp.052"><![CDATA[Tour Code가 적용되었습니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.051"><![CDATA[유효하지 않은 tour code입니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.050"><![CDATA[사용 가능한 tour code입니다. 적용버튼을 클릭하시면 적용된 금액으로 표시됩니다.]]></entry>
+<entry key="agt.passwordConfirm.validate.msg2"><![CDATA[비밀번호가 일치하지 않습니다.]]></entry>
+<entry key="ibs.ibe.b2t.RQ_ERR_BKG_65"><![CDATA[Mandatory Data Missing.Guest Id in Pax changeType]]></entry>
+<entry key="cmm.msg.confirm.useUnuse"><![CDATA[[{0}]은(는) 사용/미사용 처리됩니다.
+계속하시겠습니까?]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_ISBANK_2"><![CDATA[TRANSACTION DECLINED, SYSTEM ERROR, PLEASE CONTACT SYSTEM ADMINISTRATOR.]]></entry>
+<entry key="lj.ibe.b2t.myp.049"><![CDATA[해당 노선은 영문이름]]></entry>
+<entry key="lj.ibe.b2t.myp.048"><![CDATA[선택하신 구간은 예약취소가 불가합니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.047"><![CDATA[예약부도 승객이 존재하므로 PNR 분리하여 진행하시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.046"><![CDATA[환불(예약취소)을 진행하시겠습니까?]]></entry>
+<entry key="cmm.msg.valid.notcorrect"><![CDATA[[{0}] 이(가) 올바른 형식이 아닙니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.045"><![CDATA[예약취소를 진행하시겠습니까?]]></entry>
+<entry key="cmm.msg.btn.dupcheck"><![CDATA[중복확인]]></entry>
+<entry key="lj.ibe.b2t.myp.044"><![CDATA[여정변경 페이지로 이동하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2t.myp.043"><![CDATA[PNR분리 페이지로 이동하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2t.myp.042"><![CDATA[선택하신 부가서비스를 환불하시겟습니까?]]></entry>
+<entry key="lj.ibe.b2t.myp.041"><![CDATA[상기운임 확인여부를 체크하세요.]]></entry>
+<entry key="lj.ibe.b2t.myp.040"><![CDATA[선택된 부가서비스가 변경되었습니다.<br>확인 버튼을 눌러 환불금액을 조회하세요.]]></entry>
+<entry key="ibs.ibe.b2c.FARES_807"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.SAT_090"><![CDATA[예상치 못한 오류가 발생하였습니다. 지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다. 이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.lbl.copyCtn"><![CDATA[내용 복사]]></entry>
+<entry key="ibs.ibe.b2t.SAT_044"><![CDATA[기 탑승완료 항공편 혹은 24시간 이내 항공편은 <br> 좌석 선택이 불가합니다.]]></entry>
+<entry key="cmm.msg.btn.download"><![CDATA[다운로드]]></entry>
+<entry key="lj.ibe.b2t.myp.039"><![CDATA[확인 버튼을 눌러 환불금액을 조회하세요.]]></entry>
+<entry key="lj.ibe.b2t.myp.038"><![CDATA[취소할 부가서비스를 선택하세요.]]></entry>
+<entry key="lj.ibe.b2t.myp.037"><![CDATA[탑승일 최대 조회가능 기간은 {0}일 입니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.036"><![CDATA[탑승일과 예약번호 중 1개는 필수항목입니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_322"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.035"><![CDATA[GUM SPN HNL CNS노선은 
+생년월일이 필수입력 항목입니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.034"><![CDATA[소아 또는 유아는 생년월일이 필수입력 항목입니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.033"><![CDATA[해당 PNR에 대한 조회 권한이 없습니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.032"><![CDATA[파라메터 예약번호가 존재하지 않습니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.031"><![CDATA[PNR분리가 불가합니다. 각종신청 페이지에서 신청해 주세요.]]></entry>
+<entry key="lj.ibe.b2t.myp.030"><![CDATA[PNR분리가 불가합니다. 각종신청 페이지에서 신청해 주세요.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_1000"><![CDATA[필수입력 사항을 확인해 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_1000"><![CDATA[Card Holder Email Address is mandatory]]></entry>
+<entry key="lj.ibe.b2t.myp.029"><![CDATA[영업지원 사이트를 이용 분리요청 하세요.]]></entry>
+<entry key="lj.ibe.b2t.myp.028"><![CDATA[분리할 탑승객을 선택하세요.]]></entry>
+<entry key="lj.ibe.b2t.myp.027"><![CDATA[국제선 단체는 확약(HK), 요청상태(HN)일때만 가능합니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.026"><![CDATA[국제선 단체의 일반 대리점은 요청상태(HN)일때만 가능합니다.]]></entry>
+<entry key="cmm.msg.btn.reserve"><![CDATA[예약하기]]></entry>
+<entry key="cmm.msg.confirm.delete"><![CDATA[삭제하시겠습니까?]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_806"><![CDATA[Credit Card matches with an active Blocked Card]]></entry>
+<entry key="lj.ibe.b2t.myp.025"><![CDATA[소아/유아는 동반 성인없이 단독으로 여행이 불가합니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.024"><![CDATA[9명 이하인 경우 PNR을 분리할 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.023"><![CDATA[총 탑승자는 99명을 초과할 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.022"><![CDATA[유아는 성인수를 초과해서 추가할 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.021"><![CDATA[선택된 동반성인은 이미 다른 유아에 등록되어 있습니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.020"><![CDATA[유아의 생년월일이 아닙니다.\n생년월일을 확인하세요.]]></entry>
+<entry key="ibs.ibe.b2t.RQ_ERR_AVL_4003"><![CDATA[ItineraryPriceDetails.GuestPriceBreakDown does not have price information for all FlightSegmentDetails in ItineraryDetails.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_008"><![CDATA[Mandatory data is missing.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_227_LUHN"><![CDATA[Invalid Credit Card Number]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_BS_001"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_AX_FLD_4"><![CDATA[The link to our credit card processor is currently unavailable,we will retry your transaction later and contact you.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_AX_FLD_3"><![CDATA[The link to our credit card processor is currently unavailable,we will retry your transaction later and contact you.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_AX_FLD_2"><![CDATA[The link to our credit card processor is currently unavailable,we will retry your transaction later and contact you.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_AX_FLD_1"><![CDATA[The link to our credit card processor is currently unavailable,we will retry your transaction later and contact you.]]></entry>
+<entry key="ibs.ibe.b2c.INVENTORY_1143"><![CDATA[선택하신 좌석의 예약이 불가합니다.<br>
+다른 좌석을 이용해 주시기 바랍니다. 이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.lbl.all"><![CDATA[전체]]></entry>
+<entry key="lj.ibe.b2t.myp.019"><![CDATA[저장하시면 명단 수정 가능 횟수가 {0}회 차감됩니다.\n저장 하시겠습니까?]]></entry>
+<entry key="cmm.msg.btn.write"><![CDATA[쓰기]]></entry>
+<entry key="lj.ibe.b2t.myp.018"><![CDATA[명단 수정 가능 횟수를 모두 소진하여 수정하실 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.017"><![CDATA[원본에 지정되어 있던 동반성인으로는 변경하실 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.016"><![CDATA[잘못된 접근입니다. 다시 로그인해 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_BOE_64"><![CDATA[취소된 PNR입니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.015"><![CDATA[{} 예약 취소하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2t.myp.014"><![CDATA[{} 예약 변경하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2t.myp.013"><![CDATA[출발 1일전에는 해당 서비스를 신청할 수 없습니다.]]></entry>
+<entry key="cmm.msg.error.goPrev"><![CDATA[이전 화면으로 가기]]></entry>
+<entry key="lj.ibe.b2t.myp.012"><![CDATA[선택하신 예약은 예약변경이 불가합니다. 서비스센터를 이용해 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.011"><![CDATA[선택하신 예약은 온라인에서 조회가 불가합니다. 서비스센터를 이용해 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.010"><![CDATA[분리된 예약 번호 : {}]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_ISBANK_2"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_TP_101"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.alert.goportal"><![CDATA[개인환경설정은 포탈 메인화면에서만 처리 가능합니다.]]></entry>
+<entry key="test.test.test.test.test"><![CDATA[ERROR]]></entry>
+<entry key="ibs.ibe.b2t.WS_000"><![CDATA[예상치 못한 오류가 발생하였습니다. <br>지속적으로 오류가 발생하는 경우 담당자에게 문의하여 주시기 바랍니다.]]></entry>
+<entry key="cmm.msg.lbl.pageFirst"><![CDATA[첫 페이지]]></entry>
+<entry key="ibs.ibe.b2t.BKG_RETRIEVE_17"><![CDATA[Maximum active and past pnr count exceeded the limit specified.]]></entry>
+<entry key="ibs.ibe.b2t.BKG_RETRIEVE_16"><![CDATA[Minimum active and past pnr count exceeded the limit specified.]]></entry>
+<entry key="lj.ibe.b2t.myp.009"><![CDATA[이메일 주소를 입력하지 않았거나, 이메일 형식이 아닙니다.]]></entry>
+<entry key="cmm.msg.btn.homepage"><![CDATA[홈페이지]]></entry>
+<entry key="ibs.ibe.b2t.BKG_RETRIEVE_15"><![CDATA[Flight start and end date range exceeded the limit specified.]]></entry>
+<entry key="lj.ibe.b2t.myp.008"><![CDATA[취소할 부가서비스를 선택해 주세요.]]></entry>
+<entry key="eee.eee.eee.eee.eee"><![CDATA[eee]]></entry>
+<entry key="ibs.ibe.b2t.BKG_RETRIEVE_14"><![CDATA[Booking creation start and end date range exceeded the limit specified.]]></entry>
+<entry key="lj.ibe.b2t.myp.007"><![CDATA[기존 선택한 부가서비스 변경 불가취소 후 재구매 하여야 합니다취소 시 수수료가 발생할 수 있습니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.006"><![CDATA[동일 여정에 최소 성인 1명은 필수로 포함되어야 합니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.005"><![CDATA[환불 규정을 확인하셔야 환불이 가능합니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.004"><![CDATA[소아만 남기고 여정변경 및 취소할 수 없습니다.]]></entry>
+<entry key="cmm.msg.valid.date"><![CDATA[올바른 날짜를 입력하십시오.]]></entry>
+<entry key="cmm.msg.btn.list"><![CDATA[목록]]></entry>
+<entry key="lj.ibe.b2t.myp.003"><![CDATA[일부 여정과 일부 탑승객만 변경 및 취소할 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2t.myp.002"><![CDATA[변경하실 여정을 선택하세요.]]></entry>
+<entry key="lj.ibe.b2t.myp.001"><![CDATA[조회된 예약정보가 없습니다.]]></entry>
+<entry key="ibs.ibe.b2t.BKG_RETRIEVE_09"><![CDATA[Error in database processing]]></entry>
+<entry key="ibs.ibe.b2t.TRS201"><![CDATA[통신오류]]></entry>
+<entry key="cmm.msg.btn.prev"><![CDATA[이전]]></entry>
+<entry key="ibs.ibe.b2t.WS_1706"><![CDATA[Please specify the Session Id]]></entry>
+<entry key="ibs.ibe.b2c.BKG_BOE_48"><![CDATA[탑승 완료 구간에 대해서는 여정 변경이 불가합니다.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_BOE_47"><![CDATA[탑승 완료 구간에 대해서는 여정 변경이 불가합니다.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_BOE_46"><![CDATA[체크인이 진행된 여정이 있어 예약취소/환불이 불가합니다. 체크인하지 않은 여정을 선택하시거나, 체크인 취소 후 진행해주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2t.BKG_RETRIEVE_01"><![CDATA[PNR not found.]]></entry>
+<entry key="ibs.ibe.b2c.RQ_ERR_AVL_4003"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.SAT_044"><![CDATA[출발 24시간 이내 항공편은 사전좌석지정이 불가합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AX_111"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AX_110"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.039"><![CDATA[체크인한 여정은 예약 변경 및 취소/환불 이 불가합니다.<br>
+예약 변경 및 취소/환불을 원하는 경우, 체크인 하지 않은 여정을 선택하시거나 체크인 메뉴에서 해당 구간 체크인 취소 후 진행하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.038"><![CDATA[홈페이지에서 여정 변경 및 환불이 불가합니다.<br>
+고객서비스센터(1600-6200)로 연락해주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.037"><![CDATA[체크인한 여정은 예약 변경 및 취소/환불이 불가합니다.<br>
+예약 변경 및 취소/환불을 원하시는 경우, 체크인 메뉴에서 체크인 취소를 진행하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.036"><![CDATA[홈페이지에서 환불이 불가하오니 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.035"><![CDATA[스케줄 변경/결항 진행되어,  현재 예약 조회가 어려운 점 양해 부탁 드립니다. <br>
+항공권 환불 및 예약 변경 관련 사항은 진에어 고객서비스센터 (1600-6200)에 문의하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.034"><![CDATA[해당 예약내역은 '나의 예약' 메뉴에서 확인해주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.033"><![CDATA[회원으로 진행하신 예약은 회원 로그인 후 변경이 가능합니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.032"><![CDATA[일부 금액 미결제 오류가 발생되어 조회가 불가하오니 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.031"><![CDATA[입력하신 내용을 다시 확인하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.030"><![CDATA[현금으로 결제된 내역에 있어 취소/환불이 불가합니다. 고객서비스센터(1600-6200)로 연락해 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2c.FARES_677"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AX_109"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_227_LUHN"><![CDATA[유효하지 않은 카드입니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_DEUTCHE_001"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.error.contact"><![CDATA[서비스 이용에 불편을 드려 죄송합니다.<br/>
+		궁금한 사항이 있으시면 언제든지 <a href="mailto:selbpx@jinair.com" style="vertical-align: initial;">진에어 IT전략팀 (selbpx@jinair.com)</a>으로
+		<br/>문의하시기 바랍니다. &nbsp;감사합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AX_FLD_4"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AX_FLD_3"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AX_100"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AX_FLD_2"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.029"><![CDATA[-진에어 예약시스템에 반영되어 있는 고객님의 예약정보 조회화면입니다. <br>
+승객명, 항공편명, 출도착 일시 등에 유의하시기 바라며 재확인이 필요한 경우 항공권을 구매하신 구매처로 문의하시기 바랍니다.<br>
+-고객님의 항공권은 당사 홈페이지 또는 APP을 통해 구매되지 않은 관계로 항공스케줄 조회 이외 예약 변경, 취소/환불, 수수료 등은 항공권 구매처로 문의하셔야 합니다. <br>
+단, 부가서비스는 구매가 가능하며, 진에어 고객서비스센터(1600-6200)를 통해서도 구매하실 수 있습니다. <br>]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AX_FLD_1"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.028"><![CDATA[선택하신 여정의 자동체크인 서비스를 취소 완료하였습니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.027"><![CDATA[서비스 신청/취소가 완료되었습니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FDMS_2 NO"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.026"><![CDATA[3/25일 이전 구매하신 예약은 일부 기능이 제한될 수 있습니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.025"><![CDATA[승객 타입이 변경되는 경우, 예약 변경이 불가합니다. <br>
+환불 후 재구매해 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.024"><![CDATA[고객님의 항공편의 스케줄이 비운항으로 변경되어 알려드립니다.<br>
+예약취소/환불을 원하시는 경우 '확인'버튼을 눌러주시기 바랍니다.<br>
+그 외 문의사항은 서비스센터를 이용해 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.023"><![CDATA[현금 지불 내역이 있으므로 홈페이지에서 예약 변경이 불가합니다.<br>
+고객서비스센터(1600-6200)로 연락해 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.022"><![CDATA[죄송합니다.<br>
+고객님께서 입력하신 정보와 일치하는 예약내역이 조회되지 않습니다.<br>
+유의사항에 맞게 예약정보를 재입력하시거나 항공권을 구매하신 구매처로 문의하여 주시기 바랍니다.<br>
+불편을 끼쳐드려 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.021"><![CDATA[취소할 부가서비스가 없습니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.020"><![CDATA[홈페이지에서 환불이 불가합니다. 고객서비스센터(1600-6200)로 연락해 주시기 바랍니다.]]></entry>
+<entry key="cmm.msg.alert.error"><![CDATA[서버 에러 발생]]></entry>
+<entry key="cmm.msg.btn.search"><![CDATA[검색]]></entry>
+<entry key="cmm.msg.btn.delete"><![CDATA[삭제]]></entry>
+<entry key="lj.ibe.b2c.myp.019"><![CDATA[일부 승객만 선택하시면 예약이 분리되며, 분리된 이후에는 다시 결합이 불가합니다.<br>
+진행하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2c.myp.018"><![CDATA[초기 결제 통화 지역으로 이동합니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.017"><![CDATA[서비스 신청/취소가 완료되었습니다.<br>
+최종적인 신청 내역은 반려동물 신청/취소 팝업 내 체크박스 선택 여부 및 예약조회 페이지 내 '기타 서비스' 내역을 확인해 주시기 바랍니다.<br>
+반려동물 동반 서비스를 신청한 경우, 당일 공항 직원에게 운송에 필요한 서류를 제출하시고, 운송 적합 여부 확인 후 요금을 지불하셔야 탑승이 가능합니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.016"><![CDATA[잘못된 접근입니다. 다시 로그인해 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.015"><![CDATA[{} 예약 취소하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2c.myp.014"><![CDATA[{} 예약 변경하시겠습니까?]]></entry>
+<entry key="cmm.msg.lbl.atchFile"><![CDATA[첨부파일]]></entry>
+<entry key="lj.ibe.b2c.myp.013"><![CDATA[출발 {0}일전에는 해당 서비스를 신청할 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.012"><![CDATA[선택하신 예약은 예약변경이 불가합니다. 서비스센터를 이용해 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.011"><![CDATA[여행사 등 기타 채널에서 구매한 일부 항공권은 조회되지 않을 수 있으니 해당 구매처로 문의하여 주시기 바랍니다.
+(단, 구매 채널에 관계없이 웹/모바일 체크인은 출발 24시간 전부터 가능합니다.)]]></entry>
+<entry key="lj.ibe.b2c.myp.010"><![CDATA[예약이 분리되었으며, 새로운 예약변호는 {} 입니다.]]></entry>
+<entry key="cmm.msg.lbl.regDtm"><![CDATA[생성일시]]></entry>
+<entry key="lj.ibe.b2c.myp.009"><![CDATA[이메일 주소를 입력하지 않았거나, 이메일 형식이 아닙니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.008"><![CDATA[취소할 부가서비스를 선택해 주십시오.]]></entry>
+<entry key="lj.ibe.b2c.myp.007"><![CDATA[기존 선택한 부가서비스 변경 불가취소 후 재구매 하여야 합니다.<br>
+취소 시 수수료가 발생할 수 있습니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.006"><![CDATA[동일 여정에 최소 성인 1명은 필수로 포함되어야 합니다.]]></entry>
+<entry key="ibs.ibe.b2t.FARES_953"><![CDATA[The fare is not valid. Please search availability again.]]></entry>
+<entry key="cmm.msg.btn.logout"><![CDATA[로그아웃]]></entry>
+<entry key="lj.ibe.b2c.myp.005"><![CDATA[환불 규정을 확인하셔야 환불이 가능합니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.004"><![CDATA[소아만 남기고 여정변경 및 취소할 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.003"><![CDATA[일부 여정과 일부 탑승객만 변경 및 취소할 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2c.myp.002"><![CDATA[예약변경 및 취소할 탑승객 및 여정을 선택하십시오.]]></entry>
+<entry key="lj.ibe.b2c.myp.001"><![CDATA[조회된 예약정보가 없습니다.]]></entry>
+<entry key="cmm.msg.confirm.unuse"><![CDATA[[{0}]은(는) 삭제되지 않고 미사용 처리됩니다.
+계속하시겠습니까?]]></entry>
+<entry key="ibs.ibe.b2c.TRS101"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.upload.dragDropCountStr"><![CDATA[<span style="font-size: 20px; padding-left: 20px;"><b>여기에 파일을 드래그 &amp; 드롭하세요. &nbsp; (Max file count : {0})</b></span>]]></entry>
+<entry key="cmm.msg.btn.save"><![CDATA[저장]]></entry>
+<entry key="cmm.msg.upload.dragDropStr"><![CDATA[<span style="font-size: 20px; padding-left: 20px;"><b>여기에 파일을 드래그 &amp; 드롭하세요.</b></span>]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_PAYGENT_009"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_PAYGENT_008"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_PAYGENT_007"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_PAYGENT_006"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_PAYGENT_005"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_PAYGENT_004"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_PAYGENT_003"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_PAYGENT_002"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_PAYGENT_001"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.file.imageUpload"><![CDATA[사진 업로드]]></entry>
+<entry key="cmm.msg.valid.select"><![CDATA[[{0}] 을(를) 선택해 주세요.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_WIRE_001"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_141"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FLD_5"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FLD_4"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FLD_3"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FLD_2"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FLD_1"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.alert.exist"><![CDATA[이미 존재하는 [{0}]입니다.]]></entry>
+<entry key="cmm.msg.btn.change"><![CDATA[변경]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_YKB_100"><![CDATA[TRANSACTION DECLINED, PLEASE CONTACT THE SERVER ADMINISTRATOR]]></entry>
+<entry key="cmm.msg.confirm.cancel"><![CDATA[취소하시겠습니까?]]></entry>
+<entry key="cmm.msg.alert.capson"><![CDATA[Caps Lock 이 켜져 있습니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_DEUTCHE_001"><![CDATA[CARD DECLINED. PLEASE CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="cmm.msg.lbl.snsCancelConfirm"><![CDATA[SNS 연동을 취소하시겠습니까?]]></entry>
+<entry key="test.sesdf.sdf.sdf.sdf"><![CDATA[test]]></entry>
+<entry key="cmm.msg.lbl.pageLast"><![CDATA[마지막 페이지]]></entry>
+<entry key="cmm.msg.error.badRequest"><![CDATA[잘못된 접근입니다.]]></entry>
+<entry key="cmm.msg.lbl.pagePrev"><![CDATA[이전 {0} 페이지]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_FDMS_2 NO"><![CDATA[RESPONSE]]></entry>
+<entry key="cmm.msg.valid.maxlength"><![CDATA[[{0}] 은(는) 최대 {1}자까지 입력 가능합니다.]]></entry>
+<entry key="cmm.msg.btn.chkdelete"><![CDATA[선택 삭제]]></entry>
+<entry key="t.t1.t2.t3.t4"><![CDATA[TEST]]></entry>
+<entry key="ibs.ibe.b2c.BKG_BOE_2017"><![CDATA[해당 항공편은 예약 수정이 불가합니다.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_RETRIEVE_09"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_BOE_2.0.180"><![CDATA[이메일 주소를 입력하지 않았거나, 이메일 형식이 아닙니다.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_RETRIEVE_01"><![CDATA[입력하신 정보가 일치하지 않습니다. 다시 확인 부탁드립니다.]]></entry>
+<entry key="ibs.ibe.b2c.FDMS_AVS_008"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.FDMS_AVS_007"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.FDMS_AVS_006"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.FDMS_AVS_005"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.FDMS_AVS_004"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.FDMS_AVS_003"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.FDMS_AVS_002"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.FDMS_AVS_001"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.FDMS_AVS_000"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FDMS_4 NO"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_102"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_101"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_UATP_APPL_1"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.lbl.required"><![CDATA[필수]]></entry>
+<entry key="ibs.ibe.b2t.FDMS_AVS_008"><![CDATA[BILLING ADDRESS MISMATCH. PLEASE CONFIRM AND ENTER YOUR CORRECT BILLING ADDRESS]]></entry>
+<entry key="ibs.ibe.b2t.FDMS_AVS_007"><![CDATA[RETRY, CARD ISSUER SYSTEM UNAVAILABLE OR TIMED OUT]]></entry>
+<entry key="cmm.msg.alert.deleteok"><![CDATA[[{0}] 을(를) 삭제하였습니다.]]></entry>
+<entry key="ibs.ibe.b2t.FDMS_AVS_006"><![CDATA[BILLING ADDRESS MISMATCH. PLEASE CONFIRM AND ENTER YOUR CORRECT BILLING ADDRESS]]></entry>
+<entry key="ibs.ibe.b2t.FDMS_AVS_005"><![CDATA[BILLING ADDRESS MISMATCH. PLEASE CONFIRM AND ENTER YOUR CORRECT BILLING ADDRESS]]></entry>
+<entry key="ibs.ibe.b2t.FDMS_AVS_004"><![CDATA[RETRY. ERROR. PLEASE HAVE GUEST CONTACT CALL CENTER. CALL CENTER TO SEND INFO TO IT HELP DESK]]></entry>
+<entry key="ibs.ibe.b2t.FDMS_AVS_003"><![CDATA[BILLING ADDRESS MISMATCH. PLEASE CONFIRM AND ENTER YOUR CORRECT BILLING ADDRESS]]></entry>
+<entry key="ibs.ibe.b2t.FDMS_AVS_002"><![CDATA[BILLING ADDRESS MISMATCH. PLEASE CONFIRM AND ENTER YOUR CORRECT BILLING ADDRESS]]></entry>
+<entry key="ibs.ibe.b2t.FDMS_AVS_001"><![CDATA[BILLING ADDRESS MISMATCH. PLEASE CONFIRM AND ENTER YOUR CORRECT BILLING ADDRESS]]></entry>
+<entry key="ibs.ibe.b2t.FDMS_AVS_000"><![CDATA[TRANSACTION APPROVED]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FDMS_APPL_1"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="hom.ibe.ctn.rsv.081"><![CDATA[일본정부의 입국제한 발표에 따라,  2021년 11월 30일 0시부터 1개월간 외국인의 신규입국이 중지되었으니, 탑승 조건을 반드시 확인 바랍니다. <br>
+<br>
+ o 입국가능대상 : 일본 국적 귀국자, 일본 재류자격을 보유한 재입국자 (※신규입국은 불가)<br>
+이 외 비즈니스 단기체재, 유학생, 기능 실습생 등의 신규입국은 불가 (기발행 사증 효력 중지)<br>
+※ 한국에 입국하는 모든 내/외국인 대상 출발일 기준 72시간 이내 발급된 PCR 음성확인서 제출 필수 (한국 입국 시간 기준 2021년 2월 24일부)<br>
+<br>
+- 일본인 승객 중 '중요한 사업상 목적의 격리면제서' 소지, 외교(A-1) 또는 공무(A-2) 비자 소지자는 주일본한국대사관으로 문의하여 주시기 바랍니다.<br>
+
+<p>※ (일본 출발 시) 배터리 일체형 헤어 고데기(Hair Curlers) 운송의 경우, 배터리 분리가 불가할 시 위탁 수하물 접수 또는 기내 휴대 반입이 불가하오니 이점 유의하시기 바랍니다.</p>
+<ul class='caution'>
+	<li>국가별 위험물 규정 상이 (한국 출발 시 운송 가능)</li>
+	<li>배터리 분리 가능 시 위탁 접수 또는 휴대 반입 가능</li>
+	<li>운송 불가 시 폐기 처리</li>
+</ul>]]></entry>
+<entry key="hom.ibe.ctn.rsv.080"><![CDATA[<p>다음 노선/편명 구매 고객은 [치앙마이(CNX)-인천(ICN) / LJ18편 (12/28, 12/31)] 탑승 가능 조건을 반드시 확인 부탁 드립니다.</p>
+<ul class='caution'>
+	<li>내국인 (대한민국 여권 소지자)</li>
+	<li>결혼이민 비자(F-6) 및 내국인의 미성년 자녀 및 배우자<br>(가족관계증명서 필요), 영주(F-5), 한국 부임 외교관(가족포함)</li>
+</ul>]]></entry>
+<entry key="cmm.msg.btn.no"><![CDATA[아니오]]></entry>
+<entry key="cmm.msg.btn.update"><![CDATA[수정]]></entry>
+<entry key="t.t.t.t.t.1"><![CDATA[test]]></entry>
+<entry key="hom.ibe.ctn.rsv.079"><![CDATA[<p>※ 다음 노선/편명 구매 고객은 [방콕(BKK)-인천(ICN) / LJ04편 (12/27, 12/31)] 탑승 가능 조건을 반드시 확인 부탁 드립니다</p>
+<ul class='caution'>
+	<li>내국인 (대한민국 여권 소지자)</li>
+	<li>결혼이민 비자(F-6) 및 내국인의 미성년 자녀 및 배우자<br>(가족관계증명서 필요), 영주(F-5), 한국 부임 외교관(가족포함)</li>
+</ul>]]></entry>
+<entry key="hom.ibe.ctn.rsv.077"><![CDATA[<p> ※ 2021년 12월 6일 부 괌 입국 시 출발일 기준 1일 이내에 검사한 PCR 음성확인서(또는 항원검사) 제출 필수 </p>
+</ul>
+</ul>
+<p>※괌 노선  LJ772편 (12/24, 12/28, 1/7, 1/14, 1/21, 1/28) 구매 고객은 탑승 가능 조건을 반드시 확인 부탁 드립니다.</p>
+<ul class='caution'>
+	<li>내국인 (대한민국 여권 소지자)</li>
+	<li>결혼이민 비자(F-6) 및 내국인의 미성년 자녀 및 배우자<br>(가족관계증명서 필요), 영주(F-5), 한국 부임 외교관(가족포함)</li>
+</ul>
+<p> ※ 한국에 입국하는 모든 내/외국인 대상 출발일 기준 72시간 이내 발급된 PCR 음성확인서 제출 필수 (한국 입국 시간 기준 2021년 2월 24일부)</p>]]></entry>
+<entry key="hom.ibe.ctn.rsv.076"><![CDATA[<p>※다음 노선/편명 구매 고객은 [세부 LJ026편  (1/17) / 클락 LJ024편 (1/11, 1/25)] 탑승 가능 조건을 반드시 확인 부탁 드립니다</p>
+<ul class='caution'>
+	<li>내국인 (대한민국 여권 소지자)</li>
+	<li>결혼이민 비자(F-6) 및 내국인의 미성년 자녀 및 배우자<br>(가족관계증명서 필요), 영주(F-5), 한국 부임 외교관(가족포함)</li>
+</ul>
+<p> ※ 한국에 입국하는 모든 내/외국인 대상 출발일 기준 72시간 이내 발급된 PCR 음성확인서 제출 필수 (한국 입국 시간 기준 2021년 2월 24일부)</p>
+</ul>
+<p> ※ 필리핀에 입국하는 모든 내/외국인 대상 출발시간 기준 72시간 이내 발급된 PCR 음성 확인서 제출 필수 (필리핀 입국 시간 기준 2021년 12월 5일부)</p>]]></entry>
+<entry key="ibs.ibe.b2t.SAT_5300"><![CDATA[동일한 열에 2명 이상의 유아를 배정할 수 없습니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_PAYGENT_009"><![CDATA[TRANSACTION DECLINED, STATUS ERROR, PLEASE CONTACT SYSTEM ADMINISTRATOR.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_PAYGENT_008"><![CDATA[PLEASE INPUT CREDIT CARD# AGAIN.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_141"><![CDATA[Payment already accounted.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_PAYGENT_007"><![CDATA[NEW AUTHORIZATION APPROVED, MANUALLY EXECUTE SALES FOR THE NEW TRANSACTION AND CANCEL THE OLD TRANSACTION.]]></entry>
+<entry key="b2t.ibe.grp.021"><![CDATA[수정 하시겠습니까?]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_PAYGENT_006"><![CDATA[TRANSACTION DECLINED,TIMEOUT ERROR, PLEASE CONTACT SYSTEM ADMINISTRATOR.]]></entry>
+<entry key="b2t.ibe.grp.020"><![CDATA[저장 하시겠습니까?]]></entry>
+<entry key="cmm.msg.btn.join"><![CDATA[회원가입]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_PAYGENT_005"><![CDATA[TRANSACTION DECLINED, STATUS ERROR, PLEASE CONTACT SYSTEM ADMINISTRATOR]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_PAYGENT_004"><![CDATA[TRANSACTION DECLINED, SYSTEM ERROR, PLEASE CONTACT SYSTEM ADMINISTRATOR.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_PAYGENT_003"><![CDATA[NEW TRANSACTION APPROVED, MANUALLY CANCEL THE OLD TRANSACTION.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_PAYGENT_002"><![CDATA[TRANSACTION DECLINED, STATUS ERROR, PLEASE CONTACT SYSTEM ADMINISTRATOR.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_PAYGENT_001"><![CDATA[CARD DECLINED, PLEASE HAVE GUEST CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_FDMS_4"><![CDATA[NO RESPONSE]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_FDMS_3"><![CDATA[NO RESPONSE]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_FDMS_2"><![CDATA[NO RESPONSE]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_FDMS_1"><![CDATA[NO RESPONSE]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_FDMS_004"><![CDATA[THERE WAS A SYSTEM ERROR WHEN PROCESSING THIS CREDIT CARD, PLEASE RE-ENTER ALL CREDIT CARD DETAILS THEN RE-SUBMIT.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_FDMS_003"><![CDATA[THE LINK TO OUR CREDIT CARD PROCESSOR IS CURRENTLY UNAVAILABLE, WE WILL RETRY YOUR TRANSACTION LATER AND CONTACT YOU IF THERE ARE ANY ISSUES.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_FDMS_002"><![CDATA[WE'RE HAVING TECHNICAL ISSUES WITH OUR CREDIT CARD PROCESSOR, WE WILL RETRY YOUR TRANSACTION LATER AND CONTACT YOU IF THERE ARE ANY ISSUES. GUEST SERVICES REP, PLEASE REPORT THIS ISSUE TO THE VIRGIN AMERICA IT HELP DESK.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_FDMS_001"><![CDATA[CARD DECLINED, PLEASE HAVE GUEST CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="b2t.ibe.grp.019"><![CDATA[인솔자를 1명만 선택하세요.]]></entry>
+<entry key="cmm.msg.error.systemError"><![CDATA[죄송합니다.<br/>시스템 오류가 발생하였습니다.]]></entry>
+<entry key="b2t.ibe.grp.018"><![CDATA[총 탑승자는 99명을 초과할 수 없습니다.]]></entry>
+<entry key="ibs.ibe.b2t.BKG_PNR_PYM_99"><![CDATA[Payment time limit expired.]]></entry>
+<entry key="b2t.ibe.grp.017"><![CDATA[유아는 성인수를 초과해서 추가할 수 없습니다.]]></entry>
+<entry key="b2t.ibe.grp.016"><![CDATA[선택된 동반성인은 이미 다른 유아에 등록되어 있습니다.]]></entry>
+<entry key="cmm.msg.btn.cancel"><![CDATA[취소]]></entry>
+<entry key="b2t.ibe.grp.015"><![CDATA["유아의 생년월일이 아닙니다.
+생년월일을 확인하세요."]]></entry>
+<entry key="b2t.ibe.grp.014"><![CDATA["저장하시면 명단 수정 가능 횟수가 1회 차감됩니다.
+저장 하시겠습니까?"]]></entry>
+<entry key="b2t.ibe.grp.013"><![CDATA[명단 수정 가능 횟수를 모두 소진하여 수정하실 수 없습니다.]]></entry>
+<entry key="b2t.ibe.grp.012"><![CDATA[원본에 지정되어 있던 동반성인으로는 변경하실 수 없습니다.]]></entry>
+<entry key="b2t.ibe.grp.011"><![CDATA[중복된 동반성인이 있습니다.]]></entry>
+<entry key="b2t.ibe.grp.010"><![CDATA[생년월일에 의한 구분이 정확하지 않습니다.
+생년월일 또는 구분을 확인하세요.]]></entry>
+<entry key="lj.ibe.b2t.rsv.080"><![CDATA[선택하신 지니비즈 운임에 사전 좌석 배정 서비스가 포함되어 있습니다. <br>다음 단계로 진행하시려면 좌석을 선택하여 주시기 바랍니다.]]></entry>
+<entry key="b2t.ibe.grp.009"><![CDATA[여정별 구분이 상이하여 예약을 진행할 수 없습니다.
+각 여정을 분리하여 예약 진행해 주시기 바랍니다.]]></entry>
+<entry key="b2t.ibe.grp.008"><![CDATA[생년월일이 탑승일보다 큽니다.]]></entry>
+<entry key="b2t.ibe.grp.007"><![CDATA[업로드된 {0}가 총 {1}보다 많습니다.]]></entry>
+<entry key="b2t.ibe.grp.006"><![CDATA[{0} 항목이 날짜형식에 맞지 않습니다.]]></entry>
+<entry key="b2t.ibe.grp.005"><![CDATA[단체 좌석 요청을 하시겠습니까?]]></entry>
+<entry key="b2t.ibe.grp.004"><![CDATA[{0} 형식이 맞지 않습니다.]]></entry>
+<entry key="b2t.ibe.grp.003"><![CDATA[{0} 항목은 {1}자까지 입력 가능합니다.]]></entry>
+<entry key="b2t.ibe.grp.002"><![CDATA[{0} 항목을 입력하세요.]]></entry>
+<entry key="b2t.ibe.grp.001"><![CDATA[{0} 항목을 선택하세요.]]></entry>
+<entry key="lj.ibe.b2t.rsv.077"><![CDATA[TAX 차액 발생으로 고객 정보 수정이 불가하오니<br>
+진에어 대리점데스크(02-6098-0210)로 문의하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.076"><![CDATA[동일 브라우저에서 2개 이상의 예약을 진행할 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.075"><![CDATA[NTBA를 동반성인으로 선택할 수 없습니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_428"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.074"><![CDATA[소아단독발권은 모든 탑승자 정보를 입력하셔야 합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.073"><![CDATA[GUM]]></entry>
+<entry key="lj.ibe.b2t.rsv.072"><![CDATA[소속 대리점에서 예약 불가능한 노선 입니다.< br> 예약을 원하시는 경우 진에어 본사로 문의 해주세요.]]></entry>
+<entry key="lj.ibe.b2t.rsv.071"><![CDATA[추가된 부가서비스가 없어서 결제로 이동할 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.070"><![CDATA[선택하신 지니플러스 운임에 사전 좌석 배정 서비스가 포함되어 있습니다. <br>다음 단계로 진행하시려면 좌석을 선택하여 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2t.AVAILABILITY_082"><![CDATA[No accessible Fare Levels found.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_GRB_1"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.anc.cnxl"><![CDATA[취소 가능한 리스트가 없습니다.]]></entry>
+<entry key="cmm.msg.upload.countStr"><![CDATA[<span style="font-size: 20px; padding-left: 20px;"><b>Max file count : {0}</b></span>]]></entry>
+<entry key="cmm.msg.upload.doneStr"><![CDATA[완료]]></entry>
+<entry key="lj.ibe.b2t.rsv.069"><![CDATA[선택하신 번들에 사전 좌석 배정 서비스가 포함되어 있습니다. 다음 단계로 진행하시려면 좌석을 선택하여 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2t.BKG_SFE_020"><![CDATA[This operation is not allowed on a cancelled PNR.]]></entry>
+<entry key="lj.ibe.b2t.rsv.068"><![CDATA[탑승 대상자 성명을 확인해 주세요.<br>
+적용한 할인 항공권의 대상자 성명과 탑승자 성명이 일치해야 합니다.]]></entry>
+<entry key="cmm.msg.lbl.stSeq"><![CDATA[정렬 순서]]></entry>
+<entry key="lj.ibe.b2t.rsv.067"><![CDATA[선택할 수 있는 좌석이 없습니다.<BR> 처음부터 다시 예약해 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.066"><![CDATA[승객 수를 선택하여 주십시오.]]></entry>
+<entry key="lj.ibe.b2t.rsv.065"><![CDATA[결제 진행중 에러가 발생하였습니다. <BR>진에어 담당자에게 문의하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.064"><![CDATA[결제 중 에러가 발생하여 환불 처리되었습니다. <br>자세한 사항은 진에어 담당자에게 문의하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.063"><![CDATA[소아단독발권인 경우 성인은 선택할 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.062"><![CDATA[유효하지 않은 날짜입니다. 다른 날짜를 선택해 주세요.]]></entry>
+<entry key="ibs.ibe.b2t.AVAILABILITY_079"><![CDATA[Maximum Passengers Exceeded.]]></entry>
+<entry key="lj.ibe.b2t.rsv.061"><![CDATA[인솔자는 {0}명까지 선택 가능합니다.]]></entry>
+<entry key="ibs.ibe.b2t.AVAILABILITY_078"><![CDATA[Fares/Inventory not available for the search criteria.]]></entry>
+<entry key="lj.ibe.b2t.rsv.060"><![CDATA[편도 여정은 단체 좌석 요청이 불가하오니 왕복 여정으로 진행하여 주시기 바랍니다]]></entry>
+<entry key="cmm.msg.upload.sizeErrorStr"><![CDATA[파일은 허용하지 않습니다.<br/>업로드 가능한 파일의 최대 크기 :]]></entry>
+<entry key="ibs.ibe.b2t.AVAILABILITY_073"><![CDATA[Fares Updated Please Search again.]]></entry>
+<entry key="ibs.ibe.b2t.AVAILABILITY_070"><![CDATA[Date range cannot exceed 30 days.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_SFE_035"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_SFE_034"><![CDATA[해당 항공편에는 선택하신 부가서비스 추가가 불가합니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_102"><![CDATA[NO RESPONSE]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_101"><![CDATA[NO RESPONSE]]></entry>
+<entry key="lj.ibe.b2t.rsv.059"><![CDATA[일부 국가는 왕복 항공권을 소지한 경우에만 입국이 가능하므로 탑승수속이 거졀될 수 있음을 유의하시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.058"><![CDATA[잘못된 접근입니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.057"><![CDATA[인솔자를 1명만 선택하세요.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_CARDSBRL_FLD2"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.056"><![CDATA[중복된 동반성인이 있습니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FDMS_004"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PYM_CARDSBRL_FLD1"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.055"><![CDATA[생년월일에 의한 구분이 정확하지 않습니다.\n생년월일 또는 구분을 확인하세요.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FDMS_003"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.054"><![CDATA[여정별 구분이 상이하여 예약을 진행할 수 없습니다.\n각 여정을 분리하여 예약 진행해 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FDMS_002"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.053"><![CDATA[생년월일이 탑승일보다 큽니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FDMS_001"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.052"><![CDATA[업로드된 {0}가 총 {1}보다 많습니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_AMEX_001"><![CDATA[CARD DECLINED, PLEASE HAVE GUEST CONTACT THE CARD ISSUER FOR FURTHER INFORMATION.]]></entry>
+<entry key="lj.ibe.b2t.rsv.051"><![CDATA[수정 하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2t.rsv.050"><![CDATA[저장 하시겠습니까?]]></entry>
+<entry key="ibs.ibe.b2t.AVAILABILITY_067"><![CDATA[City not found.]]></entry>
+<entry key="ibs.ibe.b2t.AVAILABILITY_065"><![CDATA[No fare defined.]]></entry>
+<entry key="lj.ibe.b2c.rsv.099"><![CDATA[탑승완료]]></entry>
+<entry key="lj.ibe.b2c.rsv.098"><![CDATA[<p> ※ 한국에 입국하는 모든 내/외국인 대상 출발일 기준 72시간 이내 발급된 PCR 음성확인서 제출 필수 (한국 입국 시간 기준 2021년 2월 24일부)</p>
+<p> ※ 2020년 4월 6일부터 시행한 국토교통부 및 중앙방역대책본부의 지침에 따라 <strong>시안발 제주행 항공편</strong>을 이용하시는 승객께서는 <strong>인천국제공항</strong>에서 <strong>입국/하기</strong>하는 점 유념해 주시기 바랍니다.</p>
+<p> ※ 중국 노선에 한하여 코로나19 바이러스 영향으로 아래의 기내 서비스를 일시 중단하오니 참고해 주시기 바랍니다.</p>
+<ul style='padding-left: 5px;'>
+	<li> - 기내 면세 판매 </li>
+</ul>
+<p>※2020년 9월 9일부터 중국행 항공편 탑승 승객 대상 PCR 검사가 의무화 시행되며, 12월 1일 부 항체 검사 실시가 추가됩니다.</p>
+<정기편><br>
+· 탑승 전 48시간 내 코로나19 핵산검사(PCR) 및 혈청 lgM 항체검사 실시<br>
+(같은 의료기관에서 PCR 검사 및 항체검사 실시 또는 각기 다른 의료기관에서 검사 가능)<br>
+· 12월 1일~12월 5일 간은 현행과 같이 PCR 검사 2회 실시도 가능<br>
+<br>
+<부정기편><br>
+· 탑승일 72시간 내 1차 PCR 검사 및 36시간 내 2차 PCR 검사와 항체검사 실시(PCR 검사는 각기 다른 의료기관에서 실시 필요)<br>
+<br>
+<이하 공통><br>
+· 12월 1일 이후 입국자는 의료기관에서 발급받은 PCR 검사 및 항체검사 음성확인서를 주한 중국대사관 지정 웹사이트에 업로드해야 하며,<br>
+이후 주한중국대사관에서 심사 후 입국자에게 ‘녹색건강 QR코드’ 송부, 탑승 시 동 QR코드 제시 필요<br>
+<p>※ LJ301편 또는 LJ303편(이상 김포-제주) 이용 시 제주-시안 노선까지 당일 이용이 가능하며,
+국제선 이용 시에는 제주공항 도착 후 국내선 수하물 직접 수령 및 추가로 국제선 수속 절차 진행이 필요하오니
+이용에 착오 없으시기 바랍니다.
+</p>
+<p class='fontTypeE'>※ 코로나19 관련 출입국 제한 사항을 반드시 확인 후, 예약하여 주시기 바랍니다. <a href='https://www.jinair.com/company/announce/announceView?anceSeq=21573&searchWord=&searchKey=&page=1' target='_blank' title='새창열림'><span class='fontTypeE'>[바로가기]</span></a></p>]]></entry>
+<entry key="lj.ibe.b2c.rsv.097"><![CDATA[제공 사항]]></entry>
+<entry key="lj.ibe.b2c.rsv.096"><![CDATA[무료 제공]]></entry>
+<entry key="lj.ibe.b2c.rsv.095"><![CDATA[수하물 우선하기]]></entry>
+<entry key="lj.ibe.b2c.rsv.094"><![CDATA[빠른 체크인(전용 카운터)]]></entry>
+<entry key="lj.ibe.b2c.rsv.093"><![CDATA[무료수하물 30kg]]></entry>
+<entry key="lj.ibe.b2c.rsv.092"><![CDATA[비즈니스 좌석]]></entry>
+<entry key="lj.ibe.b2c.rsv.091"><![CDATA[비즈니스 운임]]></entry>
+<entry key="ibs.ibe.b2c.BKG_SFE_024"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.090"><![CDATA[무료수하물 15kg]]></entry>
+<entry key="ibs.ibe.b2t.SAT_117"><![CDATA[동일한 열에 2명 이상의 유아를 배정할 수 없습니다.]]></entry>
+<entry key="ibs.ibe.b2t.WS_104"><![CDATA[Mandatory Data Missing.Onward Details, Destination]]></entry>
+<entry key="ibs.ibe.b2t.WS_103"><![CDATA[Mandatory Data Missing.Onward Details, Origin.]]></entry>
+<entry key="lj.ibe.b2t.rsv.049"><![CDATA[{0} 항목이 날짜형식에 맞지 않습니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.048"><![CDATA[단체 좌석 요청을 하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2t.rsv.047"><![CDATA[{0} 형식이 맞지 않습니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.046"><![CDATA[{0} 항목은 {1}자까지 입력 가능합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.045"><![CDATA[{0} 항목을 입력하세요.]]></entry>
+<entry key="lj.ibe.b2t.rsv.044"><![CDATA[{0} 항목을 선택하세요.]]></entry>
+<entry key="lj.ibe.b2t.rsv.043"><![CDATA[조회 시점을 기준으로 과거 날짜의 항공편은 검색 불가합니다]]></entry>
+<entry key="lj.ibe.b2t.rsv.042"><![CDATA[[{0}] 입력하신 회원아이디를 확인하여 주시기 바랍니다.]]></entry>
+<entry key="cmm.msg.btn.payment"><![CDATA[결제]]></entry>
+<entry key="lj.ibe.b2t.rsv.041"><![CDATA[선택하신 번들에 사전 좌석 배정 서비스가 포함되어 있습니다. 다음 단계로 진행하시려면 좌석을 선택하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.040"><![CDATA[생후 7일 미만의 유아는 탑승할 수 없습니다.]]></entry>
+<entry key="cmm.msg.upload.maxFileCountErrorStr"><![CDATA[파일은 허용하지 않습니다.<br/>업로드 가능한 파일의 최대 갯수 :]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_YKB_100"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.089"><![CDATA[유료 사전 좌석 지정<br>(단, 비즈니스 좌석 선택 불가)]]></entry>
+<entry key="cmm.msg.btn.downloadPdf"><![CDATA[PDF 다운로드]]></entry>
+<entry key="lj.ibe.b2c.rsv.088"><![CDATA[기본 운임]]></entry>
+<entry key="lj.ibe.b2c.rsv.087"><![CDATA[선택하신 지니비즈 운임에 사전 좌석 배정 서비스가 포함되어 있습니다. 
+다음 단계로 진행하시려면 좌석을 선택하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.086"><![CDATA[휴대폰 번호를 정확히 입력하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.085"><![CDATA[만 15세 미만 승객 또는 유소아 동반 예약건은 비상구좌석 구매가 불가합니다.]]></entry>
+<entry key="ibs.ibe.b2t.WS_1018"><![CDATA[Please specify valid search criteria]]></entry>
+<entry key="lj.ibe.b2c.rsv.084"><![CDATA[포항 노선 운항 스케줄 관련 안내 (2020.8.28 ~)
+선택하신 일자(2020.8.28~)는 스케줄 준비 중에 있으며, 추후 메인 페이지에 업데이트 예정입니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.083"><![CDATA[선택하신 좌석은 교통약자에게 우선 배정되는 좌석으로 구매 후 교통약자의 요청이 있을 시 좌석이 변경될 수 있습니다.]]></entry>
+<entry key="cmm.msg.btn.submit"><![CDATA[제출]]></entry>
+<entry key="lj.ibe.b2c.rsv.082"><![CDATA[세션이 만료되었습니다. 다시 로그인하여 주십시오.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_UATP_APPL_1"><![CDATA[Payment gateway is unavailable or timed out. Please retry or request for an alternate form of payment.]]></entry>
+<entry key="lj.ibe.b2c.rsv.080"><![CDATA[브라우저 쿠키가 초기화되었습니다. 거주 지역 및 언어를 설정하신 후 예약을 다시 진행해주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_AKBANK_2"><![CDATA[TRANSACTION DECLINED, SYSTEM ERROR, PLEASE CONTACT SYSTEM ADMINISTRATOR.]]></entry>
+<entry key="cmm.msg.valid.duringdate"><![CDATA[시작 날짜가 종료 날짜보다 늦습니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.039"><![CDATA[유아인 경우, 동반 성인을 선택하시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_FDMS_APPL_1"><![CDATA[Payment gateway is unavailable or timed out. Please retry or request for an alternate form of payment.]]></entry>
+<entry key="lj.ibe.b2t.rsv.038"><![CDATA[{0}의 생년월일을 정확히 입력하시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.037"><![CDATA[이미 사용한 보너스항공권입니다. 고객센터에 문의하시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.036"><![CDATA[소아 회원은 소아 1명만 예약이 가능합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.035"><![CDATA[여정별 승객타입이 상이하여 예약을 진행할 수 없습니다. 각 여정을 분리하여 예약 진행해 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.034"><![CDATA[{} 버튼을 클릭하여 이동해 주세요.]]></entry>
+<entry key="lj.ibe.b2t.rsv.033"><![CDATA[예약 제한시간이 초과되었습니다. 처음부터 다시 예매해 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.032"><![CDATA[선택하신 카드는 {}가 아닙니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.031"><![CDATA[유아를 동반하신 고객은 선택할 수 없습니다. 고객센터에 문의하시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AX_APPL_1"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.030"><![CDATA[해당 좌석은 선택할 수 없습니다.]]></entry>
+<entry key="cmm.msg.btn.downloadExcel"><![CDATA[엑셀 다운로드]]></entry>
+<entry key="lj.ibe.b2c.rsv.079"><![CDATA[확인]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_FDMS_4 NO"><![CDATA[RESPONSE]]></entry>
+<entry key="lj.ibe.b2c.rsv.078"><![CDATA[로그인 회원에 한해 이용 가능합니다. 로그인 하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2c.rsv.077"><![CDATA[비회원 예약 진행으로 운임을 다시 선택하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.076"><![CDATA[프로모션 운임은 로그인시에만 결제 가능합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.075"><![CDATA[선택하신 노선은 운항하지 않는 노선입니다. 출도착지를 확인해 주세요.]]></entry>
+<entry key="lj.ibe.b2c.rsv.074"><![CDATA[선택하신 보너스 항공권은 {0}만 예매 가능합니다. 출도착지를 확인해 주세요.]]></entry>
+<entry key="ibs.ibe.b2t.WS_1007"><![CDATA[Specified PNR not found.]]></entry>
+<entry key="lj.ibe.b2c.rsv.073"><![CDATA[소아단독발권인 경우 성인은 선택할 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.072"><![CDATA[탑승일자에 소아가 아닙니다.]]></entry>
+<entry key="ibs.ibe.b2c.CST_048"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.071"><![CDATA[탑승일자에 성인이 아닙니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.070"><![CDATA[동일 브라우저에서 2개 이상의 예약을 진행할 수 없습니다.]]></entry>
+<entry key="ibs.ibe.b2c.AVAILABILITY_079"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.029"><![CDATA[회원아이디를 입력하여 주십시오.]]></entry>
+<entry key="lj.ibe.b2t.rsv.028"><![CDATA[동반 성인 정보와 일치하지 않습니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.027"><![CDATA[쿠폰을 사용할 수 없습니다. 고객센터에 문의하시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2c.AVAILABILITY_073"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FDMS_API_1"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.026"><![CDATA[쿠폰의 유효기간이 지났습니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.025"><![CDATA[무료항공권 기준에 포함되지 않습니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.024"><![CDATA[위 내용을 확인 후 동의하셔야 다음 단계 진행이 가능합니다.]]></entry>
+<entry key="ibs.ibe.b2c.AVAILABILITY_070"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.023"><![CDATA[탑승일을 선택하십시오.]]></entry>
+<entry key="lj.ibe.b2t.rsv.022"><![CDATA[생년월일을 선택하십시오.]]></entry>
+<entry key="lj.ibe.b2t.rsv.021"><![CDATA[만 15세 미만, 임산부 또는 한국어나 영어로 의사소통이 불가능한 손님은 비상구 좌석 배정이 불가합니다. 반드시, 확인하시고 좌석을 선택해주세요.]]></entry>
+<entry key="cmm.msg.upload.deleteStr"><![CDATA[삭제]]></entry>
+<entry key="lj.ibe.b2t.rsv.020"><![CDATA[비상구열 은 만 15세미만, 임산부 또는 한국어나 영어로 의사소통이 불가능한 손님은 선택 하실 수 없습니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_026"><![CDATA[AVS incorrectly formatted in Inquiry.]]></entry>
+<entry key="lj.ibe.b2c.rsv.069"><![CDATA[가족 운임 할인은 3명 이상의 승객이 “가족할인”을 선택하는 경우에만 적용 가능합니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_025"><![CDATA[AVS incorrectly formatted in Inquiry.]]></entry>
+<entry key="lj.ibe.b2c.rsv.068"><![CDATA[선택하신 여정의 좌석이 이미 판매되었습니다.<br> 
+처음부터 다시 구매하여 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_024"><![CDATA[AVS not on file.]]></entry>
+<entry key="lj.ibe.b2c.rsv.067"><![CDATA[최소 성인 또는 소아 1명은 선택되어야 합니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_023"><![CDATA[Postal code not on file, address failed.]]></entry>
+<entry key="lj.ibe.b2c.rsv.066"><![CDATA[환불 진행을 위해 확인 버튼을 클릭하십시오.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_022"><![CDATA[AVS failed to match.]]></entry>
+<entry key="lj.ibe.b2c.rsv.065"><![CDATA[쿠폰을 선택해 주세요.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_021"><![CDATA[Postal code failed, address matched.]]></entry>
+<entry key="lj.ibe.b2c.rsv.064"><![CDATA[선택하신 여정에 항공편 비운항 일자가 포함되어 있습니다.<br/>일정을 재확인하시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_020"><![CDATA[Postal code matched, address failed.]]></entry>
+<entry key="lj.ibe.b2c.rsv.063"><![CDATA[모든 여정을 선택하여 주세요.]]></entry>
+<entry key="lj.ibe.b2c.rsv.062"><![CDATA[과거 날짜는 검색 할 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.061"><![CDATA[여정{0}은 여정{1} 날짜보다 이전이어야 합니다.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_TL_ACC_01"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.060"><![CDATA[여정{0}은 여정{1} 날짜보다 이후이어야 합니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_428"><![CDATA[Payment currency is different from CF currency.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_AX_API_1"><![CDATA[Payment gateway is unavailable or timed out. Please retry.]]></entry>
+<entry key="ibs.ibe.b2c.AVAILABILITY_069"><![CDATA[선택하신 일자에는 운항 항공편이 없습니다. 스케줄 확인 후 메인 페이지에서 재 검색하여 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AMEX_001"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_UATP_API_1"><![CDATA[Payment gateway is unavailable or timed out. Please retry.]]></entry>
+<entry key="cmm.msg.lbl.useYn"><![CDATA[사용여부]]></entry>
+<entry key="ibs.ibe.b2t.WS_435"><![CDATA[구매처가 다른 항공예약으로 상세 조회가 불가능하오니,<br>
+진에어 대리점데스크(02-6098-0210)로 문의하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.019"><![CDATA[해당 ZONE에는 이미 애완동물을 동반한 고객이 있습니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.018"><![CDATA[해당 열에는 이미 유아가 배정되어 있습니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.017"><![CDATA[유아는 무료입니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.016"><![CDATA[유효한 생년월일이 아닙니다. 유아 이면서 좌석 점유를 원하시는 경우 소아 운임이 부과됩니다. 그대로 진행하시겠습니까? (* 좌석을 점유하지 않은 유아로 진행하시려면 처음부터 다시 진행해 주시기 바랍니다.)]]></entry>
+<entry key="lj.ibe.b2t.rsv.015"><![CDATA[[{0}] {1} 항목은 필수입력 항목입니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.014"><![CDATA[존재하지 않는 회원아이디입니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.013"><![CDATA[이름을 입력하여 주십시오.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FDMS_4"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.012"><![CDATA[운임규정 동의를 체크해 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FDMS_3"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.btn.read"><![CDATA[읽기]]></entry>
+<entry key="lj.ibe.b2t.rsv.011"><![CDATA[도착일자는 출발일자보다 빠를 수 없습니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_019"><![CDATA[Postal code not on file, address matched.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FDMS_2"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.010"><![CDATA[국내선(국제선) 노선만 선택할 수 있습니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_018"><![CDATA[AVS matched.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FDMS_1"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_017"><![CDATA[AVS not on file.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_016"><![CDATA[Postal code not on file, address failed.]]></entry>
+<entry key="lj.ibe.b2c.rsv.059"><![CDATA[이전 여정을 선택하여 주세요.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_015"><![CDATA[AVS failed to match.]]></entry>
+<entry key="lj.ibe.b2c.rsv.058"><![CDATA[운행가능한 여정이 없습니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_014"><![CDATA[Postal code failed, address matched.]]></entry>
+<entry key="lj.ibe.b2c.rsv.057"><![CDATA[예상치 못한 오류가 발생하였습니다. 지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다. 이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_013"><![CDATA[Postal code matched, address failed.]]></entry>
+<entry key="lj.ibe.b2c.rsv.056"><![CDATA[{0} 항목을 입력하세요.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_012"><![CDATA[Postal code not on file, address matched.]]></entry>
+<entry key="lj.ibe.b2c.rsv.055"><![CDATA[다음 구간의 출발일 보다 늦은 일자는 선택하실수 없습니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_011"><![CDATA[Full AVS match.]]></entry>
+<entry key="lj.ibe.b2c.rsv.054"><![CDATA[이전 구간의 출발일 보다 빠른 일자는 선택하실수 없습니다.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_PNR_PYM_99"><![CDATA[결제 가능 시간이 초과되었습니다. 다시 예약을 진행하여 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_010"><![CDATA[Invalid Currency Code.]]></entry>
+<entry key="lj.ibe.b2c.rsv.053"><![CDATA[출발일보다 이전 날짜를 선택할수 없습니다.]]></entry>
+<entry key="hom.authentication.011"><![CDATA[인증 모듈 오류]]></entry>
+<entry key="lj.ibe.b2c.rsv.052"><![CDATA[동반 성인이 중복되었습니다.]]></entry>
+<entry key="hom.authentication.010"><![CDATA[기존 회원 정보와 본인인증 시 확인된 정보가 일치하지 않아 본인인증에 실패하였습니다.\n회원 정보의 이름이 미/오등록되어 있는 경우, 홈페이지 고객의 말씀 또는 고객서비스센터로 문의하시어 정정하시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.051"><![CDATA[추가된 부가서비스가 없어서 결제로 이동할 수 없습니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.050"><![CDATA[선택할 수 있는 좌석이 없습니다. 처음부터 다시 예약해 주시기 바랍니다.]]></entry>
+<entry key="cmm.msg.alert.notexist"><![CDATA[[{0}] 이(가) 존재하지 않습니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.009"><![CDATA[위 내용을 확인 후 동의하셔야 다음 단계 진행이 가능합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.008"><![CDATA[{}를 선택하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.007"><![CDATA[{}를 선택하여 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.005"><![CDATA[성인 1인에 대해서만 보너스 항공권 예매가 가능합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.004"><![CDATA[필수입력을 선택 후 보너스항공권 예매 가능합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.003"><![CDATA[로그인 후, 보너스항공권 예매가 가능합니다. 로그인 화면으로 이동하시겠습니까?]]></entry>
+<entry key="lj.ibe.b2t.rsv.002"><![CDATA[성인과 소아를 합쳐 9명까지 예약이 가능합니다.]]></entry>
+<entry key="ibs.ibe.b2c.WS_000"><![CDATA[예상치 못한 오류가 발생하였습니다. 지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다. 이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2t.rsv.001"><![CDATA[출발지가 선택되지 않았습니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_009"><![CDATA[Card Issuer Unavailable.]]></entry>
+<entry key="ibs.ibe.b2c.SAT_117"><![CDATA[동일한 열에 2명 이상의 유아를 배정할 수 없습니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_007"><![CDATA[Format Error (Invalid - Missing Expiry Date).]]></entry>
+<entry key="hom.authentication.009"><![CDATA[본인인증이 완료되었습니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_FDMS_1 NO"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.btn.modify"><![CDATA[수정]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_006"><![CDATA[Invalid card number.]]></entry>
+<entry key="hom.authentication.008"><![CDATA[※ 윈도우 XP SP2 또는 인터넷 익스플로러 7 사용자일 경우에는<br>화면 상단에 있는 팝업 차단 알림줄을 클릭하여 팝업을 허용해 주시기 바랍니다.<br><br>※ MSN,야후,구글 팝업 차단 툴바가 설치된 경우 팝업허용을 해주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.049"><![CDATA[결제 진행중 에러가 발생하였습니다. <br>
+고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AKBANK_2"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="hom.authentication.007"><![CDATA[<li>본인확인서비스는 한국모바일인증㈜ 에서 제공합니다.</li>
+<li>타인 개인정보 도용 시 관계법에 의한 처벌 및 서비스 이용이 제한될 수 있습니다.</li>
+<li>본인 인증이 어려운 경우 진에어 고객센터(1600-6200)로 문의 주시기 바랍니다.</li>]]></entry>
+<entry key="cmm.msg.lbl.regUsr"><![CDATA[생성자]]></entry>
+<entry key="lj.ibe.b2c.rsv.048"><![CDATA[결제 중 에러가 발생하여 환불 처리되었습니다. <br>
+자세한 사항은 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_004"><![CDATA[Expiry date does not match.]]></entry>
+<entry key="hom.authentication.006"><![CDATA[<li>휴대폰 인증 또는 기발급한 공공/민간 아이핀을 이용해 본인 인증 가능합니다.</li>]]></entry>
+<entry key="lj.ibe.b2c.rsv.047"><![CDATA[당일 항공편의 최소 연결 시간은 {0}분입니다. 다른 항공편을 선택하여 주십시오]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_003"><![CDATA[Credit limit exceeded.]]></entry>
+<entry key="hom.authentication.005"><![CDATA[본인 명의의 휴대폰을 소지한 만 14세 미만 고객 :]]></entry>
+<entry key="lj.ibe.b2c.rsv.046"><![CDATA[선택하신 지니플러스 운임에 사전 좌석 배정 서비스가 포함되어 있습니다. 
+다음 단계로 진행하시려면 좌석을 선택하여 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2t.BKG_BOE_1.6_49"><![CDATA[Infant SSR cannot be attached to child.]]></entry>
+<entry key="ibs.ibe.b2t.PAYMENT_TP_002"><![CDATA[Card Number not issued.]]></entry>
+<entry key="hom.authentication.004"><![CDATA[진에어는 『정보통신망 이용촉진 및 정보보호 등에 관한 법률』 제23조의2 (주민등록번호의 사용제한)에 의거하여 고객님의 주민등록번호를 수집·이용하지 않습니다. 이에 대한 본인확인인증수단으로 '휴대폰본인확인서비스'를 제공합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.045"><![CDATA[소아 단독 예약은 로그인시에만 가능하며, 만 18세 이상의 동반 탑승자가 필요합니다.<br> 
+예약시 동반인 정보를 반드시 기입하여 주시기 바랍니다.<br>
+로그인 하시겠습니까?]]></entry>
+<entry key="hom.authentication.003"><![CDATA[본인 명의로 가입된 핸드폰 번호를 통해 인증]]></entry>
+<entry key="lj.ibe.b2c.rsv.044"><![CDATA[소아 단독 예약은 소아 회원으로 로그인 후 진행이 가능합니다.<br>
+로그인 화면으로 이동하시겠습니까?]]></entry>
+<entry key="hom.authentication.002"><![CDATA[휴대폰 본인인증]]></entry>
+<entry key="lj.ibe.b2c.rsv.043"><![CDATA[동일한 항공편으로 변경이 불가합니다.]]></entry>
+<entry key="hom.authentication.001"><![CDATA[본인인증]]></entry>
+<entry key="ibs.ibe.b2t.PYM_FEE_52"><![CDATA[Overridden amount is greater than the allowed limits.]]></entry>
+<entry key="t.t.t.t.01"><![CDATA[테스트]]></entry>
+<entry key="lj.ibe.b2c.rsv.042"><![CDATA[[{0}] 입력하신 회원아이디를 확인하여 주시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2t.PYM_FEE_51"><![CDATA[Overridden amount is lesser than the allowed limits.]]></entry>
+<entry key="lj.ibe.b2c.rsv.041"><![CDATA[선택하신 번들에 사전 좌석 배정 서비스가 포함되어 있습니다. <br>
+다음 단계로 진행하시려면 좌석을 선택하여 주시기 바랍니다.]]></entry>
+<entry key="cmm.msg.file.fileUpload"><![CDATA[파일 업로드]]></entry>
+<entry key="lj.ibe.b2c.rsv.040"><![CDATA[생후 7일 미만의 유아는 탑승할 수 없습니다.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_BOE_126"><![CDATA[입력하신 생년월일은 출발일 기준 소아입니다.]]></entry>
+<entry key="cmm.msg.btn.set"><![CDATA[설정]]></entry>
+<entry key="ibs.ibe.b2c.TRS201"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="ibs.ibe.b2t.AVAILABILITY_006"><![CDATA[Invalid Date.]]></entry>
+<entry key="ibs.ibe.b2t.AVAILABILITY_005"><![CDATA[The selected Connection Point is invalid.]]></entry>
+<entry key="lj.ibe.b2c.rsv.039"><![CDATA[유아인 경우, 동반 성인을 선택하시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_701"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.038"><![CDATA[{0}의 생년월일을 정확히 입력하시기 바랍니다.]]></entry>
+<entry key="ibs.ibe.b2t.BKG_BOE_108"><![CDATA[O and D addition not allowed on cancelled PNR.]]></entry>
+<entry key="lj.ibe.b2c.rsv.037"><![CDATA[이미 사용한 보너스항공권입니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.036"><![CDATA[소아 회원은 소아 1명만 예약이 가능합니다]]></entry>
+<entry key="lj.ibe.b2c.rsv.035"><![CDATA[가는여정과 오는여정의 승객 타입이 상이하여 예약을 진행할 수 없습니다.<br>
+각 여정을 분리하여 예약 진행해 주시기 바랍니다]]></entry>
+<entry key="lj.ibe.b2c.rsv.034"><![CDATA[{} 버튼을 클릭하여 이동해 주세요.]]></entry>
+<entry key="lj.ibe.b2c.rsv.033"><![CDATA[예약 제한시간이 초과되었습니다. 처음부터 다시 예매해 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.032"><![CDATA[선택하신 카드는 {}가 아닙니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.031"><![CDATA[요청하신 좌석은 유아 동반 승객에게 사전 배정이 불가하니, 다른 좌석으로 선택해 주시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.030"><![CDATA[해당 좌석은 선택할 수 없습니다.]]></entry>
+<entry key="ibs.ibe.b2c.SSR_101"><![CDATA[신청 가능한 수량이 초과되어 신청이 불가합니다.]]></entry>
+<entry key="ibs.ibe.b2t.BKG_BOE_87"><![CDATA[Split PNR is not allowed in cancelled PNR.]]></entry>
+<entry key="ibs.ibe.b2t.INVENTORY_1020"><![CDATA[Seats not available.]]></entry>
+<entry key="ibs.ibe.b2c.BKG_PNR_PYM_70"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="cmm.msg.btn.resetPwd"><![CDATA[비밀번호 재발급]]></entry>
+<entry key="ibs.ibe.b2t.BKG_BOE_84"><![CDATA[Number of passengers to be split should be less than the total number of passengers in the PNR.]]></entry>
+<entry key="cmm.msg.lbl.page"><![CDATA[{0} 페이지]]></entry>
+<entry key="cmm.msg.valid.require"><![CDATA[[{0}] 을(를) 입력해 주세요.]]></entry>
+<entry key="ibs.ibe.b2t.BKG_BOE_82"><![CDATA[Not enough passengers present in the PNR to perform split.]]></entry>
+<entry key="ibs.ibe.b2c.SAT_5300"><![CDATA[동일한 열에 2명 이상의 유아를 배정할 수 없습니다.]]></entry>
+<entry key="cmm.msg.lbl.no"><![CDATA[번호]]></entry>
+<entry key="lj.ibe.b2c.rsv.029"><![CDATA[회원아이디를 입력하여 주십시오.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_AX_API_1"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.028"><![CDATA[동반 성인 정보와 일치하지 않습니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.027"><![CDATA[쿠폰을 사용할 수 없습니다. 고객센터에 문의하시기 바랍니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.026"><![CDATA[쿠폰의 유효기간이 지났습니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_PAYPAL_001"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.025"><![CDATA[무료항공권 기준에 포함되지 않습니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.024"><![CDATA[위 내용을 확인 후 동의하셔야 다음 단계 진행이 가능합니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.023"><![CDATA[탑승일을 선택하십시오.]]></entry>
+<entry key="lj.ibe.b2c.rsv.022"><![CDATA[생년월일을 선택하십시오.]]></entry>
+<entry key="lj.ibe.b2c.rsv.021"><![CDATA[유/소아, 임산부 또는 한국어/영어로 의사소통이 불가능한 승객은 비상구열 배정이 불가합니다.<br>
+또한 비상구열 배정 승객은 웹/모바일/키오스크 체크인이 불가합니다.<br>
+출발 당일 공항카운터에서 수속을 진행해 주시기 바라며, 비상구 배정에 적합하지 않은 경우<br>
+좌석 배정이 변경될 수 있습니다.]]></entry>
+<entry key="lj.ibe.b2c.rsv.020"><![CDATA[유/소아 승객은 비상구열 배정이 불가합니다.]]></entry>
+<entry key="ibs.ibe.b2c.PAYMENT_ESERVICE_001"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="LJ.SystemType"><![CDATA[DEVELOPMENT]]></entry>
+<entry key="ibs.ibe.b2c.AUX_019"><![CDATA[예상치 못한 오류가 발생하였습니다.<br>
+지속적으로 오류가 발생하는 경우 고객서비스센터(1600-6200)로 문의하여 주시기 바랍니다.<br> 
+이용에 불편을 드려서 죄송합니다.]]></entry>
+<entry key="lj.ibe.b2c.skbenepia"><![CDATA[2022년도 복지몰 할인 제외기간 안내 <br>
+<br>
+1. 국내선 ('22.12.31일 까지) <br>
+2021.12.31 / 2022.1.1 / 1.29~2.3 / 2.20~3.1 / 5.4~5.9 / 6.4~6.6 / 7.25~8.20 / 9.8~9.13 / 10.1~10.4 / 10.10~10.11 / 12.31  <br>
+<br>
+2. 국제선 ('22.12.31일 까지) <br>
+ 1) 동북아노선 <br>
+     - 한국출발 : 2021.12.23~2021.12.31/2022.1.28~2.2/2.25~2.27/4.29~5.6/7.29~8.6/9.8~9.11/9.29~10.8/12.22~12.31  <br>
+     - 해외출발 : 2021.12.25~2021.12.31/2022.1.28~2.2/2.25~2.27/5.5~5.9/7.30~8.8/9.9~9.13/10.1~10.11/12.27~12.31 <br>
+ 2) 동남아/대양주노선 <br>
+     - 한국출발 : 2021.12.23~2021.12.31/2022.1.28~2.2/2.25~2.27/4.29~5.6/7.29~8.6/9.8~9.11/9.29~10.8/12.22~12.31  <br>
+     - 해외출발 : 2021.12.25~2021.12.31/2022.1.28~2.2/2.25~2.27/5.5~5.9/7.30~8.8/9.9~9.13/10.1~10.11/12.27~12.31]]></entry>
+</properties>

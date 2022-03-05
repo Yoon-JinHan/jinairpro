@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="hom.flight.seat.country3"><![CDATA[방콕/말레이시아 *]]></entry>
+<entry key="hom.flight.seat.country2"><![CDATA[홍콩/마카오/필리핀/베트남/라오스/대양주]]></entry>
+<entry key="hom.flight.seat.country1"><![CDATA[일본/중국본토/대만]]></entry>
+<entry key="hom.seat.b777.plusseat"><![CDATA[지니플러스]]></entry>
+<entry key="hom.flight.paidEvent.ttl.home"><![CDATA[home]]></entry>
+<entry key="hom.flight.paidEvent.ttl"><![CDATA[유료이벤트]]></entry>
+<entry key="hom.flight.jiniPlay.present"><![CDATA[지니 엔터테인먼트 소개]]></entry>
+<entry key="hom.flight.guide.tab1.je"><![CDATA[제주 왕복]]></entry>
+<entry key="hom.flight.paidEvent.payment.011"><![CDATA[새창 열림]]></entry>
+<entry key="hom.flight.paidEvent.payment.010"><![CDATA[결제금액 및 유의사항을 확인하였으며 이에 동의합니다.]]></entry>
+<entry key="hom.flight.paidEvent.title"><![CDATA[제목]]></entry>
+<entry key="hom.flight.guide.tab1.route"><![CDATA[노선]]></entry>
+<entry key="hom.flight.jiniPlay.rentalcharge_1"><![CDATA[태블릿 PC 렌탈 서비스를 통해 더 넓은 화면으로 기내 엔터테인먼트를 마음껏 즐겨보세요.]]></entry>
+<entry key="hom.flight.seat.offline"><![CDATA[오프라인 *]]></entry>
+<entry key="hom.flight.guide.tab2.type_3"><![CDATA[상시 사용 가능]]></entry>
+<entry key="hom.flight.guide.tab2.type_2"><![CDATA[항공기 Door Open 시 사용 가능]]></entry>
+<entry key="hom.seat.b739.exitseat"><![CDATA[비상구열]]></entry>
+<entry key="hom.flight.guide.tab2.type_1"><![CDATA[상시 사용 금지]]></entry>
+<entry key="hom.flight.cabinShopping.announcement"><![CDATA[하늘 위에서 즐기는 달콤한 여유, 진에어에서 제공하는 스낵과 음료 서비스로 여행의 즐거움을 더해 보세요!]]></entry>
+<entry key="hom.flight.jiniPlay.app_3"><![CDATA[Flash Player 24.0]]></entry>
+<entry key="hom.flight.paidEvent.searchCond"><![CDATA[검색구분]]></entry>
+<entry key="hom.flight.guide.tab1.in"><![CDATA[인천 왕복]]></entry>
+<entry key="hom.flight.jiniPlay.app_1"><![CDATA[JINI PLAY]]></entry>
+<entry key="hom.flight.taxFree.subttl"><![CDATA[기내 구입 또는 사전 인터넷 예약으로<span>면세품 쇼핑을 즐기세요.</span>]]></entry>
+<entry key="hom.flight.paidEvent.payment.009"><![CDATA[전자결제서비스 이용약관]]></entry>
+<entry key="hom.flight.paidEvent.payment.008"><![CDATA[무이자 할부 및 혜택 안내]]></entry>
+<entry key="hom.flight.airlineFood.guide"><![CDATA[안내]]></entry>
+<entry key="hom.flight.paidEvent.payment.007"><![CDATA[<li>안전한 신용거래를 위해 안전결제(ISP) 혹은 안심클릭(MPI) 인증이 가능한 국내발행 카드에 한해 결제하실 수 있습니다.</li>
+			<li>결제금액이 30만원이 넘는 경우 공인인증서 사용이 의무화되어 있습니다.</li>
+			<li>ActiveX 프로그램이 제대로 설치가 되지 않은 경우에는 결제가 정상적으로 진행되지 않습니다.</li>
+			<li>해외발행 카드 사용의 경우 진에어 해외 사이트에서 결제하실 수 있습니다.</li>
+			<li>일부 선불카드(기프트카드)는 사용하실 수 없습니다.</li>]]></entry>
+<entry key="hom.flight.paidEvent.payment.006"><![CDATA[할부 개월]]></entry>
+<entry key="hom.flight.guide.tab2.type"><![CDATA[구분]]></entry>
+<entry key="hom.flight.paidEvent.payment.005"><![CDATA[카드 선택]]></entry>
+<entry key="hom.flight.paidEvent.payment.004"><![CDATA[카드 종류]]></entry>
+<entry key="hom.flight.paidEvent.payment.003"><![CDATA[결제 정보 입력 폼]]></entry>
+<entry key="hom.flight.paidEvent.payment.002"><![CDATA[(국내 발행 신용카드만 가능)]]></entry>
+<entry key="hom.flight.paidEvent.payment.001"><![CDATA[결제방식]]></entry>
+<entry key="hom.flight.paidEvent.searchWord"><![CDATA[검색어]]></entry>
+<entry key="hom.flight.lounge"><![CDATA[라운지]]></entry>
+<entry key="hom.flight.guide.tab2.caption1"><![CDATA[기내 사용금지 및 제한기기 안내]]></entry>
+<entry key="hom.flight.seat.newSeatFare"><![CDATA[현재 요금 (2019년 1월 30일 부터 구매)]]></entry>
+<entry key="hom.seat.b739.stanseat"><![CDATA[지니스탠다드]]></entry>
+<entry key="hom.flight.cabinShopping.guide_ttl"><![CDATA[이용 안내]]></entry>
+<entry key="hom.flight.bundle.70"><![CDATA[<li>출발 당일 진에어 탑승권과 사용자명이 일치하여야 이용 가능하며, 본인 확인을 위해 유효한 여권을 소지하여 주시기 바랍니다.<br>또한, 탑승권 및 여권정보가 라운지에 제공 될 수 있습니다.</li>
+<li>성인/소아/유아 연령 기준은 진에어 항공권 예매 시 기준에 준합니다.</li>
+<li>라운지가 만석인 경우 대기시간이 발생할 수 있사오니, 이점 미리 양해 부탁드립니다.</li>
+<li>라운지 서비스 실제 운용은 스카이허브에서 제공하며, 운영상의 책임은 스카이허브 (<a href="tel:032-743-4811">032-743-4811</a>)에 있습니다.</li>
+<li>라운지 사정으로 인하여 이용시간 변경 및 제한이 있을 수 있으니, 사전에 확인하여 주시기 바랍니다.</li>]]></entry>
+<entry key="hom.flight.seat.shippingguide"><![CDATA[좌석별 운임 안내]]></entry>
+<entry key="hom.flight.paidEvent.applicant"><![CDATA[신청자]]></entry>
+<entry key="hom.flight.guide.tab1.banghong"><![CDATA[홍콩, 마카오, 코타 키나발루, 하노이, 비엔티안, 푸켓, 조호르바루]]></entry>
+<entry key="hom.flight.guide.tab1.domservice"><![CDATA[국내선 기내 서비스 목록]]></entry>
+<entry key="hom.flight.paidEvent.depDt"><![CDATA[출발일]]></entry>
+<entry key="hom.seat.b739.standardB"><![CDATA[지니스탠다드B]]></entry>
+<entry key="hom.seat.b739.standardA"><![CDATA[지니스탠다드A]]></entry>
+<entry key="hom.flight.seat.application_2"><![CDATA[<li>고객서비스센터 및 온라인: 출발 24시간 전까지 구매 가능</li>]]></entry>
+<entry key="hom.flight.seat.application_1"><![CDATA[<li>홈페이지/모바일로 항공권 구매 시, 부가서비스 추가 신청</li>
+		<li>마이페이지 &gt; 예약조회/변경/취소 메뉴에서 부가서비스 추가 신청</li>]]></entry>
+<entry key="hom.flight.bundle.69"><![CDATA[라운지 이용 유의사항]]></entry>
+<entry key="hom.flight.bundle.68"><![CDATA[유의]]></entry>
+<entry key="hom.flight.bundle.67"><![CDATA[<li class="pbgn"><strong class="fontTypeA">STEP1.</strong> 홈페이지 및 모바일을 통해 항공권 구매 시 ‘라운지 플러스 번들’ 구매</li>
+<li class="pbgn"><strong class="fontTypeA">STEP2.</strong> 웹/모바일 체크인 혹은 전용 카운터 이용하여 수속 </li>
+<li class="pbgn"><strong class="fontTypeA">STEP3.</strong> 라운지 입장 시 탑승권 제시</li>
+<li class="pbgn"><strong class="fontTypeA">STEP4.</strong> 라운지 이용</li>]]></entry>
+<entry key="hom.seat.b777.entrance"><![CDATA[출입구]]></entry>
+<entry key="hom.flight.bundle.66"><![CDATA[이용 방법 안내]]></entry>
+<entry key="hom.seat.b737.entrance"><![CDATA[출입구]]></entry>
+<entry key="hom.flight.bundle.65"><![CDATA[<li>제 1 여객터미널 서편 4F : 07:00 ~ 22:00 <span class="fontTypeF">(07:00 ~ 19:30 운영시간 변경)</span></li>
+<li>제 1 여객터미널 동편 4F : 24시간 운영 (06:00 ~ 07:00, 21:30 ~ 22:00 브레이크 타임) <span class="fontTypeF">(한시적 운영중단)</span></li>
+<li>
+	탑승동 4F: 07:00 ~ 22:00 <span class="fontTypeF">(한시적 운영중단)</span>
+	<ul class="caution typeB">
+		<li>라운지 사정으로 인하여 이용시간 변경 및 제한이 있을 수 있으니, 사전에 확인하여 주시기 바랍니다. (<a href="tel:032-743-4811">032-743-4811</a>)</li>
+	</ul>
+</li>]]></entry>
+<entry key="hom.flight.bundle.64"><![CDATA[운영 시간]]></entry>
+<entry key="hom.seat.exitInfo.popup0"><![CDATA[28ABC 좌석은 항공기 기재 운용에 따라 전면 격벽 유무가 상이할 수 있습니다.]]></entry>
+<entry key="hom.seat.b737.ttl"><![CDATA[B737-800 좌석배치도]]></entry>
+<entry key="hom.flight.bundle.63"><![CDATA[<li>제 1 여객터미널 서편 4F: 42번 GATE 맞은 편</li>
+<li>제 1 여객터미널 동편 4F: 11번 GATE 맞은 편</li>
+<li>탑승동 중앙 4F : 115번 GATE</li>]]></entry>
+<entry key="hom.flight.bundle.62"><![CDATA[위치 안내]]></entry>
+<entry key="hom.flight.bundle.61"><![CDATA[<thead>
+	<tr>
+		<th scope="col">인천국제공항<br>제 1터미널 서편</th>
+		<th scope="col">인천국제공항<br>제 1터미널 동편</th>
+		<th scope="col">인천국제공항<br>탑승동</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>
+			<ul class="caution">
+				<li>식음료</li>
+				<li>휴게시설</li>
+				<li>전화/팩스</li>
+				<li>TV/신문/잡지/인터넷</li>
+			</ul>
+		</td>
+		<td>
+			<ul class="caution">
+				<li>식음료</li>
+				<li>휴게시설</li>
+				<li>샤워실</li>
+				<li>전화/팩스</li>
+				<li>TV/신문/잡지/인터넷</li>
+			</ul>
+		</td>
+		<td>
+			<ul class="caution">
+				<li>식음료</li>
+				<li>휴게시설</li>
+				<li>샤워실</li>
+				<li>전화/팩스</li>
+				<li>TV/신문/잡지/인터넷</li>
+			</ul>
+		</td>
+	</tr>
+</tbody>]]></entry>
+<entry key="hom.flight.taxFree.payno_2"><![CDATA[- 한 카드당 $1,500 (또는 원화 금액) 한도 내 구입 가능]]></entry>
+<entry key="hom.flight.bundle.60"><![CDATA[스카이허브 라운지 주요 서비스 뷔페 이미지]]></entry>
+<entry key="hom.flight.taxFree.payno_1"><![CDATA[타인 명의 카드<br>
+		직불 카드<br>
+		체크 카드<br>
+		비자(VISA) 일렉트론 카드]]></entry>
+<entry key="hom.flight.jiniplay.reservation"><![CDATA[사전 예약]]></entry>
+<entry key="hom.flight.taxFree.payInfo"><![CDATA[기내 면세품 결제 안내]]></entry>
+<entry key="hom.flight.taxFree.fax"><![CDATA[전화/FAX 주문]]></entry>
+<entry key="hom.flight.guide.tab2.announcement"><![CDATA[휴대용 전자기기(PED : Portable Electronic Device)란 배터리 또는 전기로 전원을 공급하는 손에 쥐고 사용이 가능한 가볍고 작은 전자기기 입니다.]]></entry>
+<entry key="hom.flight.bundle.59"><![CDATA[스카이허브 라운지 주요 서비스 휴게실 이미지2]]></entry>
+<entry key="hom.flight.bundle.58"><![CDATA[스카이허브 라운지 주요 서비스 휴게실 이미지1]]></entry>
+<entry key="hom.flight.bundle.57"><![CDATA[스카이허브 라운지 주요 서비스]]></entry>
+<entry key="hom.flight.jiniPlay.rentalcharge"><![CDATA[태블릿 PC 렌탈 서비스 요금]]></entry>
+<entry key="hom.flight.bundle.56"><![CDATA[인천국제공항 출발 국제선 이용 시 ‘라운지 플러스 번들’ 구매를 통해 (스카이 허브 라운지 이용권 + 사전좌석지정 + 전용 체크인 카운터) 서비스를 이용하실 수 있습니다.]]></entry>
+<entry key="hom.flight.bundle.55"><![CDATA[<li>출발 24시간 이내에는 취소가 불가능하며, 항공권 취소 시에도 번들 요금은 환불되지 않습니다.</li>
+<li>항공권 변경 또는 취소 시 구매하신 번들 서비스는 자동 환불 처리 됩니다.</li>
+<li>번들 서비스는 항공권과 분리되어 단독 환불 가능하나 번들 서비스 내 아이템 별 개별 환불은 불가합니다.<br>(추가로 번들에 포함되지 않은 좌석 추가 구매 시 번들 서비스로 제공되는 좌석의 개별 환불은 불가합니다.)</li>
+<li>번들의 ‘수하물 우선하기‘ 및 ‘전용체크인카운터＇의 경우, 추가로 제공되는 서비스로 출발 당일 현장 상황에 따라 미제공 될 수 있으며,<br>이에 따른 일부 금액 환불은 불가합니다.</li>
+<li>스낵팩 구성품의 변경은 불가합니다. (단, 구성품 부족 시 동일 가격 지정된 다른 제품 제공)</li>
+<li>결제 완료 후 초과 수하물 추가 구매 경로:
+	<ul>
+		<li>스마트 번들, 라운지 플러스 번들 : 마이페이지, 고객서비스센터</li>
+		<li>스마트  플러스 번들 : 고객서비스센터</li>
+	</ul>
+</li>]]></entry>
+<entry key="hom.flight.jiniInsight.announcement"><![CDATA[지니 매거진은 단순 정보전달을 넘어 여행을 보다 기쁘고 뜻 깊게 즐길 수 있도록 소중한 여행길에 함께 합니다.<br>매 월 테마와 연관되는 새로운 시각의 여행 정보, 걷기 코스, 흥미진진한 지니퀴즈 등 진에어의 다양한 소식들이 준비되어 있습니다.]]></entry>
+<entry key="hom.flight.bundle.54"><![CDATA[유의 사항]]></entry>
+<entry key="hom.flight.bundle.53"><![CDATA[유의]]></entry>
+<entry key="hom.flight.bundle.52"><![CDATA[<li>홈페이지/APP 으로 항공권 구매 시, 동시에 신청 (단독 신청/추후 신청/ 변경 /취소 후 재 구매 불가)</li>
+<li>번들에 포함되지 않는 서비스 및 좌석은 항공권 구매 시 부가 서비스 선택 단계에서 추가 신청</li>
+<li>비행시간이 짧은 단거리 노선은 번들 서비스 이용 불가<br>(인천-후쿠오카, 인천/부산-기타큐슈, 부산-오사카, 제주-상하이)</li>
+<li>번들서비스 이용 가능 노선임에도 구매 창 (번들 상품 구매 절차 STEP2) 미 표출 시 구매 불가</li>
+<li>항공기 출발 24시간 전까지 구매 가능</li>]]></entry>
+<entry key="hom.flight.bundle.51"><![CDATA[신청 방법]]></entry>
+<entry key="hom.flight.bundle.50"><![CDATA[신청]]></entry>
+<entry key="hom.flight.jiniPlay.caution2"><![CDATA[<li>JINI PLAY 서비스와 태블릿 PC 렌탈 서비스의 이용 요금은 별도이며 이용 방법은 승무원에게 문의하여 주시기 바랍니다.</li>
+		<li>태블릿 PC 렌탈 서비스는 인천발 5시간 이상 운항되는 B777 항공기 노선에 한해 한정된 수량으로 운영되며, 운영 노선은 사전 공지 없이 추가 및 변경 될 수 있습니다.</li>
+		<li>서비스 이용 중 기기 및 데이터 파손 시, 이용자에게 배상 요청이 있을 수 있습니다.</li>]]></entry>
+<entry key="hom.flight.jiniPlay.caution1"><![CDATA[<li>지니 엔터테인먼트는 기내 엔터테인먼트 시스템이 장착된 일부 항공기에서만 이용이 가능합니다.</li>
+    <li>국내선의 경우, 개인 휴대기기로 기내 와이파이에 접속하여 다양한 기내 엔터테인먼트를 무료로 이용하실 수 있습니다. (2019년 3월 7일부)</li>
+		<li>상기 기재된 노선 중 일부 노선에서는 서비스 이용이 제한될 수 있으므로 유의하시기 바랍니다.</li>
+		<li>통화별 환율 기준 : KRW 1,000 = USD 1 = JPY 100 = CNY 7 = HKD 8 = MOP 8 = TWD 30 = THB 35 = MYR 4 = PHP 50 = VND 24,000 = AUD 1.4</li>
+		<li>변경은 불가하며, 취소 후 재구매 해주시기 바랍니다.</li>
+		<li>항공 예약변경 및 취소 시 구매한 지니플레이는 자동 취소되며 항공기 출발 72시간 전인 경우에만 환불 처리됩니다.</li>
+		<li>출발 72시간 이내에는 취소가 불가하며, 항공권 취소 시에도 요금은 환불되지 않습니다.</li>
+		<li>지니 엔터테인먼트 서비스 제공이 불가한 항공기 기종으로 변경될 경우, 사전구매하신 지니 엔터테인먼트는 고객서비스센터를 통해 환불처리 가능합니다.</li>]]></entry>
+<entry key="hom.seat.b777.emergency"><![CDATA[비상구]]></entry>
+<entry key="hom.flight.guide.tab2.target"><![CDATA[대상 전자기기]]></entry>
+<entry key="hom.flight.jinipass.jini.boarding.pass"><![CDATA[지니 보딩패스]]></entry>
+<entry key="hom.flight.cabinShopping.subttl"><![CDATA[기내에서 만날 수 있는 <span>특별한 쇼핑을 즐겨보세요.</span>]]></entry>
+<entry key="hom.flight.jiniPlay.step1_1"><![CDATA[원활한 기내 엔터테인먼트 서비스 이용을 위해 휴대폰/태블릿 PC 이용자(안드로이드, iOS)는 탑승 전 휴대기기에 JINI PLAY 애플리케이션을 반드시 설치(최신 업데이트) 하시기 바랍니다.]]></entry>
+<entry key="hom.flight.guide.tab2.operationlist"><![CDATA[스마트폰/태블릿PC (비행기 모드), MP3, 게임기 등]]></entry>
+<entry key="hom.flight.paidEvent.info.020_2"><![CDATA[￦25,000 ($25)]]></entry>
+<entry key="hom.flight.paidEvent.info.020_1"><![CDATA[￦22,000 ($22)]]></entry>
+<entry key="hom.flight.bundle.49"><![CDATA[좌석지정 및 추가 부가 서비스 신청]]></entry>
+<entry key="hom.flight.seat.model_2"><![CDATA[B737-800]]></entry>
+<entry key="hom.flight.bundle.48"><![CDATA[탑승객 정보 및 예매자 정보 입력]]></entry>
+<entry key="hom.flight.seat.model_1"><![CDATA[B777-200ER]]></entry>
+<entry key="hom.flight.bundle.47"><![CDATA[운임 선택 시 서비스 선택]]></entry>
+<entry key="hom.flight.bundle.46"><![CDATA[원하는 여정 및 운임 선택]]></entry>
+<entry key="hom.flight.bundle.45"><![CDATA[번들 상품 구매절차]]></entry>
+<entry key="hom.flight.bundle.44"><![CDATA[<thead>
+	<tr>
+		<th scope="col" rowspan="2">국가 및 지역</th>
+		<th scope="col" colspan="3">라운지플러스</th>
+	</tr>
+	<tr>
+		<th scope="col">개별 요금</th>
+		<th scope="col" class="bundle">번들 요금</th>
+		<th scope="col" class="bundle">할인율</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<th scope="row">일본/중국본토</th>
+		<td>60,800</td>
+		<td class="bundle">40,000</td>
+		<td class="bundle">34%</td>
+	</tr>
+	<tr>
+		<th scope="row">홍콩/마카오/대만/러시아</th>
+		<td>70,800</td>
+		<td class="bundle">45,000</td>
+		<td class="bundle">36%</td>
+	</tr>
+	<tr>
+		<th scope="row">동남아</th>
+		<td>85,800</td>
+		<td class="bundle">55,000</td>
+		<td class="bundle">36%</td>
+	</tr>
+	<tr>
+		<th scope="row">대양주</th>
+		<td>85,800</td>
+		<td class="bundle">55,000</td>
+		<td class="bundle">36%</td>
+	</tr>
+	<tr>
+		<th scope="row">호주/미주</th>
+		<td>125,800</td>
+		<td class="bundle">80,000</td>
+		<td class="bundle">36%</td>
+	</tr>
+</tbody>]]></entry>
+<entry key="hom.flight.paidEvent.alert.success"><![CDATA[신청이 완료 되었습니다.]]></entry>
+<entry key="hom.flight.bundle.43"><![CDATA[국가 및 지역, 라운지플러스 순으로 나타낸 번들 요금표입니다.]]></entry>
+<entry key="hom.flight.seat.model"><![CDATA[기종]]></entry>
+<entry key="hom.flight.bundle.42"><![CDATA[<thead>
+	<tr>
+		<th scope="col" rowspan="2">국가 및 지역</th>
+		<th scope="col" colspan="3">스마트플러스</th>
+	</tr>
+	<tr>
+		<th scope="col">개별 요금</th>
+		<th scope="col" class="bundle">번들 요금</th>
+		<th scope="col" class="bundle">할인율</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<th scope="row">일본/중국본토</th>
+		<td>49,000</td>
+		<td class="bundle">35,000</td>
+		<td class="bundle">29%</td>
+	</tr>
+	<tr>
+		<th scope="row">홍콩/마카오/대만/러시아</th>
+		<td>69,000</td>
+		<td class="bundle">45,000</td>
+		<td class="bundle">35%</td>
+	</tr>
+	<tr>
+		<th scope="row">동남아</th>
+		<td>89,000</td>
+		<td class="bundle">50,000</td>
+		<td class="bundle">44%</td>
+	</tr>
+	<tr>
+		<th scope="row">대양주</th>
+		<td>79,000</td>
+		<td class="bundle">50,000</td>
+		<td class="bundle">37%</td>
+	</tr>
+	<tr>
+		<th scope="row">호주/미주</th>
+		<td>199,000</td>
+		<td class="bundle">100,000</td>
+		<td class="bundle">50%</td>
+	</tr>
+</tbody>]]></entry>
+<entry key="hom.flight.bundle.41"><![CDATA[국가 및 지역, 스마트플러스 순으로 나타낸 번들 요금표입니다.]]></entry>
+<entry key="hom.flight.bundle.40"><![CDATA[<thead>
+	<tr>
+		<th scope="col" rowspan="2">국가 및 지역</th>
+		<th scope="col" colspan="3">스마트</th>
+	</tr>
+	<tr>
+		<th scope="col">개별 요금</th>
+		<th scope="col" class="bundle">번들 요금</th>
+		<th scope="col" class="bundle">할인율</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<th scope="row">일본/중국본토</th>
+		<td>9,000</td>
+		<td class="bundle">7,000</td>
+		<td class="bundle">22%</td>
+	</tr>
+	<tr>
+		<th scope="row">홍콩/마카오/대만/러시아</th>
+		<td>11,000</td>
+		<td class="bundle">8,000</td>
+		<td class="bundle">27%</td>
+	</tr>
+	<tr>
+		<th scope="row">동남아</th>
+		<td>14,000</td>
+		<td class="bundle">11,000</td>
+		<td class="bundle">21%</td>
+	</tr>
+	<tr>
+		<th scope="row">대양주</th>
+		<td>14,000</td>
+		<td class="bundle">11,000</td>
+		<td class="bundle">21%</td>
+	</tr>
+	<tr>
+		<th scope="row">호주/미주</th>
+		<td>17,000</td>
+		<td class="bundle">13,000</td>
+		<td class="bundle">24%</td>
+	</tr>
+</tbody>]]></entry>
+<entry key="hom.flight.guide.tab1.dosata"><![CDATA[도쿄, 타이베이]]></entry>
+<entry key="hom.flight.lounge.27"><![CDATA[<li>입장 시 진에어 탑승권과 본인 확인을 위한 여권을 반드시 소지하여 주시기 바랍니다.</li>
+<li>라운지 이용권은 등록된 고객 정보와 일치하는 사용자만 이용 가능합니다. (양도 사용은 불가합니다.)</li>
+<li>출발 24시간 전 까지 라운지 이용권 환불이 가능합니다. (미 사용시 자동 소멸되며 환불되지 않습니다.)</li>
+<li>라운지가 만석일 경우 대기시간이 발생할 수 있사오니, 양해 부탁드립니다.</li>]]></entry>
+<entry key="hom.flight.lounge.26"><![CDATA[유의 사항]]></entry>
+<entry key="hom.flight.cabinShopping.guide_1"><![CDATA[<li>노선에 따라 판매 상품이 다르며, 조기 품절될 수 있습니다.</li>
+		<li>지니 스토어 판매 상품 이외에 식사 목적의 온수 제공 및 오븐 사용이 불가하오니 양해하여 주시기 바랍니다 (단, 이유식 및 환자식 등 대체불가 음식은 중탕만을 이용하여 제공)</li>
+		<li>자세한 내용은 메뉴(PDF) 상세보기를 눌러 확인해 주시기 바랍니다.</li>]]></entry>
+<entry key="hom.flight.lounge.25"><![CDATA[유의]]></entry>
+<entry key="hom.flight.lounge.24"><![CDATA[바로가기]]></entry>
+<entry key="hom.flight.paidEvent.btn.search"><![CDATA[조회]]></entry>
+<entry key="hom.flight.paidEvent.noticeCaution.005"><![CDATA[국내 발행 신용카드로만 결제가 가능합니다.]]></entry>
+<entry key="hom.flight.lounge.23"><![CDATA[<li>홈페이지/APP/고객서비스센터 통해 예매 시 출발 24시간 전까지 구매 가능 (당일 공항 현장 구매 불가)</li>
+<li>사전 구매 이용권은 반드시 지정된 사용 일자에만 이용 가능</li>
+<li>항공권 구매 이후 신청: 홈페이지/APP의 [마이페이지] 통해 추가 신청 가능<br>(단, 여행사에서 항공권을 구매한 고객은 고객서비스 센터를 통해 신청 가능)</li>]]></entry>
+<entry key="hom.flight.lounge.22"><![CDATA[신청 방법]]></entry>
+<entry key="hom.flight.taxFree.fax_7"><![CDATA[(수신자 부담)]]></entry>
+<entry key="hom.flight.lounge.21"><![CDATA[신청]]></entry>
+<entry key="hom.flight.taxFree.fax_6"><![CDATA[한국 : 02-2656-6586 / 한국 외 지역 : 82-2-2656-6586]]></entry>
+<entry key="hom.flight.lounge.20"><![CDATA[자세히 보기]]></entry>
+<entry key="hom.flight.taxFree.fax_5"><![CDATA[한국: 080-656-4545 / 한국 외 지역 : 국제전화연결번호+8000-656-4545 (한국지역 국가번호 82 필요 없음)]]></entry>
+<entry key="hom.flight.taxFree.fax_4"><![CDATA[월 ~ 토요일 : 08:30 ~ 17:30 / 일요일 및 공휴일 : 휴무]]></entry>
+<entry key="hom.flight.taxFree.fax_3"><![CDATA[FAX]]></entry>
+<entry key="hom.flight.taxFree.fax_2"><![CDATA[전화번호]]></entry>
+<entry key="hom.flight.jiniPlay.using"><![CDATA[이용 요금]]></entry>
+<entry key="hom.flight.taxFree.fax_1"><![CDATA[주문 가능 시간]]></entry>
+<entry key="hom.flight.jiniPlay.present_1"><![CDATA[개인 휴대 기기로 기내 Wi-Fi에 접속하여, 진에어에서 엄선한 다양한 콘텐츠를 단 한번의 결제로 이용해 보세요.
+    	<br>휴대폰/태블릿 PC 이용자(Android, iOS)는 탑승 전 휴대기기에 “지니 플레이(JINI PLAY)” 앱을 반드시 설치(최신 업데이트) 하시기 바랍니다.]]></entry>
+<entry key="hom.flight.bundle.39"><![CDATA[국가 및 지역, 스마트 순으로 나타낸 번들 요금표입니다.]]></entry>
+<entry key="hom.flight.taxFree.internetbooking_5"><![CDATA[탑승편 기내 승무원으로부터 주문품을 수령 및 결제]]></entry>
+<entry key="hom.flight.airlineFood.guide_1"><![CDATA[<li data-rel="MEAL;KIDS;FREE">항공기 출발 72시간 전까지 홈페이지/모바일을 통해 항공권 구매 시 부가서비스(기내식) 신청으로 사전 주문이 가능하며, 고객서비스센터(1600-6200)를 통해서도 사전 주문이 가능합니다.<br>단, 공항, 기내에서는 주문이 불가하오니 이점 양지하여 주시기 바랍니다.</li>
+		<li data-rel="MEAL;KIDS;FREE">항공기 출발 72시간 전까지만 취소 및 환불이 가능합니다.</li>
+		<li data-rel="MEAL;KIDS;FREE">항공 예약변경 및 취소 시 구매한 기내식은 자동 취소되며 항공기 출발 72시간 전인 경우에만 환불 처리됩니다.</li>
+		<li data-rel="KIDS">사전 주문 기내식(유료기내식) 주문 시, 무료기내식이 추가 제공 됩니다.</li>
+		<li data-rel="KIDS">기내식 이미지는 이해를 돕기 위한 촬영본으로 실물과 상이할 수 있습니다.</li>
+		<li data-rel="KIDS">예매 시 부가서비스 사전 신청 시에만 구매 가능합니다.</li>
+		<li data-rel="MEAL;FREE">상기 메뉴는 19년 7월 인천발 노선 기준이며, 상기 외 노선은 무료 기내식이 제공되지 않습니다.<br>또한, 부산 발의 경우 제공 노선 및 메뉴가 상이할 수 있습니다.</li>
+		<li data-rel="MEAL;FREE">일부 노선은 계절에 따라 일부 품목이 변경되어 제공됩니다.</li>
+		<li data-rel="MEAL;KIDS;FREE">진에어가 제공하는 기내식은 HACCP 인증 업체에서 생산됩니다.</li>
+		<li data-rel="SPECIAL">항공권 결제 후, ‘기념일 이벤트’ 신청 페이지를 통해 개별 신청 가능합니다.</li>
+		<li data-rel="SPECIAL">단, 공항 및 기내에서는 신청이 불가하오니 이점 양지하여 주시기 바랍니다.</li>
+		<li data-rel="SPECIAL">항공기 출발 72시간 전까지 신청 및 취소 가능하며, 마이페이지> 부가서비스를 통해 취소하실 수 있습니다.</li>
+		<li data-rel="SPECIAL">주문한 패키지 변경은 불가하며 구매한 패키지를 취소한 후, 재구매 하시기 바랍니다.</li>
+		<li data-rel="SPECIAL">한정된 수량으로 서비스를 하는 관계로, 신청이 늦으시면 이용이 어려울 수 있습니다.</li>
+		<li data-rel="SPECIAL">기상상태 등에 따라 서비스가 제한될 수 있습니다.</li>
+		<li data-rel="SPECIAL">노선별 기본 기내식은 별도로 제공됩니다.</li>
+		<li data-rel="SPECIAL">해당 패키지 상품은 기류 안정 시 서비스가 가능하며 모든 음식은 외부 반출이 금지되어 있어 기내에서 전량 취식을 부탁 드립니다.</li>
+		<li data-rel="SPECIAL">이미지는 이해를 돕기 위한 촬영본으로 실물과 상이할 수 있습니다.</li>]]></entry>
+<entry key="hom.flight.bundle.38"><![CDATA[통화 별 환율 기준 : KRW1,000 = USD 1 = JPY 100 = CNY 7 = HKD 8 = MOP 8 = TWD 30 = THB 35 = MYR4 = PHP 50 = VND 24,000 = AUD 1.4]]></entry>
+<entry key="hom.flight.taxFree.internetbooking_4"><![CDATA[항공편 출발 72시간 전까지 예약가능]]></entry>
+<entry key="hom.flight.bundle.37"><![CDATA[<thead>
+	<tr>
+		<th scope="col" rowspan="2">국가 및 지역</th>
+		<th scope="col" colspan="3">스마트</th>
+		<th scope="col" colspan="3">스마트플러스</th>
+		<th scope="col" colspan="3">라운지플러스</th>
+	</tr>
+	<tr>
+		<th scope="col">개별 요금</th>
+		<th scope="col" class="bundle">번들 요금</th>
+		<th scope="col" class="bundle">할인율</th>
+		<th scope="col">개별 요금</th>
+		<th scope="col" class="bundle">번들 요금</th>
+		<th scope="col" class="bundle">할인율</th>
+		<th scope="col">개별 요금</th>
+		<th scope="col" class="bundle">번들 요금</th>
+		<th scope="col" class="bundle">할인율</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<th scope="row">일본/중국본토</th>
+		<td>9,000</td>
+		<td class="bundle">7,000</td>
+		<td class="bundle">22%</td>
+		<td>49,000</td>
+		<td class="bundle">35,000</td>
+		<td class="bundle">29%</td>
+		<td>60,800</td>
+		<td class="bundle">40,000</td>
+		<td class="bundle">34%</td>
+	</tr>
+	<tr>
+		<th scope="row">홍콩/마카오/대만/러시아</th>
+		<td>11,000</td>
+		<td class="bundle">8,000</td>
+		<td class="bundle">27%</td>
+		<td>69,000</td>
+		<td class="bundle">45,000</td>
+		<td class="bundle">35%</td>
+		<td>70,800</td>
+		<td class="bundle">45,000</td>
+		<td class="bundle">36%</td>
+	</tr>
+	<tr>
+		<th scope="row">동남아</th>
+		<td>14,000</td>
+		<td class="bundle">11,000</td>
+		<td class="bundle">21%</td>
+		<td>89,000</td>
+		<td class="bundle">50,000</td>
+		<td class="bundle">44%</td>
+		<td>85,800</td>
+		<td class="bundle">55,000</td>
+		<td class="bundle">36%</td>
+	</tr>
+	<tr>
+		<th scope="row">대양주</th>
+		<td>14,000</td>
+		<td class="bundle">11,000</td>
+		<td class="bundle">21%</td>
+		<td>79,000</td>
+		<td class="bundle">50,000</td>
+		<td class="bundle">37%</td>
+		<td>85,800</td>
+		<td class="bundle">55,000</td>
+		<td class="bundle">36%</td>
+	</tr>
+	<tr>
+		<th scope="row">호주/미주</th>
+		<td>17,000</td>
+		<td class="bundle">13,000</td>
+		<td class="bundle">24%</td>
+		<td>199,000</td>
+		<td class="bundle">100,000</td>
+		<td class="bundle">50%</td>
+		<td>125,800</td>
+		<td class="bundle">80,000</td>
+		<td class="bundle">36%</td>
+	</tr>
+</tbody>]]></entry>
+<entry key="hom.flight.taxFree.internetbooking_3"><![CDATA[수령 및 결제 방법]]></entry>
+<entry key="hom.flight.bundle.36"><![CDATA[국가 및 지역, 스마트, 스마트플러스, 스마트플러스 순으로 나타낸 번들 요금표입니다.]]></entry>
+<entry key="hom.flight.bundle.35"><![CDATA[번들 요금]]></entry>
+<entry key="hom.flight.guide.tab1.jeyang"><![CDATA[제주/양양 왕복]]></entry>
+<entry key="hom.flight.bundle.33"><![CDATA[<thead>
+	<tr>
+		<th scope="col">구성</th>
+		<th scope="col">스마트</th>
+		<th scope="col">스마트플러스</th>
+		<th scope="col">라운지플러스</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>
+			사전좌석지정<br>
+			<a href="javascript://" class="btnTypeA bundle" onclick="showPopupLayer('/common/seatmap/layer');" data-click-area="서비스-부가서비스-번들서비스" data-click-name="좌석배치도">좌석배치도</a>
+		</td>
+		<td>지니스탠다드 A/B</td>
+		<td>전 좌석</td>
+		<td>전 좌석</td>
+	</tr>
+	<tr>
+		<td>추가 혜택</td>
+		<td>스낵팩<br>(웨이퍼롤+콜라)</td>
+		<td>사전초과수하물<br>(미주노선: 1PC<br>그 외 노선: 5KG)</td>
+		<td>
+			스카이허브라운지 이용권<br>
+			<a href="javascript:showTab('#bundle02', 'bundleCont');" class="btnTypeA bundle" data-click-area="서비스-부가서비스-번들서비스" data-click-name="라운지이용권안내">이용 안내</a>
+		</td>
+	</tr>
+	<tr>
+		<td>제공 서비스</td>
+		<td>무료 기내식/수하물</td>
+		<td>무료 기내식/수하물<br>수하물 우선하기</td>
+		<td>무료 기내식/수하물<br>전용 체크인 카운터</td>
+	</tr>
+</tbody>]]></entry>
+<entry key="hom.flight.bundle.32"><![CDATA[구성, 스마트, 스마트플러스, 라운스플러스 순으로 나타낸 번들 서비스 구성표입니다.]]></entry>
+<entry key="hom.flight.bundle.31"><![CDATA[번들 서비스 구성]]></entry>
+<entry key="hom.flight.bundle.30"><![CDATA[2020년 10월24일 이전 출발]]></entry>
+<entry key="hom.flight.paidEvent.boardDt"><![CDATA[탑승일자]]></entry>
+<entry key="hom.seat.b739.entrance"><![CDATA[출입구]]></entry>
+<entry key="hom.flight.lounge.19"><![CDATA[<span class="str">STEP 4.</span> <span>KAL 라운지 프리미엄 서비스 즐기기</span>]]></entry>
+<entry key="hom.flight.cabinShopping.btn.menudetail"><![CDATA[메뉴(PDF) 상세보기]]></entry>
+<entry key="hom.flight.lounge.18"><![CDATA[<span class="str">STEP 3.</span> <span>입장 시 탑승권과 여권 제시 (모바일 포함)</span>]]></entry>
+<entry key="hom.flight.lounge.17"><![CDATA[<span class="str">STEP 2.</span> <span>이용권 구매 내역 확인 (홈페이지 마이페이지)</span>]]></entry>
+<entry key="hom.flight.lounge.16"><![CDATA[<span class="str">STEP 1.</span> <span>KAL라운지 이용권 구매<br>(온라인: 항공권 구매 시 또는 마이페이지 / 오프라인: 고객서비스센터)</span>]]></entry>
+<entry key="hom.flight.lounge.15"><![CDATA[이용 방법]]></entry>
+<entry key="hom.flight.lounge.14"><![CDATA[<li>KAL 라운지 이용권 (성인/소아): 00,000원</li>
+<li>KAL 라운지 이용권 (유아): 무료</li>]]></entry>
+<entry key="hom.flight.paidEvent.info.017_2"><![CDATA[B세트]]></entry>
+<entry key="hom.flight.airlineFood.guide_ttl"><![CDATA[]]></entry>
+<entry key="hom.flight.airlineFood.subttl"><![CDATA[Special Cuisine in Flight <span>진에어만의 특별한 기내식입니다.</span>]]></entry>
+<entry key="hom.flight.lounge.13"><![CDATA[라운지 이용권 요금]]></entry>
+<entry key="hom.flight.paidEvent.info.017_1"><![CDATA[A세트]]></entry>
+<entry key="hom.flight.lounge.12"><![CDATA[<li><span class="str">운영 시간:</span> <span>06:30~23:30</span></li>
+<li><span class="str">장소 안내:</span> <span>서울 인천국제공항 제 1여객 터미널 4 층 면세 지역 28번 게이트 부근</span></li>]]></entry>
+<entry key="hom.flight.lounge.11"><![CDATA[운영 안내]]></entry>
+<entry key="hom.flight.lounge.10"><![CDATA[<li><span class="point">Point 1.</span> <span>특급 호텔 식사 (라운지 음식은 Grand Hyatt Incheon 호텔에서 제공됩니다.)</span></li>
+<li><span class="point">Point 2.</span> <span>프리미엄 라운지의 상징, 고급 주류</span></li>
+<li><span class="point">Point 3.</span> <span>상쾌한 여행의 시작, 샤워시설 이용하기</span></li>
+<li><span class="point">Point 4.</span> <span> 따뜻한 배려가 느껴지는 수유실</span></li>
+<li><span class="point">Point 5.</span> <span>안마의자 &amp; 뷰티기기로 힐링</span></li>
+<li><span class="point">Point 6.</span> <span>무거운 수하물 잠시 맡기고 이 모든 서비스 가볍게 즐기기</span></li>]]></entry>
+<entry key="hom.flight.guide.tab1.domservice_1"><![CDATA[<li>현재 코로나19 기내 감염 예방을 위해 한시적으로 음료 및 스낵 판매를 중지하였으며, 기내에서는 모든 식음료 취식을 자제하여 주시기 바랍니다.</li>
+    	<li>진에어에서만 만나보실 수 있는 CI 상품 및 홈쇼핑 제품은 기내에서 구매하실 수 있습니다.</li>]]></entry>
+<entry key="hom.flight.bundle.29"><![CDATA[2020년 10월25일 이후 출발]]></entry>
+<entry key="hom.flight.cabinShopping.note"><![CDATA[유의]]></entry>
+<entry key="hom.flight.bundle.28"><![CDATA[라운지 이용권 안내]]></entry>
+<entry key="hom.flight.bundle.27"><![CDATA[번들 서비스 안내]]></entry>
+<entry key="hom.flight.bundle.26"><![CDATA[별도로 구입 가능한 부가서비스(사전좌석지정, 사전구매수하물, 라운지이용권, 스낵팩)를 <span>하나로 묶어 개별 구매 시보다 더욱 저렴하게 판매하는 서비스입니다.</span>]]></entry>
+<entry key="hom.flight.bundle.25"><![CDATA[좌석배치도]]></entry>
+<entry key="hom.flight.bundle.24"><![CDATA[자세히 보기]]></entry>
+<entry key="hom.flight.bundle.23"><![CDATA[<li>출발 72시간 이내에는 취소가 불가능하며, 항공권 취소 시에도 번들 요금은 환불되지 않습니다.</li>
+		<li>항공권 변경 또는 취소 시 구매하신 번들 서비스는 자동 환불 처리 됩니다.</li>
+		<li>번들 서비스는 항공권과 분리되어 단독 환불 가능하나 번들 서비스 내 아이템 별 개별 환불은 불가합니다.<br>(추가로 번들에 포함되지 않은 좌석 추가 구매 시 번들 서비스로 제공되는 좌석의 개별 환불은 불가합니다.)</li>
+		<li>＇스마트 플러스＇번들의 ＇수하물 우선하기＇의 경우, 추가로 제공되는 서비스로 출발 당일 현장 상황에 따라 미 제공 될 수 있으며,<br>이에 따른 일부 요금 환불은 불가합니다.</li>
+		<li>스낵팩 구성품의 변경은 불가합니다. (단, 구성품 부족 시 동일 가격 지정된 다른 제품 제공)</li>
+		<li>결제 완료 후 초과 수하물 추가 구매 경로:
+			<ul class="">
+				<li>스마트 번들 : 마이페이지, 고객서비스센터</li>
+				<li>스마트  플러스 번들 : 고객서비스센터</li>
+			</ul>
+		</li>]]></entry>
+<entry key="hom.flight.bundle.22"><![CDATA[유의 사항]]></entry>
+<entry key="hom.flight.bundle.21"><![CDATA[<li>홈페이지/APP 으로 항공권 구매 시, 동시에 신청 (단독 신청/추후 신청/ 변경 /취소 후 재 구매 불가)</li>
+		<li>번들에 포함되지 않는 서비스 및 좌석은 항공권 구매 시 부가 서비스 선택 단계에서 추가 신청</li>
+		<li>비행시간이 짧은 단거리 노선은 번들 서비스 이용 불가<br>(인천-후쿠오카, 인천/부산-기타큐슈, 부산-오사카, 제주-상하이)</li>
+		<li>번들서비스 이용 가능 노선임에도 구매 창 (번들 상품 구매 절차 STEP2) 미 표출 시 구매 불가</li>
+		<li>항공기 출발 72시간 전까지 구매 가능</li>]]></entry>
+<entry key="hom.flight.bundle.20"><![CDATA[신청 방법]]></entry>
+<entry key="hom.flight.bundle"><![CDATA[번들 서비스]]></entry>
+<entry key="hom.flight.paidEvent.special.meal"><![CDATA[지니 스페셜밀]]></entry>
+<entry key="hom.flight.taxFree.payok_7"><![CDATA[신 용 카 드<br>
+		(국내 전용 : 원화(￦)만 가능) <br>
+		(해외 겸용 : 원화(￦), 달러 ($))]]></entry>
+<entry key="hom.flight.taxFree.payok_6"><![CDATA[중국 위안]]></entry>
+<entry key="hom.flight.taxFree.payok_5"><![CDATA[유럽 유로]]></entry>
+<entry key="hom.flight.taxFree.payok_4"><![CDATA[일본 엔]]></entry>
+<entry key="hom.flight.guide.tab1.osaka"><![CDATA[오사카]]></entry>
+<entry key="hom.flight.lounge.09"><![CDATA[수하물 보관]]></entry>
+<entry key="hom.flight.taxFree.payok_3"><![CDATA[미국 달러]]></entry>
+<entry key="hom.flight.lounge.08"><![CDATA[휴게 시설]]></entry>
+<entry key="hom.flight.taxFree.payok_2"><![CDATA[한국 원]]></entry>
+<entry key="hom.flight.lounge.07"><![CDATA[수유실]]></entry>
+<entry key="hom.flight.taxFree.payok_1"><![CDATA[결제 가능]]></entry>
+<entry key="hom.flight.lounge.06"><![CDATA[샤워 시설]]></entry>
+<entry key="hom.flight.lounge.05"><![CDATA[음료 & 주류]]></entry>
+<entry key="hom.flight.guide.tab1.intservice_5"><![CDATA[딜라이트 라운지 서비스<span>Delight Lounge Service</span>]]></entry>
+<entry key="hom.flight.lounge.04"><![CDATA[식사 & 스낵]]></entry>
+<entry key="hom.flight.seat.space1_new"><![CDATA[통화 별 환율 기준 :  KRW1,000 =  USD 1 = JPY 100 =  CNY 7 = HKD 8 = MOP 8 = TWD 30 = THB 35 = MYR4 = PHP 50 = VND 24,000 = AUD 1.4]]></entry>
+<entry key="hom.flight.guide.tab1.intservice_4"><![CDATA[사전주문유료기내식<span>Pre-order meals</span>]]></entry>
+<entry key="hom.flight.lounge.03"><![CDATA[서비스 구성]]></entry>
+<entry key="hom.flight.guide.tab1.intservice_3"><![CDATA[기내판매<span>Duty free sales</span>]]></entry>
+<entry key="hom.flight.lounge.02"><![CDATA[더욱 편안한 여행의 시작을 위해<span>대한항공 KAL 라운지 이용권을 사전에 구매하여 이용 가능한 서비스입니다.</span>]]></entry>
+<entry key="hom.flight.guide.tab1.intservice_2"><![CDATA[음료<span>Beverage</span>]]></entry>
+<entry key="hom.flight.lounge.01"><![CDATA[라운지 서비스]]></entry>
+<entry key="hom.flight.guide.tab1.intservice_1"><![CDATA[무료 기내식<span>Complimentary Meal</span>]]></entry>
+<entry key="hom.flight.cabinShopping.note_ttl"><![CDATA[결제 유의 사항]]></entry>
+<entry key="hom.flight.guide.tab1.bu"><![CDATA[부산 왕복]]></entry>
+<entry key="hom.flight.bundle.19"><![CDATA[좌석지정 및 추가 부가 서비스 신청]]></entry>
+<entry key="hom.flight.bundle.18"><![CDATA[탑승객 정보 및 예매자 정보 입력]]></entry>
+<entry key="hom.seat.b737.stretchseat"><![CDATA[지니스트레치]]></entry>
+<entry key="hom.flight.bundle.17"><![CDATA[운임 선택 시 서비스 선택]]></entry>
+<entry key="hom.flight.bundle.16"><![CDATA[원하는 여정 및 운임 선택]]></entry>
+<entry key="hom.flight.bundle.15"><![CDATA[번들 상품 구매절차]]></entry>
+<entry key="hom.flight.paidEvent.phone"><![CDATA[연락처]]></entry>
+<entry key="hom.flight.bundle.14"><![CDATA[<thead>
+			<tr>
+				<th scope="col">구성</th>
+				<th scope="col">베이직</th>
+				<th scope="col">스마트</th>
+				<th scope="col">스마트 플러스</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>무료 수하물</td>
+				<td><span class="possible">가능</span></td>
+				<td><span class="possible">가능</span></td>
+				<td><span class="possible">가능</span></td>
+			</tr>
+			<tr>
+				<td>무료 기내식</td>
+				<td><span class="possible">가능</span></td>
+				<td><span class="possible">가능</span></td>
+				<td><span class="possible">가능</span></td>
+			</tr>
+			<tr>
+				<td rowspan="5">
+					사전좌석지정<br><a href="#" class="btnTypeA bundle" onclick="showPopupLayer('/common/seatmap/20200807/layer'); return false;" data-click-area="비행-번들서비스" data-click-name="좌석배치도">좌석배치도</a>
+				</td>
+				<td>JINI STANDARD</td>
+				<td><span class="possible">가능</span></td>
+				<td><span class="possible">가능</span></td>
+			</tr>
+			<tr>
+				<td>JINI FRONT</td>
+				<td><span class="possible">가능</span></td>
+				<td><span class="possible">가능</span></td>
+			</tr>
+			<tr>
+				<td>JINI EXIT</td>
+				<td><span class="impossible">불가능</span></td>
+				<td><span class="possible">가능</span></td>
+			</tr>
+			<tr>
+				<td>JINI STRETCH</td>
+				<td><span class="impossible">불가능</span></td>
+				<td><span class="possible">가능</span></td>
+			</tr>
+			<tr>
+				<td>JINI PLUS</td>
+				<td><span class="impossible">불가능</span></td>
+				<td>지니플러스 운임으로 판매되는<br>노선은 해당 번들로 지니플러스 좌석지정 불가</td>
+			</tr>
+			<tr>
+				<td>스낵</td>
+				<td><span class="impossible">불가능</span></td>
+				<td>웨이퍼롤+콜라</td>
+				<td>웨이퍼롤+콜라</td>
+			</tr>
+			<tr>
+				<td>추가혜택</td>
+				<td><span class="impossible">불가능</span></td>
+				<td><span class="impossible">불가능</span></td>
+				<td>수하물 우선하기<br>+<br>미주노선: 수하물 1PC 추가<br>그외노선: 수하물 5KG 추가</td>
+			</tr>
+		</tbody>]]></entry>
+<entry key="hom.flight.bundle.13"><![CDATA[서비스 구성 안내]]></entry>
+<entry key="hom.flight.bundle.12"><![CDATA[통화 별 환율 기준 : KRW1,000 = USD 1 = JPY 100 = CNY 7 = HKD 8 = MOP 8 = TWD 30 = THB 35 = MYR4 = PHP 50 = VND 24,000 = AUD 1.4]]></entry>
+<entry key="hom.flight.bundle.11"><![CDATA[<thead>
+			<tr>
+				<th scope="col" rowspan="2">국가 및 지역</th>
+				<th scope="col" colspan="3">스마트 플러스</th>
+			</tr>
+			<tr>
+				<th scope="col">개별 요금</th>
+				<th scope="col" class="bundle">번들 요금</th>
+				<th scope="col" class="bundle">할인율</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th scope="row">일본</th>
+				<td>55,000</td>
+				<td>30,000</td>
+				<td>45%</td>
+			</tr>
+			<tr>
+				<th scope="row">홍콩/마카오/대만</th>
+				<td>70,000</td>
+				<td>40,000</td>
+				<td>43%</td>
+			</tr>
+			<tr>
+				<th scope="row">동남아/대양주</th>
+				<td>85,000</td>
+				<td>45,000</td>
+				<td>47%</td>
+			</tr>
+			<tr>
+				<th scope="row">호놀룰루</th>
+				<td>180,000</td>
+				<td>100,000</td>
+				<td>44%</td>
+			</tr>
+		</tbody>]]></entry>
+<entry key="hom.flight.bundle.10"><![CDATA[<thead>
+			<tr>
+				<th scope="col" rowspan="2">국가 및 지역</th>
+				<th scope="col" colspan="3">스마트</th>
+			</tr>
+			<tr>
+				<th scope="col">개별 요금</th>
+				<th scope="col" class="bundle">번들 요금</th>
+				<th scope="col" class="bundle">할인율</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th scope="row">일본</th>
+				<td>9,000</td>
+				<td>7,000</td>
+				<td>22%</td>
+			</tr>
+			<tr>
+				<th scope="row">홍콩/마카오/대만</th>
+				<td>10,000</td>
+				<td>8,000</td>
+				<td>20%</td>
+			</tr>
+			<tr>
+				<th scope="row">동남아/대양주</th>
+				<td>12,000</td>
+				<td>9,000</td>
+				<td>25%</td>
+			</tr>
+			<tr>
+				<th scope="row">호놀룰루</th>
+				<td>15,000</td>
+				<td>12,000</td>
+				<td>20%</td>
+			</tr>
+		</tbody>]]></entry>
+<entry key="hom.flight.paidEvent.eventType"><![CDATA[이벤트 종류]]></entry>
+<entry key="hom.flight.jiniInsight.none"><![CDATA[+++ 등록된 지니 매거진이 없습니다. +++]]></entry>
+<entry key="hom.flight.airlineFood.menu"><![CDATA[기내식 메뉴 안내]]></entry>
+<entry key="hom.flight.paidEvent.bookingInfo"><![CDATA[예약정보]]></entry>
+<entry key="hom.flight.taxFree.cash"><![CDATA[현금 결제]]></entry>
+<entry key="hom.seat.exitInfo.caption9"><![CDATA[자세히 보기]]></entry>
+<entry key="hom.seat.exitInfo.caption8"><![CDATA[비상구 좌석배정 내용을 확인하고 동의합니다]]></entry>
+<entry key="hom.seat.exitInfo.caption7"><![CDATA[7. 다른 승객들에게 정보를 적절하게 전달할 수 있는 능력이 부족한 승객]]></entry>
+<entry key="hom.seat.exitInfo.caption6"><![CDATA[6. 일반적인 보청기를 제외한 다른 청력보조장비 없이는 승무원의 탈출지시를 듣고 이해 할 수 없는 승객]]></entry>
+<entry key="hom.seat.exitInfo.caption5"><![CDATA[5. 콘텍트 렌즈나 안경을 제외한 다른 시력보조장비 없이는 비상 상황에서의 역할을 수행할 수 없는 승객]]></entry>
+<entry key="hom.seat.exitInfo.caption4"><![CDATA[4. 글 또는 그림의 형태로 제공된 비상탈출에 관한 지시를 읽고 이해하지 못하거나 승무원의 구두 지시를 이해하지 못하는 승객]]></entry>
+<entry key="hom.seat.exitInfo.caption3"><![CDATA[3. 활동성,체력 또는 양팔이나 손 및 다리의 민첩성이 비상 상황에서의 역할을 수행하기 어려운승객<br>
+    - 비상구나 탈출용 슬라이드 조작장치에 대한 접근<br>
+    - 탈출용 슬라이드 조작장치를 잡고 밀거나 당기고 돌리는 동작, 슬라이드의 전개 또는 팽창 후 안정 유지 및 탈출용 슬라이드로 탈출한 승객이 슬라이드로부터 벗어날 수 있도록 하는 동작<br>
+    - 비상구 작동 손잡이를 상하좌우로 잡고 당기거나 돌리거나 밀어서 비상구를 여는 동작 및 OVERWING WINDOW EXIT 작동 손잡이를 잡아 당겨서 EXIT를 여는 동작<br>
+    - 날개 위의 OVERWING WINDOW EXIT와 비슷한 크기와 무게의 장애물 제거 및 장애물 제거 시 균형의 유지<br>
+    - 신속한 비상구로의 접근 및 탈출]]></entry>
+<entry key="hom.seat.exitInfo.caption2"><![CDATA[2. 승객의 상태나 책임(유소아 동반승객, 임산부 승객, 노약자등)으로 인하여, 비상 상황에서의 역할을 수행하는데 방해가 되거나 수행할 경우 해를 입게 되는 승객]]></entry>
+<entry key="hom.flight.guide.tab1.wuxi"><![CDATA[우시]]></entry>
+<entry key="hom.seat.exitInfo.caption1"><![CDATA[1. <span class="fontTypeF">만15세 미만</span>이거나 동반자의 도움 없이 비상 상황에서의 역할을 수행하기에 불충분한 승객]]></entry>
+<entry key="hom.flight.guide.tab2.caution3"><![CDATA[<li>휴대용 전자기기는 무선통신기능을 Off 한 상태(비행기탑승모드 or Airplane Mode)로 항공기 내에서 항상 사용하실 수 있으며 통화 및 문자전송은 항공기가 목적지에 착륙하여 활주로를 벗어난 시점부터 사용 가능함을 안내 드립니다. 단, 운항 상황에 따라 승무원의 요청 시에는 사용이 제한될 수 있습니다. </li>
+		<li>휴대용 전자기기는 지상이동 및 이착륙 시에는 좌석 앞 주머니에 보관하셔야 하며 좌석 앞 주머니에 넣을 수 없는 크기나 무게의 전자기기(대형 노트북)는 별도로 인가된 보관장소에 보관하여야 합니다.</li>]]></entry>
+<entry key="hom.flight.bundle.09"><![CDATA[<thead>
+			<tr>
+				<th scope="col" rowspan="3">국가 및 지역</th>
+				<th scope="col" colspan="5">스마트</th>
+				<th scope="col" colspan="6">스마트 플러스</th>
+			</tr>
+			<tr>
+				<th scope="col" colspan="3">개별 요금</th>
+				<th scope="col" colspan="2" class="bundle">번들 요금</th>
+				<th scope="col" colspan="4">개별 요금</th>
+				<th scope="col" colspan="2" class="bundle">번들 요금</th>
+			</tr>
+			<tr>
+				<th scope="col">좌석</th>
+				<th scope="col">스낵팩</th>
+				<th scope="col">합계</th>
+				<th scope="col">가격</th>
+				<th scope="col">할인율</th>
+				<th scope="col">좌석</th>
+				<th scope="col">스낵팩</th>
+				<th scope="col">수하물</th>
+				<th scope="col">합계</th>
+				<th scope="col">가격</th>
+				<th scope="col">할인율</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th scope="row">일본/중국본토</th>
+				<td>4,000</td>
+				<td>5,000</td>
+				<td>9,000</td>
+				<td class="bundle">7,000</td>
+				<td class="bundle">22%</td>
+				<td>15,000</td>
+				<td>5,000</td>
+				<td>35,000</td>
+				<td>55,000</td>
+				<td class="bundle">30,000</td>
+				<td class="bundle">45%</td>
+			</tr>
+			<tr>
+				<th scope="row">홍콩/마카오/대만</th>
+				<td>5,000</td>
+				<td>5,000</td>
+				<td>10,000</td>
+				<td class="bundle">8,000</td>
+				<td class="bundle">20%</td>
+				<td>20,000</td>
+				<td>5,000</td>
+				<td>45,000</td>
+				<td>70,000</td>
+				<td class="bundle">40,000</td>
+				<td class="bundle">43%</td>
+			</tr>
+			<tr>
+				<th scope="row">동남아/대양주</th>
+				<td>7,000</td>
+				<td>5,000</td>
+				<td>12,000</td>
+				<td class="bundle">9,000</td>
+				<td class="bundle">25%</td>
+				<td>30,000</td>
+				<td>5,000</td>
+				<td>50,000</td>
+				<td>85,000</td>
+				<td class="bundle">45,000</td>
+				<td class="bundle">47%</td>
+			</tr>
+			<tr>
+				<th scope="row">호놀룰루</th>
+				<td>10,000</td>
+				<td>5,000</td>
+				<td>15,000</td>
+				<td class="bundle">12,000</td>
+				<td class="bundle">20%</td>
+				<td>55,000</td>
+				<td>5,000</td>
+				<td>120,000</td>
+				<td>180,000</td>
+				<td class="bundle">100,000</td>
+				<td class="bundle">44%</td>
+			</tr>
+		</tbody>]]></entry>
+<entry key="hom.seat.exitInfo.caption0"><![CDATA[국토교통부의 운항기술기준(고시)에 의거하여, 비상 상황 발생 시 비상구 개방 등 임무 수행이 가능한 승객에 한해 비상구 좌석을 이용할 수 있사오니 <span class="fontTypeF">하기 규정을 반드시 확인 후 좌석 지정해 주시기 바랍니다.</span><br>
+				* 비상구 좌석 구매 승객은 웹/모바일 체크인 서비스 이용이 제한됩니다.<br>
+				<span class="fontTypeF">* 출발지 공항 또는 객실 현장에서  착석 불가한 승객이라 판단될 경우 임의로 이용 취소 될 수 있으며 좌석 비용은 환불되지 않습니다.</span><br>
+				<span class="fontTypeF">* 비상구는 반드시 승무원의 신호에 따라 개방되어야 하며, 임의로 비상구를 개방할 경우 항공보안법에 따라 형사 처벌을 받을 수 있습니다.</span>]]></entry>
+<entry key="hom.flight.guide.tab2.caution2"><![CDATA[항공기 안전을 위하여 기내에서 사용 제한된 기기는 아래와 같습니다.]]></entry>
+<entry key="hom.flight.bundle.08"><![CDATA[번들 요금]]></entry>
+<entry key="hom.flight.guide.tab2.caution1"><![CDATA[<li>비행 탑승 모드로 설정한 휴대용 전자기기는 비행 전 구간에서 사용하실 수 있습니다.  단, 운항 상황에 따라 승무원의 요청 시에는 사용이 제한될 수 있습니다.</li>]]></entry>
+<entry key="hom.flight.bundle.07"><![CDATA[스낵팩]]></entry>
+<entry key="hom.flight.bundle.06"><![CDATA[수하물]]></entry>
+<entry key="hom.flight.bundle.05"><![CDATA[사전좌석지정]]></entry>
+<entry key="hom.flight.bundle.04"><![CDATA[개별로 구입 가능한 주요 부가서비스 (사전 좌석 지정 + 사전 구매 수하물 + 스낵팩)를 하나로 묶어 개별 구매 시보다 최대 약 50% 더 저렴하게 이용 가능한 서비스 입니다.]]></entry>
+<entry key="hom.flight.taxFree.advancebooking_1"><![CDATA[<li>사전예약주문은 해외 여행을 하기 전에 원하는 면세품을 미리 주문하고, 해당편 항공기 기내에서 주문품을 전달받는 방법으로, 품절 등으로 원하는 상품을 구입하지 못하는 불편함이 없는 편리한 제도입니다.</li>
+		<li>인터넷/귀국편 사전주문서/전화/FAX 등 다양한 방법으로 주문 하실 수 있습니다.</li>]]></entry>
+<entry key="hom.flight.bundle.03"><![CDATA[번들 서비스란]]></entry>
+<entry key="hom.flight.bundle.02"><![CDATA[별도로 구입 가능한 부가서비스 (사전 좌석 지정+사전구매수하물+스낵팩)를 하나로 묶어 <span>개별 구매 시보다 더욱 저렴하게 판매하는 서비스입니다.</span>]]></entry>
+<entry key="hom.flight.bundle.01"><![CDATA[번들 서비스]]></entry>
+<entry key="hom.flight.jiniPlay.route_5"><![CDATA[도쿄, 오사카, 삿포로, 오키나와, 타이베이, 기타큐슈, 후쿠오카, 상해]]></entry>
+<entry key="hom.flight.jiniPlay.route_4"><![CDATA[하와이, 케언스]]></entry>
+<entry key="hom.flight.jiniPlay.route_3"><![CDATA[코타키나발루, 방콕, 비엔티안, 푸켓, 조호르바루]]></entry>
+<entry key="hom.flight.jiniPlay.route_2"><![CDATA[클락, 홍콩, 마카오, 괌, 세부, 하노이, 다낭, 시안, 칼리보]]></entry>
+<entry key="hom.flight.jiniPlay.route_1"><![CDATA[국내선]]></entry>
+<entry key="hom.flight.jiniPlay.note_1"><![CDATA[<li>비행 중 좌석에서는 플러그를 통한 개별 충전만이 가능합니다. </li>
+		<li>원활한 사용을 위해 개인기기의 사전 충전을 권해드리며, 기내에서 별도의 충전 악세서리는 제공되지 않습니다.</li>
+		<li>지니 엔터테인먼트는 접속 가능 고도 이상에서만 이용 가능하며 그 외에는 접속이 차단됩니다.</li>
+		<li>기내 Wi-Fi는 지니 엔터테인먼트의 용도로만 이용이 가능하며, 그 외의 서비스는 제한됩니다.</li>
+		<li>제공되는 콘텐츠의 불법 복제 및 배포는 법적으로 제제나 처벌을 받을 수 있습니다.</li>
+		<li>서비스 이용 시 기내 정숙을 위해 이어폰 착용을 권장 드립니다.</li>
+		<li>결제를 진행한 디바이스에 한하여 이용이 가능합니다. (결제 후 디바이스 변경은 지원되지 않음)</li>
+		<li>일부 카드에 한하여 결제가 제한될 수 있으며, 콘텐츠별 부분 결제는 지원되지 않습니다.</li>
+		<li>지니플러스 운임 내 포함된 부가서비스 중복 구매 및 개인 사유 (단순 변심 등)는 환불 사유로 인정되지 않으므로 유의해주시기 바랍니다.</li>]]></entry>
+<entry key="hom.flight.seat.seattype"><![CDATA[좌석종류]]></entry>
+<entry key="hom.flight.seat.hongkong"><![CDATA[홍콩]]></entry>
+<entry key="hom.flight.paidEvent.validation.card"><![CDATA[카드를 선택해 주세요.]]></entry>
+<entry key="hom.flight.taxFree.card"><![CDATA[카드 결제]]></entry>
+<entry key="hom.flight.guide.tab2.operationlist_1"><![CDATA[라디오, TV, 워키토키 등 무선통신장비]]></entry>
+<entry key="hom.seat.b739.toilet3"><![CDATA[59열F(가장뒷자석) 뒤 오른쪽 화장실]]></entry>
+<entry key="hom.seat.b739.toilet2"><![CDATA[59열A(가장뒷자석) 뒤 왼쪽 화장실]]></entry>
+<entry key="hom.seat.b739.toilet1"><![CDATA[출입구 앞 화장실]]></entry>
+<entry key="hom.flight.taxFree.backhome"><![CDATA[귀국편 사전주문서 주문]]></entry>
+<entry key="hom.flight.paidEvent.paymentInfo"><![CDATA[결제정보]]></entry>
+<entry key="hom.flight.paidEvent.eventConfig"><![CDATA[이벤트 구성]]></entry>
+<entry key="hom.flight.jiniPlay.browser_4"><![CDATA[Internet Explorer 11<br>Chrome 58 +<br>Firefox 45 +]]></entry>
+<entry key="hom.flight.jiniPlay.browser_3"><![CDATA[Safari 9 +<br>Chrome 58 +<br>Firefox 45 +]]></entry>
+<entry key="hom.flight.jiniPlay.browser_2"><![CDATA[]]></entry>
+<entry key="hom.flight.jiniPlay.browser_1"><![CDATA[Safari (iOS 11 – 12)]]></entry>
+<entry key="hom.flight.taxFree_pop.ttl"><![CDATA[주요 국가별 면세 허용량]]></entry>
+<entry key="hom.seat.b777.toilet10"><![CDATA[63열K 뒤 오른쪽 화장실]]></entry>
+<entry key="hom.flight.taxFree_pop.caption"><![CDATA[국가, 주류, 담배, 향수순으로 구성된 주요 국가별 면세 허용량 안내표입니다.]]></entry>
+<entry key="hom.flight.cabinShopping.guide"><![CDATA[안내]]></entry>
+<entry key="hom.flight.taxFree.taxfree_ttl"><![CDATA[기내 면세품 안내]]></entry>
+<entry key="hom.flight.seat.characteristics"><![CDATA[특징]]></entry>
+<entry key="hom.flight.guide.tab1.intservice"><![CDATA[국제선 기내 서비스 목록]]></entry>
+<entry key="hom.flight.taxFree_pop.005"><![CDATA[- 2018. 04 관세청 국가별통관정보자료실 기준<br>(상시 변동 가능하므로, 입국 전 해당 국가 대사관, 관광청 등을 통해 재확인을 부탁드립니다.)]]></entry>
+<entry key="hom.flight.taxFree_pop.004"><![CDATA[<tr>
+			<td>괌(GUAM)</td>
+			<td>1갤런 (약 3.7L)</td>
+			<td>5보루</td>
+			<td>제한없음</td>
+		</tr>
+		<tr>
+			<td>하와이(HAWAII)</td>
+			<td>1L 이하, 1병</td>
+			<td>1보루</td>
+			<td>2온스 미만</td>
+		</tr>
+		<tr>
+			<td>라오스(LAOS)</td>
+			<td>위스키 1L, <br>와인 2L</td>
+			<td>2보루<br>(시가 50개비)</td>
+			<td>적당량</td>
+		</tr>
+		<tr>
+			<td>마카오(MACAU)</td>
+			<td>왕복 시 12도 이상 1L 이하, 1병</td>
+			<td>19개비<br>(시가 1개비)</td>
+			<td>적당량</td>
+		</tr>
+		<tr>
+			<td>말레이시아(MALAYSIA)</td>
+			<td>1L</td>
+			<td>1보루</td>
+			<td>2온스 미만</td>
+		</tr>
+		<tr>
+			<td>미국(USA)</td>
+			<td>1L 이하</td>
+			<td>1보루<br>(시가 100개비)</td>
+			<td>150ml 이하</td>
+		</tr>
+		<tr>
+			<td>베트남(VIETNAM)</td>
+			<td>22도 이상 1.5L + <br>22도 이하 2L + 맥주 3L</td>
+			<td>2보루<br>(시가 100개비)</td>
+			<td>적당량</td>
+		</tr>
+		<tr>
+			<td>일본(JAPAN)</td>
+			<td>3병 (1병당 760ml)</td>
+			<td>2보루<br>(시가 50개비)</td>
+			<td>2온스 미만</td>
+		</tr>
+		<tr>
+			<td>중국(CHINA)</td>
+			<td>12도 이상<br>1.5L 이하</td>
+			<td>2보루<br>(시가 100개비)</td>
+			<td>기준없음</td>
+		</tr>
+		<tr>
+			<td>타이완(TAIWAN, 대만)</td>
+			<td>1L 이하, 1병</td>
+			<td>1보루<br>(시가 25개비)</td>
+			<td>적당량</td>
+		</tr>
+		<tr>
+			<td>태국(THAILAND)</td>
+			<td>1L</td>
+			<td>1보루</td>
+			<td>적당량</td>
+		</tr>
+		<tr>
+			<td>필리핀(PHILIPPINES)</td>
+			<td>2병 (1병당 1L)</td>
+			<td>1보루<br>(시가 50개비)</td>
+			<td>적당량</td>
+		</tr>
+		<tr>
+			<td>홍콩(HONGKONG)</td>
+			<td>1L 이하</td>
+			<td>19개비<br>(시가 1개비)</td>
+			<td>적당량</td>
+		</tr>
+		<tr>
+			<td>호주(AUSTRALIA)</td>
+			<td>1인당 2.25L 이하</td>
+			<td>50개비 (시가 50g)</td>
+			<td>성인 AUD 900 면세 한도 이하, <br>18세 미만 성인<br>AUD 450이하</td>
+		</tr>]]></entry>
+<entry key="hom.flight.taxFree_pop.003"><![CDATA[향수]]></entry>
+<entry key="hom.flight.taxFree_pop.002"><![CDATA[담배]]></entry>
+<entry key="hom.flight.taxFree_pop.001"><![CDATA[주류]]></entry>
+<entry key="hom.flight.seat.online"><![CDATA[온라인]]></entry>
+<entry key="hom.flight.jiniPlay.os"><![CDATA[호환 체제]]></entry>
+<entry key="hom.seat.b737.standardB"><![CDATA[지니스탠다드B]]></entry>
+<entry key="hom.seat.b737.standardA"><![CDATA[지니스탠다드A]]></entry>
+<entry key="hom.flight.seat.country4_new"><![CDATA[호주/미주 *]]></entry>
+<entry key="hom.flight.paidEvent.applyType"><![CDATA[신청구분]]></entry>
+<entry key="hom.flight.jiniPlay.servicecharge"><![CDATA[지니 엔터테인먼트 서비스 요금]]></entry>
+<entry key="hom.flight.jiniPlay.app"><![CDATA[애플리케이션 또는 영상 플레이어 플러그인]]></entry>
+<entry key="hom.flight.guide.tab1.cabinguide"><![CDATA[기내 환경 등]]></entry>
+<entry key="hom.flight.guide.tab1.xian"><![CDATA[시안]]></entry>
+<entry key="hom.flight.paidEvent.normal"><![CDATA[정상]]></entry>
+<entry key="hom.flight.seat.note_2"><![CDATA[<li>JINI EXIT SEAT 구매 후 공항에서 해당 좌석 이용이 불가능한 승객이라고 판단할 경우 현장에서 임의로 좌석지정을 취소할 수 있으며, 이 경우 좌석 비용은 환불처리 되지 않습니다.</li>
+		<li>항공기 운영과 기내 서비스 관련 일부 좌석은 사전 구매가 제한됨을 양해하여 주시기 바랍니다.</li>
+		<li>항공기 기종과 스케줄은 사전예고 없이 변경될 수 있으며, 이 경우 사전구매하신 좌석이 변경될 수 있습니다.</li>
+		<li>좌석 전면 격벽 유무는 환불 사유로 인정되지 않으니 구매 시 유의하시기 바랍니다.</li>]]></entry>
+<entry key="hom.flight.seat.note_1"><![CDATA[<li>출발 24시간 전까지 사전좌석지정 서비스 취소가 가능합니다. 출발 24시간 이내에는 취소 및 환불이 불가하며, 항공권 환불 시에도 사전좌석지정 비용은 환불되지 않습니다.</li>
+		<li>신청한 좌석의 변경을 원하시는 경우에는, 기존 좌석 취소 후 재구매 해주시기 바랍니다.</li>
+		<li>
+			관련 규정에 의거하여, 비상구 좌석 이용에 적합하지 않은 승객은 해당 좌석 배정을 제한하고 있습니다. <span class="btn_space"><a href="#" data-click-area="서비스-부가서비스-사전좌석지정" data-click-name="관련 규정보기" onclick="showPopupLayer('/popup/exitInfo3'); return false" title="새 창 열림" class="btnTypeA">관련 규정 보기</a></span>
+			<span class="stxt">비상구열 좌석 구매 후 공항에서 해당 좌석 이용이 불가능한 승객이라고 판단할 경우, 현장에서 임의로 좌석 지정을 취소할 수 있으며, <span class="pbr">이 경우 좌석 비용은 환불되지 않습니다.</span></span>
+		</li>
+		<li>항공기 운영에 따라 일부 좌석은 사전좌석지정이 제한됨을 양해하여 주시기 바랍니다.</li>
+		<li>항공기 기종과 스케줄은 사전예고 없이 변경될 수 있으며, 이 경우 사전 구매하신 좌석이 변경될 수 있습니다.</li>
+		<li>좌석 전면 격벽 유무는 탑승 후 환불 사유로 인정되지 않으니, 구매 시 유의하시기 바랍니다.</li>]]></entry>
+<entry key="hom.flight.taxFree.caption3"><![CDATA[기내 면세품 전화/FAX 주문 안내]]></entry>
+<entry key="hom.flight.taxFree.caption2"><![CDATA[기내 면세품 귀국편 사전주문서 주문 안내]]></entry>
+<entry key="hom.flight.seat.seattype_9"><![CDATA[JINI EXIT<br>(No Recline)]]></entry>
+<entry key="hom.flight.taxFree.caption1"><![CDATA[기내 면세품 인터넷 사전예약주문 안내]]></entry>
+<entry key="hom.flight.seat.note"><![CDATA[유의]]></entry>
+<entry key="hom.flight.seat.seattype_8"><![CDATA[JINI FRONT <br> JINI EXIT (No Recline)]]></entry>
+<entry key="hom.flight.seat.seattype_7"><![CDATA[(당일 업그레이드)]]></entry>
+<entry key="hom.flight.seat.seattype_6"><![CDATA[JINI EXIT Seat (No Recline)]]></entry>
+<entry key="hom.flight.paidEvent.eventTarget"><![CDATA[이벤트 받는 분]]></entry>
+<entry key="hom.flight.seat.seattype_5"><![CDATA[JINI STANDARD]]></entry>
+<entry key="hom.flight.seat.seattype_4"><![CDATA[JINI STRETCH]]></entry>
+<entry key="hom.flight.seat.seattype_3"><![CDATA[JINI EXIT]]></entry>
+<entry key="hom.flight.seat.seattype_2"><![CDATA[JINI FRONT]]></entry>
+<entry key="hom.flight.seat.seattype_1"><![CDATA[JINI PLUS]]></entry>
+<entry key="hom.flight.jiniPlay.way"><![CDATA[지니 엔터테인먼트 이용 방법]]></entry>
+<entry key="hom.flight.guide.tab1.caption2"><![CDATA[이상의 불법 행위 적발 시, 최대 5년 이하 징역 (폭행, 협박 등) 또는 500만원 이하의 벌금(흡연행위, 성적 수치심 유발행위 등)이 부과될 수 있사오니 유의하여 주시기 바랍니다.]]></entry>
+<entry key="hom.flight.guide.tab1.caption1"><![CDATA[비행시간 3시간 미만 기내 서비스 목록]]></entry>
+<entry key="hom.flight.jiniPlay.note"><![CDATA[유의]]></entry>
+<entry key="hom.flight.paidEvent.arvl"><![CDATA[[도착]]]></entry>
+<entry key="hom.flight.paidEvent.finalPaymentAmount"><![CDATA[최종 결제금액]]></entry>
+<entry key="hom.flight.seat.guidance"><![CDATA[좌석 안내]]></entry>
+<entry key="hom.flight.paidEvent.contents"><![CDATA[내용]]></entry>
+<entry key="hom.flight.seat"><![CDATA[사전좌석지정]]></entry>
+<entry key="hom.flight.seat.btn.ruleview"><![CDATA[관련 규정 보기]]></entry>
+<entry key="hom.flight.jiniPlay.step3"><![CDATA[<span>STEP</span>3]]></entry>
+<entry key="hom.flight.jiniPlay.route"><![CDATA[노선]]></entry>
+<entry key="hom.flight.jiniPlay.step2"><![CDATA[<span>STEP</span>2]]></entry>
+<entry key="hom.flight.jiniPlay.step1"><![CDATA[<span>STEP</span>1]]></entry>
+<entry key="hom.flight.seat.country3_new"><![CDATA[동남아/대양주]]></entry>
+<entry key="hom.flight.taxFree.taxfree"><![CDATA[면세품]]></entry>
+<entry key="hom.flight.paidEvent.validation.installment"><![CDATA[50,000원 이하일 경우 할부를 선택하실 수 없습니다.]]></entry>
+<entry key="hom.seat.b739.frontseat"><![CDATA[지니프론트]]></entry>
+<entry key="hom.flight.taxFree.taxfree_subttl"><![CDATA[빠질 수 없는 여행의 재미 쇼핑, 진에어에서는 국제선 이용고객을 위해 면세품을 편리하게 구입하실 수 있도록 기내에서 면세품을 판매하고 있습니다.]]></entry>
+<entry key="hom.seat.b737.emergency"><![CDATA[비상구]]></entry>
+<entry key="hom.seat.b777.ttl"><![CDATA[B777-200ER 좌석배치도]]></entry>
+<entry key="hom.seat.b737.toilet3"><![CDATA[59열F(가장뒷자석) 뒤 오른쪽 화장실]]></entry>
+<entry key="hom.seat.b737.toilet2"><![CDATA[59열A(가장뒷자석) 뒤 왼쪽 화장실]]></entry>
+<entry key="hom.seat.b737.toilet1"><![CDATA[출입구 앞 화장실]]></entry>
+<entry key="hom.flight.jiniPlay.os_4"><![CDATA[Windows<br>7+]]></entry>
+<entry key="hom.flight.jiniPlay.os_3"><![CDATA[MacOS<br>10.12-10.14]]></entry>
+<entry key="hom.flight.jiniPlay.os_2"><![CDATA[Android<br>6.0+]]></entry>
+<entry key="hom.flight.jiniPlay.os_1"><![CDATA[iOS<br>11-13]]></entry>
+<entry key="hom.flight.paidEvent.eventContents"><![CDATA[이벤트 내용]]></entry>
+<entry key="hom.flight.cabinShopping.jini.store"><![CDATA[지니 스토어]]></entry>
+<entry key="hom.seat.b739.noReclineseat"><![CDATA[비상구열(등받이 고정)]]></entry>
+<entry key="hom.flight.paidEvent.alert.overlap"><![CDATA[신청 된 유료 이벤트가 있습니다.\n변경을 원하시는 경우 마이페이지-부가서비스 취소 후 재신청하실 수 있습니다.]]></entry>
+<entry key="hom.flight.jiniPlay.sup_3"><![CDATA[브라우저에서 보안상 새 버전의 Flash Player를 요구할 수 있습니다.]]></entry>
+<entry key="hom.flight.jiniPlay.sup_2"><![CDATA[브라우징만 가능하며, 스트리밍 호환은 불가합니다.]]></entry>
+<entry key="hom.flight.jiniInsight.subttl"><![CDATA[새롭게 단장한 진에어 기내소식지를 만나보세요.]]></entry>
+<entry key="hom.flight.jiniPlay.sup_1"><![CDATA[DRM (Digital Rights Management)에 해당하지 않는 영상만 스트리밍이 제공됩니다.]]></entry>
+<entry key="hom.flight.guide.tab3"><![CDATA[기내 휴대용 전자기기]]></entry>
+<entry key="hom.flight.taxFree.payno"><![CDATA[결제 불가]]></entry>
+<entry key="hom.flight.seat.country2_new"><![CDATA[홍콩/마카오/대만]]></entry>
+<entry key="hom.flight.guide.tab2"><![CDATA[이벤트 플라잇]]></entry>
+<entry key="hom.flight.taxFree.internetbooking"><![CDATA[인터넷 사전예약주문]]></entry>
+<entry key="hom.flight.guide.tab1"><![CDATA[기내 서비스 안내]]></entry>
+<entry key="hom.flight.seat.caption2"><![CDATA[채널, 출/도착 지역, JINI PLUS(당일 업그레이드), JINI STRETCH JINI EXIT, JINI FRONT, JINI STANDARD 순으로 나타낸 좌석별 운임 안내표입니다.]]></entry>
+<entry key="hom.flight.guide.tab1.3hourup"><![CDATA[비행시간 3시간 이상]]></entry>
+<entry key="hom.flight.seat.caption1"><![CDATA[기종, 좌석종류, 특징 순으로 나타낸 좌석 안내표입니다.]]></entry>
+<entry key="hom.seat.exitInfo.title"><![CDATA[<strong>비상구 좌석 지정 시 유의 사항 안내</strong>]]></entry>
+<entry key="hom.flight.paidEvent.introduce"><![CDATA[이벤트 소개]]></entry>
+<entry key="hom.flight.paidEvent.info.034"><![CDATA[비행기 탑승 후,<span>특별한 기념일 즐기기!</span>]]></entry>
+<entry key="hom.flight.paidEvent.info.033"><![CDATA[출발 72시간 전까지<span>본 페이지를 통해 서비스 신청</span><span>및 카드결제!</span>]]></entry>
+<entry key="hom.flight.airlineFood.jini.kitchen"><![CDATA[지니 키친]]></entry>
+<entry key="hom.flight.paidEvent.info.032"><![CDATA[항공권 구매 완료!]]></entry>
+<entry key="hom.flight.paidEvent.info.031"><![CDATA[STEP 03]]></entry>
+<entry key="hom.flight.paidEvent.info.030"><![CDATA[STEP 02]]></entry>
+<entry key="hom.seat.b777.stanseat"><![CDATA[지니스탠다드]]></entry>
+<entry key="hom.flight.guide.tab2.target_3"><![CDATA[<li>인공 심장 박동기, 보청기, Electronic Nerve Stimulator, 기타 인공 장기 </li>
+		<li>사전 허가된 생명 보조 장치나 의료 지원 장치 </li>
+		<li>휴대용 음성녹음기, 전기면도기, 전자시계, 개인 소음 방지용 Headphone  </li>
+		<li>회사가 설치한 전자장비 (예시 : IFE System, 위성전화, Video 장비)  </li>
+		<li>외선 미사용 GPS 수신기, 수신 전용 무선 호출기 </li>
+		<li>무선 통신 기능이 꺼진(비행기 탑승 모드)PDA, 스마트 기기 </li>
+		<li>전자게임기, 블루투스 통신 방식 기기, Laptop Computer </li>
+		<li>Electronic Camera(Film/Digital), 비디오, 카메라/재생기 </li>
+		<li>CD/MD/MP3 Players, Digital Cassette Players or Recorders</li>]]></entry>
+<entry key="hom.flight.guide.tab2.target_2"><![CDATA[<li>외선사용 GPS 수신기 (GPS receivers utilizing external wire) </li>
+		<li>쌍방 통신용 무선 호출기 </li>
+		<li>무선 통신기능이 켜진 PDA, 스마트기기(Smart Phone, Tablet PC, e-Reader등) 및 휴대 전화기 등</li>]]></entry>
+<entry key="hom.seat.exitInfo.caution3"><![CDATA[<li>상기 규정된 승객에서는 JINI EXIT SEAT / JINI EXIT SEAT(No Recline) 배정을  제한하고 있사오니 상기 내용을 확인하신 후 좌석 구매를 부탁 드립니다.</li>
+		<li>JINI EXIT SEAT / JINI EXIT SEAT(No Recline) 좌석 구매 후 공항에서 해당 좌석 이용이 불가능한 승객이라고 판단할 경우 현장에서 임의로 좌석 배정을 취소할 수 있으며, 이 경우 좌석 비용은 환불처리 되지 않습니다. 그리고 JINI EXIT SEAT / JINI EXIT SEAT(No Recline) 구매 승객은 웹체크인이 불가능합니다.</li>]]></entry>
+<entry key="hom.flight.guide.tab2.target_1"><![CDATA[<li>AM/FM 라디오, 텔레비전 (휴대용 TV 수신기) </li>
+		<li>케이블로 연결하여 사용하는 컴퓨터/게임기의 주변장치 (프린터, 팩스 등) </li>
+		<li>무선 조종 장난감 </li>
+		<li>Transmitter (상업용 또는 아마추어용 무선 송수신기, Walkie-talkies 등) </li>
+		<li>VHF Scanner Receiver </li>
+		<li>무선 마우스 (블루투스 통신방식이 아닌 무선 방식)</li>]]></entry>
+<entry key="hom.seat.exitInfo.caution2"><![CDATA[<p>만 15세 미만이거나 동반자의 도움 없이 비상 상황에서의 역할을 수행하기에 불충분한 승객</p>
+		<p>글 또는 그림의 형태로 제공된 비상탈출에 관한 지시를 읽고 이해하지 못하거나 승무원의 구두 지시를 이해하지 못하는 승객</p>
+		<p>콘텍트 렌즈나 안경을 제외한 다른 시력보조장비 없이는 비상 상황에서의 역할을 수행할 수 없는 승객</p>
+		<p>일반적 보청기를 제외한 다른 청력보조장비 없이는 승무원의 탈출 지시를 듣고 이해할 수 없는 승객</p>
+		<p>다른 승객들에게 정보를 적절하게 전달할 수 있는 능력이 부족한 승객</p>
+		<p>승객의 상태나 책임으로 인하여, 비상 상황에서의 역할을 수행하는데 방해가 되거나 수행할 경우 해를 입게 되는 승객(장애인, 노약자, 임산부, 유소아 동반 승객)</p>]]></entry>
+<entry key="hom.flight.jiniPlay.browser"><![CDATA[호환 브라우저]]></entry>
+<entry key="hom.seat.exitInfo.caution1"><![CDATA[<li>비상구나 탈출용 슬라이드 조작장치에 대한 접근</li>
+		<li>탈출용 슬라이드 조작장치를 잡고 밀거나 당기고 돌리는 동작, 슬라이드의 전개 또는 팽창 후 안정 유지 및 탈출용 슬라이드로 탈출한 승객이 슬라이드로부터 벗어날 수 있도록 하는 동작</li>
+		<li>비상구 작동 손잡이를 상하좌우로 잡고 당기거나 돌리거나 밀어서 비상구를 여는 동작 및 OVERWING WINDOW EXIT 작동 손잡이를 잡아 당겨서 EXIT를 여는 동작</li>
+		<li>날개 위의 OVERWING WINDOW EXIT와 비슷한 크기와 무게의 장애물 제거 및 장애물 제거 시 균형의 유지</li>
+		<li>신속한 비상구로의 접근 및 탈출</li>]]></entry>
+<entry key="hom.flight.paidEvent.dep"><![CDATA[[출발]]]></entry>
+<entry key="hom.flight.guide.tab1.cabinguide_ttl3"><![CDATA[안전한 여행을 위한 가이드]]></entry>
+<entry key="hom.flight.guide.tab1.cabinguide_ttl2"><![CDATA[기내습도 및 기압]]></entry>
+<entry key="hom.flight.paidEvent.info.029"><![CDATA[STEP 01]]></entry>
+<entry key="hom.flight.guide.tab1.cabinguide_ttl1"><![CDATA[기내온도]]></entry>
+<entry key="hom.flight.paidEvent.info.028"><![CDATA[운영 노선 : 인천발 미주/대양주/중국/동남아 노선 및 일본 삿포로(타이베이 등 3시간 미만 단거리 노선 제외)]]></entry>
+<entry key="hom.flight.paidEvent.info.027"><![CDATA[이용 대상 : 인천발 국제선 정기편 항공권 구매 고객 ‘본인 또는 동반 예약자’(인천발 기내 서비스에 한함)]]></entry>
+<entry key="hom.flight.paidEvent.info.026"><![CDATA[이용방법]]></entry>
+<entry key="hom.flight.paidEvent.info.025"><![CDATA[생크림 케이크 크기 : 지름 11cm, 높이 5cm<br>상기 이미지는 연출된 예로 실제와 다를 수 있습니다.]]></entry>
+<entry key="hom.flight.paidEvent.info.024"><![CDATA[생크림 케이크, 원글라스 화이트 와인(2잔)]]></entry>
+<entry key="hom.flight.paidEvent.info.023"><![CDATA[생크림 케이크, 스페셜티(2잔)]]></entry>
+<entry key="hom.flight.jiniInsight.btn.quiz"><![CDATA[지니퀴즈 정답]]></entry>
+<entry key="hom.flight.paidEvent.info.022"><![CDATA[둘만의 결혼식은 이제부터 시작! 우리를 위해 준비했어♡]]></entry>
+<entry key="hom.flight.paidEvent.journey"><![CDATA[여정]]></entry>
+<entry key="hom.flight.jiniPlay.subttl"><![CDATA[여행지로 가는 하늘길이 더욱 즐거워집니다.]]></entry>
+<entry key="hom.flight.seat.country1_new"><![CDATA[일본/중국본토]]></entry>
+<entry key="hom.flight.paidEvent.detailInfo"><![CDATA[상세 정보]]></entry>
+<entry key="hom.flight.jiniPlay.step3_1"><![CDATA[원하시는 영상을 선택하신 후 구매 버튼을 클릭하면 결제 화면으로 이동합니다.<br>신용카드 및 고객 정보 입력을 통해 단 한번의 결제로 지니 엔터테인먼트의 모든 콘텐츠를 마음껏 이용하실 수 있습니다.]]></entry>
+<entry key="hom.seat.exitInfo.ttl"><![CDATA[<strong>비상구열 탑승 불가 승객</strong>]]></entry>
+<entry key="hom.flight.guide.tab2.cabinlimit"><![CDATA[기내 사용금지 및 제한 기기]]></entry>
+<entry key="hom.flight.paidEvent.info.019"><![CDATA[미역국밥, 생크림 케이크, 원글라스 화이트 와인]]></entry>
+<entry key="hom.flight.seat.characteristics_6"><![CDATA[비상구에 위치한 좌석 (등받이 고정)]]></entry>
+<entry key="hom.flight.paidEvent.info.018"><![CDATA[미역국밥, 생크림 케이크, 스페셜티]]></entry>
+<entry key="hom.flight.seat.characteristics_5"><![CDATA[일반 좌석 중 뒤쪽 Zone]]></entry>
+<entry key="hom.flight.seat.characteristics_4"><![CDATA[일반 좌석 중 앞쪽 Zone]]></entry>
+<entry key="hom.flight.paidEvent.info.016"><![CDATA[하늘 위에서 맞이하는 생일상, 오늘의 주인공은 나야 나!]]></entry>
+<entry key="hom.flight.seat.characteristics_3"><![CDATA[비상구에 위치한 좌석]]></entry>
+<entry key="hom.flight.jiniPlay.routefree"><![CDATA[무료]]></entry>
+<entry key="hom.flight.guide.subttl"><![CDATA[진에어를 이용하시면, <span>젊고 참신하고 색다른 감각을 느끼실 수 있습니다.</span>]]></entry>
+<entry key="hom.flight.seat.characteristics_2"><![CDATA[첫번째 열에 위치한 좌석]]></entry>
+<entry key="hom.flight.jiniPlay.impossiblesupport"><![CDATA[지원 불가]]></entry>
+<entry key="hom.flight.paidEvent.info.014"><![CDATA[해당 패키지 상품은 기류 안정 시 서비스가 가능하며 모든 음식은 외부 반출이 금지되어 있어 기내에서 전량 취식을 부탁 드립니다.]]></entry>
+<entry key="hom.flight.seat.characteristics_1"><![CDATA[좌석 간 간격이 15CM 더 넓고, 더 빠른 수하물 수취 서비스 가능]]></entry>
+<entry key="hom.flight.guide.tab1.3hourdown"><![CDATA[비행시간 3시간 미만]]></entry>
+<entry key="hom.flight.paidEvent.info.013"><![CDATA[노선별 기본 기내식은 별도로 제공됩니다.]]></entry>
+<entry key="hom.flight.paidEvent.info.012"><![CDATA[기상상태 등에 따라 서비스가 제한될 수 있습니다.]]></entry>
+<entry key="hom.flight.jiniPlay.application_2"><![CDATA[<li>고객서비스센터 : 태블릿 PC 렌탈 서비스는 B777 항공기에 한하여 신청 가능</li>]]></entry>
+<entry key="hom.flight.paidEvent.info.011"><![CDATA[한정된 수량으로 서비스를 하는 관계로, 신청이 늦으시면 이용이 어려울 수 있습니다.]]></entry>
+<entry key="hom.flight.jiniPlay.application_1"><![CDATA[<li>고객서비스센터 및 온라인 : 출발 72시간 전까지 구매 가능<span class="pbr">(홈페이지/모바일로 항공권 구매 시 또는 마이페이지에서 부가서비스 신청)</span></li>
+		<li>탑승 전 지니플레이 APP 설치 후 기내에서 객실 승무원 통해 구매</li>]]></entry>
+<entry key="hom.flight.paidEvent.info.010"><![CDATA[주문한 패키지 변경은 불가하며 구매한 패키지를 취소한 후, 재구매 하시기 바랍니다.]]></entry>
+<entry key="hom.seat.info.title"><![CDATA[좌석 배치도]]></entry>
+<entry key="hom.flight.paidEvent.validation.dtCheck2"><![CDATA[탑승 일자 종료일이 시작일 보다 빠를 수 없습니다.]]></entry>
+<entry key="hom.flight.paidEvent.validation.dtCheck1"><![CDATA[신청 일자 종료일이 시작일 보다 빠를 수 없습니다.]]></entry>
+<entry key="hom.flight.paidEvent.em"><![CDATA[이메일]]></entry>
+<entry key="hom.flight.guide.tab1.announcement"><![CDATA[진에어 객실 승무원을 지니(Jini)라고 불러주세요! 고객이 원하는 것은 어디서든 최선을 다하여 서비스 하겠습니다.]]></entry>
+<entry key="hom.flight.paidEvent.info.009"><![CDATA[항공기 출발 72시간 전까지 신청 및 취소 가능하며, 마이페이지> 부가서비스를 통해 취소하실 수 있습니다.]]></entry>
+<entry key="hom.flight.jiniPlay.servicelist"><![CDATA[Movies & TV<span>진에어에서 엄선한 영화, 단편물 및 어린이를 위한 애니메이션이 준비되어 있습니다.</span>]]></entry>
+<entry key="hom.flight.paidEvent.info.008"><![CDATA[항공권 결제 후, 유료 이벤트 신청 페이지를 통해 개별 신청하셔야 하며 공항 및 기내 현장 신청은 불가합니다.]]></entry>
+<entry key="hom.flight.paidEvent.info.005"><![CDATA[<strong>허니문</strong>결혼식은 끝났지만<span>이벤트는 이제부터 시작!</span>]]></entry>
+<entry key="hom.flight.jiniPlay.support"><![CDATA[운영체제 별 지원 가능한 브라우저 및 어플리케이션]]></entry>
+<entry key="hom.flight.paidEvent.info.003"><![CDATA[<strong>생일</strong>하늘 위에서 맞이하는<span>나만을 위한 생일 파티와 생일상!</span>]]></entry>
+<entry key="hom.flight.paidEvent.info.002"><![CDATA[고객님 본인 또는 동반하시는 탑승객을 위해 기념하고 싶은 특별한 기념일이 있으시면 지금 바로 신청하세요.<br>저희 진에어에서는 다음과 같은 기념일 이벤트를 제공하고 있습니다.]]></entry>
+<entry key="hom.flight.paidEvent.info.001"><![CDATA[기내에서 펼쳐지는 평생 간직되는 추억,<span>지금 신청하세요!</span>]]></entry>
+<entry key="hom.flight.airlineFood.note"><![CDATA[유의]]></entry>
+<entry key="hom.flight.seat.146"><![CDATA[좌석 간 간격이 일반석 보다 24cm 더 넓은 비즈니스 좌석]]></entry>
+<entry key="hom.flight.seat.145"><![CDATA[지니비즈]]></entry>
+<entry key="hom.flight.seat.144"><![CDATA[B737-900]]></entry>
+<entry key="hom.flight.airlineFood.note_ttl"><![CDATA[]]></entry>
+<entry key="hom.flight.seat.143"><![CDATA[일반 좌석 중 앞 쪽에 위치한 좌석]]></entry>
+<entry key="hom.flight.seat.142"><![CDATA[비상구에 위치한 좌석 (등받이 고정)]]></entry>
+<entry key="hom.seat.b777"><![CDATA[B777-200ER]]></entry>
+<entry key="hom.flight.seat.141"><![CDATA[비상구열 (등받이 고정)]]></entry>
+<entry key="hom.flight.seat.140"><![CDATA[<li>통화 별 환율 기준 :  KRW1,000 =  USD 1 = JPY 100 =  CNY 7 = HKD 8 = MOP 8 = TWD 30 = THB 35 = MYR4 = PHP 50 = VND 24,000 = AUD 1.4</li>
+		<li>공항 현장 구매 : 지니플러스, 지니스트레치, 비상구열, 비상구열 (등받이 고정)의 잔여 좌석에 한해 당일 공항에서 좌석 배정 및 결제 가능
+			<ul>
+				<li>모든 통화는 출발지 현지 통화 기준으로 적용되며, 필리핀은 USD로도 구매가 가능합니다.</li>
+				<li>지니플러스 좌석의 경우 노선에 따라 지니플러스 운임을 별도로 운영하고 있으며, 동 경우 예약 단에서 지니플러스 운임을 선택해야 해당 좌석 무상 배정이 가능합니다. <span class="pbr">일반 운임으로 구매 시에는 당일 공항에서 잔여 좌석에 한해 업그레이드 비용 지불 후 지니플러스 좌석으로 배정 가능합니다. (노선별 업그레이드 비용 차등)</span></li>
+			</ul>
+		</li>]]></entry>
+<entry key="hom.flight.paidEvent.info.015_2"><![CDATA[허니문상]]></entry>
+<entry key="hom.flight.paidEvent.info.015_1"><![CDATA[생일상]]></entry>
+<entry key="hom.seat.b739.jinibizseat"><![CDATA[지니비즈]]></entry>
+<entry key="hom.flight.guide.tab1.inbu"><![CDATA[인천/부산 왕복]]></entry>
+<entry key="hom.flight.seat.subttl"><![CDATA[국내선/국제선 탑승 전 고객님이 원하는 자리를 <span>미리 선택하여 구매하는 서비스 입니다.</span>]]></entry>
+<entry key="hom.flight.paidEvent.section"><![CDATA[구간]]></entry>
+<entry key="hom.flight.guide.tab1.caution4"><![CDATA[‘항공보안법’에 따라 항공기 안에서의 불법 행위는 엄격히 금지되어 있습니다.]]></entry>
+<entry key="hom.flight.guide.tab1.caution3"><![CDATA[<li>기내습도는 15% 내외로 상당히 건조한 편입니다. 피부 및 눈, 코 등이 건조해져 불편함을 느끼실 수 있으니 기내에서는 수분을 수시로 보충하여 주시기 바라며, 눈의 건조나 염증 예방을 위해 렌즈보다는 안경 착용을 권장 드립니다.</li>
+		<li>순항중인 항공기내의 기압은 보통의 건강하신 분들께는 큰 영향이 없겠으나, 이착륙 시의 기압변화로 간혹 귀가 멍멍해지는 경우에는 가볍게 턱을 움직이시거나 물을 드시는 것을 권장 드립니다.</li>
+		<li>기내에는 비상시에 사용이 가능 한 연고, 반창고, 진통제, 소화제 등 각종 상비약이 비치되어 있습니다. 기타 불편한 점이 있으시면 승무원에게 도움을 요청하여 주시기 바랍니다.</li>]]></entry>
+<entry key="hom.flight.guide.tab1.caution2"><![CDATA[<li>기내온도는 23~25도로 유지되어 선선한 편이므로 얇은 소재의 긴 소매 상/하의를 권장 드립니다.</li>]]></entry>
+<entry key="hom.flight.jiniPlay.step3_ttl"><![CDATA[영상 선택 후 결제]]></entry>
+<entry key="hom.flight.guide.tab1.caution1"><![CDATA[<li>생수는 무료로 제공되나, 맥주나 양주, 스낵 &amp; 상품은 유료이며, 현금 및 카드로 결제가 가능합니다. <span>(직불카드, 체크카드, 기프트 카드, 하이브리드 카드는 사용하실 수 없음을 양지 바랍니다.) </span></li>
+		<li>운영 사정에 따라 일부 전세기 운항편에서는 지니 키즈밀, 유상 스낵 &amp; 상품 등의 서비스가 운영되지 않을 수 있습니다.</li>
+		<li>주류 및 스낵 &amp; 상품 서비스를 원하시는 분은 승무원에게 말씀해 주십시오.</li>
+		<li>노선에 따라 이용 가능한 서비스 및 상품의 종류에 제한이 있으므로 상세 안내를 참조해 주시기 바랍니다.</li>
+		<li>기내식 알레르기 알림 : 특정식품에 대한 알레르기 또는 유사증상이 있는 승객께서는 반드시 메뉴를 확인하여 주시기 바랍니다.</li>
+		<li>땅콩 알레르기 알림 : 진에어에서 제공하는 기내식은 실제 땅콩을 사용하지 않았더라도 조리 과정에서 땅콩성분이 함유된 식용유, 식재료 등이 포함될 수 있으며, 다른 승객의 소지 및 취식을 제한할 수 없습니다. 이에 땅콩 알레르기 혹은 유사 증상이 있으신 승객께서는 여행 가능여부를 의사와 상의하여 주시기 바랍니다.</li>]]></entry>
+<entry key="hom.flight.seat.139"><![CDATA[온라인<br>(홈페이지, 모바일)]]></entry>
+<entry key="hom.flight.seat.138"><![CDATA[호주/미주]]></entry>
+<entry key="hom.flight.seat.137"><![CDATA[동남아/대양주]]></entry>
+<entry key="hom.flight.seat.136"><![CDATA[홍콩/마카오/대만/러시아]]></entry>
+<entry key="hom.flight.seat.space"><![CDATA[<li>통화 별 환율 기준 :  KRW1,000 =  USD 1 = JPY 100 =  CNY 7 = HKD 8 = MOP 8 = TWD 30 = THB 35 = MYR4 = PHP 50 = VND 24,000 = AUD 1.4</li>
+		<li>오프라인 채널 : 고객서비스센터, 공항</li>
+		<li>공항 현장 구매 : JINI PLUS SEAT, JINI EXIT, JINI STRETCH, JINI EXIT SEAT 의 잔여 좌석에 한해 당일 공항에서 좌석배정 및 결제가 가능
+			<ul>
+				<li>JINI PLUS SEAT, JINI EXIT, JINI EXIT SEAT, JINI STRETCH 구매 시 모든 통화는 출발지 현지 통화 기준으로 적용되며, 필리핀은 USD로도 구매가 가능합니다.</li>
+				<li>방콕/말레이시아/호주/미주 노선은 지니플러스 운임 선택 시에만 지니플러스 좌석 지정이 가능하며, 일반 요금 선택 시에는 당일 공항에서 요금 지불 후 업그레이드가 가능합니다. (노선별 업그레이드 비용 차등)</li>
+			</ul>
+		</li>]]></entry>
+<entry key="hom.flight.seat.135"><![CDATA[일본/중국본토]]></entry>
+<entry key="hom.flight.guide.tab1.origindestination"><![CDATA[출/도착지]]></entry>
+<entry key="hom.flight.seat.134"><![CDATA[국내선]]></entry>
+<entry key="hom.flight.seat.133"><![CDATA[오프라인<br>(고객서비스센터, 공항)]]></entry>
+<entry key="hom.flight.airlineFood.menu_1"><![CDATA[예매 시 부가서비스 사전 신청 시에만 이용 가능]]></entry>
+<entry key="hom.flight.seat.132"><![CDATA[지니스탠다드B]]></entry>
+<entry key="hom.flight.guide.tab1.kitakyushu"><![CDATA[기타큐슈]]></entry>
+<entry key="hom.flight.seat.131"><![CDATA[지니스탠다드A]]></entry>
+<entry key="hom.flight.seat.130"><![CDATA[비상구열<br>(등받이 고정)]]></entry>
+<entry key="hom.flight.seat.oldSeatFare"><![CDATA[이전 요금 (2019년 1월 29일 이전 구매)]]></entry>
+<entry key="hom.flight.jiniPlay.tariff"><![CDATA[<tr>
+	<td>국내선</td>
+	<td>무료</td>
+</tr>
+<tr>
+	<td>일본/중국 본토</td>
+	<td>KRW 2,000 / USD 2</td>
+</tr>
+<tr>
+	<td>홍콩/마카오/대만</td>
+	<td>KRW 5,000 / USD 5</td>
+</tr>
+<tr>
+	<td>동남아/대양주</td>
+	<td>KRW 8,000 / USD 8</td>
+</tr>
+<tr>
+	<td>호주/미주</td>
+	<td>KRW 15,000 / USD 15</td>
+</tr>]]></entry>
+<entry key="hom.seat.b777.toilet9"><![CDATA[63열E 뒤 가운데 화장실]]></entry>
+<entry key="hom.seat.b777.toilet8"><![CDATA[63열C 뒤 가운데 화장실]]></entry>
+<entry key="hom.seat.b777.toilet7"><![CDATA[63열A 뒤 왼쪽 화장실]]></entry>
+<entry key="hom.seat.b777.toilet6"><![CDATA[50열K 뒤 오른쪽 화장실]]></entry>
+<entry key="hom.seat.b777.toilet5"><![CDATA[50열E 뒤 가운데 화장실]]></entry>
+<entry key="hom.seat.b777.toilet4"><![CDATA[50열A 뒤 왼쪽 화장실]]></entry>
+<entry key="hom.seat.b777.frontseat"><![CDATA[지니프론트]]></entry>
+<entry key="hom.seat.b777.toilet3"><![CDATA[30열K 뒤 오른쪽 화장실]]></entry>
+<entry key="hom.seat.b777.toilet2"><![CDATA[30열A 뒤 왼쪽 화장실]]></entry>
+<entry key="hom.seat.b777.toilet1"><![CDATA[출입구 앞 화장실]]></entry>
+<entry key="hom.flight.paidEvent.applyDate"><![CDATA[신청일자]]></entry>
+<entry key="hom.seat.b739.stretchseat"><![CDATA[지니스트레치]]></entry>
+<entry key="hom.flight.seat.129"><![CDATA[지니패스트]]></entry>
+<entry key="hom.flight.seat.128"><![CDATA[지니스트레치<br>비상구열]]></entry>
+<entry key="hom.flight.seat.127"><![CDATA[지니플러스]]></entry>
+<entry key="hom.flight.seat.126"><![CDATA[지역]]></entry>
+<entry key="hom.flight.seat.125"><![CDATA[채널]]></entry>
+<entry key="hom.flight.seat.124"><![CDATA[채널, 지역, JINI PLUS, JINI STRETCH JINI EXIT, JINI EXIT(No Recline), JINI FAST, JINI STANDARD A, JINI STANDARD B 순으로 나타낸 좌석별 운임 안내표입니다.]]></entry>
+<entry key="hom.flight.seat.123"><![CDATA[좌우 스크롤을 이용하여 내용을 확인하실 수 있습니다.]]></entry>
+<entry key="hom.flight.seat.122"><![CDATA[좌석별 요금 안내]]></entry>
+<entry key="hom.flight.seat.121"><![CDATA[B737-800]]></entry>
+<entry key="hom.flight.seat.120"><![CDATA[일반 좌석 중 뒤 쪽에 위치한 좌석]]></entry>
+<entry key="hom.seat.b737.jiniFast"><![CDATA[지니패스트]]></entry>
+<entry key="hom.flight.jiniPlay.step2_ttl"><![CDATA[기내 Wi-Fi 연결]]></entry>
+<entry key="hom.flight.guide.tab1.cldace"><![CDATA[방콕, 클락, 다낭, 세부, 괌]]></entry>
+<entry key="hom.flight.jiniPlay.servicelist_3"><![CDATA[More<span>진에어 소식(Jinair News), 운항정보(Your flight), 지니레터 등 다양한 정보를 제공합니다.</span>]]></entry>
+<entry key="hom.seat.b777.stretchseat"><![CDATA[지니스트레치]]></entry>
+<entry key="hom.flight.jiniPlay.servicelist_2"><![CDATA[Music<span>SAVe tHE AiR 컴필레이션 앨범이 수록되어 있습니다.</span>]]></entry>
+<entry key="hom.flight.jiniPlay.servicelist_1"><![CDATA[Game<span>퍼즐, 카드, 퀴즈 등 10가지 게임이 준비되어 있습니다.</span>]]></entry>
+<entry key="hom.flight.taxFree.btn.order"><![CDATA[주문하기]]></entry>
+<entry key="hom.flight.cabinShopping.pdf"><![CDATA[메뉴(PDF) 상세보기]]></entry>
+<entry key="hom.flight.seat.119"><![CDATA[지니스탠다드B]]></entry>
+<entry key="hom.flight.seat.118"><![CDATA[일반 좌석 중 앞 쪽에 위치 혹은, 선호도가 높은 커플 좌석]]></entry>
+<entry key="hom.flight.seat.117"><![CDATA[지니스탠다드A]]></entry>
+<entry key="hom.flight.paidEvent.rcvrNm"><![CDATA[대상자]]></entry>
+<entry key="hom.flight.seat.116"><![CDATA[비상구에 위치한 좌석]]></entry>
+<entry key="hom.flight.paidEvent.btn.apply"><![CDATA[이벤트 신청하기]]></entry>
+<entry key="hom.flight.seat.115"><![CDATA[비상구열]]></entry>
+<entry key="hom.flight.jiniPlay.caption3"><![CDATA[노선, 사전 예약, 현장 구매 등으로 나타낸 태블릿 PC 렌탈 서비스 요금표입니다.]]></entry>
+<entry key="hom.flight.seat.114"><![CDATA[항공기 앞쪽에 위치하여 빠른 하기가 가능한 좌석]]></entry>
+<entry key="hom.flight.jiniPlay.caption2"><![CDATA[JINI PLAY 서비스 요금 안내]]></entry>
+<entry key="hom.flight.seat.113"><![CDATA[지니패스트]]></entry>
+<entry key="hom.flight.jiniPlay.caption1"><![CDATA[운영체제 별 지원 가능한 브라우저 및 어플리케이션 안내]]></entry>
+<entry key="hom.flight.seat.112"><![CDATA[첫번째 열에 위치하여 일반석 보다 넓은 좌석]]></entry>
+<entry key="hom.flight.seat.111"><![CDATA[지니스트레치]]></entry>
+<entry key="hom.flight.seat.110"><![CDATA[좌석 간 간격이 일반석 보다 15cm 더 넓은 좌석]]></entry>
+<entry key="hom.flight.cabinShopping.note_1"><![CDATA[<li>기내 결제는 본인 명의의 신용카드만 가능합니다.<br>(체크/직불/기프트/하이브리드 카드 제외)</li>
+		<li>국내선은 국내 발행 신용카드 원화 결제만 가능합니다.</li>
+		<li>국제선에서 해외발행 카드는 VISA, MASTER, AMEX만 가능합니다.<br>(단, AMEX는 원화 결제만 가능)</li>
+		<li>카드 결제 시, 구매 당일이 아닌 2~3일 후 승인 처리됩니다.</li>
+		<li>기내홈쇼핑 구매를 희망하나, 신용카드가 없는 손님께서는 승무원에게 말씀해 주시기 바랍니다. (현장 제공 판매 상품은 본인 명의의 신용카드만 가능)</li>]]></entry>
+<entry key="hom.flight.guide.tab1.fukuoka"><![CDATA[후쿠오카]]></entry>
+<entry key="hom.seat.b737.frontseat"><![CDATA[지니프론트]]></entry>
+<entry key="hom.seat.b739.emergency"><![CDATA[비상구]]></entry>
+<entry key="hom.flight.seat.application.desc"><![CDATA[<li class="pbgn"><strong class="fontTypeB">&lt; 진에어 홈페이지/모바일 구매 고객 &gt;</strong></li>
+		<li>신청 가능 기한 : 항공기 출발 24시간 전까지</li>
+		<li>항공권 구매 단계 중 사전좌석지정 서비스 신청이 가능합니다.</li>
+		<li>항공권 구매를 완료했을 경우, [마이페이지] – [상세조회] – [부가서비스 신청/취소]에서 사전좌석지정 서비스 신청이 가능합니다.</li>
+		<li class="bgn"><a href="/mypage/getReservationList" title="새 창 열림" class="btnTypeA" >바로가기</a></li>
+		<li class="pbgn"><strong class="fontTypeB">&lt; 여행사/대리점 구매 고객 &gt;</strong></li>
+		<li>신청 가능 기한 : 항공기 출발 24시간 전까지</li>
+		<li>[예약] – [나의 예약] 혹은 진에어 고객서비스센터에서 사전좌석지정이 가능합니다. (조회 불가 시, 해당 구매처로 문의 바랍니다)</li>]]></entry>
+<entry key="hom.flight.guide.tab1.cabinservice"><![CDATA[기내서비스]]></entry>
+<entry key="hom.seat.b777.exitseat"><![CDATA[비상구열]]></entry>
+<entry key="hom.seat.b737.exitseat"><![CDATA[비상구열]]></entry>
+<entry key="hom.flight.paidEvent.validation.agree"><![CDATA[결제금액 및 유의사항 동의에  체크해 주세요.]]></entry>
+<entry key="hom.flight.jiniPlay.pcrental"><![CDATA[태블릿 PC 렌탈 서비스]]></entry>
+<entry key="hom.flight.paidEvent.applyDt"><![CDATA[신청일]]></entry>
+<entry key="hom.flight.seat.109"><![CDATA[지니플러스]]></entry>
+<entry key="hom.flight.guide.tab1.shanghai"><![CDATA[상하이]]></entry>
+<entry key="hom.flight.seat.108"><![CDATA[B777-200ER]]></entry>
+<entry key="hom.flight.seat.107"><![CDATA[특징]]></entry>
+<entry key="hom.flight.guide.tab2.operationguide"><![CDATA[휴대용 전자기기 이용안내]]></entry>
+<entry key="hom.flight.seat.106"><![CDATA[좌석종류]]></entry>
+<entry key="hom.flight.seat.105"><![CDATA[기종]]></entry>
+<entry key="hom.flight.guide.tab1.caution4_2"><![CDATA[<li>· 승무원 폭행, 협박, 업무 방해 행위</li>
+		<li>· 성적 수치심 유발 행위</li>
+		<li>· 흡연 행위, 출입문/탈출구 등 기기 조작 행위</li>
+		<li>· 폭언 등 소란 행위 및 음주로 인한 위해 행위 등</li>]]></entry>
+<entry key="hom.flight.seat.104"><![CDATA[기종, 좌석종류, 특징 순으로 나타낸 좌석 안내표입니다.]]></entry>
+<entry key="hom.flight.guide.tab1.caution4_1"><![CDATA[항공기 안에서의 불법 행위란?]]></entry>
+<entry key="hom.seat.b739"><![CDATA[B737-900]]></entry>
+<entry key="hom.flight.seat.103"><![CDATA[기종별 좌석 안내]]></entry>
+<entry key="hom.flight.seat.102"><![CDATA[사전좌석지정]]></entry>
+<entry key="hom.seat.b737"><![CDATA[B737-800]]></entry>
+<entry key="hom.flight.taxFree.advancebooking"><![CDATA[사전예약주문 안내]]></entry>
+<entry key="hom.flight.seat.101"><![CDATA[2020년 10월24일 이전 출발]]></entry>
+<entry key="hom.flight.seat.100"><![CDATA[2020년 10월25일 이후 출발]]></entry>
+<entry key="hom.flight.jiniPlay.step1_ttl"><![CDATA[APP 설치 및 업데이트]]></entry>
+<entry key="hom.flight.jiniPlay.step2_1"><![CDATA[휴대용 개인기기를 기내 Wi-Fi(JINI PLAY)에 연결 (휴대폰/태블릿 PC의 경우 비행기 모드로 변경 후) 하시고, 사전 설치된 JINI PLAY 애플리케이션 또는 인터넷 브라우저를 실행하여 주시기 바랍니다.]]></entry>
+<entry key="hom.seat.b737.stanseat"><![CDATA[지니스탠다드]]></entry>
+<entry key="hom.flight.seat.space2"><![CDATA[오프라인 채널 : 고객서비스센터, 공항]]></entry>
+<entry key="hom.flight.seat.space1"><![CDATA[통화별 환율 기준 : KRW 1,000 = USD 1 = JPY 100 = CNY 7 = HKD 10 = TWD 30 = MYR 4 = THB 40]]></entry>
+<entry key="hom.flight.jiniInsight.jini.magazine"><![CDATA[지니 매거진]]></entry>
+<entry key="hom.flight.guide.tab1.okinawa"><![CDATA[삿포로, 오키나와]]></entry>
+<entry key="hom.flight.taxFree.caption"><![CDATA[기내 면세품 결제 안내표입니다.]]></entry>
+<entry key="hom.flight.taxFree.backhome_6"><![CDATA[귀국편 기내에서 승무원에게 주문내역서를 제출하신 후, 주문품을 수령 및 결제]]></entry>
+<entry key="hom.flight.taxFree.backhome_5"><![CDATA[출발편이 현지에 도착하여 72시간 이후 출발하는 항공편에 한해 주문 가능<br>한국-일본/한국-중국 노선의 경우 48시간 이후 출발 항공편도 가능]]></entry>
+<entry key="hom.flight.taxFree.backhome_4"><![CDATA[출발편 기내좌석에 비치되어 있는 귀국편 예약주문서를 작성 후 승무원에게 제출]]></entry>
+<entry key="hom.flight.taxFree.backhome_3"><![CDATA[수령 및 결제 방법]]></entry>
+<entry key="hom.flight.jiniplay.btn.program"><![CDATA[상영중인 프로그램 안내]]></entry>
+<entry key="hom.flight.taxFree.backhome_1"><![CDATA[주문 방법]]></entry>
+<entry key="hom.flight.jiniplay.purchase"><![CDATA[현장 구매]]></entry>
+<entry key="hom.flight.airlineFood.note_1"><![CDATA[<li data-rel="MEAL;KIDS;FREE">특정 식품에 대한 알레르기 또는 유사 증상이 있는 승객께서는 탑승 전 반드시 상기 메뉴를 확인하여 주시기 바랍니다.<br>또한 식품 알레르기 유발 물질 정보가 필요하신 승객께서는 직원에게 문의하여 주시기 바랍니다.</li>
+		<li data-rel="MEAL;KIDS;FREE">땅콩 알레르기 승객을 위한 안내
+			<ul>
+				<li data-rel="MEAL;KIDS;FREE">세계 대부분의 지역에서 땅콩 성분이 함유된 식재료와 식용유 및 기타 땅콩 제품이 널리 사용되고 있기 때문에, 조리 과정에서 의식적으로 땅콩을 사용하지 않더라도 기내식에 땅콩 성분이 포함되었을 가능성을 배제할 수 없습니다. 진에어는 이러한 이유 때문에 땅콩 성분 제한식(Nut-Free Meal)을 별도로 제공할 수 없으며 이점 널리 양해 바랍니다.</li>
+				<li data-rel="MEAL;KIDS;FREE">그리고 다른 승객들이 땅콩 제품을 기내로 반입하는 것을 제지하거나, 소지하신 땅콩 제품을 기내에서 개봉하여 취식하는 것을 금지하기 어렵습니다. 이에 땅콩 알레르기 또는 유사 증상이 의심되는 승객께서는 여행 가능 여부를 의사와 상의할 것을 권해 드립니다.</li>
+				<li data-rel="MEAL;KIDS;FREE">견과류 및 기타 음식 알레르기가 있는 경우 직원에게 알려주시기 바라며, 본인 혹은 동반 승객께서는 알레르기에 대한 필요 조치를 직접 취할 수 있어야 합니다.</li>
+			</ul>
+		</li>]]></entry>
+<entry key="hom.flight.airlineFood.ttl"><![CDATA[기내식]]></entry>
+<entry key="hom.flight.guide.tab1.sacaho"><![CDATA[케언스, 호놀룰루]]></entry>
+<entry key="hom.flight.taxFree.taxfree_3"><![CDATA[<li>
+			기내 면세품은 <strong>현금, 신용카드</strong>로 결제 가능합니다. <strong>신용카드</strong>는 한 카드당 <strong>USD $1,500 (원화 150만 원) 한도 내 구입</strong> 가능 합니다.
+			<ul>
+				<li><strong>현금 결제 시</strong> 지불 가능 통화 : 한국 원 (￦), 미국 달러 ($), 일본 엔 (¥), 유럽 유로 (€), 중국 위안 (¥,元)</li>
+				<li><strong>국내 전용</strong> 신용카드 결제 가능 통화 : 한국 원 (￦)</li>
+				<li><strong>해외 겸용</strong> 신용카드 결제 가능 통화 : 한국 원 (￦), 미국 달러 ($)</li>
+				<li><strong class="fontTypeA">결제 불가 카드</strong> : 타인 명의 카드, 직불 카드, 체크 카드, 비자(VISA) 일렉트론 카드</li>
+				<li>법령에 따라 현금영수증 발급은 어려움을 양지 부탁 드립니다. (법인세법 시행 규칙 제 79조 2항)</li>
+			</ul>
+		</li>]]></entry>
+<entry key="hom.flight.taxFree.taxfree_2"><![CDATA[(참고 : 주요 국가 면세 허용량, 2018년 4월 기준)]]></entry>
+<entry key="hom.flight.taxFree.taxfree_1"><![CDATA[기내 면세품 구매 시 별도의 한도액은 없으나 입국 국가별 면세 허용량을 준수하시기 바랍니다.]]></entry>
+<entry key="hom.seat.b739.ttl"><![CDATA[B737-900 좌석배치도]]></entry>
+<entry key="hom.flight.cabinShopping.snacksdrinks"><![CDATA[SNACKS & DRINKS]]></entry>
+<entry key="hom.seat.b739.jiniFast"><![CDATA[지니패스트]]></entry>
+<entry key="hom.seat.b737.noReclineseat"><![CDATA[비상구열(등받이 고정)]]></entry>
+<entry key="hom.flight.paidEvent.eventContentsPlc"><![CDATA[200자 이내로 입력해 주세요.]]></entry>
+<entry key="hom.flight.seat.country4"><![CDATA[호주/미주 *]]></entry>
+</properties>
